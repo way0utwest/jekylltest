@@ -8,6 +8,10 @@ Welcome to SQL Saturday, the data platform and SQL Server community franchise fo
 
 ## Past Events
 
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
