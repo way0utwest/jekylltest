@@ -5,7 +5,7 @@ title: "SQL Saturday Home"
 Welcome to SQL Saturday, the data platform and SQL Server community franchise for technical events.
 
 ## Events
-<table>
+<table cellspacing=0 class="table table-striped table-hover mt-3" width="100%">
   <thead>
         <tr>
           <th scope="col"></th>
@@ -22,7 +22,7 @@ Welcome to SQL Saturday, the data platform and SQL Server community franchise fo
     <td><img src="{{ post.thumb }}"></td>
       <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
       </td>
-      <td>{{post.date | date: '%s' }}</td>
+      <td>{{post.date | date_to_long_string }}</td>
     </tr>
    {% endif %}
   {% endfor %}
@@ -30,6 +30,6 @@ Welcome to SQL Saturday, the data platform and SQL Server community franchise fo
 </table>
 
 
-You can see completed events on the [Past Events](past.html) page.
+You can see completed events on the [Past Events](past) page.
 
 
