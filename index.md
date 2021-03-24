@@ -19,7 +19,7 @@ Welcome to SQL Saturday, the data platform and SQL Server community franchise fo
   {% assign EventDate = post.date | date: '%s' %}
    {% if EventDate >= TodayDate %}
     <tr>
-    <td>{{ post.thumb }}</td>
+    <td><img src="{{ post.thumb }}"></td>
       <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
       </td>
       <td>{{post.date | date: '%s' }}</td>
