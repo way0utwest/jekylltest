@@ -5,15 +5,17 @@ title: "SQL Saturday Home"
 Welcome to SQL Saturday, the data platform and SQL Server community franchise for technical events.
 
 ## Events
-<ul>
+<table>
   {% for post in site.posts limit 3 %}
    {% if post.tags contains 'upcoming' %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <tr>
+      <td><a href="{{ post.url }}">{{ post.title }}</a>
+      </td>
+      <td>{{post.date}}</td>
+    </tr>
    {% endif %}
   {% endfor %}
-</ul>
+</table>
 
 ## Past Events
 
