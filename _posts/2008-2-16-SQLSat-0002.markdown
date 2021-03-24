@@ -2,7 +2,7 @@
 layout: post 
 title: "SQLSaturday #2 - Tampa 2008" 
 prettydate: "16 February 2008" 
-tags: [completed, florida]
+tags: [completed, florida, USA]
 ---
 # SQLSaturday #2 - Tampa 2008
  
