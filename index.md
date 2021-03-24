@@ -29,3 +29,7 @@ Welcome to SQL Saturday, the data platform and SQL Server community franchise fo
   </tbody>
 </table>
 
+
+You can see completed events on the [Past Events](past.html) page.
+
+
