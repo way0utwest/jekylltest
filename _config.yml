@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+future: true
+
+
 # Name of website
 title: My Website
 
@@ -40,18 +43,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: SQLSaturday
+  github: SQLSaturday
+  twitter: SQLSaturday
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: SQLSaturday
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: SQLSaturday
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -65,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: SQL Saturday is the home for one day free technical events
 
 # --- General options --- #
 
@@ -78,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "SQLSaturday.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
