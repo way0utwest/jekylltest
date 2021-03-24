@@ -42,13 +42,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "webmaster@sqlsaturday.com"
   facebook: SQLSaturday
-  github: SQLSaturday
+  github: "https://github.com/way0utwest/jekylltest"
   twitter: SQLSaturday
 #  medium: yourname
 #  reddit: yourname
-  linkedin: SQLSaturday
+  linkedin: "https://www.linkedin.com/groups/13945573/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
