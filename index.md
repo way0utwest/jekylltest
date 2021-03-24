@@ -5,6 +5,7 @@ title: "SQL Saturday Home"
 Welcome to SQL Saturday, the data platform and SQL Server community franchise for technical events.
 
 ## Events
+<ul>
   {% for post in site.posts limit 3 %}
    {% if post.tags contains 'upcoming' %}
     <li>
@@ -12,6 +13,8 @@ Welcome to SQL Saturday, the data platform and SQL Server community franchise fo
     </li>
    {% endif %}
   {% endfor %}
+</ul>
+
 ## Past Events
 
 <ul>

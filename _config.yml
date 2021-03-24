@@ -17,11 +17,11 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Past Event: "past"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - New event: "newevent"
+    - Code of Conduct: "coc"
+  About: "about"
 
 # --- Logo --- #
 
