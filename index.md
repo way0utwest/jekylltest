@@ -6,25 +6,26 @@ Welcome to SQL Saturday, the data platform and SQL Server community franchise fo
 
 ## Events
 <table>
-  {% for post in site.posts limit 3 %}
-   {% if post.tags contains 'upcoming' %}
+  <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Event Name</th>
+          <th scope="col">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+  {% assign TodayDate = site.time | date: '%s' %}
+  {% for post in site.posts%}
+  {% assign EventDate = post.date | date: '%s' %}
+   {% if EventDate >= TodayDate %}
     <tr>
-      <td><a href="{{ post.url }}">{{ post.title }}</a>
+    <td>{{ post.thumb }}</td>
+      <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
       </td>
-      <td>{{post.date}}</td>
+      <td>{{post.date | date: '%s' }}</td>
     </tr>
    {% endif %}
   {% endfor %}
+  </tbody>
 </table>
 
-## Past Events
-
-<ul>
-  {% for post in site.posts limit 3 %}
-   {% if post.tags contains 'completed' %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-   {% endif %}
-  {% endfor %}
-</ul>

@@ -2,6 +2,7 @@
 layout: post
 title: "SQLSaturday #4 Tweener(Sat) - Orlando 2008" 
 prettydate: "7 June 2008" 
+thumb: "/assets/img/logos/favicon.png"
 tags: [completed, florida]
 ---
 # SQLSaturday #4 Tweener(Sat) - Orlando 2008
