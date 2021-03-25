@@ -1,0 +1,43 @@
+---
+layout: "post" 
+title: "SQLSaturday #1009 – Gazipur – Virtual 2020" 
+prettydate: "26 September 2020" 
+---
+# SQLSaturday #1009 – Gazipur – Virtual 2020
+ 
+**Event Date**: 09/26/2020 00:00:00
+ 
+**Event Location**:
+- Meghbari Resort
+- Nagarvella , Ulokhola Kaligong, Gazipur, Bangladesh.
+- Gazipur, Dhaka Division, Bangladesh
+ 
+<a href="/PDF/1009.pdf">PDF of Schedule</a>
+ 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
+ 
+ 
+ 
+# <a name="sessions"></a>Sessions
+This is a list of sessions from the event, based on the schedule in the XML files.
+ 
+----------------------------------------------------------------------------------- 
+## <a name="sponsors"></a>Sponsors
+The following is a list of sponsors that helped fund the event:
+ 
+[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/1009/EventSponsor_14822.png =150x150)
+ 
+[Google Cloud](https://cloud.google.com/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/1009/EventSponsor_14823.png =150x150)
+ 
+[Red Hat](https://www.redhat.com/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/1009/EventSponsor_14825.png =150x150)
+ 
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)

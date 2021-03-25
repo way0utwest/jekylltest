@@ -14,22 +14,21 @@ prettydate: "9 October 2009"
  
 <a href="/PDF/0024.pdf">PDF of Schedule</a>
  
-Speakers, Sessions, and Sponsors are listed below. 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
  
  
-## Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
- 
- 
-## Sessions
+# <a name="sessions"></a>Sessions
 This is a list of sessions from the event, based on the schedule in the XML files.
  
 ----------------------------------------------------------------------------------- 
-## Sponsors
+## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Back to the SQL Saturday Event List](/sqlsat.html)
+[Back to the SQL Saturday Event List](/past.html)
 &nbsp;
 [Back to the home page](/index.html)

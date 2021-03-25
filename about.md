@@ -7,7 +7,6 @@ permalink: /about/
 
 Note: this site is under construction and will change over time.
 
-
 SQL Saturday was the brainchild of Andy Warren, Brian Knight, and Steve Jones.
 
 The idea was to bring the conference experience to local areas, with grassroots organization and a free day of training supplied by speakers, and supported by sponsors. 
@@ -41,3 +40,43 @@ PASS also hired [Nico Neugebauer](http://twitter.com/NikoNeugebauer) to help gro
 ### The Third Evolution of SQL Saturday
 
 PASS rebranded themselves and the site, changing logos, and adding a few requirements. They instituted a global partner program to allow large vendors to support many events by donating money to the program and having PASS distribute the money to local organizers.
+
+The new logo incorporated the PASS angle brackets look and a new color scheme.
+
+<img src="./assets/img/logos/sqlsaturday_logo.png">
+
+PASS also hired <A href="https://twitter.com/cathrinew">Cathrine Wilhelmsen</A> as the new community liaison to continue to support the franchise.
+
+On January 15, 2021, PASS ceased operations and the franchise closed.  The <a href="https://datasaturdays.com/">Data Saturdays</a> project started to ensure that events could continue to run.
+
+### The Fourth Evolution of SQL Saturday
+
+<a href="https://www.red-gate.com/">Redgate Software</a> purchased the assets of PASS in an auction. The SQL Saturday domain, trademarks, and other related assets will be donated to the SQL Saturday Foundation, which is a community-run organization. While Redgate maintains a seat on the board of directors, the rest of the board is community appointed and helps to steer this franchise in the best interests of growing events around the world.
+
+This site continues to support the SQL Saturday events with infrastructure, mentoring, and sponsorship where possible.
+
+## <a name="milestone"></a>Milestones
+
+These are some of the milestones throughout the history of the franchise. If you think we are missing any, please feel free to contact us.
+
+### Centurion Events
+
+- [SQL Saturday #100 - SÃO PAULO 2011](/)
+- [SQL Saturday #200 - Philadelphia 2013](/)
+- [SQL Saturday #300 - Kansas City 2014](/)
+- [SQL Saturday #400 - Torino 2015](/)
+- [SQL Saturday #500 - Boston 2016](/)
+- [SQL Saturday #600 - Chicago 2017](/)
+- [SQL Saturday #700 - Colorado Springs 2018](/)
+- [SQL Saturday #800 - Atlanta - BI Edition 2018](/)
+- [SQL Saturday #900 - Vitoria 2019](/)
+- [SQL Saturday #1000 - Oregon Virtual 2020](/)
+
+### Centurion Speakers
+
+These are the speakers who have spoken at more than 100 events.
+
+- [Kevin Boles - 133 Events](https://twitter.com/thesqlguru)
+- [Kevin Feasel - 108 Events](https://twitter.com/feaselkl)
+- [Janice Griffin - 105 Events](https://twitter.com/doboutanything)
+

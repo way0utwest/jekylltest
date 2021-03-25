@@ -1,0 +1,52 @@
+---
+layout: "post" 
+title: "SQLSaturday #952 – Guatemala – Virtual 2021" 
+prettydate: "23 January 2021" 
+---
+# SQLSaturday #952 – Guatemala – Virtual 2021
+ 
+**Event Date**: 01/23/2021 00:00:00
+ 
+**Event Location**:
+- Universidad Francisco Marroquin
+- Calle Manuel F. Ayau (6 Calle final), zona 10
+- Guatemala, Guatemala, Guatemala
+ 
+<a href="/PDF/0952.pdf">PDF of Schedule</a>
+ 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
+ 
+ 
+ 
+# <a name="sessions"></a>Sessions
+This is a list of sessions from the event, based on the schedule in the XML files.
+ 
+----------------------------------------------------------------------------------- 
+## <a name="sponsors"></a>Sponsors
+The following is a list of sponsors that helped fund the event:
+ 
+[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14353.png =150x150)
+ 
+[Red Hat](https://www.redhat.com/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14944.png =150x150)
+ 
+[Melissa](http://www.melissa.com)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14946.png =150x150)
+ 
+[Google Cloud](https://cloud.google.com/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14945.png =150x150)
+ 
+[RevDeBug](https://revdebug.com)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14374.png =150x150)
+ 
+[PASS](http://www.pass.org)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14352.png =150x150)
+ 
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)

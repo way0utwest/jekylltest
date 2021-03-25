@@ -1,0 +1,37 @@
+---
+layout: "post" 
+title: "SQLSaturday #35 - Dallas 2010" 
+prettydate: "22 May 2010" 
+---
+# SQLSaturday #35 - Dallas 2010
+ 
+**Event Date**: 05/22/2010 00:00:00
+ 
+**Event Location**:
+- Region 10 Education Service Center
+- 400 E. Spring Valley Rd
+- Richardson, Texas
+ 
+<a href="/PDF/0035.pdf">PDF of Schedule</a>
+ 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
+ 
+ 
+ 
+# <a name="sessions"></a>Sessions
+This is a list of sessions from the event, based on the schedule in the XML files.
+ 
+----------------------------------------------------------------------------------- 
+## <a name="sponsors"></a>Sponsors
+The following is a list of sponsors that helped fund the event:
+ 
+[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+![logo](https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg =150x150)
+ 
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)

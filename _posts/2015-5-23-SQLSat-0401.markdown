@@ -1,0 +1,74 @@
+---
+layout: "post" 
+title: "SQLSaturday #401 - Yaounde 2015" 
+prettydate: "23 May 2015" 
+---
+# SQLSaturday #401 - Yaounde 2015
+ 
+**Event Date**: 05/23/2015 00:00:00
+ 
+**Event Location**:
+- Catholic University of Central Africa
+- 16326 Coron Yaounde
+- Yaounde, , Cameroon
+ 
+<a href="/PDF/0401.pdf">PDF of Schedule</a>
+ 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
+ 
+ 
+ 
+# <a name="sessions"></a>Sessions
+This is a list of sessions from the event, based on the schedule in the XML files.
+ 
+----------------------------------------------------------------------------------- 
+ 
+##Title: Advantage of Using Excel BI Solution  in Small Business environem##
+ 
+**Abstract**:
+Leverage your existing Microsoft technology to boost your business productivity
+
+With your existing and familiar Microsoft products you can gain insights from your data to make it easier to work faster and smarter.
+ 
+**Speaker(s):**
+- ACHILLE NGUELA NGUELA
+ 
+*Track and Room*: Students - ROOM2
+ 
+ 
+ 
+ 
+## <a name="#speakers"></a>Speakers
+This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
+ 
+ 
+**Yvan NGNEUNMEU**  - [@Yv_der](https://www.twitter.com/@Yv_der)
+LinkedIn: [Yvan NGNEUNMEU](https://www.linkedin.com/pub/yvan-ngneunmeu/5a/a98/530)
+Contact: [http://yvan.azurewebsites.net](http://yvan.azurewebsites.net)
+Ultrapassionate, that#39;s how I describe my relationship with technology.
+Microsoft Student Partners Lead - Cameroon, Microsoft Developer.
+Technologies: Windows Phone, Windows Store, Windows Azure, SQL Server.
+ 
+**ACHILLE NGUELA NGUELA**  - [@AchillesB1](https://www.twitter.com/@AchillesB1)
+LinkedIn: [ACHILLE NGUELA NGUELA](http://www.linkedin.com/in/achil/)
+11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server
+ 
+**ACHILLE NGUELA NGUELA**  - [@AchillesB1](https://www.twitter.com/@AchillesB1)
+LinkedIn: [ACHILLE NGUELA NGUELA](http://www.linkedin.com/in/achil/)
+11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server
+ 
+ 
+ 
+## <a name="sponsors"></a>Sponsors
+The following is a list of sponsors that helped fund the event:
+ 
+[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+![logo](https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png =150x150)
+ 
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)

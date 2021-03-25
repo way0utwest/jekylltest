@@ -1,0 +1,46 @@
+---
+layout: "post" 
+title: "SQLSaturday #1008 – Lagos – Virtual 2020" 
+prettydate: "19 December 2020" 
+---
+# SQLSaturday #1008 – Lagos – Virtual 2020
+ 
+**Event Date**: 12/19/2020 00:00:00
+ 
+**Event Location**:
+- Ha-Shem  Limited
+- 9 Ibikunle St, Yaba 100001, Lagos, Nigeri
+- Lagos, Lagos, Nigeria
+ 
+<a href="/PDF/1008.pdf">PDF of Schedule</a>
+ 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
+ 
+ 
+ 
+# <a name="sessions"></a>Sessions
+This is a list of sessions from the event, based on the schedule in the XML files.
+ 
+----------------------------------------------------------------------------------- 
+## <a name="sponsors"></a>Sponsors
+The following is a list of sponsors that helped fund the event:
+ 
+[Microsoft](http://www.microsoft.com)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/1008/EventSponsor_14955.png =150x150)
+ 
+[Google Cloud](https://cloud.google.com/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/1008/EventSponsor_14958.png =150x150)
+ 
+[Red Hat](https://www.redhat.com/)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/1008/EventSponsor_14956.png =150x150)
+ 
+[Melissa](http://www.melissa.com)
+![logo](https://sqlsaturdayfiles.blob.core.windows.net/1008/EventSponsor_14957.png =150x150)
+ 
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)
