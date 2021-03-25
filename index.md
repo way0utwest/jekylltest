@@ -36,7 +36,7 @@ These are the SQL Saturday events that have been scheduled.
 You can see completed events on the [Past Events](past) page.
 </div>
 
-<div <div id="otherevents" class="page-section">
+<div id="otherevents" class="page-section">
 ## <a name="other"></a>Other Events
 
 Here are some other events that you might find interesting as a data professional:
