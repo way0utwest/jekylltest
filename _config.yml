@@ -17,9 +17,9 @@ author: The SQL Saturday Foundation / Redgate Software
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Past Event: "past"
+  Past Events: "past"
   Resources:
-    - New event: "newevent"
+    - Running a New event: "newevent"
     - Code of Conduct: "coc"
   About: "about"
 
