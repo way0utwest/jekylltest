@@ -3,6 +3,7 @@ layout: post
 title: "SQLSaturday #2 - Tampa 2008" 
 prettydate: "16 February 2008" 
 tags: [completed, florida, USA]
+thumb: "assets/img/logos/favicon.png"
 ---
 # SQLSaturday #2 - Tampa 2008
  

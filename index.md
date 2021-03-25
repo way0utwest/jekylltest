@@ -41,13 +41,22 @@ Here are some other events that you might find interesting as a data professiona
 <table cellspacing=0 class="table table-hover table-borderless table-sortable mt-3" width="100%">
   <thead>
         <tr>
+          <th scope="col"></th>
           <th scope="col">Event Name</th>
           <th scope="col">Date</th>
         </tr>
   </thead>
   <tbody>
         {% for block in site.data.otherevents.events %}
+        {% assign thumbnail = block.thumb %}
         <tr>
+          <td>
+            {% if thumbnail == false %}
+              <img src="{{ block.thumb }}">
+            {% else %}
+               &nbsp;
+            {% endif %}
+          </td>
           <th scope="col"><a href="{{ block.url }}">{{ block.title }}</a></th>
           <th scope="col">{{ block.date }}</th>
         </tr>
