@@ -129,5 +129,20 @@ For virtual events, you have a number of options for broadcasting.
 - [GoToWebinar](https://www.gotomeeting.com/webinar/lp/sem)
 - [Twitch](https://www.twitch.tv/)
 
+Some of these services are free, and some require a fee. Depending on your budget, you may choose to pay for certain features. 
+
+A few things that you may choose to consider as you look at platforms for your virtual event:
+- Number of tracks - Less is easier for virtual, especially with lots of events. We would recommend 2-3 tracks for 2021
+- Multiple speakers on one track with a single URL or different ones for each session (simpler is easier).
+- Moderators - If you have moderators to hold open meetings, as with Zoom, you can just have speakers join. Some platforms, like Streamyard, give you control over who appears when.
+- Recording - You may not want to keep recordings, but if you do, plan for the storage and a release from speakers.
+
 Return to the [list of recommendations](#recommend).
 
+### <a name="marketing"></a>Marketing
+
+The best marketing you will have for your event will be word of mouth, so the more people you can reach and get excited about your event, the better.
+
+Use your local user group mailing lists and meetings to announce your event, and contact other groups in your area that may be interested.
+
+Return to the [list of recommendations](#recommend).
