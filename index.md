@@ -4,7 +4,7 @@ title: "SQL Saturday Home"
 ---
 Welcome to SQL Saturday, the data platform and SQL Server community franchise for technical events. We have a list of <a href="#events">upcoming events</a> below as well as <a href="#other">other events</a> from different sources that are of interest to the data professional.
 
-<div <div id="upcomingevents" class="page-section">
+<div id="upcomingevents" class="page-section">
 ## <a name="events"></a>Events
 
 These are the SQL Saturday events that have been scheduled.
