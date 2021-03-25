@@ -4,7 +4,6 @@ title: "SQL Saturday Home"
 ---
 Welcome to SQL Saturday, the data platform and SQL Server community franchise for technical events. We have a list of <a href="#events">upcoming events</a> below as well as <a href="#other">other events</a> from different sources that are of interest to the data professional.
 
-<div id="upcomingevents" class="page-section">
 ## <a name="events"></a>Events
 
 These are the SQL Saturday events that have been scheduled.
@@ -34,9 +33,7 @@ These are the SQL Saturday events that have been scheduled.
 </table>
 
 You can see completed events on the [Past Events](past) page.
-</div>
 
-<div id="otherevents" class="page-section">
 ## <a name="other"></a>Other Events
 
 Here are some other events that you might find interesting as a data professional:
@@ -56,5 +53,3 @@ Here are some other events that you might find interesting as a data professiona
         </tr>
         {% endfor %}
   </tbody>
-
-</div>
