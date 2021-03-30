@@ -27,7 +27,7 @@ This is a list of sessions from the event, based on the schedule in the XML file
  
 ----------------------------------------------------------------------------------- 
  
-##Title: Using DDL Triggers##
+## Title: Using DDL Triggers
  
 **Abstract**:
 In this session we'll create a database object (table, proc, functions) backup system using DDL Triggers in SQL Server 2005. This system is beneficial to both DBA's and developers.
@@ -40,70 +40,8 @@ In this session we'll create a database object (table, proc, functions) backup s
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: SOA Using SQL Server 2005 Service Broker##
+## Title: SOA Using SQL Server 2005 Service Broker
  
 **Abstract**:
 This session will introduce the Service Broker in SQL Server 2005. During this session we will discuss an overview of Service Broker architecture and delve into the objects needed to create a Service Broker solution. Finally, we will build a sample solution from start to finish using the Adventureworks database.
@@ -116,70 +54,8 @@ This session will introduce the Service Broker in SQL Server 2005. During this s
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: Using SSIS to Solve Common Business Problems##
+## Title: Using SSIS to Solve Common Business Problems
  
 **Abstract**:
 SSIS is a powerful tool used to automate data integration.  Come learn about SSIS and how you can use it in your organization to solve common business problems.
@@ -192,70 +68,8 @@ SSIS is a powerful tool used to automate data integration.  Come learn about SSI
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: SQL Server 2008 New Feature Overview##
+## Title: SQL Server 2008 New Feature Overview
  
 **Abstract**:
 Learn what's new in SQL Server 2008 for the DBA, Developer and BI professional. This session is demo-packed with the best features of why you should upgrade to SQL Server 2008.
@@ -268,70 +82,8 @@ Learn what's new in SQL Server 2008 for the DBA, Developer and BI professional. 
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: Introduction to Master Data Management (MDM)##
+## Title: Introduction to Master Data Management (MDM)
  
 **Abstract**:
 This session will provide an overview of the Master Data Management and also introduce the business value of MDM.In addition, we will look at Microsoft's master data management software.
@@ -344,70 +96,8 @@ This session will provide an overview of the Master Data Management and also int
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: Using CASE in TSQL##
+## Title: Using CASE in TSQL
  
 **Abstract**:
 Most languages support an extended version of the IF/THEN syntax and in TSQL it's CASE. It's syntax is a little finicky and to add to the confusion there are two different ways to use it! We'll look at how to use it both ways and show how it contrasts with the IF/THEN syntax. This is a beginner level session.
@@ -420,70 +110,8 @@ Most languages support an extended version of the IF/THEN syntax and in TSQL it'
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: CLR User Defined Functions - Real World Examples##
+## Title: CLR User Defined Functions - Real World Examples
  
 **Abstract**:
 This exciting session will talk about why CLR UDF's are a good choice in many cases, why using UDF's will simplify your code, and then go into setting up environments for testing and debugging. We'll also be discussing a few hard learned tips and tricks that will help you when you start using UDF's.
@@ -496,70 +124,8 @@ This exciting session will talk about why CLR UDF's are a good choice in many ca
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: Analysis Services 2005 – Tips  Tricks##
+## Title: Analysis Services 2005 – Tips  Tricks
  
 **Abstract**:
 A collection of examples for MDX, cube processing, dimension and hierarchy designs, aggregation designs, and security modeling, for the everyday developer. Accelerate your development with these samples!
@@ -572,70 +138,8 @@ A collection of examples for MDX, cube processing, dimension and hierarchy desig
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: Introduction to SQL Server Full Text Searching##
+## Title: Introduction to SQL Server Full Text Searching
  
 **Abstract**:
 Microsoft SQL Server contains the functionality you need to issue full-text queries against plain character-based data in SQL Server tables. Full-text queries could include words and phrases or multiple forms of a word or phrase. Come learn how to setup your own "Windows Live" like searches in your applications. Give your users search capabilities into their data. It's as easy as 1-2-3!
@@ -648,70 +152,8 @@ Microsoft SQL Server contains the functionality you need to issue full-text quer
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: Home Runs and DMX, Intro to Microsoft Data Mining##
+## Title: Home Runs and DMX, Intro to Microsoft Data Mining
  
 **Abstract**:
 This session is intended to utilize the steroid era of baseball to introduce attendees to data mining with Microsoft technologies.  The demonstration-oriented session will create data mining models, evaluate their effectiveness, and demonstrate accessing data mining model results using Data Mining Add Ins for Office 2007.  Finally, in the spirit of the scientific method, all data will be available to attendees with which to attempt re-creation of the experiments / examples.
@@ -724,70 +166,8 @@ This session is intended to utilize the steroid era of baseball to introduce att
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: XML Features in SQL 2005##
+## Title: XML Features in SQL 2005
  
 **Abstract**:
 XML in SQL 2000 wasn't very exciting and it was easy to dismiss it altogether by just relying on developers to handle any XML needed within the application. SQL 2005 changes the game and this session will show you how to use the new XML data type, do basic XML operations on XML data, and showcase the changes to FOR XML that make it so much more useful. This isn't a session to convince you to use XML, but to show you what you can do with XML if you do need to use it!
@@ -800,70 +180,8 @@ XML in SQL 2000 wasn't very exciting and it was easy to dismiss it altogether by
  
  
  
-## <a name="#speakers"></a>Speakers
-This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
- 
-**Robert Skoglund** 
-Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
- 
-A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
-
- 
-**Brian Knight** 
-Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
-Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
- 
-**Judy Pipia** 
-Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
- 
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
-LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
-Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
-Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
- 
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
-LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
-Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
-Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
- 
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
-LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
-Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
-Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
-
-Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
-
-
- 
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
-LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
-Contact: [http://arcanecode.com](http://arcanecode.com)
-Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
- 
-**Jon Winer** 
-Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
-Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
- 
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
-Contact: [https://sqlandy.com](https://sqlandy.com)
-Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
- 
-**Chris Rock** 
-Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
- 
-**Wes Dumey** 
-Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
-Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
- 
-**Barry Ralston** 
-Contact: [http://www.sqlbipro.com](http://www.sqlbipro.com)
-Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. 
- 
- 
- 
- 
-##Title: Statistics in SQL Server##
+## Title: Statistics in SQL Server
  
 **Abstract**:
 Ever wonder what statistics have to do with performance? How to create and maintain them? What does it mean when someone says "the stats were corrupted"? We're going to explain all that in more in this session that will take a topic that often seems dense and complex and make it approachable and usable!

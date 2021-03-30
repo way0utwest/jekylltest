@@ -26,6 +26,12 @@ This event has completed. All data shown below is from the historical XML public
 This is a list of sessions from the event, based on the schedule in the XML files.
  
 ----------------------------------------------------------------------------------- 
+## <a name="#speakers"></a>Speakers
+This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
+ 
+ 
+ 
+ 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
