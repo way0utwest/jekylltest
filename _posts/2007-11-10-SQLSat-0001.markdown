@@ -41,7 +41,7 @@ This is a vendor session presented by Stratus Technologies and will discuss the 
  
  
  
-<p style="text-align: center;">## Title: MDX: From WITH To WHERE</p>
+<h2 style="text-align: center;"> Title: MDX: From WITH To WHERE</h2>
  
 **Abstract**:
 This session will discuss the basic syntax of mdx queries, query-scoped calculated measures, and common functions that can be used in MDX queries.  This session is best suited for people who are familiar with Analysis Services cubes and multidimensional concepts.  They are interested in learning how to write custom MDX queries to obtain data from their OLAP cubes.
@@ -54,7 +54,7 @@ This session will discuss the basic syntax of mdx queries, query-scoped calculat
 ----------------------------------------------------------------------------------- 
 
  
-<p style="text-align: center;">## Title: SQL Server 2008 Data Warehousing Enhancements - 1</p>
+<h2 style="text-align: center;">## Title: SQL Server 2008 Data Warehousing Enhancements - 1</h2>
  
 **Abstract**:
 Come learn about the enhancements in the next version SQL Server for Data Warehousing. The next version of SQL Server provides a comprehensive, scalable Data Warehouse platform that enables organizations to build your DW faster with data integration platform, manage your growing data volumes with an enterprise ready relational database and deliver actionable insights with the integration with the Microsoft BI platform. This is a part one of a two part session.
@@ -556,7 +556,9 @@ This session will show methods to make your reports both easier to create and mo
 This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
  
-<p style="text-align: center;">**David Eichner**  - [@ICANSoftware](https://www.twitter.com/@ICANSoftware)</p>
+<p style="text-align: center;"><b>David Eichner</b></p>
+
+Twitter: [@ICANSoftware](https://www.twitter.com/@ICANSoftware)
 
 LinkedIn: [David Eichner](http://www.linkedin.com/in/icansoftware)
 
@@ -564,7 +566,7 @@ David Eichner is a licensed CPA and is also CEO of ICAN Software Corporation, a 
 
 ----------------------------------------------------------------------------------- 
 
-<p style="text-align: center;">**Jeffrey Garbus** </p>
+<p style="text-align: center;"><b>Jeffrey Garbus</b> </p>
 
 LinkedIn: [Jeffrey Garbus](https://www.linkedin.com/profile/view?id=176471amp;trk=nav_responsive_tab_profile)
 
