@@ -37,7 +37,7 @@ This is a vendor session presented by Stratus Technologies and will discuss the 
  
 *Track and Room*: Room 138 - N/A
  
- 
+----------------------------------------------------------------------------------- 
  
  
  
@@ -51,9 +51,8 @@ This session will discuss the basic syntax of mdx queries, query-scoped calculat
  
 *Track and Room*: Room 228 - N/A
  
- 
- 
- 
+----------------------------------------------------------------------------------- 
+
  
 ## Title: SQL Server 2008 Data Warehousing Enhancements - 1
  
@@ -64,9 +63,8 @@ Come learn about the enhancements in the next version SQL Server for Data Wareho
 - Jean-Claude Armand
  
 *Track and Room*: Room 138 - N/A
- 
- 
- 
+
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Working with an XML Data Structure in SQL 2005 and
@@ -563,7 +561,9 @@ This is a list of speakers from the XML Guidebook records. The details and URLs 
 LinkedIn: [David Eichner](http://www.linkedin.com/in/icansoftware)
 
 David Eichner is a licensed CPA and is also CEO of ICAN Software Corporation, a Microsoft Dynamics amp; Acumatica ERP partner firm that sell and implements ERP and CRM software, develops software solutions and provides technology consulting.  He is the host of a radio show called Business In The Cloud that airs weekly on KLAY 1180AM.  He is skilled in building integrated cloud app solutions. His career spans more than 20 years in various technical/managerial positions within industries as diverse as military service,  engineering/construction, municipal government, consulting and certified public accounting.  Additionally, he holds various national certificates in technology (MCDBA, MCSE, CNE, CITP, Dynamics CRM and ERP, Acumatica CRM and ERP)
- 
+
+----------------------------------------------------------------------------------- 
+
 **Jeffrey Garbus** 
 
 LinkedIn: [Jeffrey Garbus](https://www.linkedin.com/profile/view?id=176471amp;trk=nav_responsive_tab_profile)
@@ -575,7 +575,9 @@ Jeff has been consulting on and performing technical training for MS SQL Server 
 In addition to hands-on consulting, he speaks at SQL Saturdays several times/year, has a youtube channel with free training, and has written 20 books on database management systems.
 
 His latest book is "Transact SQL the Definitive Guide."
- 
+
+----------------------------------------------------------------------------------- 
+
 **Joe Celko** 
 
 Joe Celko served 10 years on ANSI/ISO SQL Standards Committee and contributed to the SQL-89 and SQL-92 Standards.  
@@ -782,5 +784,5 @@ The following is a list of sponsors that helped fund the event:
 [Seminole State College](http://www.seminolestate.edu/)
  
 [Back to the SQL Saturday Event List](past.html)
-&nbsp;
+
 [Back to the home page](index.html)
