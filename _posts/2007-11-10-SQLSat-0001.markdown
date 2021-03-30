@@ -559,12 +559,17 @@ This is a list of speakers from the XML Guidebook records. The details and URLs 
  
  
 **David Eichner**  - [@ICANSoftware](https://www.twitter.com/@ICANSoftware)
+
 LinkedIn: [David Eichner](http://www.linkedin.com/in/icansoftware)
+
 David Eichner is a licensed CPA and is also CEO of ICAN Software Corporation, a Microsoft Dynamics amp; Acumatica ERP partner firm that sell and implements ERP and CRM software, develops software solutions and provides technology consulting.  He is the host of a radio show called Business In The Cloud that airs weekly on KLAY 1180AM.  He is skilled in building integrated cloud app solutions. His career spans more than 20 years in various technical/managerial positions within industries as diverse as military service,  engineering/construction, municipal government, consulting and certified public accounting.  Additionally, he holds various national certificates in technology (MCDBA, MCSE, CNE, CITP, Dynamics CRM and ERP, Acumatica CRM and ERP)
  
 **Jeffrey Garbus** 
+
 LinkedIn: [Jeffrey Garbus](https://www.linkedin.com/profile/view?id=176471amp;trk=nav_responsive_tab_profile)
+
 Contact: [http://mssqlperformance.blogspot.com/](http://mssqlperformance.blogspot.com/)
+
 Jeff has been consulting on and performing technical training for MS SQL Server since 1989, Version 4, on OS/2. Since then, he has worked extensively with each release of the product, specializing in performance and tuning, from concept through legacy system, on systems of all sizes, from small start-up company applications to multi-terabyte data warehouses.
 
 In addition to hands-on consulting, he speaks at SQL Saturdays several times/year, has a youtube channel with free training, and has written 20 books on database management systems.
@@ -572,6 +577,7 @@ In addition to hands-on consulting, he speaks at SQL Saturdays several times/yea
 His latest book is "Transact SQL the Definitive Guide."
  
 **Joe Celko** 
+
 Joe Celko served 10 years on ANSI/ISO SQL Standards Committee and contributed to the SQL-89 and SQL-92 Standards.  
 
 He has written over 1200 columns in the computer trade and academic press, mostly dealing with data and databases.  
@@ -582,6 +588,7 @@ Mr. Celko's past columns include: Columns for Simple-Talk (Redgate Software); "C
 
  
 **Chris Rock** 
+
 Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
  
 **Joe Celko** 
@@ -774,6 +781,6 @@ The following is a list of sponsors that helped fund the event:
  
 [Seminole State College](http://www.seminolestate.edu/)
  
-[Back to the SQL Saturday Event List](/past.html)
+[Back to the SQL Saturday Event List](past.html)
 &nbsp;
-[Back to the home page](/index.html)
+[Back to the home page](index.html)
