@@ -5,7 +5,7 @@ prettydate: "10 November 2007"
 ---
 # SQLSaturday #1 - Orlando 2007
  
-**Event Date**: 11/10/2007 00:00:00
+**Event Date**: 11/10/2007 08:00:00
  
 **Event Location**:
 - Seminole Community College
@@ -15,6 +15,7 @@ prettydate: "10 November 2007"
 <a href="/PDF/0001.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
+
 <ul>
    <li><a href="#sessions">Sessions</a></li>
    <li><a href="#speakers">Speakers</a></li>
@@ -7255,59 +7256,41 @@ Mr. Kelly is a technical professional with over 10 years experience in developin
 The following is a list of sponsors that helped fund the event:
  
 [xCelligent](www.xcelligent.biz)
-![logo](https://www.pass.org/images/xcelligent.bmp =150x150)
  
 [Robert Half Technology](http://www.roberthalf.com/technology/)
-![logo](https://sqlsaturdayfiles.blob.core.windows.net/870/EventSponsor_14188.jpg =150x150)
  
 [ASPSOFT, Inc.](http://www.aspsoft.com)
-![logo](https://www.aspsoft.com/images/formatting/aspsoft-logo.jpg =150x150)
  
 [Telerik](http://www.telerik.com/)
-![logo](https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png =150x150)
  
 [Edgewood Associates](http://www.edgewoodsolutions.com/)
-![logo](https://www.edgewoodsolutions.com/image/logo.jpg =150x150)
  
 [MSSQLTips.com](http://www.mssqltips.com/)
-![logo](https://www.pass.org/images/mssql_logo.jpg =150x150)
  
 [SQL Farms](http://www.sqlfarms.com)
-![logo](https://www.sqlfarms.com/images/top_logo.gif =150x150)
  
 [Consultis](http://www.consultis.com)
-![logo](https://i.imgur.com/vcrJd1j.png =150x150)
  
 [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
-![logo](https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png =150x150)
  
 [Kforce](http://www.kforce.com)
-![logo](https://sqlsaturdayfiles.blob.core.windows.net/951/EventSponsor_14660.png =150x150)
  
 [SQL Sentry](http://www.sqlsentry.com/)
-![logo](https://www.sentryone.com/Images/logos/sentryone-black.svg =150x150)
  
 [Orlando .Net Users Group](www.onetug.com)
-![logo](https://www.onetug.org/DNN/Portals/0/ONETUG.gif =150x150)
  
 [Stratus Technology Services](http://www.stratustech.com/)
-![logo](https://www.stratustech.com/images/logo_stratusTech.gif =150x150)
  
 [Symantec](http://www.symantec.com)
-![logo](https://www.pass.org/images/symantec.jpg =150x150)
  
 [Soaring Eagle Consulting](http://www.soaringeagle.biz)
-![logo](https://sqlsaturdayfiles.blob.core.windows.net/951/EventSponsor_14501.jpg =150x150)
  
 [Cizer - A CALIBRE Company](http://www.cizer.com)
-![logo](https://www.cizer.com/images/cizer_logo.gif =150x150)
  
 [End to End Training](http://www.endtoendtraining.com)
-![logo](https://www.endtoendtraining.com/images/endtoendlogo.jpg =150x150)
  
 [Seminole State College](http://www.seminolestate.edu/)
-![logo](https://sqlsaturdayfiles.blob.core.windows.net/911/EventSponsor_13832.png =150x150)
  
-[Back to the SQL Saturday Event List](/past.html)
+[Back to the SQL Saturday Event List](past.html)
 &nbsp;
-[Back to the home page](/index.html)
+[Back to the home page](index.html)
