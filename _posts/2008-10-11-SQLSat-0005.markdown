@@ -19,8 +19,10 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sessions">Sessions</a></li>
    <li><a href="#speakers">Speakers</a></li>
    <li><a href="#sponsors">Sponsors</a></li>
+</ul>
  
  
+----------------------------------------------------------------------------------- 
  
 # <a name="sessions"></a>Sessions
 This is a list of sessions from the event, based on the schedule in the XML files.
@@ -39,8 +41,7 @@ Contrary to typical technology presentations, this focuses on what we _should_ d
  
 *Track and Room*: Room 1 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SSAS 2008 Designer
@@ -53,8 +54,7 @@ This sessions highlights the major changes in the SSAS designer from 2005 to 200
  
 *Track and Room*: Room 2 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SSIS Tips  Tricks
@@ -67,8 +67,7 @@ SQL Server Integration Services is an essential part of a company's data process
  
 *Track and Room*: Room 1 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: This is not your father's GROUP BY 
@@ -86,8 +85,7 @@ A look at recent extensions to the GROUP BY clause in Standard SQL, which will c
  
 *Track and Room*: Room 1 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Business Intelligence
@@ -102,8 +100,7 @@ The technology we will cover is SQL Server 2005 and how we leveraged (SSAS) SQL 
  
 *Track and Room*: Room 1 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Server 2008 Performance Tuning
@@ -116,8 +113,7 @@ Using the new Data Collector and Management Data Warehouse features in SQL Serve
  
 *Track and Room*: Room 2 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Gaining SQL Server Insight with DMV's
@@ -130,8 +126,7 @@ This session will explore SQL Server 2005 DMV's.  During this session will explo
  
 *Track and Room*: Room 2 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Changing role of the SQL Server DBA
@@ -144,8 +139,7 @@ In today’s world the role of the DBA is fast changing from been task orientate
  
 *Track and Room*: Room 2 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Building Reports in SQL Server Reporting Services 
@@ -158,8 +152,7 @@ Using SQL Server Reporting Services can simplify designing reports, but how do y
  
 *Track and Room*: Room 1 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Practical Table Partitioning
@@ -172,8 +165,7 @@ Table partitioning can be a very way to manage very large tables and their index
  
 *Track and Room*: Room 2 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Introduction to SQL Server Hints
@@ -191,8 +183,7 @@ Most of the time, the SQL Server query optimizer does a great job of selecting a
  
 *Track and Room*: Room 2 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Long parameter lists
@@ -207,19 +198,24 @@ SQL Server cam easily handle a long list of parameters.  The code is not only sa
  
 *Track and Room*: Room 1 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
 ## <a name="#speakers"></a>Speakers
 This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
  
-**Buck Woody**  - [BuckWoodyMSFT](https://www.twitter.com/BuckWoodyMSFT)
+**Buck Woody**
+ 
+Twitter:  - [BuckWoodyMSFT](https://www.twitter.com/BuckWoodyMSFT)
+ 
 LinkedIn: [Buck Woody](http://www.linkedin.com/in/buckwoody)
+ 
 Contact: [http://buckwoody.wordpress.com/](http://buckwoody.wordpress.com/)
+ 
 Born helpless, naked, and unable to provide for himself, Buck Woody overcame these amazing handicaps to become a software developer, data professional, teacher, and a productive invertebrate member of society.
  
-**Joe Celko** 
+**Joe Celko**
+ 
 Joe Celko served 10 years on ANSI/ISO SQL Standards Committee and contributed to the SQL-89 and SQL-92 Standards.  
 
 He has written over 1200 columns in the computer trade and academic press, mostly dealing with data and databases.  
@@ -229,49 +225,79 @@ He is author of eight books on SQL for Morgan-Kaufmann: SQL FOR SMARTIES (1995, 
 Mr. Celko's past columns include: Columns for Simple-Talk (Redgate Software); "CELKO" in INTELLIGENT ENTERPRISE magazine (CMP);  BMC's DBAzine.com e-magazine; "SQL Explorer" in DBMS (Miller-Freeman); "Celko on SQL" in DATABASE PROGRAMMING  DESIGN (Miller-Freeman); "WATCOM SQL Corner" in POWERBUILDER DEVELOPERS' JOURNAL (SysCon); "SQL Puzzle" in BOXES  ARROWS (Frank Sweet Publishing); "DBMS/Report" in SYSTEMS INTEGRATION (Cahner-Ziff); "Data Desk" in TECH SPECIALIST (RD); "Data Points" in PC TECHNIQUES (Coriolis Group); "Celko on Software" in COMPUTING (VNC Publications, UK), "SELECT * FROM Austin" (Array Publications, The Netherlands), and he was editor for the "Puzzles  Problems" section of ABACUS (Springer-Verlag) and he ran the CASEFORUM section 18, "Celko on SQL", on CompuServe.
 
  
-**Brad McGehee**  - [@bradmcgehee](https://www.twitter.com/@bradmcgehee)
+**Brad McGehee**
+ 
+Twitter:  - [@bradmcgehee](https://www.twitter.com/@bradmcgehee)
+ 
 Contact: [http://www.bradmcgehee.com](http://www.bradmcgehee.com)
+ 
 Brad M. McGehee is an MCSE+I, MCSD, and former MCT with a Bachelor’s degree in Economics and a Master's in Business Administration. Currently the Director of DBA Education for Red Gate Software, Brad is a Microsoft SQL Server MVP with over 16 years' SQL Server experience. He has been involved in the industry since 1982.
 
 Brad is a frequent speaker at industry conferences and events, including PASS Summit, the European PASS Conference, SQL Server Connections, SQLTeach, devLINK, SQLBits, SQLSaturdays, Code Camps, and SQL Server user groups. He founded the popular community site SQL-Server-Performance.com, which he operated from 2000 through 2006, and is the author or co-author of more than 15 technical books and over 275 published articles. He blogs at www.bradmcgehee.com.
  
-**Greg Larsen**  - [GregoryALarsen](https://www.twitter.com/GregoryALarsen)
+**Greg Larsen**
+ 
+Twitter:  - [GregoryALarsen](https://www.twitter.com/GregoryALarsen)
+ 
 LinkedIn: [Greg Larsen](https://www.linkedin.com/in/grlarsen/)
+ 
 Greg Larsen has been working with SQL Server since 1999. He has authored 100's of articles related to SQL Server. He holds a MCSE Data Management and Analytics.  Greg also a SQL Server Consultant, adjunct professor and technical writer.
  
-**Bryan Oliver** 
+**Bryan Oliver**
+ 
 Bryan Oliver has over 20 years of industry experience, 11 of which were spent working primarily with SQL Server. Bryan is a lead developer at Quest Software for a number of solutions, including LiteSpeed for SQL Server. Bryan’s position allows him to work with some of the largest and most recognizable SQL database environments in the world. He is also a valued speaker at conferences such as SQL PASS and SQL Server Summit. Born and raised in Australia, Bryan graduated from RMIT University in Melb
  
-**Joe Horton** 
+**Joe Horton**
+ 
 Joe Horton came from the private sector about 6 years ago and has worked for LNI, DSHS and now CTED (Community Trade Economic Development).  Joe has been a developer for some 15 years and works mostly in SQL Server and in data warehousing.  
 Sergio Nava has been private contracting for many years at DSHS.  He has many SQL certifications.  Sergio has been a part of 3 successful data mart implementations and is expert level.
  
-**Greg Larsen**  - [GregoryALarsen](https://www.twitter.com/GregoryALarsen)
+**Greg Larsen**
+ 
+Twitter:  - [GregoryALarsen](https://www.twitter.com/GregoryALarsen)
+ 
 LinkedIn: [Greg Larsen](https://www.linkedin.com/in/grlarsen/)
+ 
 Greg Larsen has been working with SQL Server since 1999. He has authored 100's of articles related to SQL Server. He holds a MCSE Data Management and Analytics.  Greg also a SQL Server Consultant, adjunct professor and technical writer.
  
-**Jessica Moss**  - [@jessicammoss](https://www.twitter.com/@jessicammoss)
+**Jessica Moss**
+ 
+Twitter:  - [@jessicammoss](https://www.twitter.com/@jessicammoss)
+ 
 Contact: [http://www.jessicammoss.com](http://www.jessicammoss.com)
+ 
 Jessica M. Moss is a well-known architect, speaker, author, and Microsoft MVP of SQL Server Business Intelligence.  Jessica#39;s expertise includes data warehouse modeling, Integration Services ETL, Analysis Services semantic modeling, Reporting Services report design, and helping customers across industries successfully implement and enhance their BI solutions. She enjoys sharing her knowledge with the SQL community and has co-authored numerous technical books.
  
-**Eric Wilson** 
+**Eric Wilson**
+ 
 Contact: [http://www.datazulu.com](http://www.datazulu.com)
+ 
 Eric has 15 years experience designing and implementing database solutions in financial, publication, e-commerce, and manufacturing industries. Although a self-proclaimed relational bigot, he emphasizes how to mix pure theory with pragmatic trade-offs to achieve stable long-term systems. Eric has educational backgrounds in Economics and Statistics and recently completed a master's degree in Software Engineering. He currently works at FEI Company in Portland, Oregon.
  
-**Rushabh Mehta**  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
+**Rushabh Mehta**
+ 
+Twitter:  - [@rushabhmehta](https://www.twitter.com/@rushabhmehta)
+ 
 LinkedIn: [Rushabh Mehta](https://www.linkedin.com/in/rushabhbmehta)
+ 
 Contact: [http://blogs.solidq.com/RushabhMehta](http://blogs.solidq.com/RushabhMehta)
+ 
 Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
 
 Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
 
 
  
-**Jessica Moss**  - [@jessicammoss](https://www.twitter.com/@jessicammoss)
+**Jessica Moss**
+ 
+Twitter:  - [@jessicammoss](https://www.twitter.com/@jessicammoss)
+ 
 Contact: [http://www.jessicammoss.com](http://www.jessicammoss.com)
+ 
 Jessica M. Moss is a well-known architect, speaker, author, and Microsoft MVP of SQL Server Business Intelligence.  Jessica#39;s expertise includes data warehouse modeling, Integration Services ETL, Analysis Services semantic modeling, Reporting Services report design, and helping customers across industries successfully implement and enhance their BI solutions. She enjoys sharing her knowledge with the SQL community and has co-authored numerous technical books.
  
-**Joe Celko** 
+**Joe Celko**
+ 
 Joe Celko served 10 years on ANSI/ISO SQL Standards Committee and contributed to the SQL-89 and SQL-92 Standards.  
 
 He has written over 1200 columns in the computer trade and academic press, mostly dealing with data and databases.  

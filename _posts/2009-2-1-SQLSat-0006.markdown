@@ -19,8 +19,10 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sessions">Sessions</a></li>
    <li><a href="#speakers">Speakers</a></li>
    <li><a href="#sponsors">Sponsors</a></li>
+</ul>
  
  
+----------------------------------------------------------------------------------- 
  
 # <a name="sessions"></a>Sessions
 This is a list of sessions from the event, based on the schedule in the XML files.

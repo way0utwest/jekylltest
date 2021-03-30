@@ -19,8 +19,10 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sessions">Sessions</a></li>
    <li><a href="#speakers">Speakers</a></li>
    <li><a href="#sponsors">Sponsors</a></li>
+</ul>
  
  
+----------------------------------------------------------------------------------- 
  
 # <a name="sessions"></a>Sessions
 This is a list of sessions from the event, based on the schedule in the XML files.
@@ -37,8 +39,7 @@ Best Buy does it. American Express does it. Netflix does it. Microsoft is moving
  
 *Track and Room*: Business Intelligence - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Server Preproduction Tasks
@@ -51,8 +52,7 @@ This session will cover the tasks you need to perform before you hand over a new
  
 *Track and Room*: Database Administration - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Revitalizing a neglected SQL Server
@@ -65,8 +65,7 @@ This session will focus on how a SQL Server installation becomes neglected over 
  
 *Track and Room*: Database Administration - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Tuna Helper- A Proven Process for Tuning SQL
@@ -79,8 +78,7 @@ Many DBAs and Developers are faced with tuning poorly performing SQL statements.
  
 *Track and Room*: SQL Development - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Using Multi-dimensional Data in SSAS in ASP.NET
@@ -93,8 +91,7 @@ This sessions will demonstrate several methods for querying multi-dimensional da
  
 *Track and Room*: Business Intelligence - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: ASP.NET Databinding 101
@@ -107,8 +104,7 @@ This session will demonstrate how easy it is to quickly display your data on a w
  
 *Track and Room*: SQL Development - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Disk Partition Alignment/Care and Feeding TempDB
@@ -121,8 +117,7 @@ EVERYONE can benefit from this presentation!!  Improper disk alignment will rob 
  
 *Track and Room*: Database Administration - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Confessions of a Data Integrator
@@ -135,8 +130,7 @@ Most database professionals are charged with managing, extracting, and integrati
  
 *Track and Room*: SQL Development - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Introduction to SQL Server Statistics
@@ -149,8 +143,7 @@ This beginner to intermediate level session will introduce you to statistics, in
  
 *Track and Room*: Database Administration - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Injection
@@ -163,8 +156,7 @@ Discussion on various forms of SQL Injection attacks and some guidelines on how 
  
 *Track and Room*: SQL Development - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: RESTful Data
@@ -180,8 +172,7 @@ This session will describe RESTful Data, the benefits it conveys, and its uses. 
  
 *Track and Room*: SQL Development - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Getting the warm "Fuzzies" with SSIS
@@ -194,8 +185,7 @@ This session is an overview of the Fuzzy Grouping and Fuzzy Lookup transformatio
  
 *Track and Room*: Business Intelligence - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Data Mining ASP.Net Controls Library
@@ -208,8 +198,7 @@ Intent of this session is to demonstrate use of Data Mining Web Controls Library
  
 *Track and Room*: Business Intelligence - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Introduction to Data Warehousing with SQL Server
@@ -222,8 +211,7 @@ Business Intelligence is one of the hot job skills for 2009. In this concepts ta
  
 *Track and Room*: Business Intelligence - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SANs and SQL Server
@@ -236,71 +224,112 @@ Lets get down and dirty on some fundamentals of how SANs work and how we can bes
  
 *Track and Room*: Database Administration - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
 ## <a name="#speakers"></a>Speakers
 This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
  
-**Ken Simmons** 
+**Ken Simmons**
+ 
 Contact: [http://cybersql.blogspot.com](http://cybersql.blogspot.com)
+ 
 Ken Simmons is a database administrator/developer specializing in SQL Server and .NET. He is the Author of Pro SQL Server 2008 Administration (Apress, 2009) and Pro SQL Server 2008 Mirroring (Apress, 2009). He has been working in the IT industry since 2000 and currently holds certifications for MCP, MCAD, MCSD, MCDBA, and MCTS for SQL 2005.
  
-**Tim  Roper** 
+**Tim  Roper**
+ 
 Tim Roper is a consultant for CTS Inc. He holds MCTS certifications in SQL Server 2005, Biztalk Server 2006 and Business Intelligence. He currently provides IT outsourcing support for clients in the SMB space.
  
-**Dean Richards** 
+**Dean Richards**
+ 
 LinkedIn: [Dean Richards](http://www.linkedin.com/pub/dean-richards/6/167/a90)
+ 
 Dean Richards is a Senior DBA for DBMS Insights and has helped hundreds of companies solve database and virtualization performance issues.  Dean has over 20 years of experience in both development and database administration and has focused his entire career on performance tuning of Oracle and SQL Server environments. Most recently Dean has focused on the trend to virtualize and move databases to the cloud.
  
-**Terry Webster** 
+**Terry Webster**
+ 
 Contact: [http://www.webbasics.net](http://www.webbasics.net)
+ 
 Terry is a Senior Systems Architect for TekSouth Corporation in Birmingham, Alabama and owner of Web Basics.  He has over 20 years experience in software engineering and design.  Terry focuses on Microsoft Technologies and specializes in ASP.NET, VB.NET, VSTO, OBA, Business Intelligence, Sharepoint and other custom solutions.
  
-**Stuart Ainsworth**  - [@codegumbo](https://www.twitter.com/@codegumbo)
+**Stuart Ainsworth**
+ 
+Twitter:  - [@codegumbo](https://www.twitter.com/@codegumbo)
+ 
 LinkedIn: [Stuart Ainsworth](https://www.linkedin.com/in/stuartainsworth)
+ 
 Contact: [http://codegumbo.com](http://codegumbo.com)
+ 
 Stuart Ainsworth (MA, MEd) manages a team of Service Reliability Engineers for the Gladiator Enterprise Information Security Services section of Profitstars, a division of Jack Henry and Associates.  He's a former DBA, developer, consultant, and public speaking professor.  He's one of the chapter leaders for AtlantaMDF, and a long-time organizer of SQL Saturday's.  He tweets infrequently (@codegumbo) and blogs even less often at http://codegumbo.com.
  
-**Chris Eargle** 
+**Chris Eargle**
+ 
 Contact: [http://www.kodefuguru.com](http://www.kodefuguru.com)
+ 
 Chris Eargle is a Telerik Developer Evangelist, INETA Director, and Microsoft Most Valuable Professional – C# from Columbia, SC, USA. He has over a decade of experience designing and developing enterprise applications, and he runs the local .NET User Group: the Columbia Enterprise Developers Guild. He is a frequent guest of conferences and community events promoting best practices and new technologies. His blog, kodefuguru.com, features content to guide you in becoming a .NET Ninja!
  
-**Derek Comingore** 
+**Derek Comingore**
+ 
 Contact: [https://mvp.support.microsoft.com/profile/Derek.Comingore](https://mvp.support.microsoft.com/profile/Derek.Comingore)
+ 
 Derek Comingore is a Senior Architect with ComFrame Software, a SQL Server MVP, a certified professional in several Microsoft technologies including SQL Server BI, a speaker at several local  national SQL Server user groups, and is a published author on SQL Server topics. Derek has been using SQL Server since 1999 as a student in relational database classes at the University of North Dakota with version 7.0. Derek focuses on building  delivering enterprise-class data warehousing and business i
  
-**Terry Webster** 
+**Terry Webster**
+ 
 Contact: [http://www.webbasics.net](http://www.webbasics.net)
+ 
 Terry is a Senior Systems Architect for TekSouth Corporation in Birmingham, Alabama and owner of Web Basics.  He has over 20 years experience in software engineering and design.  Terry focuses on Microsoft Technologies and specializes in ASP.NET, VB.NET, VSTO, OBA, Business Intelligence, Sharepoint and other custom solutions.
  
-**Kevin Boles**  - [@TheSQLGuru](https://www.twitter.com/@TheSQLGuru)
+**Kevin Boles**
+ 
+Twitter:  - [@TheSQLGuru](https://www.twitter.com/@TheSQLGuru)
+ 
 LinkedIn: [Kevin Boles](http://www.linkedin.com/in/thesqlguru)
+ 
 Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.
  
-**Robert Cain**  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
+**Robert Cain**
+ 
+Twitter:  - [https://twitter.com/arcanecode](https://www.twitter.com/https://twitter.com/arcanecode)
+ 
 LinkedIn: [Robert Cain](http://www.linkedin.com/in/arcanecode)
+ 
 Contact: [http://arcanecode.com](http://arcanecode.com)
+ 
 Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.
  
-**Kevin Boles**  - [@TheSQLGuru](https://www.twitter.com/@TheSQLGuru)
+**Kevin Boles**
+ 
+Twitter:  - [@TheSQLGuru](https://www.twitter.com/@TheSQLGuru)
+ 
 LinkedIn: [Kevin Boles](http://www.linkedin.com/in/thesqlguru)
+ 
 Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.
  
-**Kevin Boles**  - [@TheSQLGuru](https://www.twitter.com/@TheSQLGuru)
+**Kevin Boles**
+ 
+Twitter:  - [@TheSQLGuru](https://www.twitter.com/@TheSQLGuru)
+ 
 LinkedIn: [Kevin Boles](http://www.linkedin.com/in/thesqlguru)
+ 
 Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.
  
-**Brad Marshall** 
+**Brad Marshall**
+ 
 Brad Marshall is a veteran IT professional with 18 years experience in data management and data warehousing solutions.  Brad has held several Microsoft certifications through the years and is currently the Director of Commercial Products and Services at Teksouth Corporation, a high end data warehouse and BI consulting company specializing in BI solutions on the Microsoft platform.
  
-**Tejas Patel** 
+**Tejas Patel**
+ 
 Contact: [http://intenseanalytics.com/default.aspx](http://intenseanalytics.com/default.aspx)
+ 
 Tejas Patel is a Business Intelligence Architect with EyeWonder, LLC. He has 8+ years of experience working in Business Intelligence field. He is a frequent presenter on local and regional technical conferences and events. He has designed and developed enterprise level Business Intelligence Solutions for many fortune 500 companies.
  
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
+**Andy Warren**
+ 
+Twitter:  - [@sqlandy](https://www.twitter.com/@sqlandy)
+ 
 Contact: [https://sqlandy.com](https://sqlandy.com)
+ 
 Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
  
  

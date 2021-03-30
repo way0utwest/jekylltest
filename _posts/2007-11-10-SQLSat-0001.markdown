@@ -19,8 +19,10 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sessions">Sessions</a></li>
    <li><a href="#speakers">Speakers</a></li>
    <li><a href="#sponsors">Sponsors</a></li>
- </ul>
+</ul>
  
+ 
+----------------------------------------------------------------------------------- 
  
 # <a name="sessions"></a>Sessions
 This is a list of sessions from the event, based on the schedule in the XML files.
@@ -40,8 +42,7 @@ This is a vendor session presented by Stratus Technologies and will discuss the 
 ----------------------------------------------------------------------------------- 
  
  
- 
-<h2 style="text-align: center;"> Title: MDX: From WITH To WHERE</h2>
+## Title: MDX: From WITH To WHERE
  
 **Abstract**:
 This session will discuss the basic syntax of mdx queries, query-scoped calculated measures, and common functions that can be used in MDX queries.  This session is best suited for people who are familiar with Analysis Services cubes and multidimensional concepts.  They are interested in learning how to write custom MDX queries to obtain data from their OLAP cubes.
@@ -52,9 +53,9 @@ This session will discuss the basic syntax of mdx queries, query-scoped calculat
 *Track and Room*: Room 228 - N/A
  
 ----------------------------------------------------------------------------------- 
-
  
-<h2 style="text-align: center;">## Title: SQL Server 2008 Data Warehousing Enhancements - 1</h2>
+ 
+## Title: SQL Server 2008 Data Warehousing Enhancements - 1
  
 **Abstract**:
 Come learn about the enhancements in the next version SQL Server for Data Warehousing. The next version of SQL Server provides a comprehensive, scalable Data Warehouse platform that enables organizations to build your DW faster with data integration platform, manage your growing data volumes with an enterprise ready relational database and deliver actionable insights with the integration with the Microsoft BI platform. This is a part one of a two part session.
@@ -63,7 +64,7 @@ Come learn about the enhancements in the next version SQL Server for Data Wareho
 - Jean-Claude Armand
  
 *Track and Room*: Room 138 - N/A
-
+ 
 ----------------------------------------------------------------------------------- 
  
  
@@ -77,8 +78,7 @@ Here we will go though the process of designing and using a new model that is be
  
 *Track and Room*: Room 228 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Server 2008 Data Warehousing Enhancements - 2
@@ -91,8 +91,7 @@ Come learn about the enhancements in the next version SQL Server for Data Wareho
  
 *Track and Room*: Room 138 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SOA Using SQL Server 2005 Service Broker
@@ -105,8 +104,7 @@ This session will introduce the Service Broker in SQL Server 2005. During this s
  
 *Track and Room*: Room 303 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Transactional Replication for Beginners
@@ -119,8 +117,7 @@ Transactional replication is a powerful tool and surprisingly easy to implement,
  
 *Track and Room*: Room 307 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Persisting and Tracking Workflows using Sql Server
@@ -133,8 +130,7 @@ Workflow styled applications rely heavily on human interaction and long-running,
  
 *Track and Room*: Room 228 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: How XML Changes Database Design
@@ -147,8 +143,7 @@ What should database design look like given the deep integration of SQL and XML 
  
 *Track and Room*: Room 303 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Designing Data Warehouse Practices with SQL Server
@@ -161,8 +156,7 @@ This session will cover the basics of Data warehousing using the SQL Server 2005
  
 *Track and Room*: Room 228 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Comparing SQL Server 2005 to Oracle 10g
@@ -177,8 +171,7 @@ This technical session is an excellent migration tool for Oracle DBA's now worki
  
 *Track and Room*: Room 202 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: ADO.NET Synchronization Services in .NET 3.5
@@ -191,8 +184,7 @@ Explore how you can build offline smart client applications in a RAD way that sy
  
 *Track and Room*: Room 220 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Relational Division -- The Forgotten Operator
@@ -213,8 +205,7 @@ Explore how you can build offline smart client applications in a RAD way that sy
  
 *Track and Room*: Room 138 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: CLR User Defined Functions - Real World Examples
@@ -227,8 +218,7 @@ This exciting session will talk about why CLR UDF's are a good choice in many ca
  
 *Track and Room*: Room 202 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Establishing Infrastructure Standards for SSIS
@@ -241,8 +231,7 @@ This session will provide you a framework of Best Practices in establishing stan
  
 *Track and Room*: Room 228 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Intro to VSTS DB
@@ -255,8 +244,7 @@ In this session we’ll take a lap around Visual Studio Team System for DB Pros 
  
 *Track and Room*: Room 220 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Using Microsoft Dynamics GP Stored Procedures
@@ -269,8 +257,7 @@ How to utilize the Microsoft Dynamics GP SQL Stored Procedures for interacting w
  
 *Track and Room*: Room 220 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Unlocking the Black Box of Application Performance
@@ -283,8 +270,7 @@ This session is co-sponsored by Symantec and Soaring Eagle Consulting. SQL Serve
  
 *Track and Room*: Room 202 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Server 2005 Compact Edition in Action
@@ -297,8 +283,7 @@ Looking for reliable local store that you can easily deploy embedded within your
  
 *Track and Room*: Room 220 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Using DDL Triggers
@@ -311,8 +296,7 @@ In this session we'll create a database object (table, proc, functions) backup s
  
 *Track and Room*: Room 303 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Programming Style
@@ -325,8 +309,7 @@ A guide for formatting, designing and using SQL code.  Particular stress on ISO 
  
 *Track and Room*: Room 202 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: XML Features in SQL 2005
@@ -339,8 +322,7 @@ XML in SQL 2000 wasn't very exciting and it was easy to dismiss it altogether by
  
 *Track and Room*: Room 307 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Performance Tuning SQL Server Integration Services
@@ -353,8 +335,7 @@ In this session, learn the architectural patterns that derive the highest scale 
  
 *Track and Room*: Room 307 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Introduction to SQL Server Integration Services
@@ -367,8 +348,7 @@ This session will cover an introduction to SSIS.  Attendees will learn about SSI
  
 *Track and Room*: Room 307 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Server 2008 New Feature Overview
@@ -381,8 +361,7 @@ Learn what's new in SQL Server 2008 for the DBA, Developer and BI professional. 
  
 *Track and Room*: Room 138 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Using CASE in TSQL
@@ -395,8 +374,7 @@ Most languages support an extended version of the IF/THEN syntax and in TSQL it'
  
 *Track and Room*: Room 307 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SSIS Patterns and Practices
@@ -409,8 +387,7 @@ Integration Services fulfills the core needs of ETL within the Enterprise. It’
  
 *Track and Room*: Room 303 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: How to Become a DBA
@@ -423,8 +400,7 @@ Like many jobs in IT it seems that everyone only wants to hire senior people wit
  
 *Track and Room*: Room 138 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Index Selection for SQL Server 2005
@@ -437,8 +413,7 @@ This session will cover index types, physical storage structures, and how the se
  
 *Track and Room*: Room 202 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Integrating Data Mining with SSIS
@@ -451,8 +426,7 @@ Do you think of data mining as a black box with SQL Server? Learn the basics tha
  
 *Track and Room*: Room 303 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Amazon for Everyone, Data Mining  SQL 2005
@@ -465,8 +439,7 @@ New SQL Server 2005 features make it easier than ever to identify customers, cre
  
 *Track and Room*: Room 220 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Linq
@@ -479,8 +452,7 @@ LINQ defines standard query operators that allow code written in LINQ-enabled la
  
 *Track and Room*: Room 202 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: SQL Server 2005: Sql Management Objects (SMO)
@@ -493,8 +465,7 @@ Learn about the Sql Server Management Object (SMO) model in SQL Server 2005.  In
  
 *Track and Room*: Room 303 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: XML in SQL Server 2005
@@ -507,8 +478,7 @@ This session will provide basic to more advanced techniques when dealing with XM
  
 *Track and Room*: Room 228 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: .NET CLR Basics
@@ -521,8 +491,7 @@ In this session we will introduce the .NET CLR inside of SQL Server 2005. We wil
  
 *Track and Room*: Room 220 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Hacking SQL Server
@@ -535,8 +504,7 @@ In this presentation Bayer White plays the part of a developer protecting his ap
  
 *Track and Room*: Room 202 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
  
 ## Title: Tips and Tricks for Reporting Services
@@ -549,39 +517,34 @@ This session will show methods to make your reports both easier to create and mo
  
 *Track and Room*: Room 307 - N/A
  
- 
- 
+----------------------------------------------------------------------------------- 
  
 ## <a name="#speakers"></a>Speakers
 This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
  
  
-<p style="text-align: center;"><b>David Eichner</b></p>
-
-Twitter: [@ICANSoftware](https://www.twitter.com/@ICANSoftware)
-
+**David Eichner**
+ 
+Twitter:  - [@ICANSoftware](https://www.twitter.com/@ICANSoftware)
+ 
 LinkedIn: [David Eichner](http://www.linkedin.com/in/icansoftware)
-
+ 
 David Eichner is a licensed CPA and is also CEO of ICAN Software Corporation, a Microsoft Dynamics amp; Acumatica ERP partner firm that sell and implements ERP and CRM software, develops software solutions and provides technology consulting.  He is the host of a radio show called Business In The Cloud that airs weekly on KLAY 1180AM.  He is skilled in building integrated cloud app solutions. His career spans more than 20 years in various technical/managerial positions within industries as diverse as military service,  engineering/construction, municipal government, consulting and certified public accounting.  Additionally, he holds various national certificates in technology (MCDBA, MCSE, CNE, CITP, Dynamics CRM and ERP, Acumatica CRM and ERP)
-
------------------------------------------------------------------------------------ 
-
-<p style="text-align: center;"><b>Jeffrey Garbus</b> </p>
-
+ 
+**Jeffrey Garbus**
+ 
 LinkedIn: [Jeffrey Garbus](https://www.linkedin.com/profile/view?id=176471amp;trk=nav_responsive_tab_profile)
-
+ 
 Contact: [http://mssqlperformance.blogspot.com/](http://mssqlperformance.blogspot.com/)
-
+ 
 Jeff has been consulting on and performing technical training for MS SQL Server since 1989, Version 4, on OS/2. Since then, he has worked extensively with each release of the product, specializing in performance and tuning, from concept through legacy system, on systems of all sizes, from small start-up company applications to multi-terabyte data warehouses.
 
 In addition to hands-on consulting, he speaks at SQL Saturdays several times/year, has a youtube channel with free training, and has written 20 books on database management systems.
 
 His latest book is "Transact SQL the Definitive Guide."
-
------------------------------------------------------------------------------------ 
-
-**Joe Celko** 
-
+ 
+**Joe Celko**
+ 
 Joe Celko served 10 years on ANSI/ISO SQL Standards Committee and contributed to the SQL-89 and SQL-92 Standards.  
 
 He has written over 1200 columns in the computer trade and academic press, mostly dealing with data and databases.  
@@ -591,11 +554,12 @@ He is author of eight books on SQL for Morgan-Kaufmann: SQL FOR SMARTIES (1995, 
 Mr. Celko's past columns include: Columns for Simple-Talk (Redgate Software); "CELKO" in INTELLIGENT ENTERPRISE magazine (CMP);  BMC's DBAzine.com e-magazine; "SQL Explorer" in DBMS (Miller-Freeman); "Celko on SQL" in DATABASE PROGRAMMING  DESIGN (Miller-Freeman); "WATCOM SQL Corner" in POWERBUILDER DEVELOPERS' JOURNAL (SysCon); "SQL Puzzle" in BOXES  ARROWS (Frank Sweet Publishing); "DBMS/Report" in SYSTEMS INTEGRATION (Cahner-Ziff); "Data Desk" in TECH SPECIALIST (RD); "Data Points" in PC TECHNIQUES (Coriolis Group); "Celko on Software" in COMPUTING (VNC Publications, UK), "SELECT * FROM Austin" (Array Publications, The Netherlands), and he was editor for the "Puzzles  Problems" section of ABACUS (Springer-Verlag) and he ran the CASEFORUM section 18, "Celko on SQL", on CompuServe.
 
  
-**Chris Rock** 
-
+**Chris Rock**
+ 
 Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com 
  
-**Joe Celko** 
+**Joe Celko**
+ 
 Joe Celko served 10 years on ANSI/ISO SQL Standards Committee and contributed to the SQL-89 and SQL-92 Standards.  
 
 He has written over 1200 columns in the computer trade and academic press, mostly dealing with data and databases.  
@@ -605,8 +569,10 @@ He is author of eight books on SQL for Morgan-Kaufmann: SQL FOR SMARTIES (1995, 
 Mr. Celko's past columns include: Columns for Simple-Talk (Redgate Software); "CELKO" in INTELLIGENT ENTERPRISE magazine (CMP);  BMC's DBAzine.com e-magazine; "SQL Explorer" in DBMS (Miller-Freeman); "Celko on SQL" in DATABASE PROGRAMMING  DESIGN (Miller-Freeman); "WATCOM SQL Corner" in POWERBUILDER DEVELOPERS' JOURNAL (SysCon); "SQL Puzzle" in BOXES  ARROWS (Frank Sweet Publishing); "DBMS/Report" in SYSTEMS INTEGRATION (Cahner-Ziff); "Data Desk" in TECH SPECIALIST (RD); "Data Points" in PC TECHNIQUES (Coriolis Group); "Celko on Software" in COMPUTING (VNC Publications, UK), "SELECT * FROM Austin" (Array Publications, The Netherlands), and he was editor for the "Puzzles  Problems" section of ABACUS (Springer-Verlag) and he ran the CASEFORUM section 18, "Celko on SQL", on CompuServe.
 
  
-**Joseph Memmo** 
+**Joseph Memmo**
+ 
 Contact: [http://www.sql-bi.com](http://www.sql-bi.com)
+ 
 An accomplished consultant providing services in SQL Server and Business Intelligence applications.  Has implemented multiple Data Warehousing projects since 1999. 
 Current  Past clients or employers include: 
 • PricewaterhouseCoopers, consulting. 
@@ -616,132 +582,205 @@ Current  Past clients or employers include:
     * NMR -Canada 
 
  
-**Jim Blizzard** 
+**Jim Blizzard**
+ 
 Contact: [http://snowstormlife.com/blogs/bliz](http://snowstormlife.com/blogs/bliz)
+ 
 Jim Blizzard is the Developer Technical Specialist for Microsoft in Florida, Alabama, and Mississippi, and is based out of Tampa, Florida. Jim worked previously for Microsoft Consulting Services in the application development space, focusing on web development, and was a Developer Evangelist for Microsoft, spreading the good news of .NET to the masses in the Pacific Northwest.
  
-**Scott Farriss** 
+**Scott Farriss**
+ 
 As a founder of Source LLC, Scott works with his clients to build applications and processes that align with their end goals.  With over 11 years in developing solutions, Scott has worked with Fortune 500 (Bear-Stearns, Citigroup, Arthur Andersen) as
  
-**Declan Link** 
+**Declan Link**
+ 
 Contact: [http://www.stratustech.com](http://www.stratustech.com)
+ 
 Declan is Vice President of Business Development for Stratus Technology Services LLC. Declan has approximately 12 years of experience in the IT Staffing and Consulting arena, and has extensive knowledge and experience  with IT staffing in Central Florida. Stratus Technology Services, LLC is a premier, New Jersey based boutique provider, of innovative Information Technology services and solutions.
  
-**Jessica Moss**  - [@jessicammoss](https://www.twitter.com/@jessicammoss)
+**Jessica Moss**
+ 
+Twitter:  - [@jessicammoss](https://www.twitter.com/@jessicammoss)
+ 
 Contact: [http://www.jessicammoss.com](http://www.jessicammoss.com)
+ 
 Jessica M. Moss is a well-known architect, speaker, author, and Microsoft MVP of SQL Server Business Intelligence.  Jessica#39;s expertise includes data warehouse modeling, Integration Services ETL, Analysis Services semantic modeling, Reporting Services report design, and helping customers across industries successfully implement and enhance their BI solutions. She enjoys sharing her knowledge with the SQL community and has co-authored numerous technical books.
  
-**patrick thompson** 
+**patrick thompson**
+ 
 Contact: [http://www.standingwaiting.com](http://www.standingwaiting.com)
+ 
 see http://www.standingwaiting.com/Resume/Resume.html
  
-**Wes Dumey** 
+**Wes Dumey**
+ 
 Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
+ 
 Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
  
-**Jean-Claude Armand** 
+**Jean-Claude Armand**
+ 
 Microsoft
  
-**Judy Pipia** 
+**Judy Pipia**
+ 
 Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.
  
-**Trey Johnson** 
+**Trey Johnson**
+ 
 Contact: [http://www.sqlserverbi.com](http://www.sqlserverbi.com)
+ 
 Trey is a long-standing member of the Microsoft Business Intelligence community and is a Jacksonville-native! He is a member of the executive leadership team for Cizer - A CALIBRE Company (http://www.cizer.com) and is their Chief Business Intelligence Architect.  He is a former 6-year member of the PASS Board, has spoken at more Code-Camps and SQL Saturdays than he remembers and really has enjoyed speaking around the globe at events like Tech-Ed, PASS, SQL Connections, VS Live and SQL Live!    H
  
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
+**Michael Antonovich**
+ 
+Twitter:  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
+ 
 LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
+ 
 Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
+ 
 Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
  
-**Jon Winer** 
+**Jon Winer**
+ 
 Contact: [http://www.channelintelligence.com](http://www.channelintelligence.com)
+ 
 Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.
  
-**Trey Johnson** 
+**Trey Johnson**
+ 
 Contact: [http://www.sqlserverbi.com](http://www.sqlserverbi.com)
+ 
 Trey is a long-standing member of the Microsoft Business Intelligence community and is a Jacksonville-native! He is a member of the executive leadership team for Cizer - A CALIBRE Company (http://www.cizer.com) and is their Chief Business Intelligence Architect.  He is a former 6-year member of the PASS Board, has spoken at more Code-Camps and SQL Saturdays than he remembers and really has enjoyed speaking around the globe at events like Tech-Ed, PASS, SQL Connections, VS Live and SQL Live!    H
  
-**Jeffrey Garbus** 
+**Jeffrey Garbus**
+ 
 LinkedIn: [Jeffrey Garbus](https://www.linkedin.com/profile/view?id=176471amp;trk=nav_responsive_tab_profile)
+ 
 Contact: [http://mssqlperformance.blogspot.com/](http://mssqlperformance.blogspot.com/)
+ 
 Jeff has been consulting on and performing technical training for MS SQL Server since 1989, Version 4, on OS/2. Since then, he has worked extensively with each release of the product, specializing in performance and tuning, from concept through legacy system, on systems of all sizes, from small start-up company applications to multi-terabyte data warehouses.
 
 In addition to hands-on consulting, he speaks at SQL Saturdays several times/year, has a youtube channel with free training, and has written 20 books on database management systems.
 
 His latest book is "Transact SQL the Definitive Guide."
  
-**Jean-Claude Armand** 
+**Jean-Claude Armand**
+ 
 Microsoft
  
-**Jose Fuentes** 
+**Jose Fuentes**
+ 
 Contact: [http://blogs.aspadvice.com/jfuentes/](http://blogs.aspadvice.com/jfuentes/)
+ 
 An MVP in Client Application Development (yes it’s new, first year). I had previously held the MVP in VB.NET title. I currently employed by Idea Integration. Idea Integration, headquartered in Jacksonville, Florida and with locations across the U.S.
 
  
-**Shawn Weisfeld**  - [https://twitter.com/shawnweisfeld](https://www.twitter.com/https://twitter.com/shawnweisfeld)
+**Shawn Weisfeld**
+ 
+Twitter:  - [https://twitter.com/shawnweisfeld](https://www.twitter.com/https://twitter.com/shawnweisfeld)
+ 
 LinkedIn: [Shawn Weisfeld](https://www.linkedin.com/in/shawnweisfeld)
+ 
 Contact: [http://www.usergroup.tv](http://www.usergroup.tv)
+ 
 Shawn (http://www.shawnweisfeld.com, shawn@shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Technical Evangelist for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld
  
-**Michael Antonovich**  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
+**Michael Antonovich**
+ 
+Twitter:  - [@MPAntonovich](https://www.twitter.com/@MPAntonovich)
+ 
 LinkedIn: [Michael Antonovich](https://www.linkedin.com/in/michaelpantonovich?)
+ 
 Contact: [http://sharepointmike.wordpress.com](http://sharepointmike.wordpress.com)
+ 
 Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.
  
-**Barry Ralston** 
+**Barry Ralston**
+ 
 Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software. Barry is also Microsoft’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida sales efforts including customer meetings, software demonstrations and Proof of Concept efforts. Barry’s client successes include: ACIPCO, Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac.
  
-**Kendal Van Dyke**  - [SQLDBA](https://www.twitter.com/SQLDBA)
+**Kendal Van Dyke**
+ 
+Twitter:  - [SQLDBA](https://www.twitter.com/SQLDBA)
+ 
 LinkedIn: [Kendal Van Dyke](http://www.linkedin.com/in/kendalvandyke)
+ 
 Contact: [http://www.kendalvandyke.com](http://www.kendalvandyke.com)
+ 
 Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.
  
-**Kenneth Tucker** 
+**Kenneth Tucker**
+ 
 Contact: [http://www.vb-tips.com](http://www.vb-tips.com)
+ 
 Ken is the President of the Space Coast .Net User Group and a frequent speaker at Florida Code Camps. Ken is also a Microsoft MVP in Visual Basic.
  
-**Brian Knight** 
+**Brian Knight**
+ 
 Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
+ 
 Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
  
-**Brian Knight** 
+**Brian Knight**
+ 
 Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
+ 
 Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
  
-**Andy Warren**  - [@sqlandy](https://www.twitter.com/@sqlandy)
+**Andy Warren**
+ 
+Twitter:  - [@sqlandy](https://www.twitter.com/@sqlandy)
+ 
 Contact: [https://sqlandy.com](https://sqlandy.com)
+ 
 Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.
  
-**Bayer White** 
+**Bayer White**
+ 
 Contact: [http://www.humanworkflow.net](http://www.humanworkflow.net)
+ 
 Bayer White has been developing enterprise solutions for the past 11years using .Net Technologies. Since the first beta of the .Net Framework 3.0, his focus has been mastering Business Process Management (BPM) using Windows Workflow Foundation (WF). He is known within the Florida developer community by speaking at Florida Code Camps, blogging(http://www.humanworkflow.net) and writing articles focused on WF. He has also spoken at various conferences such as PASS, DevConnections, VSLive and MDC, a
  
-**Michael Wells** 
+**Michael Wells**
+ 
 Contact: [http://sarasotasql.net](http://sarasotasql.net)
+ 
 Michael Wells is the leader of the Sarasota SQL Server User Group, an official PASS Chapter located in Sarasota, FL. He is a certified .Net developer and is currently working as a SQL Database Administrator for a local financial company.
  
-**Wes Dumey** 
+**Wes Dumey**
+ 
 Contact: [http://www.durableimpact.com](http://www.durableimpact.com)
+ 
 Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  
  
-**Brian Knight** 
+**Brian Knight**
+ 
 Contact: [http://www.pragmaticworks.com](http://www.pragmaticworks.com)
+ 
 Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for 
  
-**Donnie Reynolds** 
+**Donnie Reynolds**
+ 
 Contact: [http://www.comframe.com](http://www.comframe.com)
+ 
 Donnie Reynolds is the Chief Architect for Comframe Software in Nashville, TN.  He is responsible for large Data Warehousing and Business Intelligence engagements.  He is also a frequent speaker and trainer on sound database practices.
  
-**Joe Healy** 
+**Joe Healy**
+ 
 Contact: [http://blogs.msdn.com/devfish](http://blogs.msdn.com/devfish)
+ 
 --- Joe Healy is a Technology Evangelist for Microsoft covering North and Central Florida.  He can be reached at jhealy@microsoft.com or http://blogs.msdn.com/devfish ....
  
-**Pam Shaw** 
+**Pam Shaw**
+ 
 I have been a developer for over 25 years.  For the last 20 years I have been writing software for retail.  For the last 5 years I have been actively involved with SQL Server.  I recently accepted the role as President of the Tampa Bay SQL Server Use
  
-**Brandon Kelly** 
+**Brandon Kelly**
+ 
 Contact: [http://blogs.estatic.org/users/avatar.aspx?userid=2102](http://blogs.estatic.org/users/avatar.aspx?userid=2102)
+ 
 Mr. Kelly is a technical professional with over 10 years experience in developing and leading teams that write "killer apps". Mr. Kelly owned and operated a private micro-consultancy (estatic.org / BusinessRx) for over 4 years, where he built a technical platform that allowed software developers around the world to create high-impact web applications with ease. In January, 2008 Mr. Kelly re-joined his colleagues at Tribridge. Tribridge's success in the Microsoft consulting industry is represente
  
  
@@ -785,6 +824,6 @@ The following is a list of sponsors that helped fund the event:
  
 [Seminole State College](http://www.seminolestate.edu/)
  
-[Back to the SQL Saturday Event List](past.html)
-
-[Back to the home page](index.html)
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)
