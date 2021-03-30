@@ -23,11 +23,11 @@ This event has completed. All data shown below is from the historical XML public
  
  
 # <a name="sessions"></a>Sessions
+
 This is a list of sessions from the event, based on the schedule in the XML files.
  
------------------------------------------------------------------------------------ 
  
-##Title: How to Use a Staffing Firm Effectively##
+## Title: How to Use a Staffing Firm Effectively##
  
 **Abstract**:
 This is a vendor session presented by Stratus Technologies and will discuss the value that staffing firms can provide to both employees and employers. Picking the right staffing firm can make a difference on how long it takes to find a job, how good that job is, and how well it pays. Bring your lunch and learn how this part of our industry works!
