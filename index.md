@@ -18,9 +18,11 @@ These are the SQL Saturday events that have been scheduled.
       </thead>
       <tbody>
   {% assign TodayDate = site.time | date: '%s' %}
+  {% assign future = 0 %}
   {% for post in site.posts%}
   {% assign EventDate = post.date | date: '%s' %}
    {% if EventDate >= TodayDate %}
+   {% assign future = 1 %}
     <tr>
     <td><img src="{{ post.thumb }}"></td>
       <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
@@ -29,6 +31,14 @@ These are the SQL Saturday events that have been scheduled.
     </tr>
    {% endif %}
   {% endfor %}
+  {% if future = 0 %}
+    <tr>
+    <td>&nbsp;</td>
+      <td>No future events scheduled at this time
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+  {% endif %}
   </tbody>
 </table>
 
