@@ -10,28 +10,6 @@ layout: base
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
 
-      {% if page.gh-repo %}
-        {% assign gh_split =  page.gh-repo | split:'/'  %}
-        {% assign gh_user =  gh_split[0]  %}
-        {% assign gh_repo =  gh_split[1]  %}
-
-        <div id="header-gh-btns">
-          {% if page.gh-badge.size > 0 %}
-            {% for badge in page.gh-badge %}
-              {% case badge %}
-                {% when 'star'%}
-                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
-                {% when 'watch'%}
-                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=watch&v=2&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
-                {% when 'fork'%}
-                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=fork&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
-                {% when 'follow'%}
-                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="20px"></iframe>
-              {% endcase %}
-            {% endfor %}
-          {% endif %}
-        </div>
-      {% endif %}
 
       {% if page.before-content %}
         <div class="before-content">
@@ -43,10 +21,8 @@ layout: base
 
     <!-- Event -->
     <section class="page-section" id="event">
-      <div class="container">
           <div class="text-center">
-              <h2 class="section-heading text-uppercase">{{pagedata.name}}</h2>
-              <div class="alert alert-light" role="alert">
+              <h2>{{pagedata.name}}</h2>
                 <p>Event Date: {{ pagedata.date | date_to_long_string }}
                 </p>
                 <p>This event is:
@@ -64,15 +40,13 @@ layout: base
                 </p>
   
           </div>
-      </div>
     </section>
 
     <!-- Schedule -->
     <section class="page-section" id="schedule">
       <div class="container">
           <div class="text-center">
-              <h2 class="section-heading text-uppercase">Schedule</h2>
-              <div class="alert alert-light" role="alert">
+              <h2>Schedule</h2>
                 {% if pagedata.scheduleurl%}
                   <p>
                       <iframe frameborder="0" STYLE="width: 100%;height:1900px" SRCDOC="<BODY><script type='text/javascript' src='{{pagedata.scheduleurl}}'></script></BODY>">
@@ -83,7 +57,6 @@ layout: base
                   The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
               </p>
                 {% endif %}
-              </div>
   
           </div>
       </div>
