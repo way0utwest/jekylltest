@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Under Construction](/assets/img/Page_Under_Construction.png)
 
-Note: this site is under construction and will change over time.
+**Note: this site is under construction and will change over time.**
 
 SQL Saturday was the brainchild of Andy Warren, Brian Knight, and Steve Jones.
 
@@ -16,6 +16,8 @@ Saturday was chosen as this was the day when the community could attend without 
 While these events were originally intended to support the SQL Server platform and those that work with it with events on Saturdays, the events have expanded to take place on most days of the week and encompass many other technologies and platforms that are data related.
 
 All of these events are the result of many organizers, volunteers, and speakers that have donated time and resources to ensure their local events would be a success. SQL Saturday could not succeed without their efforts.
+
+Currently, SQL Saturday is managed by a [non profit foundation](foundation.html).
 
 Read more about the [history](#history) and [milestones](#milestone) of the franchise.
 
@@ -43,7 +45,7 @@ PASS rebranded themselves and the site, changing logos, and adding a few require
 
 The new logo incorporated the PASS angle brackets look and a new color scheme.
 
-<img src="./assets/img/logos/sqlsaturday_logo.png">
+<img src="./assets/img/logos/sqlsaturday_logo_old.png">
 
 PASS also hired <A href="https://twitter.com/cathrinew">Cathrine Wilhelmsen</A> as the new community liaison to continue to support the franchise.
 
@@ -51,7 +53,7 @@ On January 15, 2021, PASS ceased operations and the franchise closed.  The <a hr
 
 ### The Fourth Evolution of SQL Saturday
 
-<a href="https://www.red-gate.com/">Redgate Software</a> purchased the assets of PASS in an auction. The SQL Saturday domain, trademarks, and other related assets will be donated to the SQL Saturday Foundation, which is a community-run organization. While Redgate maintains a seat on the board of directors, the rest of the board is community appointed and helps to steer this franchise in the best interests of growing events around the world.
+<a href="https://www.red-gate.com/">Redgate Software</a> purchased the assets of PASS in an auction. The SQL Saturday domain, trademarks, and other related assets will be donated to the [SQL Saturday Foundation](foundation.html), which is a community-run organization. While Redgate maintains a seat on the board of directors, the rest of the board is community appointed and helps to steer this franchise in the best interests of growing events around the world.
 
 This site continues to support the SQL Saturday events with infrastructure, mentoring, and sponsorship where possible.
 
