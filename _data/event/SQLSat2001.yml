@@ -1,6 +1,7 @@
 name: "SQL Saturday #2001 Denver - Fake"
 date: 2021-05-19 08:00:00 -0000
 virtual: true
+physical: false
 description: This is a fake event that is being set up to test the system
 registrationurl: http://datasaturday0001.eventbrite.it/
 join:
@@ -9,9 +10,15 @@ join:
 scheduleurl: 
 
 sponsors:
+
 speakerlisturl: https://sessionize.com/api/v2/vpoxqhtw/view/SpeakerWall
 callforspeakers:  true
+
 organizers:
   - name: Denver SSUG
     twitter: https://twitter.com/denversql
     email: mailto:webmaster@sqlsaturday.com
+
+volunteers:
+  description: If you are interested in volunteering, contact the organizers through email.
+  contacturl: 

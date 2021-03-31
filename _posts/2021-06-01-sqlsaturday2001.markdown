@@ -1,0 +1,8 @@
+---
+layout: post
+title: "SQL Saturday #2001 Denver 2021"
+subtitle: "SQL Saturday #2001 - Denver Virtual"
+tags: [Denver, Colorado, USA, virtual]
+comments: false
+data: SQLSat2001
+---
