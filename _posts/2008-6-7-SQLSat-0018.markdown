@@ -12,7 +12,7 @@ prettydate: "7 June 2008"
 - 9990 International Drive
 - Orlando, Florida
  
-<a href="/PDF/0018.pdf">PDF of Schedule</a>
+<a href="PDF/0018.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>

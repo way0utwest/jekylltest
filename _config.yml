@@ -27,10 +27,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/logos/sqlsaturday_logo.png"
+avatar: "/assets/img/logos/Just_icon_Color.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -48,7 +48,7 @@ social-network-links:
   twitter: SQLSaturday
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "https://www.linkedin.com/groups/13945573/"
+  linkedin: "groups/13945573/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
