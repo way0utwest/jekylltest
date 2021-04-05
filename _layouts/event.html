@@ -21,17 +21,18 @@ layout: base
 
     <!-- Event -->
           <div class="text-center">
-              <h2>{{pagedata.name}}</h2>
-                <p>Event Date: {{ pagedata.date | date_to_long_string }}
+              {% assign eventdate = pagedata.date %}
+                <p>Event Date: {{ eventdate | date_to_long_string }}
                 </p>
+                <p>{{pagedata.description}}</p>
                 <p>This event is:
                   <ul>
                     {% if pagedata.virtual == true %}
                     <li>Virtual</li>
-                    {% end if %}
+                    {% endif %}
                     {% if pagedata.physical == true %}
                     <li>Live and in-person</li>
-                    {% end if %}
+                    {% endif %}
                   </ul>
                 </p>
                 <p>

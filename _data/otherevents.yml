@@ -29,6 +29,11 @@ events:
   url: https://datadriventechnologies.org/sqlsaturday-in-losangeles/
   thumb: /assets/img/logos/sqsatla-logo.jpg
 
+- title: "Dativerse"
+  date: Aug 13, 2021
+  url: http://Dativerse.io
+  thumb: /assets/img/logos/Dativerse.png
+
 - title: "Data Saturday #11 - Croatia 2021"
   date: Sep 11, 2021
   url: https://datasaturdays.com/2021-09-11-datasaturday0011/
