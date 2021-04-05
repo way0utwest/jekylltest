@@ -148,6 +148,7 @@ layout: base
           </div>
         </section>
 
+        <br/>
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
@@ -155,8 +156,10 @@ layout: base
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
         </div>
+        <br/>
       {% endif %}
 
+      <br/>
       {% if page.after-content %}
         <div class="after-content">
           {% for file in page.after-content %}
@@ -167,6 +170,7 @@ layout: base
 
       {% if page.social-share %}
         {% include social-share.html %}
+        <br/>
       {% endif %}
 
       <ul class="pagination blog-pager">

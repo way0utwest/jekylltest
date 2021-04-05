@@ -27,7 +27,8 @@ speakerlisturl: "https://www.google.com"
 callforspeakers:  true
 
 organizers:
-  - orgname: Denver SSUG
+  -
+    orgname: Denver SSUG
     twitter: denversql
 
 volunteers:
