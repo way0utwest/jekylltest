@@ -7,10 +7,12 @@ description: "This is a fake event that is being set up to test the system in an
 <br/>
 This tests that you can add a second paragraph with information about your event. There might be lots of details that you need to provide for your attendees to understand what is going on. Perhaps you want to list:<br/>
  <br/>
-  - topics covered
-  - various speakers
-  - other side events
-  
+  <ul>
+  <li>topics covered</li>
+  <li>various speakers</li>
+  <li>other side events</li>
+  </ul>
+  <br/>
   This allows that all to be placed on the website. We hope."
 
 eventlocation: "University Hall<br/>2197 S University Blvd, Denver, CO 80208"
@@ -23,3 +25,7 @@ sponsors:
 speakertext: "This is the text that you can use to entice speakers to submit to the event."
 speakerlisturl: "https://www.google.com"
 callforspeakers:  true
+
+organizers:
+  -
+    name: Denver SSUG
