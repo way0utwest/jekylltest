@@ -3,10 +3,10 @@ date: 2021-05-19 08:00:00 -0000
 virtual: true
 physical: true
 hybrid: true
-description: "This is a fake event that is being set up to test the system in anticipation of real events at some point. I anticipate that someone will want a very long description, perhaps with numerous paragraphs.
-
-This tests that you can add a second paragraph with information about your event. There might be lots of details that you need to provide for your attendees to understand what is going on. Perhaps you want to list:
-  
+description: "This is a fake event that is being set up to test the system in anticipation of real events at some point. I anticipate that someone will want a very long description, perhaps with numerous paragraphs.<br/>
+<br/>
+This tests that you can add a second paragraph with information about your event. There might be lots of details that you need to provide for your attendees to understand what is going on. Perhaps you want to list:<br/>
+ <br/>
   - topics covered
   - various speakers
   - other side events
@@ -23,16 +23,15 @@ join:
 scheduleurl: 
 
 sponsors:
-- contacturl: "https://www.voiceofthedba.com"
+  contacturl: "https://www.voiceofthedba.com"
 
+speakertext: "This is the text that you can use to entice speakers to submit to the event."
 speakerlisturl: "https://www.google.com
 callforspeakers:  true
-speakertext: "This is the text that you can use to entice speakers to submit to the event."
-
-organizers: "test"
-- name: "Denver SSUG"
-  twitter: "https://twitter.com/denversql"
-  email: "webmaster@sqlsaturday.com"
+organizers:
+  - name: "Denver SSUG"
+  - twitter: "https://twitter.com/denversql"
+  - email: "webmaster@sqlsaturday.com"
 
 volunteers:
 - description: If you are interested in volunteering, contact the organizers through email.
