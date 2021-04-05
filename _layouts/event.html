@@ -117,11 +117,26 @@ layout: base
         <p>&nbsp;</p>
       </div>
   
-        <!-- Contact -->
+      <!-- Sponsors -->
+      <div id="volunters">
+        <h2 class="section-heading">Volunteers</h2>
+           <p>
+           {% if pagedata.volunteers.description %}
+             <a href="{{pagedata.volunteers.description}}">this link</a>.
+           {% endif %}                         
+           </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      </div>
+
+      <!-- Contact -->
         <section class="page-section" id="contact">
           <div class="container">
             <h2 class="section-heading text-uppercase">Contact the Organizers</h2>
-            <p>The organizers of this event are: {{pagedata.organizers.name}}
+            <p>The organizers of this event are: {{pagedata.organizers.orgname}}
             </p>
             <p>The test is: {{pagedata.organizers}}
             </p>
@@ -133,27 +148,6 @@ layout: base
           </div>
         </section>
 
-        <!-- Volunteers -->
-        <section class="page-section" id="volunteers">
-          <div class="container">
-              <div class="text-center">
-                  <h2 class="section-heading text-uppercase">Volunteers</h2>
-                  <p>{{pagedata.volunteers.description}}
-                  </p>
-                  {% if pagedata.volunteers.contacturl > "" %}
-                  <p>You can reach them via <a href="{{pagedata.volunteers.contacturl}}">{{pagedata.volunteers.contacturl}}</a>
-                  </p>
-                  {% endif %}
-                  <p>&nbsp;</p>
-                  <p>&nbsp;</p>
-                  <p>&nbsp;</p>
-                  <p>&nbsp;</p>
-                  <p>&nbsp;</p>
-                                    
-              </div>
-          </div>
-        </section>
-</div>
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
@@ -188,5 +182,6 @@ layout: base
         {% endif %}
       </ul>
       {% include comments.html %}
+    </div>
   </div>
 </div>

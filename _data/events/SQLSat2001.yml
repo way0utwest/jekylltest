@@ -1,8 +1,8 @@
 name: "SQL Saturday #2001 Denver - Fake"
 date: 2021-05-19 08:00:00 -0000
 virtual: true
-physical: true
-hybrid: true
+physical: false
+hybrid: false
 description: "This is a fake event that is being set up to test the system in anticipation of real events at some point. I anticipate that someone will want a very long description, perhaps with numerous paragraphs.<br/>
 <br/>
 This tests that you can add a second paragraph with information about your event. There might be lots of details that you need to provide for your attendees to understand what is going on. Perhaps you want to list:<br/>
