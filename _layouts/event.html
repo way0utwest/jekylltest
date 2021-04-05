@@ -2,7 +2,7 @@
 layout: base
 ---
 {% assign eventdata = page.data %}
-{% assign pagedata = site.data.event[eventdata] %}
+{% assign pagedata = site.data.events[eventdata] %}
 
 {% include header.html type="event" %}
 
@@ -35,49 +35,41 @@ layout: base
                   </ul>
                 </p>
                 <p>
-                  <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>              </div>
+                  <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>
                 </p>
   
           </div>
 
     <!-- Schedule -->
-    <section class="page-section" id="schedule">
+    <div class="container">
+        <div class="text-center">
+          <h2>Schedule</h2>
+            {% if pagedata.scheduleurl%}
+            <p>
+              <iframe frameborder="0" STYLE="width: 100%;height:1900px" SRCDOC="<BODY><script type='text/javascript' src='{{pagedata.scheduleurl}}'></script></BODY>">
+              </iframe>
+            </p>
+            {% else %}
+            <p>
+               The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
+            </p>
+            {% endif %}
+        </div>
+    </div>
+
+      <!-- Speakers -->
       <div class="container">
           <div class="text-center">
-              <h2>Schedule</h2>
-                {% if pagedata.scheduleurl%}
-                  <p>
-                      <iframe frameborder="0" STYLE="width: 100%;height:1900px" SRCDOC="<BODY><script type='text/javascript' src='{{pagedata.scheduleurl}}'></script></BODY>">
-                      </iframe>
-                  </p>
-                {% else %}
-                <p>
-                  The schedule has not been announced yet. If you want to <a href="#speakers" class="js-scroll-trigger">submit your own session</a> you can still do so.
+            <h2 class="section-heading text-uppercase">Speakers</h2>
+              <p>
+              {% if pagedata.callforspeakers == false %}
+                <script type="text/javascript" src="{{pagedata.speakerlisturl}}"></script>   
+              {% else %}
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.speakerlisturl}}">Submit your session</a>
+              {% endif %}                         
               </p>
-                {% endif %}
-  
           </div>
       </div>
-    </section>
-
-
-        <!-- Speakers -->
-        <section class="page-section" id="speakers">
-          <div class="container">
-              <div class="text-center">
-                  <h2 class="section-heading text-uppercase">Speakers</h2>
-                  <div class="alert alert-light" role="alert">
-                      <p>
-                        {% if pagedata.callforspeakers == false %}
-                          <script type="text/javascript" src="{{pagedata.speakerlisturl}}"></script>   
-                        {% else %}
-                          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.speakerlisturl}}">Submit your session</a>
-                        {% endif %}                         
-                      </p>
-                  </div>
-              </div>
-          </div>
-        </section>
 
         <!-- Contact -->
         <section class="page-section" id="contact">
