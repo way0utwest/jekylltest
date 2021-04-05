@@ -43,6 +43,7 @@ layout: base
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>
       </p>
       {% if pagedata.eventlocation %}
+      <h3>Location</h3>
       <p>
       The event is taking place at:<br/>
       {{pagedata.eventlocation}}
@@ -79,13 +80,19 @@ layout: base
       <!-- Speakers -->
       <div id="speakers">
       <h2 class="section-heading">Speakers</h2>
-         <p>
-         {% if pagedata.callforspeakers == false %}
-           <script type="text/javascript" src="{{pagedata.speakerlisturl}}"></script>   
-         {% else %}
-           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.speakerlisturl}}">Submit your session</a>
-         {% endif %}                         
-         </p>
+      {% if pagedata.speakertext %}
+      <p>{{pagedata.speakertext}}</p>
+      {% endif %}                         
+      </p>
+      {% if pagedata.callforspeakers == false %}
+       <p>The call for speakers is now closed. You can see a list of the speakers:</p>
+         <script type="text/javascript" src="{{pagedata.speakerlisturl}}"></script>   
+      {% else %}
+       <p>You can submit a session by clicking the link below</p>
+       <p>
+       <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.speakerlisturl}}">Submit your session</a>
+       </p>
+      {% endif %}                         
       <p>&nbsp;</p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
@@ -100,7 +107,7 @@ layout: base
            {% if pagedata.sponsors.contacturl %}
              For sponsor information follow <a href="{{pagedata.sponsors.contacturl}}">this link</a>.
            {% else %}
-             <p>Contact the organizer for information about sponsoring this event.</p>
+             <p><a href="#contact">Contact the organizers</a> for information about sponsoring this event.</p>
            {% endif %}                         
            </p>
         <p>&nbsp;</p>
@@ -116,6 +123,8 @@ layout: base
             <h2 class="section-heading text-uppercase">Contact the Organizers</h2>
             <p>The organizers of this event are: {{pagedata.organizers.name}}
             </p>
+            <p>The test is: {{pagedata.organizers}}
+            </p>
             {% if pagedata.organizers.twitter %}
             <p>Twitter: {{pagedata.organizers.twitter}}</p>
             {% endif %}
@@ -129,15 +138,18 @@ layout: base
           <div class="container">
               <div class="text-center">
                   <h2 class="section-heading text-uppercase">Volunteers</h2>
-                  <div class="alert alert-light" role="alert">
-                      <p>{{pagedata.volunteers.description}}
-                      </p>
-                      {% if pagedata.volunteers.contacturl > "" %}
-                      <p>You can reach them via <a href="{{pagedata.volunteers.contacturl}}">{{pagedata.volunteers.contacturl}}</a>
-                      </p>
-                      {% endif %}
-                      
-                  </div>
+                  <p>{{pagedata.volunteers.description}}
+                  </p>
+                  {% if pagedata.volunteers.contacturl > "" %}
+                  <p>You can reach them via <a href="{{pagedata.volunteers.contacturl}}">{{pagedata.volunteers.contacturl}}</a>
+                  </p>
+                  {% endif %}
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                                    
               </div>
           </div>
         </section>

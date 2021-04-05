@@ -25,15 +25,15 @@ scheduleurl:
 sponsors:
 - contacturl: "https://www.voiceofthedba.com"
 
-speakerlisturl: https://sessionize.com/api/v2/vpoxqhtw/view/SpeakerWall
+speakerlisturl: "https://www.google.com
 callforspeakers:  true
 speakertext: "This is the text that you can use to entice speakers to submit to the event."
 
-organizers:
+organizers: "test"
 - name: "Denver SSUG"
   twitter: "https://twitter.com/denversql"
   email: "webmaster@sqlsaturday.com"
 
 volunteers:
-  description: If you are interested in volunteering, contact the organizers through email.
+- description: If you are interested in volunteering, contact the organizers through email.
   contacturl: 
