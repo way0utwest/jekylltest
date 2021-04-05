@@ -48,7 +48,7 @@ layout: base
       {{pagedata.eventlocation}}
       </p>
       {% endif %}
-      {% if pagedata.mapurl %}
+      {% if pagedata.googlemapurl %}
       <iframe src="{{pagedata.googlemapurl}}"" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
       {% endif %}
       <p>&nbsp;</p>
@@ -100,7 +100,7 @@ layout: base
            {% if pagedata.sponsors.contacturl %}
              For sponsor information follow <a href="{{pagedata.sponsors.contacturl}}">this link</a>.
            {% else %}
-             <p>Contact the organizer for information about sponsoring this event.</p>>
+             <p>Contact the organizer for information about sponsoring this event.</p>
            {% endif %}                         
            </p>
         <p>&nbsp;</p>
@@ -113,17 +113,14 @@ layout: base
         <!-- Contact -->
         <section class="page-section" id="contact">
           <div class="container">
-              <div class="text-center">
-                  <h2 class="section-heading text-uppercase">Contact the Organizers</h2>
-                  <div class="alert alert-light" role="alert">
-                      <p>The organizers of this event are: {{pagedata.organizers.name}}
-                      </p>
-                      {% if pagedata.organizers.twitter %}
-                      <p>Twitter: {{pagedata.organizers.twitter}}</p>
-                      {% endif %}
-                      You can reach them via <a href="mailto:{{pagedata.organizers.email}}">email</a>
-                  </div>
-              </div>
+            <h2 class="section-heading text-uppercase">Contact the Organizers</h2>
+            <p>The organizers of this event are: {{pagedata.organizers.name}}
+            </p>
+            {% if pagedata.organizers.twitter %}
+            <p>Twitter: {{pagedata.organizers.twitter}}</p>
+            {% endif %}
+            You can reach them via <a href="mailto:{{pagedata.organizers.email}}">email</a>
+            </div>
           </div>
         </section>
 
