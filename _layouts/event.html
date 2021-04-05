@@ -136,12 +136,10 @@ layout: base
         <section class="page-section" id="contact">
           <div class="container">
             <h2 class="section-heading text-uppercase">Contact the Organizers</h2>
-            <p>The organizers of this event are: {{pagedata.organizers.orgname}}
-            </p>
-            <p>The test is: {{pagedata.organizers}}
+            <p>The organizers of this event are: {{ pagedata.organizers.orgname }}
             </p>
             {% if pagedata.organizers.twitter %}
-            <p>Twitter: {{pagedata.organizers.twitter}}</p>
+            <p>Twitter: <a href="https://www.twitter.com/{{ pagedata.organizers.twitter }}">@{{ pagedata.organizers.twitter }}</a></p>
             {% endif %}
             You can reach them via <a href="mailto:{{pagedata.organizers.email}}">email</a>
             </div>
@@ -155,8 +153,9 @@ layout: base
           {% for tag in page.tags %}
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
+          <br/><br/>
         </div>
-        <br/>
+        
       {% endif %}
 
       <br/>
