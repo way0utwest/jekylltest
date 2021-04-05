@@ -27,5 +27,9 @@ speakerlisturl: "https://www.google.com"
 callforspeakers:  true
 
 organizers:
+  - name: Denver SSUG
+    twitter: denversql
+
+volunteers:
   -
-    name: Denver SSUG
+    description: "This is text for the volunteer area."
