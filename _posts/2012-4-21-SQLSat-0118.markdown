@@ -12,7 +12,7 @@ prettydate: "21 April 2012"
 - 3550 Anderson St
 - Madison, Wisconsin
  
-<a href="/PDF/0118.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0118.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -832,39 +834,39 @@ I started my Career in IT as a Java developer on a large web development project
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tushaus Computer Services](http://www.tushaus.com)
+- [Tushaus Computer Services](http://www.tushaus.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Rubix Consulting LLC.](http://www.rubixconsulting.net/)
+- [Rubix Consulting LLC.](http://www.rubixconsulting.net/)
  
-[Doug Lane](http://www.douglane.net)
+- [Doug Lane](http://www.douglane.net)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[joshuafennessy.com](http://joshuafennessy.com)
+- [joshuafennessy.com](http://joshuafennessy.com)
  
-[Craig Purnell](http://www.craigpurnell.com)
+- [Craig Purnell](http://www.craigpurnell.com)
  
-[Sean P. Kelley](http://seanpkelley.com)
+- [Sean P. Kelley](http://seanpkelley.com)
  
-[Tracy McKibben](http://www.realsqlguy.com)
+- [Tracy McKibben](http://www.realsqlguy.com)
  
-[Jes Schultz Borland](http://tinyurl.com/tinyJes)
+- [Jes Schultz Borland](http://tinyurl.com/tinyJes)
  
-[SQLFriends](http://sqlfriends.org)
+- [SQLFriends](http://sqlfriends.org)
  
-[CUNA Mutual Group](http://cunamutual.com)
+- [CUNA Mutual Group](http://cunamutual.com)
  
-[Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
+- [Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

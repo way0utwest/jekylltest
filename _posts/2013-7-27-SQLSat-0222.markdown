@@ -12,7 +12,7 @@ prettydate: "27 July 2013"
 - 2700 Gateway Oaks Drive, Suite 2600
 - Sacramento, California
  
-<a href="/PDF/0222.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0222.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -777,29 +779,29 @@ Jim Murphy has been using Microsoft SQL Server since version 6.0 back in the 90#
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Robert Half International](http://www.roberthalftechnology.com)
+- [Robert Half International](http://www.roberthalftechnology.com)
  
-[DesignMind](http://www.designmind.com/)
+- [DesignMind](http://www.designmind.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[OCZ Technology](http://ocz.com/enterprise)
+- [OCZ Technology](http://ocz.com/enterprise)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

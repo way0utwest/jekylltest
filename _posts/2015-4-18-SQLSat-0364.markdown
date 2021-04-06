@@ -12,7 +12,7 @@ prettydate: "18 April 2015"
 - 1 Cambridge Center
 - Cambridge, Massachusetts
  
-<a href="/PDF/0364.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0364.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1030,41 +1032,41 @@ Sunil Kadimdiwan Sunil Kadimdiwan has 25+ years’ experience in architecting an
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DH2i](http://www.dh2i.com)
+- [DH2i](http://www.dh2i.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Plus Consulting](http://www.plusconsulting.com)
+- [Plus Consulting](http://www.plusconsulting.com)
  
-[Effektor](http://www.effektor.bi)
+- [Effektor](http://www.effektor.bi)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[New Horizons Computer Learning Center](http://www.nhls.com)
+- [New Horizons Computer Learning Center](http://www.nhls.com)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[SQLintersection](http://www.SQLintersection.com)
+- [SQLintersection](http://www.SQLintersection.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Brent Ozar Unlimited](http://www.brentozar.com)
+- [Brent Ozar Unlimited](http://www.brentozar.com)
  
-[SQL Summer Camp](https://wateroxconsulting.com)
+- [SQL Summer Camp](https://wateroxconsulting.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

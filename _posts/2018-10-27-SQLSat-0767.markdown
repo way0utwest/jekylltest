@@ -12,7 +12,7 @@ prettydate: "27 October 2018"
 - 28500 W Park Hwy
 - Ashland, Nebraska
  
-<a href="/PDF/0767.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0767.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -785,31 +787,31 @@ Jen McCown is CEO of MinionWare, LLC; a Microsoft Certified Master for SQL Serve
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Farm Credit Services of America](https://www.fcsamerica.com/)
+- [Farm Credit Services of America](https://www.fcsamerica.com/)
  
-[Don't Panic Labs](https://dontpaniclabs.com/)
+- [Don't Panic Labs](https://dontpaniclabs.com/)
  
-[Sandhills Publishing](http://www.sandhills.com)
+- [Sandhills Publishing](http://www.sandhills.com)
  
-[Modis, Inc.](http://www.modis.com/)
+- [Modis, Inc.](http://www.modis.com/)
  
-[Ameritas Life Insurance Corp.](http://www.ameritas.com)
+- [Ameritas Life Insurance Corp.](http://www.ameritas.com)
  
-[NetApp Inc](https://www.netapp.com/us/index.aspx)
+- [NetApp Inc](https://www.netapp.com/us/index.aspx)
  
-[Delphix](http://www.delphix.com)
+- [Delphix](http://www.delphix.com)
  
-[Datalere](https://datalere.com/)
+- [Datalere](https://datalere.com/)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

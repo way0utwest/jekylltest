@@ -12,7 +12,7 @@ prettydate: "8 June 2019"
 - Av. Té 950, Granjas México, CDMX
 - Mexico City, Mexico City, Mexico
  
-<a href="/PDF/0833.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0833.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -970,21 +972,21 @@ Mi primer contacto con SQL Server fue con la versión 2000 y no ha dejado de apr
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[CBS Mexico](http://www.cbsmexico.com/)
+- [CBS Mexico](http://www.cbsmexico.com/)
  
-[Business Intelligence LATAM](http://bit.ly/SuscribirseBILATAM)
+- [Business Intelligence LATAM](http://bit.ly/SuscribirseBILATAM)
  
-[Power Platform Tour Mexico 2019](https://www.powerplatformworldtour.com/ppworldtour/locations/mexico-city)
+- [Power Platform Tour Mexico 2019](https://www.powerplatformworldtour.com/ppworldtour/locations/mexico-city)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

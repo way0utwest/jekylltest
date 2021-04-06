@@ -12,7 +12,7 @@ prettydate: "18 September 2010"
 - 4101 Doie Cope Road
 - Raleigh, North Carolina
  
-<a href="/PDF/0046.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0046.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -744,51 +746,51 @@ Mark Tabladillo provides consulting and training for data mining with Solid Qual
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Transcender](http://www.transcender.com)
+- [Transcender](http://www.transcender.com)
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
-[Veredus Corporation](http://vereduscorp.com/)
+- [Veredus Corporation](http://vereduscorp.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[LogicNP Software](http://www.ssware.com)
+- [LogicNP Software](http://www.ssware.com)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[AppDev](http://www.appdev.com/)
+- [AppDev](http://www.appdev.com/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Manning Publications Co.](http://www.manning.com)
+- [Manning Publications Co.](http://www.manning.com)
  
-[Extreme Data Systems](http://www.SQLLocator.com)
+- [Extreme Data Systems](http://www.SQLLocator.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[ECPI College of Technology](http://www.ecpi.edu)
+- [ECPI College of Technology](http://www.ecpi.edu)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQLShare](http://www.sqlshare.com)
+- [SQLShare](http://www.sqlshare.com)
  
-[TekPub](http://blog.tekpub.com/)
+- [TekPub](http://blog.tekpub.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

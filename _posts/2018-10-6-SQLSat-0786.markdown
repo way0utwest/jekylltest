@@ -12,7 +12,7 @@ prettydate: "6 October 2018"
 - Complejo Onofre Carballeira Esq. PR-2 con Int. PR-5
 - San Juan, San Juan, Puerto Rico
  
-<a href="/PDF/0786.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0786.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -307,21 +309,21 @@ Passionate Software Developer in mobile and web technologies.  Leader of the Goo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Nagnoi, LLC](http://www.nagnoi.com)
+- [Nagnoi, LLC](http://www.nagnoi.com)
  
-[Microsoft Caribbean](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Caribbean](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[JC Automation Corp.](http://jcapr.com/)
+- [JC Automation Corp.](http://jcapr.com/)
  
-[Wovenware Inc.](http://www.wovenware.com/)
+- [Wovenware Inc.](http://www.wovenware.com/)
  
-[Engine 4 Coworking Space](http://www.engine-4.com/en)
+- [Engine 4 Coworking Space](http://www.engine-4.com/en)
  
-[GDG Puerto Rico](https://www.meetup.com/gdgpuertorico/)
+- [GDG Puerto Rico](https://www.meetup.com/gdgpuertorico/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

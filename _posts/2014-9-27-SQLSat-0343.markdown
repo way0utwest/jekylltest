@@ -12,7 +12,7 @@ prettydate: "27 September 2014"
 - Carrera 49 N° 7 Sur - 50
 - Medellín, , Colombia
  
-<a href="/PDF/0343.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0343.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -489,27 +491,27 @@ You#39;re welcome to my site http://www.synergytpc.com and my blog http://msmvps
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[Information Workers S.A.S.](http://www.iwco.co/)
+- [Information Workers S.A.S.](http://www.iwco.co/)
  
-[Ultracom](http://200.116.1.16/ultracom)
+- [Ultracom](http://200.116.1.16/ultracom)
  
-[Universidad EAFIT](http://www.eafit.edu.co)
+- [Universidad EAFIT](http://www.eafit.edu.co)
  
-[Synergy TPC S.A.S.](http://www.synergytpc.com/)
+- [Synergy TPC S.A.S.](http://www.synergytpc.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Apress Media LLC](https://www.apress.com/)
+- [Apress Media LLC](https://www.apress.com/)
  
-[AtomHouse](http://atomhouse.co/es/)
+- [AtomHouse](http://atomhouse.co/es/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

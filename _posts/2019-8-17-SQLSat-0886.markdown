@@ -12,7 +12,7 @@ prettydate: "17 August 2019"
 - 300 N 17th St
 - Noblesville, Indiana
  
-<a href="/PDF/0886.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0886.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1435,43 +1437,43 @@ A husband and SQL Server addict who is obsessed with making data move faster.  C
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Salesforce](https://www.salesforce.com/)
+- [Salesforce](https://www.salesforce.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
+- [New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
  
-[NIS Technologies](http://www.nistechnologies.com)
+- [NIS Technologies](http://www.nistechnologies.com)
  
-[KiZAN](https://www.kizan.com)
+- [KiZAN](https://www.kizan.com)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[Pinnacle Partners](https://www.partnersinstaffing.com/)
+- [Pinnacle Partners](https://www.partnersinstaffing.com/)
  
-[Moser Consulting](http://moserit.com)
+- [Moser Consulting](http://moserit.com)
  
-[DMI](https://dminc.com/)
+- [DMI](https://dminc.com/)
  
-[Women  Hi Tech](https://www.womenandhitech.org)
+- [Women  Hi Tech](https://www.womenandhitech.org)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Sagevane](https://sagevane.com/)
+- [Sagevane](https://sagevane.com/)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

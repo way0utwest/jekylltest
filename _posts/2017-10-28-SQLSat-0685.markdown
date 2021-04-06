@@ -12,7 +12,7 @@ prettydate: "28 October 2017"
 - Rua Dr. António Bernardino de Almeida, 431
 - Porto, Porto, Portugal
  
-<a href="/PDF/0685.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0685.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -549,25 +551,25 @@ Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DevScope, S.A.](http://www.devscope.net)
+- [DevScope, S.A.](http://www.devscope.net)
  
-[Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
+- [Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
  
-[Natixis – Sucursal em Portugal](https://www.linkedin.com/jobs/search/?f_C=157354locationId=pt%3A7397)
+- [Natixis – Sucursal em Portugal](https://www.linkedin.com/jobs/search/?f_C=157354locationId=pt%3A7397)
  
-[Culto de BI](http://www.culto-de-bi.pt)
+- [Culto de BI](http://www.culto-de-bi.pt)
  
-[BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
+- [BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
  
-[Aberto até de madrugada](http://abertoatedemadrugada.com/)
+- [Aberto até de madrugada](http://abertoatedemadrugada.com/)
  
-[pplware](http://pplware.sapo.pt)
+- [pplware](http://pplware.sapo.pt)
  
-[ISEP](https://www.isep.ipp.pt/)
+- [ISEP](https://www.isep.ipp.pt/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

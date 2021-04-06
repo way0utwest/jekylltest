@@ -12,7 +12,7 @@ prettydate: "27 August 2011"
 - 13301 South Pennsylvania Avenue
 - Oklahoma City, Oklahoma
  
-<a href="/PDF/0090.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0090.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -395,27 +397,27 @@ Sri is the President of North Texas SQL Server User Group. Sri has been involved
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Consulting Services, Inc.](http://www.csioklahoma.com/)
+- [Consulting Services, Inc.](http://www.csioklahoma.com/)
  
-[HP - Microsoft Alliance](http://www.microsoft.com/sqlserver/en/us/solutions-technologies/hp-partnership.aspx)
+- [HP - Microsoft Alliance](http://www.microsoft.com/sqlserver/en/us/solutions-technologies/hp-partnership.aspx)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Stonebridge](http://www.sbti.com/)
+- [Stonebridge](http://www.sbti.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

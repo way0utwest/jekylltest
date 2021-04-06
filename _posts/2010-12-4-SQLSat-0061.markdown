@@ -12,7 +12,7 @@ prettydate: "4 December 2010"
 - 12012 Sunset Hills Rd
 - Reston, Virginia
  
-<a href="/PDF/0061.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0061.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -668,31 +670,31 @@ Host of BDBI Radio (http://www.bdbiradio.com), a weekly webcast on SQL/BI topics
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Edgewood Solutions](http://www.edgewoodsolutions.com)
+- [Edgewood Solutions](http://www.edgewoodsolutions.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[CapTech](http://www.captechconsulting.com/)
+- [CapTech](http://www.captechconsulting.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[The FUZION Agency](http://www.FUZIONAgency.com)
+- [The FUZION Agency](http://www.FUZIONAgency.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

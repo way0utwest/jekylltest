@@ -12,7 +12,7 @@ prettydate: "10 September 2011"
 - 10701 South River Front Parkway
 - Salt Lake City, Utah
  
-<a href="/PDF/0094.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0094.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -593,25 +595,25 @@ Doug Lane (MCITP, MCTS) is a consultant with Brent Ozar Unlimited and has over 1
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL RNNR Database Services](http://jasonbrimhall.info)
+- [SQL RNNR Database Services](http://jasonbrimhall.info)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Apress, Inc.](http://www.apress.com)
+- [Apress, Inc.](http://www.apress.com)
  
-[SSWUG.org](https://www.sswug.org/)
+- [SSWUG.org](https://www.sswug.org/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

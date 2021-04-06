@@ -12,7 +12,7 @@ prettydate: "1 December 2018"
 - Av. Petit Thouars 2021
 - Lince, Lima, Peru
  
-<a href="/PDF/0812.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0812.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -399,15 +401,15 @@ José Manuel Jurado currently works as SQL Escalation Engineer and Subject Matte
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[ER CLOUD 4U](http://www.ercloud4u.com)
+- [ER CLOUD 4U](http://www.ercloud4u.com)
  
-[Universidad Norbert Wiener](https://www.uwiener.edu.pe/)
+- [Universidad Norbert Wiener](https://www.uwiener.edu.pe/)
  
-[MgSolutionsPeru](http://mgsolutionsperu.com/)
+- [MgSolutionsPeru](http://mgsolutionsperu.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "22 April 2017"
 - 1065 La Avenida
 - Mountain View, California
  
-<a href="/PDF/0621.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0621.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -902,35 +904,35 @@ Kellyn has spoken at numerous technical conferences for Oracle, Big Data, DevOps
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DesignMind](http://www.designmind.com/)
+- [DesignMind](http://www.designmind.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Pyramid Technology Solutions, Inc.](http://www.pyramidinc.com/)
+- [Pyramid Technology Solutions, Inc.](http://www.pyramidinc.com/)
  
-[Data Advantage Group, Inc.](http://www.dag.com)
+- [Data Advantage Group, Inc.](http://www.dag.com)
  
-[MVP Systems Software](http://www.jamsscheduler.com)
+- [MVP Systems Software](http://www.jamsscheduler.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Level Education](http://www.leveledu.com)
+- [Level Education](http://www.leveledu.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Nigel Frank International](https://www.nigelfrank.com/us)
+- [Nigel Frank International](https://www.nigelfrank.com/us)
  
-[LearnIT!](http://www.learnit.com/)
+- [LearnIT!](http://www.learnit.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

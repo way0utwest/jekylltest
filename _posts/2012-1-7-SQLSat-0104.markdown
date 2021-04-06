@@ -12,7 +12,7 @@ prettydate: "7 January 2012"
 - 5825 Mark Dabling Boulevard
 - Colorado Springs, Colorado
  
-<a href="/PDF/0104.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0104.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -699,53 +701,53 @@ Mark Halstead is the SQL Server technical lead dba for Xtivia working in the Vir
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Data Realized](http://www.datarealized.com/)
+- [Data Realized](http://www.datarealized.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[DATAVERSITY](http://www.dataversity.net/)
+- [DATAVERSITY](http://www.dataversity.net/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Xtivia](http://www.xtivia.com/)
+- [Xtivia](http://www.xtivia.com/)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[SQLskills.com](http://www.sqlskills.com/)
+- [SQLskills.com](http://www.sqlskills.com/)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Chris Gosnell Photography](http://www.chrisgosnellphoto.com/)
+- [Chris Gosnell Photography](http://www.chrisgosnellphoto.com/)
  
-[Webucator](http://www.webucator.com/database/sql.cfm)
+- [Webucator](http://www.webucator.com/database/sql.cfm)
  
-[Morgan Kaufmann Publishers](http://mkp.com/)
+- [Morgan Kaufmann Publishers](http://mkp.com/)
  
-[Code Magazine](http://www.code-magazine.com/)
+- [Code Magazine](http://www.code-magazine.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Manning Publications Co.](http://www.manning.com)
+- [Manning Publications Co.](http://www.manning.com)
  
-[DiscountASP.Net](http://discountasp.net/)
+- [DiscountASP.Net](http://discountasp.net/)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Colorado Springs Convention  Visitors Bureau](http://www.visitcos.com/)
+- [Colorado Springs Convention  Visitors Bureau](http://www.visitcos.com/)
  
-[Gabby Communications](http://www.GabbyCommunications.com)
+- [Gabby Communications](http://www.GabbyCommunications.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SSWUG](http://www.sswug.org)
+- [SSWUG](http://www.sswug.org)
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

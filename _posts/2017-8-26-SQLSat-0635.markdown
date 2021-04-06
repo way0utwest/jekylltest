@@ -12,7 +12,7 @@ prettydate: "26 August 2017"
 - 800 Robson Street
 - Vancouver, British Columbia, Canada
  
-<a href="/PDF/0635.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0635.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -816,25 +818,25 @@ Michael Barras is a Senior Database Engineer with the Amazon Relational Database
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Microsoft Canada](https://technet.microsoft.com/en-ca)
+- [Microsoft Canada](https://technet.microsoft.com/en-ca)
  
-[Excelguru Consulting Inc.](https://www.excelguru.ca)
+- [Excelguru Consulting Inc.](https://www.excelguru.ca)
  
-[AWS](https://aws.amazon.com/)
+- [AWS](https://aws.amazon.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Datrium](http://www.datrium.com/)
+- [Datrium](http://www.datrium.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Born SQL](https://bornsql.ca)
+- [Born SQL](https://bornsql.ca)
  
-[SQLBI](http://www.sqlbi.com/)
+- [SQLBI](http://www.sqlbi.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "5 February 2011"
 - 50 Pearl Road
 - Cleveland, Ohio
  
-<a href="/PDF/0060.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0060.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -798,33 +800,33 @@ Evan spent 10 years doing RD for a major textile manufacturer. He joined Microso
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SHI](https://www.shi.com/)
+- [SHI](https://www.shi.com/)
  
-[Aspose Pty Ltd](http://www.aspose.com)
+- [Aspose Pty Ltd](http://www.aspose.com)
  
-[Wrox/Wiley](http://www.wiley.com/WileyCDA/Brand/id-34.html)
+- [Wrox/Wiley](http://www.wiley.com/WileyCDA/Brand/id-34.html)
  
-[Manning Publications Co.](http://www.manning.com)
+- [Manning Publications Co.](http://www.manning.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Hyland Software](http://www.hyland.com)
+- [Hyland Software](http://www.hyland.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "14 October 2017"
 - Boulevard "Tsarigradsko shose" 111B
 - Sofia, Sofiya, Bulgaria
  
-<a href="/PDF/0642.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0642.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -878,27 +880,27 @@ I met the Relational theory when there were no commercial RDBMS, and I was spell
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Adatis](http://www.adatis.co.uk)
+- [Adatis](http://www.adatis.co.uk)
  
-[TechTalks.bg](http://techtalks.bg/)
+- [TechTalks.bg](http://techtalks.bg/)
  
-[SuperHosting.BG](http://www.superhosting.bg/)
+- [SuperHosting.BG](http://www.superhosting.bg/)
  
-[SQL Master Academy](http://www.sqlmasteracademy.com/)
+- [SQL Master Academy](http://www.sqlmasteracademy.com/)
  
-[KPMG](http://www.kpmg.com)
+- [KPMG](http://www.kpmg.com)
  
-[ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
+- [ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
  
-[SBTECH](http://www.sbtech.com/)
+- [SBTECH](http://www.sbtech.com/)
  
-[Software Group](http://www.softwaregroup-bg.com/)
+- [Software Group](http://www.softwaregroup-bg.com/)
  
-[Software AG](http://www.softwareag.com/)
+- [Software AG](http://www.softwareag.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

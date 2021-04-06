@@ -12,7 +12,7 @@ prettydate: "15 March 2014"
 - 1065 La Avenida
 - Mountain View, California
  
-<a href="/PDF/0276.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0276.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -778,65 +780,65 @@ Thomas LaRock is a Head Geek at SolarWinds and a Microsoft Certified Master, Dat
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Dynamics Edge](http://www.dynamicsedge.com)
+- [Dynamics Edge](http://www.dynamicsedge.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[OCZ Storage Solutions - A Toshiba Group Company](http://www.ocz.com)
+- [OCZ Storage Solutions - A Toshiba Group Company](http://www.ocz.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Iron Speed, Inc.](http://www.ironspeed.com)
+- [Iron Speed, Inc.](http://www.ironspeed.com)
  
-[LearnIT!](http://www.learnit.com/)
+- [LearnIT!](http://www.learnit.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Hush Hush](http://www.mask-me.net)
+- [Hush Hush](http://www.mask-me.net)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[SurveyMonkey](https://www.surveymonkey.com)
+- [SurveyMonkey](https://www.surveymonkey.com)
  
-[Data by Design](http://www.dataxdesign.com)
+- [Data by Design](http://www.dataxdesign.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[PernixData](http://www.pernixdata.com)
+- [PernixData](http://www.pernixdata.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[DesignMind](http://www.designmind.com/)
+- [DesignMind](http://www.designmind.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[MarkTab Inc](http://marktab.net/datamining/)
+- [MarkTab Inc](http://marktab.net/datamining/)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Sapien](http://www.sapien.com)
+- [Sapien](http://www.sapien.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "8 June 2013"
 - 18 Holyrood Park Road
 - Edinburgh, , United Kingdom
  
-<a href="/PDF/0202.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0202.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -305,25 +307,25 @@ James Rowland-Jones (JRJ) is a Principal Program Manager at Microsoft. He is cur
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Prodata](http://www.prodata.ie)
+- [Prodata](http://www.prodata.ie)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
+- [Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Aspose Pty Ltd](http://www.aspose.com)
+- [Aspose Pty Ltd](http://www.aspose.com)
  
-[SQLskills](http://www.sqlskills.com)
+- [SQLskills](http://www.sqlskills.com)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "12 October 2019"
 - 235 Marshall Avenue
 - Saint Paul, Minnesota
  
-<a href="/PDF/0913.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0913.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1342,45 +1344,45 @@ He holds certifications such as; Databricks Certified Developer, AWS Solutions A
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Nutanix](https://www.nutanix.com/)
+- [Nutanix](https://www.nutanix.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Tail Wind Informatics Corp.](http://tailwindtech.com/)
+- [Tail Wind Informatics Corp.](http://tailwindtech.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Concurrency, Inc.](http://www.concurrency.com)
+- [Concurrency, Inc.](http://www.concurrency.com)
  
-[Fulton Analytics](https://www.linkedin.com/company/fulton-analytics)
+- [Fulton Analytics](https://www.linkedin.com/company/fulton-analytics)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Covering Data Consulting, LLC](http://www.coveringdata.com)
+- [Covering Data Consulting, LLC](http://www.coveringdata.com)
  
-[Analytics8](https://www.analytics8.com)
+- [Analytics8](https://www.analytics8.com)
  
-[New Horizons Computer Learning Center - Minnesota](http://minnesota.newhorizons.com/)
+- [New Horizons Computer Learning Center - Minnesota](http://minnesota.newhorizons.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Talavant](http://www.talavant.com)
+- [Talavant](http://www.talavant.com)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Windocks](https://windocks.com)
+- [Windocks](https://windocks.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

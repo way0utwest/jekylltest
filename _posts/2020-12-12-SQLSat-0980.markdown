@@ -12,7 +12,7 @@ prettydate: "12 December 2020"
 - 15 Gladston Str., 4000 Plovdiv, Bulgaria
 - Plovdiv, Plovdiv, Bulgaria
  
-<a href="/PDF/0980.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0980.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -37,9 +39,9 @@ This is a list of speakers from the XML Guidebook records. The details and URLs 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

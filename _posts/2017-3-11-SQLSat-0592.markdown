@@ -12,7 +12,7 @@ prettydate: "11 March 2017"
 - 15 E Peace Street
 - Raleigh, North Carolina
  
-<a href="/PDF/0592.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0592.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -790,25 +792,25 @@ John has over a decade of experience working with SQL Server and the Microsoft D
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SelectStar](https://selectstar.io/)
+- [SelectStar](https://selectstar.io/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Hortonworks](http://hortonworks.com/)
+- [Hortonworks](http://hortonworks.com/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Hays - Powered by Veredus](http://vereduscorp.com/)
+- [Hays - Powered by Veredus](http://vereduscorp.com/)
  
-[SolidQ North America](http://www.solidq.com)
+- [SolidQ North America](http://www.solidq.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

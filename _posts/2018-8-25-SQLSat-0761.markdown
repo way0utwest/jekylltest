@@ -12,7 +12,7 @@ prettydate: "25 August 2018"
 - 25 Francis St
 - Perth, Western Australia, Australia
  
-<a href="/PDF/0761.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0761.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -479,23 +481,23 @@ Rob Farley runs LobsterPot Solutions in Australia, where he's a consultant in th
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Insight Enterprises](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [Insight Enterprises](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[MICROMINE](https://www.micromine.com/)
+- [MICROMINE](https://www.micromine.com/)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Satalyst Pty Ltd](https://satalyst.com/)
+- [Satalyst Pty Ltd](https://satalyst.com/)
  
-[Readify](https://readify.net/)
+- [Readify](https://readify.net/)
  
-[Access Analytic](https://accessanalytic.com.au/)
+- [Access Analytic](https://accessanalytic.com.au/)
  
-[Nespresso Professional](https://www.nespresso.com/pro/au/en/home?utm_id=1e36d2cd-1059-4b28-9991-07aee1b30512)
+- [Nespresso Professional](https://www.nespresso.com/pro/au/en/home?utm_id=1e36d2cd-1059-4b28-9991-07aee1b30512)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

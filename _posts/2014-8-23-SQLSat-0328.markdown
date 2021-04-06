@@ -12,7 +12,7 @@ prettydate: "23 August 2014"
 - 800 Lakeshore Drive
 - Birmingham, Alabama
  
-<a href="/PDF/0328.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0328.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -996,31 +998,31 @@ Louis Davidson has worked in the IT industry for over 25 years as a corporate da
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Steel City SQL](http://steelcitysql.sqlpass.org)
+- [Steel City SQL](http://steelcitysql.sqlpass.org)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[McGraw-Hill](http://www.mhprofessional.com/)
+- [McGraw-Hill](http://www.mhprofessional.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

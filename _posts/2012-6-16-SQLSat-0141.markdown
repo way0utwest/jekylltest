@@ -12,7 +12,7 @@ prettydate: "16 June 2012"
 - 3301 College Ave
 - Davie, Florida
  
-<a href="/PDF/0141.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0141.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -745,43 +747,43 @@ Tim is very active and passionate in the SQL Community. He runs the Columbus GA 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Homnick Systems, Inc.](http://homnick.com)
+- [Homnick Systems, Inc.](http://homnick.com)
  
-[SherlockTech Staffing](http://www.sherlocktech.com/staff-seeker/)
+- [SherlockTech Staffing](http://www.sherlocktech.com/staff-seeker/)
  
-[TEKPartners](http://www.tekpartners.com)
+- [TEKPartners](http://www.tekpartners.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[hp](http://www.valid.nl/)
+- [hp](http://www.valid.nl/)
  
-[Insight Global, Inc.](http://www.insightglobal.net/)
+- [Insight Global, Inc.](http://www.insightglobal.net/)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Nova Southeastern University](http://scis.nova.edu)
+- [Nova Southeastern University](http://scis.nova.edu)
  
-[Precise](http://www.precise.com)
+- [Precise](http://www.precise.com)
  
-[dotNet Miami](http://dotnetmiami.com)
+- [dotNet Miami](http://dotnetmiami.com)
  
-[DirecLogix](http://www.direclogix.com)
+- [DirecLogix](http://www.direclogix.com)
  
-[Xtivia](http://www.xtivia.com/)
+- [Xtivia](http://www.xtivia.com/)
  
-[Convergence Consulting Group](http://www.ccgBI.com)
+- [Convergence Consulting Group](http://www.ccgBI.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Cesar Henao For Congress Committee](http://cesarforcongress.com)
+- [Cesar Henao For Congress Committee](http://cesarforcongress.com)
  
-[Ultimate Software](http://www.ultimatesoftware.com/)
+- [Ultimate Software](http://www.ultimatesoftware.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Blue Syntax Consulting](http://www.bluesyntaxconsulting.com)
+- [Blue Syntax Consulting](http://www.bluesyntaxconsulting.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

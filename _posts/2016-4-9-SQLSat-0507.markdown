@@ -12,7 +12,7 @@ prettydate: "9 April 2016"
 - 10303 Jasper Avenue NW 
 - Edmonton, Alberta, Canada
  
-<a href="/PDF/0507.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0507.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -326,15 +328,15 @@ Terry has recently worked on integrating Agile practices into Database projects.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Hitachi Solutions](http://canada.hitachi-solutions.com/)
+- [Hitachi Solutions](http://canada.hitachi-solutions.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[EMC-XtremIO](http://www.emc.com/en-us/index.htm)
+- [EMC-XtremIO](http://www.emc.com/en-us/index.htm)
  
-[EMC (2)](http://www.emc.com/en-ca/index.htm?fromGlobalSelector)
+- [EMC (2)](http://www.emc.com/en-ca/index.htm?fromGlobalSelector)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

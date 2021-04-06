@@ -12,7 +12,7 @@ prettydate: "5 December 2015"
 - 60A Lypynskoho str.
 - Lviv, L'vivs'ka Oblast', Ukraine
  
-<a href="/PDF/0426.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0426.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -374,25 +376,25 @@ Senior Database Platform Engineer, leader of Krakow chapter of Data Community Kr
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[БАКОТЕК](http://bakotech.ua/vendor/quest-software/)
+- [БАКОТЕК](http://bakotech.ua/vendor/quest-software/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[EPAMSystems](http://www.epam.com/)
+- [EPAMSystems](http://www.epam.com/)
  
-[ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
+- [ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
  
-[SoftServe](http://www.softserveinc.com)
+- [SoftServe](http://www.softserveinc.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

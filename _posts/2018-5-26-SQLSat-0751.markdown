@@ -12,7 +12,7 @@ prettydate: "26 May 2018"
 - Antonio Varas 666, Providencia
 - Santiago, Región Metropolitana, Chile
  
-<a href="/PDF/0751.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0751.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -575,19 +577,19 @@ Javier is a frequent speaker in conferences and events such as SQL Saturday , PA
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Metric Arts](http://www.metricarts.com)
+- [Metric Arts](http://www.metricarts.com)
  
-[SoftwareONE](http://www.softwareone.com)
+- [SoftwareONE](http://www.softwareone.com)
  
-[EY Chile](http://www.eychile.cl/)
+- [EY Chile](http://www.eychile.cl/)
  
-[Punto Ticket](http://www.puntoticket.cl)
+- [Punto Ticket](http://www.puntoticket.cl)
  
-[NewsReport](https://www.newsreport.io/)
+- [NewsReport](https://www.newsreport.io/)
  
-[CUATROi](http://www.cuatroi.com)
+- [CUATROi](http://www.cuatroi.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

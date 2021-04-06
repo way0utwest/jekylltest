@@ -12,7 +12,7 @@ prettydate: "12 May 2012"
 - 1 Lomb Memorial Drive
 - Rochester, New York
  
-<a href="/PDF/0129.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0129.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -679,33 +681,33 @@ Jason Thomas is a Microsoft Certified SQL Server professional with over 6 years 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Rochester Institute of Technology](http://www.rit.edu/)
+- [Rochester Institute of Technology](http://www.rit.edu/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[New Horizons Computer Learning Center](http://www.nhls.com)
+- [New Horizons Computer Learning Center](http://www.nhls.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[Morgan Kaufmann Publishers](http://mkp.com/)
+- [Morgan Kaufmann Publishers](http://mkp.com/)
  
-[SQL Server Pro](http://www.sqlmag.com/)
+- [SQL Server Pro](http://www.sqlmag.com/)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

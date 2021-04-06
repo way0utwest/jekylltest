@@ -12,7 +12,7 @@ prettydate: "20 September 2014"
 - Charlemount Place
 - Dublin, , Ireland
  
-<a href="/PDF/0310.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0310.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -735,33 +737,33 @@ As a committee member for the SQL Server Ireland User Group, she has played an a
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Spanish Point Technologies Ltd](http://www.spanishpoint.ie)
+- [Spanish Point Technologies Ltd](http://www.spanishpoint.ie)
  
-[Storm Technology](http://www.storm.ie)
+- [Storm Technology](http://www.storm.ie)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Codec-dss](http://www.codecdss.ie/)
+- [Codec-dss](http://www.codecdss.ie/)
  
-[Safefood 360](http://safefood360.com/)
+- [Safefood 360](http://safefood360.com/)
  
-[Prodata](http://www.prodata.ie)
+- [Prodata](http://www.prodata.ie)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Microsoft Iireland](http://www.microsoft.ie)
+- [Microsoft Iireland](http://www.microsoft.ie)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

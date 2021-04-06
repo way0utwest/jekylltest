@@ -12,7 +12,7 @@ prettydate: "14 April 2012"
 - Av. Cra. 68 No 90-88 Bloque Administrativo Piso 1
 - Bogotá, Bogota D.C, Colombia
  
-<a href="/PDF/0124.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0124.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -221,29 +223,29 @@ Guillermo Taylor, MVP SQL Server, es ingeniero de sistemas de la Universidad Pil
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Fundación Universitaria CAFAM](http://www.unicafam.edu.co/)
+- [Fundación Universitaria CAFAM](http://www.unicafam.edu.co/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[German Ruiz Photography](http://www.germanruizphotography.com)
+- [German Ruiz Photography](http://www.germanruizphotography.com)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[I  T Learning Center](http://www.itc-learning.com/)
+- [I  T Learning Center](http://www.itc-learning.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[Smartitech](http://www.distribuidores.smartitech.com/)
+- [Smartitech](http://www.distribuidores.smartitech.com/)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

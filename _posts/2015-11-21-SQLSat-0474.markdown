@@ -12,7 +12,7 @@ prettydate: "21 November 2015"
 - 1655 Campus Center Dr
 - Salt Lake City, Utah
  
-<a href="/PDF/0474.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0474.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -614,17 +616,17 @@ Andre has been in the IT industry for over 25 years in various positions with th
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Actifio](http://www.actifio.com)
+- [Actifio](http://www.actifio.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

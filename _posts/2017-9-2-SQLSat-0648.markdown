@@ -12,7 +12,7 @@ prettydate: "2 September 2017"
 - 3012 William Nicol Drive
 - Bryanston, Gauteng, South Africa
  
-<a href="/PDF/0648.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0648.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -596,17 +598,17 @@ Steve Simon is a Database Solutions Architect with Business Knowledge Services I
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[EOH](http://www.eoh.co.za)
+- [EOH](http://www.eoh.co.za)
  
-[First Technology EDS (Pty) Ltd](http://www.firsttecheds.com)
+- [First Technology EDS (Pty) Ltd](http://www.firsttecheds.com)
  
-[Entelect Software](http://www.entelect.co.za/)
+- [Entelect Software](http://www.entelect.co.za/)
  
-[Karabina](https://www.karabina.co.za)
+- [Karabina](https://www.karabina.co.za)
  
-[EnterpriseWorx](https://www.ewx.co.za/)
+- [EnterpriseWorx](https://www.ewx.co.za/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

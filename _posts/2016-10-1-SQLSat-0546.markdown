@@ -12,7 +12,7 @@ prettydate: "1 October 2016"
 - Rua Dr. António Bernardino de Almeida, 431
 - Porto, Porto, Portugal
  
-<a href="/PDF/0546.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0546.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -624,25 +626,25 @@ He is Microsoft Most Valuable Professional, active speaker at local community me
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Culto de BI](http://www.culto-de-bi.pt)
+- [Culto de BI](http://www.culto-de-bi.pt)
  
-[Farfetch Portugal](http://farfetch.com)
+- [Farfetch Portugal](http://farfetch.com)
  
-[Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
+- [Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
  
-[BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
+- [BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
  
-[DevScope, S.A.](http://www.devscope.net)
+- [DevScope, S.A.](http://www.devscope.net)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[pplware](http://pplware.sapo.pt)
+- [pplware](http://pplware.sapo.pt)
  
-[Aberto até de madrugada](http://abertoatedemadrugada.com/)
+- [Aberto até de madrugada](http://abertoatedemadrugada.com/)
  
-[ISEP](https://www.isep.ipp.pt/)
+- [ISEP](https://www.isep.ipp.pt/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

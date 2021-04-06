@@ -12,7 +12,7 @@ prettydate: "22 April 2017"
 - 10303 Jasper Avenue NW
 - Edmonton, Alberta, Canada
  
-<a href="/PDF/0594.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0594.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -509,23 +511,23 @@ Microsoft SQL Server PFE for 6+ years; focusing primary on PTO amp; HADR.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Go Auto](https://www.goauto.ca/)
+- [Go Auto](https://www.goauto.ca/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Devfacto](https://www.devfacto.com/)
+- [Devfacto](https://www.devfacto.com/)
  
-[AMTRA Solutions Ltd.](http://amtrasolutions.com/amtrasolutions/)
+- [AMTRA Solutions Ltd.](http://amtrasolutions.com/amtrasolutions/)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[TEKSystems.ca](https://www.teksystems.com/en-ca/)
+- [TEKSystems.ca](https://www.teksystems.com/en-ca/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

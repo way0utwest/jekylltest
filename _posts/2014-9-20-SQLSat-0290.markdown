@@ -12,7 +12,7 @@ prettydate: "20 September 2014"
 - 4 Hospitalna Str
 - Kiev, , Ukraine
  
-<a href="/PDF/0290.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0290.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -397,35 +399,35 @@ Leader of PASS Local Chapter in Donetsk (Ukraine). I work  as DWH/BI architect. 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Intapp](http://www.intapp.com/)
+- [Intapp](http://www.intapp.com/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Astound](http://sysiq.com/careers)
+- [Astound](http://sysiq.com/careers)
  
-[Evernote](http://evernote.com)
+- [Evernote](http://evernote.com)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[EPAM](http://www.epam.com/)
+- [EPAM](http://www.epam.com/)
  
-[Luxoft](http://www.luxoft.com/)
+- [Luxoft](http://www.luxoft.com/)
  
-[Kiev ALT.NET](https://www.facebook.com/groups/kievaltnet/)
+- [Kiev ALT.NET](https://www.facebook.com/groups/kievaltnet/)
  
-[Microsoft Azure Ukraine User Group](https://www.facebook.com/groups/azure.ua/)
+- [Microsoft Azure Ukraine User Group](https://www.facebook.com/groups/azure.ua/)
  
-[UNETA](http://uneta.ua/)
+- [UNETA](http://uneta.ua/)
  
-[Dev-Time](http://dev-time.org/)
+- [Dev-Time](http://dev-time.org/)
  
-[Weekly IT](http://weekly-it.com/)
+- [Weekly IT](http://weekly-it.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

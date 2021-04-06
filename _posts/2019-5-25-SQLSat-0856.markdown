@@ -12,7 +12,7 @@ prettydate: "25 May 2019"
 - Grantham-Allee 20
 - Sankt Augustin, North Rhine-Westphalia, Germany
  
-<a href="/PDF/0856.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0856.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -924,31 +926,31 @@ Bevor er Ende 2015 zu Microsoft kam, war er viele Jahre bei der heutigen Ernst a
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Solisyon GmbH](http://www.solisyon.de/)
+- [Solisyon GmbH](http://www.solisyon.de/)
  
-[oh22](http://www.oh22.net)
+- [oh22](http://www.oh22.net)
  
-[ORAYLIS GmbH](http://www.oraylis.de/home)
+- [ORAYLIS GmbH](http://www.oraylis.de/home)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[adesso AG](https://www.adesso.de)
+- [adesso AG](https://www.adesso.de)
  
-[Melissa Data GmbH](http://www.melissadata.de)
+- [Melissa Data GmbH](http://www.melissadata.de)
  
-[GDS Business Intelligence GmbH](http://www.gdsbi.de)
+- [GDS Business Intelligence GmbH](http://www.gdsbi.de)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[dbWatch](http://dbwatch.com/)
+- [dbWatch](http://dbwatch.com/)
  
-[inovex GmbH](http://www.inovex.de)
+- [inovex GmbH](http://www.inovex.de)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

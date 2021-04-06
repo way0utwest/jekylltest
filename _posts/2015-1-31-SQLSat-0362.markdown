@@ -12,7 +12,7 @@ prettydate: "31 January 2015"
 - 1209 N IH 35
 - Round Rock, Texas
  
-<a href="/PDF/0362.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0362.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -890,43 +892,43 @@ Shawn (http://www.shawnweisfeld.com, shawn@shawnweisfeld.com) is passionate abou
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Rackspace](http://www.rackspace.com/microsoft)
+- [Rackspace](http://www.rackspace.com/microsoft)
  
-[SQL Watchmen](http://www.sqlwatchmen.com)
+- [SQL Watchmen](http://www.sqlwatchmen.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Linchpin People](http://www.linchpinpeople.com)
+- [Linchpin People](http://www.linchpinpeople.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Amazon Web Services](http://www.aws.amazon.com)
+- [Amazon Web Services](http://www.aws.amazon.com)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

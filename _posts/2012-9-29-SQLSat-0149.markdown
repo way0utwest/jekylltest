@@ -12,7 +12,7 @@ prettydate: "29 September 2012"
 - 200 Union Street SE
 - Minneapolis, Minnesota
  
-<a href="/PDF/0149.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0149.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -968,69 +970,69 @@ Dan is a Microsoft Data Platform MVP, author, technical editor, and community le
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[Virteva](http://www.virteva.com)
+- [Virteva](http://www.virteva.com)
  
-[Magenic](http://www.magenic.com)
+- [Magenic](http://www.magenic.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Benchmark Learning](http://www.benchmarklearning.com/default.aspx)
+- [Benchmark Learning](http://www.benchmarklearning.com/default.aspx)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[RBA](http://www.rbaconsulting.com)
+- [RBA](http://www.rbaconsulting.com)
  
-[Emergent Networks](http://www.emergentnetworks.com)
+- [Emergent Networks](http://www.emergentnetworks.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Intertech](http://www.intertech.com/)
+- [Intertech](http://www.intertech.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SQLskills.com](http://www.sqlskills.com/)
+- [SQLskills.com](http://www.sqlskills.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Stratezon, Inc](http://www.stratezon.com)
+- [Stratezon, Inc](http://www.stratezon.com)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
-[Digineer, Inc.](http://www.digineer.com)
+- [Digineer, Inc.](http://www.digineer.com)
  
-[Lohn Solutions](http://www.sqlfeatherandquill.com/)
+- [Lohn Solutions](http://www.sqlfeatherandquill.com/)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[SQLFriends](http://sqlfriends.org)
+- [SQLFriends](http://sqlfriends.org)
  
-[@Bill_Pearson (Island Technologies Inc.)](http://digital-duke.com)
+- [@Bill_Pearson (Island Technologies Inc.)](http://digital-duke.com)
  
-[EPMAdmin.com](http://www.epmadmin.com/)
+- [EPMAdmin.com](http://www.epmadmin.com/)
  
-[Aaron Stanley King](http://www.aaronstanleyking.com)
+- [Aaron Stanley King](http://www.aaronstanleyking.com)
  
-[IngeniousSQL](http://www.ingenioussql.com/)
+- [IngeniousSQL](http://www.ingenioussql.com/)
  
-[Premier Applications, Inc](http://www.premierapps.com)
+- [Premier Applications, Inc](http://www.premierapps.com)
  
-[Blackdog Innovative Solutions, Inc.](http://www.blackdogis.com)
+- [Blackdog Innovative Solutions, Inc.](http://www.blackdogis.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[U of MN - Software Engineering Center](http://www.umsec.umn.edu)
+- [U of MN - Software Engineering Center](http://www.umsec.umn.edu)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

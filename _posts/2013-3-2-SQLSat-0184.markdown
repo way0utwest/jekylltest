@@ -12,7 +12,7 @@ prettydate: "2 March 2013"
 - 370 Bassett Road
 - North Haven, Connecticut
  
-<a href="/PDF/0184.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0184.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -612,29 +614,29 @@ Kathy has over 19 years of IT work experience and over 13 years of DBA experienc
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tallan](http://www.tallan.com)
+- [Tallan](http://www.tallan.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Bridgewater Associates](http://www.bwater.com/default.aspx)
+- [Bridgewater Associates](http://www.bwater.com/default.aspx)
  
-[Theia Solutions](http://theiasolutionsllc.com/)
+- [Theia Solutions](http://theiasolutionsllc.com/)
  
-[Randstad Technologies](http://technologies.randstadusa.com/)
+- [Randstad Technologies](http://technologies.randstadusa.com/)
  
-[Spire, LLC](http://www.spirenow.com)
+- [Spire, LLC](http://www.spirenow.com)
  
-[Connolly LLC](http://www.connolly.com)
+- [Connolly LLC](http://www.connolly.com)
  
-[Blum Shapiro](http://www.blumshapiro.com)
+- [Blum Shapiro](http://www.blumshapiro.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Pearl Knowledge Solutions Inc.](http://www.pearlknows.com/)
+- [Pearl Knowledge Solutions Inc.](http://www.pearlknows.com/)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

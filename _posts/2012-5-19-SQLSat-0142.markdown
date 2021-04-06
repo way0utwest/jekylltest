@@ -12,7 +12,7 @@ prettydate: "19 May 2012"
 - 201 Jones Rd
 - Waltham, Massachusetts
  
-<a href="/PDF/0142.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0142.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -661,35 +663,35 @@ Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[@Bill_Pearson (Island Technologies Inc.)](http://digital-duke.com)
+- [@Bill_Pearson (Island Technologies Inc.)](http://digital-duke.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[Ntirety, Inc.](http://www.ntirety.com)
+- [Ntirety, Inc.](http://www.ntirety.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Data Education](http://dataeducation.com)
+- [Data Education](http://dataeducation.com)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[McGraw-Hill](http://www.mhprofessional.com/)
+- [McGraw-Hill](http://www.mhprofessional.com/)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "14 September 2013"
 - 5460 Campbells Run Road
 - Pittsburgh, Pennsylvania
  
-<a href="/PDF/0250.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0250.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -836,33 +838,33 @@ A.J. Mee is a Principal for Microsoft.  He has dedicated his entire 20-year care
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[ITT Tech](http://www.itt-tech.edu/campus/school.cfm?lloc_num=70)
+- [ITT Tech](http://www.itt-tech.edu/campus/school.cfm?lloc_num=70)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[OpenArc](http://www.openarc.net/talent)
+- [OpenArc](http://www.openarc.net/talent)
  
-[Aspect Consulting](http://www.aspect-consulting.com/)
+- [Aspect Consulting](http://www.aspect-consulting.com/)
  
-[Community Care Behavioral Health Organization](http://www.ccbh.com)
+- [Community Care Behavioral Health Organization](http://www.ccbh.com)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[Linchpin People](http://www.linchpinpeople.com)
+- [Linchpin People](http://www.linchpinpeople.com)
  
-[ProTech Training](http://protechtraining.com)
+- [ProTech Training](http://protechtraining.com)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

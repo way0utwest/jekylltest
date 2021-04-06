@@ -12,7 +12,7 @@ prettydate: "18 June 2016"
 - Mayor Street Lower
 - Dublin, County Dublin, Ireland
  
-<a href="/PDF/0501.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0501.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -750,25 +752,25 @@ Jens performs the traditional BI disciplines from imports in Integration Service
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Ireland Ltd](https://www.microsoft.com/en-ie/server-cloud/products/sql-server-2016/)
+- [Microsoft Ireland Ltd](https://www.microsoft.com/en-ie/server-cloud/products/sql-server-2016/)
  
-[COEO](http://www.coeo.com)
+- [COEO](http://www.coeo.com)
  
-[SQLSentry PLC](https://www.sentryone.com/)
+- [SQLSentry PLC](https://www.sentryone.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Spanish Point Technologies Ltd](http://www.spanishpoint.ie)
+- [Spanish Point Technologies Ltd](http://www.spanishpoint.ie)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Prodata](http://www.prodata.ie)
+- [Prodata](http://www.prodata.ie)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

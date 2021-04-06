@@ -12,7 +12,7 @@ prettydate: "29 March 2014"
 - 1 Cambridge Center
 - Cambridge, Massachusetts
  
-<a href="/PDF/0262.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0262.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -889,35 +891,35 @@ Veteran DBA Mike Hillwig is a native Pittsburgher and resident of the Boston Sub
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
+- [Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[New England SQL User Group](http://www.meetup.com/NESQLUG/)
+- [New England SQL User Group](http://www.meetup.com/NESQLUG/)
  
-[Data Education](http://dataeducation.com)
+- [Data Education](http://dataeducation.com)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[mikehillwig.com](http://www.mikehillwig.com)
+- [mikehillwig.com](http://www.mikehillwig.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

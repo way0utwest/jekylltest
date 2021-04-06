@@ -12,7 +12,7 @@ prettydate: "27 April 2013"
 - 4550 42nd Street South
 - Fargo, North Dakota
  
-<a href="/PDF/0175.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0175.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -503,31 +505,31 @@ A SQL Server MVP, Professional Engineer and MCITP in both Database Development a
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Fargo](http://www.microsoft.com/ebc/fargo.mspx)
+- [Microsoft Fargo](http://www.microsoft.com/ebc/fargo.mspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[PASSMN (Minnesota SQL Server User Group)](http://minnesota.sqlpass.org/)
+- [PASSMN (Minnesota SQL Server User Group)](http://minnesota.sqlpass.org/)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Steve Stedman](http://DatabaseHealth.SteveStedman.com)
+- [Steve Stedman](http://DatabaseHealth.SteveStedman.com)
  
-[Aaron Stanley King](http://www.aaronstanleyking.com)
+- [Aaron Stanley King](http://www.aaronstanleyking.com)
  
-[Digineer, Inc.](http://www.digineer.com)
+- [Digineer, Inc.](http://www.digineer.com)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

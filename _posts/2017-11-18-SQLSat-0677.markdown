@@ -12,7 +12,7 @@ prettydate: "18 November 2017"
 - Rua Xingu, nº 179 - Jardim Atalaia / STIEP
 - Salvador, Bahia, Brazil
  
-<a href="/PDF/0677.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0677.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -468,25 +470,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[Toma.te Mkt](http://www.tomatemkt.com/)
+- [Toma.te Mkt](http://www.tomatemkt.com/)
  
-[Vita Database Solution](http://www.vitadbsolutions.com)
+- [Vita Database Solution](http://www.vitadbsolutions.com)
  
-[INFINITY SISTEMAS LTDA](http://www.infinitysistemas.com.br)
+- [INFINITY SISTEMAS LTDA](http://www.infinitysistemas.com.br)
  
-[Henki IT](http://www.henki.com.br)
+- [Henki IT](http://www.henki.com.br)
  
-[TCP SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO](http://www.tcpsolucoes.com.br)
+- [TCP SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO](http://www.tcpsolucoes.com.br)
  
-[Fabricio Lima Soluções em BD](http://www.fabriciolima.net/)
+- [Fabricio Lima Soluções em BD](http://www.fabriciolima.net/)
  
-[SQLCORE Database Solutions by Database Experts](http://www.sqlcore.com.br)
+- [SQLCORE Database Solutions by Database Experts](http://www.sqlcore.com.br)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "12 March 2016"
 - Western Way, Exeter
 - Exeter, England, United Kingdom
  
-<a href="/PDF/0496.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0496.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -864,25 +866,25 @@ Matija Lah has more than a decade of experience working with Microsoft SQL Serve
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[COEO](http://www.coeo.com)
+- [COEO](http://www.coeo.com)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Panorama](http://www.panorama.com/)
+- [Panorama](http://www.panorama.com/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[DataMog](https://twitter.com/datamog)
+- [DataMog](https://twitter.com/datamog)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Southampton SQL Server User Group](http://sqlsoton.org)
+- [Southampton SQL Server User Group](http://sqlsoton.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

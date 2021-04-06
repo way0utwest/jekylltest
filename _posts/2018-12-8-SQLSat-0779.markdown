@@ -12,7 +12,7 @@ prettydate: "8 December 2018"
 - Na Strži 1702/65
 - Prague, Prague, Czechia
  
-<a href="/PDF/0779.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0779.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -560,27 +562,27 @@ Andrea is an author for sqlshack.com, sqlservercentral.com, and UGISS (User Grou
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[ADASTRA, s.r.o.](http://www.adastra.cz/)
+- [ADASTRA, s.r.o.](http://www.adastra.cz/)
  
-[DataSentics s.r.o.](http://www.datasentics.com)
+- [DataSentics s.r.o.](http://www.datasentics.com)
  
-[GOPAS, a.s.](https://www.gopas.cz)
+- [GOPAS, a.s.](https://www.gopas.cz)
  
-[Alza.cz a.s.](http://www.alza.cz)
+- [Alza.cz a.s.](http://www.alza.cz)
  
-[Joyful Craftsmen](http://joyfulcraftsmen.com)
+- [Joyful Craftsmen](http://joyfulcraftsmen.com)
  
-[SolidQ CEE](http://www.solidq.com)
+- [SolidQ CEE](http://www.solidq.com)
  
-[Avast Software s.r.o.](https://www.avast.com)
+- [Avast Software s.r.o.](https://www.avast.com)
  
-[Solitea Business Solutions](http://www.solitea.solutions/)
+- [Solitea Business Solutions](http://www.solitea.solutions/)
  
-[Advantage Solutions, s. r. o.](https://www.origam.com)
+- [Advantage Solutions, s. r. o.](https://www.origam.com)
  
-[Intelligent Technologies](https://www.intecs.cz)
+- [Intelligent Technologies](https://www.intecs.cz)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

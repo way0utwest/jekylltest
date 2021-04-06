@@ -12,7 +12,7 @@ prettydate: "17 September 2011"
 - 6767 West O Avenue
 - Kalamazoo, Michigan
  
-<a href="/PDF/0084.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0084.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -713,31 +715,31 @@ Wendy Pastrick is from Chicago, IL, and for the past 15 years has served as a Da
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
+- [New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[TechSmith](http://www.techsmith.com)
+- [TechSmith](http://www.techsmith.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[Yanni Robel](http://yannirobel.com)
+- [Yanni Robel](http://yannirobel.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[BlueGranite](http://www.blue-granite.com)
+- [BlueGranite](http://www.blue-granite.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

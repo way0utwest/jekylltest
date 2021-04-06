@@ -12,7 +12,7 @@ prettydate: "1 February 2020"
 - Baldwin Wallace University, 130 E Grand St, Berea
 - Cleveland, Ohio
  
-<a href="/PDF/0930.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0930.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1056,31 +1058,31 @@ Paul Popovich Jr. has been in the IT space for his whole career and tinkering wi
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[TMW Systems](http://www.tmwsystems.com)
+- [TMW Systems](http://www.tmwsystems.com)
  
-[Foundation Software, Inc.](http://www.foundationsoft.com)
+- [Foundation Software, Inc.](http://www.foundationsoft.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Progressive Insurance](http://www.progressive.com)
+- [Progressive Insurance](http://www.progressive.com)
  
-[NIS Technologies](http://www.nistechnologies.com)
+- [NIS Technologies](http://www.nistechnologies.com)
  
-[Randstad Technologies](http://technologies.randstadusa.com/)
+- [Randstad Technologies](http://technologies.randstadusa.com/)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Improving](http://www.improving.com)
+- [Improving](http://www.improving.com)
  
-[Snowflake](https://www.snowflake.com/)
+- [Snowflake](https://www.snowflake.com/)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

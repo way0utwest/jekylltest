@@ -12,7 +12,7 @@ prettydate: "27 April 2013"
 - 1 UNF Drive
 - Jacksonville, Florida
  
-<a href="/PDF/0215.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0215.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -786,31 +788,31 @@ As President of Pragmatic Works Consulting Adam drives market strategy, sales, p
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Alluvion Staffing](http://www.alluvionstaffing.com)
+- [Alluvion Staffing](http://www.alluvionstaffing.com)
  
-[SNI Technology](http://www.snitechnology.com/)
+- [SNI Technology](http://www.snitechnology.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[University of North Florida](http://www.unf.edu)
+- [University of North Florida](http://www.unf.edu)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[iMethods Inc.](http://www.imethods.com)
+- [iMethods Inc.](http://www.imethods.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Incepture](http://www.incepture.com/)
+- [Incepture](http://www.incepture.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQLGator.com](http://sqlgator.com)
+- [SQLGator.com](http://sqlgator.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

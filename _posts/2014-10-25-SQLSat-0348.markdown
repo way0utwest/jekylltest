@@ -12,7 +12,7 @@ prettydate: "25 October 2014"
 - Calle Bolivar S/N Centro Cultural U.N. San Luis Gonzaga de Ica
 - Ica, , Peru
  
-<a href="/PDF/0348.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0348.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -217,9 +219,9 @@ Jorge Castañeda trabaja como Cloud Services Specialist en Cloud 365 en la reali
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[LearnIT Peru](https://www.facebook.com/learnit.edu.pe)
+- [LearnIT Peru](https://www.facebook.com/learnit.edu.pe)
  
-[Pluralsoft](http://pluralsoft.pe/)
+- [Pluralsoft](http://pluralsoft.pe/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

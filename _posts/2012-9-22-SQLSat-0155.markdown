@@ -12,7 +12,7 @@ prettydate: "22 September 2012"
 - Avenida 28 de Julio 826
 - Lima, Lima, Peru
  
-<a href="/PDF/0155.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0155.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -137,19 +139,19 @@ Mary es graduada como Ingeniero en Inform#225;tica en Venezuela.Labora actualmen
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[BS Grupo](http://www.bsgrupo.com)
+- [BS Grupo](http://www.bsgrupo.com)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[SQL4Junkies EIRL](http://www.sql4junkies.com)
+- [SQL4Junkies EIRL](http://www.sql4junkies.com)
  
-[IniTech Peru](http://www.initechperu.com)
+- [IniTech Peru](http://www.initechperu.com)
  
-[Global Group Management Business](http://www.globalgmb.com)
+- [Global Group Management Business](http://www.globalgmb.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

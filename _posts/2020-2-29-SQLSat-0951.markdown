@@ -12,7 +12,7 @@ prettydate: "29 February 2020"
 - 12212 USF Maple Drive
 - Tampa, Florida
  
-<a href="/PDF/0951.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0951.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1648,39 +1650,39 @@ Dave has been developing database applications for over 25 years. An MCT since 2
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Kforce](http://www.kforce.com)
+- [Kforce](http://www.kforce.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Dobler Consulting](http://www.doblerconsulting.com/)
+- [Dobler Consulting](http://www.doblerconsulting.com/)
  
-[USF - Business Analytics and Information Systems](https://www.usf.edu/business/departments/isds/)
+- [USF - Business Analytics and Information Systems](https://www.usf.edu/business/departments/isds/)
  
-[KingswaySoft](http://www.kingswaysoft.com)
+- [KingswaySoft](http://www.kingswaysoft.com)
  
-[SQLGrease](https://www.sqlgrease.com)
+- [SQLGrease](https://www.sqlgrease.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[AgileThought](https://agilethought.com/)
+- [AgileThought](https://agilethought.com/)
  
-[Fast Reports Inc](https://www.fast-report.com/en/)
+- [Fast Reports Inc](https://www.fast-report.com/en/)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[Hays](https://www.hays.com/)
+- [Hays](https://www.hays.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[ZAP](https://www.zapbi.com/)
+- [ZAP](https://www.zapbi.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

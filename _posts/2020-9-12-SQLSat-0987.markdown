@@ -12,7 +12,7 @@ prettydate: "12 September 2020"
 - Oficinas Microsoft, 89 ave. Norte Edificio World Trade Center Torre 2 Nivel 5, San Salvador, El Salvador  
 - San Salvador, San Salvador Department, El Salvador
  
-<a href="/PDF/0987.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0987.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -810,27 +812,27 @@ Conferencista en Eventos de Microsoft a nivel nacional e internacional en ámbit
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Red Hat](https://www.redhat.com/)
+- [Red Hat](https://www.redhat.com/)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[Primus Data](http://primusdata.net/)
+- [Primus Data](http://primusdata.net/)
  
-[Ahias-SQL](https://www.facebook.com/PortilloAhias/)
+- [Ahias-SQL](https://www.facebook.com/PortilloAhias/)
  
-[Cognition Analytica](http://www.cognitionanalitica.com)
+- [Cognition Analytica](http://www.cognitionanalitica.com)
  
-[Universidad Doctor José Matías Delgado](http://www.ujmd.edu.sv/)
+- [Universidad Doctor José Matías Delgado](http://www.ujmd.edu.sv/)
  
-[WeCaptionIt](https://www.wecaptionit.com)
+- [WeCaptionIt](https://www.wecaptionit.com)
  
-[Universidad de El Salvador](http://www.ues.edu.sv)
+- [Universidad de El Salvador](http://www.ues.edu.sv)
  
-[Universidad Centroamericana José Simeón Cañas](http://www.uca.edu.sv/)
+- [Universidad Centroamericana José Simeón Cañas](http://www.uca.edu.sv/)
  
-[Grupo Babel](http://www.grupobabel.com/)
+- [Grupo Babel](http://www.grupobabel.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

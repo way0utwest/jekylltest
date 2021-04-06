@@ -12,7 +12,7 @@ prettydate: "25 February 2017"
 - Via Prasecco, 3/a
 - Pordenone, Friuli, Italy
  
-<a href="/PDF/0589.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0589.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -518,19 +520,19 @@ Consultant and trainer in business intelligence, analytics and data mining on Me
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Despar](http://www.despar.it)
+- [Despar](http://www.despar.it)
  
-[Realcomm Srl](http://www.realcomm.it/)
+- [Realcomm Srl](http://www.realcomm.it/)
  
-[Beantech](http://www.beantech.it)
+- [Beantech](http://www.beantech.it)
  
-[Datamaze](http://www.datamaze.it/)
+- [Datamaze](http://www.datamaze.it/)
  
-[ApexSql - SqlSat495](http://www.apexsql.com/)
+- [ApexSql - SqlSat495](http://www.apexsql.com/)
  
-[thinkIt 1nn0va](http://www.thinkit.it)
+- [thinkIt 1nn0va](http://www.thinkit.it)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

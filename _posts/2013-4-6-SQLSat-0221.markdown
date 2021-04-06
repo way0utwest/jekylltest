@@ -12,7 +12,7 @@ prettydate: "6 April 2013"
 - Kruisboog 42
 - Veenendaal, , Netherlands
  
-<a href="/PDF/0221.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0221.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -382,15 +384,15 @@ Mark Stacey founded the Aphelion Software Group, and works tirelessly to cross t
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[hp](http://www.valid.nl/)
+- [hp](http://www.valid.nl/)
  
-[Info Support](http://www.infosupport.com)
+- [Info Support](http://www.infosupport.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Schuberg Philis](http://www.schubergphilis.com)
+- [Schuberg Philis](http://www.schubergphilis.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

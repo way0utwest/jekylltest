@@ -12,7 +12,7 @@ prettydate: "18 January 2014"
 - One University Park Drive
 - Nashville, Tennessee
  
-<a href="/PDF/0272.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0272.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1178,51 +1180,51 @@ several University Advisory Boards. Joe is an 8 time recipient of the Microsoft 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[BEDROC](http://www.bedroc.com)
+- [BEDROC](http://www.bedroc.com)
  
-[Vaco Raleigh](http://www.vaco.com)
+- [Vaco Raleigh](http://www.vaco.com)
  
-[Denny Cherry  Associates](http://dcac.co/)
+- [Denny Cherry  Associates](http://dcac.co/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Cigna-Healthspring](http://www.cignahealthspring.com/)
+- [Cigna-Healthspring](http://www.cignahealthspring.com/)
  
-[BlueGranite](http://www.blue-granite.com)
+- [BlueGranite](http://www.blue-granite.com)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Holland Square Group](http://hollandsquare.com/)
+- [Holland Square Group](http://hollandsquare.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[HushHush](http://mask-me.net)
+- [HushHush](http://mask-me.net)
  
-[Aptera Software, Inc.](http://www.apterainc.com)
+- [Aptera Software, Inc.](http://www.apterainc.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[McGraw-Hill](http://www.mhprofessional.com/)
+- [McGraw-Hill](http://www.mhprofessional.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

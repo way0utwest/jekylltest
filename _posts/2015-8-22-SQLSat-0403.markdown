@@ -12,7 +12,7 @@ prettydate: "22 August 2015"
 - 1500, Alliant Avenue
 - Louisville, Kentucky
  
-<a href="/PDF/0403.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0403.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1008,39 +1010,39 @@ In his current role, Madhu provides architectural guidance to top fortune 500 cu
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Farm Credit Mid-America](http://www.e-farmcredit.com)
+- [Farm Credit Mid-America](http://www.e-farmcredit.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Mirazon](http://www.mirazon.com)
+- [Mirazon](http://www.mirazon.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[X-IO Technologies](http://www.x-io.com)
+- [X-IO Technologies](http://www.x-io.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Republic Bank](https://www.republicbank.com/home/personal)
+- [Republic Bank](https://www.republicbank.com/home/personal)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[TEKsystems (Louisville)](http://www.teksystems.com/)
+- [TEKsystems (Louisville)](http://www.teksystems.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
-[Tim Radney](https://www.sqlskills.com/blogs/tim/)
+- [Tim Radney](https://www.sqlskills.com/blogs/tim/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "27 April 2019"
 - 15010 NE 36th St,
 - Redmond, Washington
  
-<a href="/PDF/0807.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0807.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -877,25 +879,25 @@ Mark Kromer is a Microsoft Cloud Data Solution Architect with 20 years of experi
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Condusiv Technologies](http://www.condusiv.com/)
+- [Condusiv Technologies](http://www.condusiv.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[DB Best](http://www.DBBest.com)
+- [DB Best](http://www.DBBest.com)
  
-[Attunix](https://Attunix.com)
+- [Attunix](https://Attunix.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

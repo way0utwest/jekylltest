@@ -12,7 +12,7 @@ prettydate: "6 October 2012"
 - Avery Hall , 256
 - Lincoln, Nebraska
  
-<a href="/PDF/0165.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0165.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -703,23 +705,23 @@ Dave Pettengill has over 40 years' experience in IT, mostly in Database support,
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[House of Brick Technologies](http://www.houseofbrick.com)
+- [House of Brick Technologies](http://www.houseofbrick.com)
  
-[IP Pathways](http://www.ippathways.com)
+- [IP Pathways](http://www.ippathways.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Sandhills Publishing](http://www.sandhills.com)
+- [Sandhills Publishing](http://www.sandhills.com)
  
-[Aspect Software](http://www.aspect.com/Pages/default.aspx)
+- [Aspect Software](http://www.aspect.com/Pages/default.aspx)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Thomson Reuters](http://www.thomsonreuters.com)
+- [Thomson Reuters](http://www.thomsonreuters.com)
  
-[David Klee](http://www.davidklee.net)
+- [David Klee](http://www.davidklee.net)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

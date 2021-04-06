@@ -12,7 +12,7 @@ prettydate: "5 March 2016"
 - 1221 North Swift Road
 - Addison, Illinois
  
-<a href="/PDF/0484.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0484.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1382,53 +1384,53 @@ Hope Foley, a former Data Platform MVP, has worked across many industries as a D
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
+- [DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
  
-[Aptitive](http://www.aptitive.com)
+- [Aptitive](http://www.aptitive.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Tintri - Great Lakes](https://www.tintri.com/)
+- [Tintri - Great Lakes](https://www.tintri.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Colaberry Inc](http://www.colaberry.com/)
+- [Colaberry Inc](http://www.colaberry.com/)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Allegient](http://www.allegient.com)
+- [Allegient](http://www.allegient.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Coyote Logistics](http://www.coyote.com/)
+- [Coyote Logistics](http://www.coyote.com/)
  
-[Zumero LLC](http://zumero.com)
+- [Zumero LLC](http://zumero.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[IT Impact, Inc.](http://www.itimpact.com)
+- [IT Impact, Inc.](http://www.itimpact.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[BlueMetal Architects](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [BlueMetal Architects](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[Concurrency, Inc.](http://www.concurrency.com)
+- [Concurrency, Inc.](http://www.concurrency.com)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[New Horizons Computer Learning Centers of Chicago](http://nhls.com)
+- [New Horizons Computer Learning Centers of Chicago](http://nhls.com)
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

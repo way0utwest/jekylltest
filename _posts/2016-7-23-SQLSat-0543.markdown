@@ -12,7 +12,7 @@ prettydate: "23 July 2016"
 - 103 Princess Street, Manchester,
 - Manchester, England, United Kingdom
  
-<a href="/PDF/0543.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0543.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -836,21 +838,21 @@ Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer an
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Panorama](http://www.panorama.com/)
+- [Panorama](http://www.panorama.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Purple Frog](http://www.PurpleFrogSystems.com)
+- [Purple Frog](http://www.PurpleFrogSystems.com)
  
-[Evolution Recruitment Solutions](http://www.evolutionjobs.co.uk)
+- [Evolution Recruitment Solutions](http://www.evolutionjobs.co.uk)
  
-[SQL Relay](http://www.sqlrelay.co.uk/)
+- [SQL Relay](http://www.sqlrelay.co.uk/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

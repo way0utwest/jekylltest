@@ -12,7 +12,7 @@ prettydate: "10 October 2015"
 - Corso Duca degli Abruzzi, 24 
 - Turin, Piedmont, Italy
  
-<a href="/PDF/0454.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0454.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -558,27 +560,27 @@ Since 2004, I’ve designed and developed Business Intelligence and Data Mining 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SolidQ Italia](http://www.solidq.it)
+- [SolidQ Italia](http://www.solidq.it)
  
-[SQLBI](http://www.sqlbi.com/)
+- [SQLBI](http://www.sqlbi.com/)
  
-[Microsoft Italia](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Italia](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[Biware s.r.l.](http://www.xlcubed.com)
+- [Biware s.r.l.](http://www.xlcubed.com)
  
-[SQLServerPills](http://www.sqlserverpills.eu)
+- [SQLServerPills](http://www.sqlserverpills.eu)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQLSentry PLC](https://www.sentryone.com/)
+- [SQLSentry PLC](https://www.sentryone.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

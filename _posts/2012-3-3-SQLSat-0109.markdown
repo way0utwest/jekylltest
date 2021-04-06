@@ -12,7 +12,7 @@ prettydate: "3 March 2012"
 - 1065 La Avenida
 - Mountain View, California
  
-<a href="/PDF/0109.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0109.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -742,41 +744,41 @@ Michael Rys is principal program manager in the SQL Server RDBMS team.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Terrace Software, Inc.](http://www.terrace.com)
+- [Terrace Software, Inc.](http://www.terrace.com)
  
-[WinWire Technologies Inc](http://www.WinWire.com)
+- [WinWire Technologies Inc](http://www.WinWire.com)
  
-[LearnIT](http://www.learnit.com)
+- [LearnIT](http://www.learnit.com)
  
-[Dynamics Edge](http://www.dynamicsedge.com)
+- [Dynamics Edge](http://www.dynamicsedge.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[G. A. Larsen Consulting](http://www.sqlserverexamples.com)
+- [G. A. Larsen Consulting](http://www.sqlserverexamples.com)
  
-[MarkTab Consulting](http://www.marktab.net)
+- [MarkTab Consulting](http://www.marktab.net)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[DesignMind](http://www.designmind.com/)
+- [DesignMind](http://www.designmind.com/)
  
-[QuickStart Intelligence](http://www.quickstart.com)
+- [QuickStart Intelligence](http://www.quickstart.com)
  
-[Riverbed](https://www.riverbed.com)
+- [Riverbed](https://www.riverbed.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

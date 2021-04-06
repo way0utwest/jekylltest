@@ -12,7 +12,7 @@ prettydate: "5 December 2015"
 - Charlotte Place, Southampton
 - Southampton, England, United Kingdom
  
-<a href="/PDF/0467.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0467.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1177,37 +1179,37 @@ His hobbies include Scuba Diving (Certified PADI Advanced), Squash, Swimming, Cr
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Spectrum IT Recruitment](http://www.spectrumit.co.uk)
+- [Spectrum IT Recruitment](http://www.spectrumit.co.uk)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[COEO](http://www.coeo.com)
+- [COEO](http://www.coeo.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Violin Memory EMEA Ltd](http://www.violin-memory.com)
+- [Violin Memory EMEA Ltd](http://www.violin-memory.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Northdoor PLC](http://northdoor.co.uk/)
+- [Northdoor PLC](http://northdoor.co.uk/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Claribi - SQL Saturday 467](http://www.claribi.co.uk/)
+- [Claribi - SQL Saturday 467](http://www.claribi.co.uk/)
  
-[John Martin](http://blogs.sqlsentry.com/author/JohnMartin/)
+- [John Martin](http://blogs.sqlsentry.com/author/JohnMartin/)
  
-[SQLSat467 - OReilly](http://www.oreilly.com)
+- [SQLSat467 - OReilly](http://www.oreilly.com)
  
-[Apex SQL - SQL Sat 467](http://www.apexsql.com/)
+- [Apex SQL - SQL Sat 467](http://www.apexsql.com/)
  
-[SQLSat467 -Pluralsight](http://www.pluralsight.com)
+- [SQLSat467 -Pluralsight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

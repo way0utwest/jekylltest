@@ -12,7 +12,7 @@ prettydate: "10 May 2014"
 - 13735 Beamer Rd
 - Houston, Texas
  
-<a href="/PDF/0308.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0308.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1477,29 +1479,29 @@ Michael Bourgon started his IT career by performing tech support and managing Sy
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[SQL Watchmen](http://www.sqlwatchmen.com)
+- [SQL Watchmen](http://www.sqlwatchmen.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

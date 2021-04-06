@@ -12,7 +12,7 @@ prettydate: "13 October 2018"
 - Boulevard "Tsarigradsko shose" 111B
 - Sofia, Sofiya, Bulgaria
  
-<a href="/PDF/0763.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0763.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -797,29 +799,29 @@ My hobbies are: fishing, skiing, walking in the mountain and developing.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
+- [ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
  
-[Adatis](http://www.adatis.co.uk)
+- [Adatis](http://www.adatis.co.uk)
  
-[SQL Master Academy](http://www.sqlmasteracademy.com/)
+- [SQL Master Academy](http://www.sqlmasteracademy.com/)
  
-[Adastra Bulgaria](http://www.bg.adastragrp.com/)
+- [Adastra Bulgaria](http://www.bg.adastragrp.com/)
  
-[The Stars Group](http://www.starsgroup.com/)
+- [The Stars Group](http://www.starsgroup.com/)
  
-[EPAM Systems](http://www.epam.com)
+- [EPAM Systems](http://www.epam.com)
  
-[Bulpros](http://www.bulpros.com/)
+- [Bulpros](http://www.bulpros.com/)
  
-[Bosch Software Innovations](https://www.bosch-si.com)
+- [Bosch Software Innovations](https://www.bosch-si.com)
  
-[ITraining](https://itraining.bg/)
+- [ITraining](https://itraining.bg/)
  
-[Ubitsoft](http://www.ubitsoft.com)
+- [Ubitsoft](http://www.ubitsoft.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

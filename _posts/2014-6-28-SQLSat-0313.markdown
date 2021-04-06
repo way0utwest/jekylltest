@@ -12,7 +12,7 @@ prettydate: "28 June 2014"
 - Grantham-Allee 20
 - Sankt Augustin, , Germany
  
-<a href="/PDF/0313.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0313.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -696,43 +698,43 @@ Sascha works for the PSG GmbH since 1994 as a Principal Consultant focusing on t
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Quest SOFTWARE GmbH](https://www.quest.com/de-de/)
+- [Quest SOFTWARE GmbH](https://www.quest.com/de-de/)
  
-[Attunity](http://www.attunity.com)
+- [Attunity](http://www.attunity.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[HSO Enterprise Solutions GmbH](http://www.hso.com/)
+- [HSO Enterprise Solutions GmbH](http://www.hso.com/)
  
-[Melissa Data GmbH](http://www.melissadata.de)
+- [Melissa Data GmbH](http://www.melissadata.de)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[inovex GmbH](http://www.inovex.de)
+- [inovex GmbH](http://www.inovex.de)
  
-[Sarpedon Quality Lab](http://www.sarpedonqualitylab.com/)
+- [Sarpedon Quality Lab](http://www.sarpedonqualitylab.com/)
  
-[ORBIT IT-Solutions](http://www.orbit.de)
+- [ORBIT IT-Solutions](http://www.orbit.de)
  
-[Theobald Software GmbH](http://theobald-software.com/)
+- [Theobald Software GmbH](http://theobald-software.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[O'Reilly Verlag GmbH  Co. KG](http://www.oreilly.de)
+- [O'Reilly Verlag GmbH  Co. KG](http://www.oreilly.de)
  
-[Galileo Press GmbH](http://www.galileo-press.de/)
+- [Galileo Press GmbH](http://www.galileo-press.de/)
  
-[Visual Studio One](http://www.visualstudio1.de)
+- [Visual Studio One](http://www.visualstudio1.de)
  
-[Software  Support Media GmbH](http://windowsdeveloper.de)
+- [Software  Support Media GmbH](http://windowsdeveloper.de)
  
-[Fusion IO a SanDisk Company](http://www.fusionio.com/)
+- [Fusion IO a SanDisk Company](http://www.fusionio.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

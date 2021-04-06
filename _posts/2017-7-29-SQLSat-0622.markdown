@@ -12,7 +12,7 @@ prettydate: "29 July 2017"
 - 1400 Washington Ave
 - Albany, New York
  
-<a href="/PDF/0622.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0622.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -856,23 +858,23 @@ Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[CommerceHub](https://www.commercehub.com)
+- [CommerceHub](https://www.commercehub.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[TEKsystems, Inc.](http://www.teksystems.com)
+- [TEKsystems, Inc.](http://www.teksystems.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Autotask](http://www.autotask.com/about-us/careers)
+- [Autotask](http://www.autotask.com/about-us/careers)
  
-[Capital Tech Search](http://www.captechsearch.com/)
+- [Capital Tech Search](http://www.captechsearch.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "16 April 2016"
 - Madras Street
 - Christchurch, Canterbury, New Zealand
  
-<a href="/PDF/0479.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0479.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -459,23 +461,23 @@ Simon is a MCSE in data analytics, certified Biml Expert (BimlHero) and co-autho
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Jade Software Corporation](https://www.jadeworld.com/)
+- [Jade Software Corporation](https://www.jadeworld.com/)
  
-[Mettle Consulting Ltd](http://www.mettle.net.nz)
+- [Mettle Consulting Ltd](http://www.mettle.net.nz)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Datacom](http://www.datacom.co.nz/)
+- [Datacom](http://www.datacom.co.nz/)
  
-[Candle IT Recruitment](http://candle.co.nz/)
+- [Candle IT Recruitment](http://candle.co.nz/)
  
-[SQL Services](https://www.sqlservices.com)
+- [SQL Services](https://www.sqlservices.com)
  
-[Christchurch Polytechnic Institute of Technology](http://www.cpit.ac.nz/)
+- [Christchurch Polytechnic Institute of Technology](http://www.cpit.ac.nz/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

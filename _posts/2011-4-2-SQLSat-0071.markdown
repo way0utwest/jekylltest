@@ -12,7 +12,7 @@ prettydate: "2 April 2011"
 - 231 Forest St
 - Wellesley, Massachusetts
  
-<a href="/PDF/0071.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0071.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -782,47 +784,47 @@ Mike is an experienced SQL Server professional and has worked with SQL Server fo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[WhereScape](http://wherescape.com)
+- [WhereScape](http://wherescape.com)
  
-[Axis Technology, LLC](http://www.axistechnologyllc.com)
+- [Axis Technology, LLC](http://www.axistechnologyllc.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Winxnet](http://www.winxnet.com)
+- [Winxnet](http://www.winxnet.com)
  
-[Bradmark Technologies](http://www.bradmark.com)
+- [Bradmark Technologies](http://www.bradmark.com)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[AVID Technical Resources](http://www.avidtr.com)
+- [AVID Technical Resources](http://www.avidtr.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Pearl Knowledge Solutions](http://www.pearlknows.com)
+- [Pearl Knowledge Solutions](http://www.pearlknows.com)
  
-[Ntirety, Inc.](http://www.ntirety.com)
+- [Ntirety, Inc.](http://www.ntirety.com)
  
-[SQLHA](http://www.sqlha.com)
+- [SQLHA](http://www.sqlha.com)
  
-[SoftArtisans](http://www.softartisans.com/)
+- [SoftArtisans](http://www.softartisans.com/)
  
-[Syncfusion](http://www.syncfusion.com/)
+- [Syncfusion](http://www.syncfusion.com/)
  
-[Alexander Technology Group](http://www.alexandertg.com)
+- [Alexander Technology Group](http://www.alexandertg.com)
  
-[SafePeak](http://www.safepeak.com/downloadtrial)
+- [SafePeak](http://www.safepeak.com/downloadtrial)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

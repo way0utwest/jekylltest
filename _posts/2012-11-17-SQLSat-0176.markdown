@@ -12,7 +12,7 @@ prettydate: "17 November 2012"
 - Via Prasecco
 - Pordenone, , Italy
  
-<a href="/PDF/0176.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0176.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -362,23 +364,23 @@ Contact: [http://ianmeadedotdotdot.blogspot.ie/](http://ianmeadedotdotdot.blogsp
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Consorzio Universitario di Pordenone](http://www.unipordenone.it/)
+- [Consorzio Universitario di Pordenone](http://www.unipordenone.it/)
  
-[Beantech](http://www.beantech.it)
+- [Beantech](http://www.beantech.it)
  
-[Servizi CGN](http://www.cgn.it)
+- [Servizi CGN](http://www.cgn.it)
  
-[Trilance](http://www.trilance.com/)
+- [Trilance](http://www.trilance.com/)
  
-[Realcomm Srl](http://www.realcomm.it/)
+- [Realcomm Srl](http://www.realcomm.it/)
  
-[thinkIT](http://www.thinkit.it/)
+- [thinkIT](http://www.thinkit.it/)
  
-[1nn0va](http://www.innovazionefvg.net/)
+- [1nn0va](http://www.innovazionefvg.net/)
  
-[SQLBI](http://www.sqlbi.com/)
+- [SQLBI](http://www.sqlbi.com/)
  
-[Solid Quality Mentors](http://www.solidq.com)
+- [Solid Quality Mentors](http://www.solidq.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

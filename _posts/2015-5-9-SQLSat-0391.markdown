@@ -12,7 +12,7 @@ prettydate: "9 May 2015"
 - 1 UNF Drive
 - Jacksonville, Florida
  
-<a href="/PDF/0391.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0391.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1021,35 +1023,35 @@ Data strategist with 18 years of experience in analytics, business intelligence,
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[University of North Florida](http://www.unf.edu)
+- [University of North Florida](http://www.unf.edu)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Jeff Taylor Photography](http://www.jefftaylorphotography.com)
+- [Jeff Taylor Photography](http://www.jefftaylorphotography.com)
  
-[SNI Technology](http://www.snitechnology.com/)
+- [SNI Technology](http://www.snitechnology.com/)
  
-[Alluvion Staffing](http://www.alluvionstaffing.com)
+- [Alluvion Staffing](http://www.alluvionstaffing.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

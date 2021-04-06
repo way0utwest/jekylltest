@@ -12,7 +12,7 @@ prettydate: "23 May 2015"
 - 4 Hospitalna Str
 - Kiev, , Ukraine
  
-<a href="/PDF/0377.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0377.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -739,35 +741,35 @@ Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Men
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[EasyQuery](http://devtools.korzh.com/easyquery/)
+- [EasyQuery](http://devtools.korzh.com/easyquery/)
  
-[EPAM](http://www.epam.com/)
+- [EPAM](http://www.epam.com/)
  
-[WintellectNOW](https://www.wintellectnow.com/)
+- [WintellectNOW](https://www.wintellectnow.com/)
  
-[RedGate](http://www.red-gate.com/about/community_relations/sql_saturday.htm)
+- [RedGate](http://www.red-gate.com/about/community_relations/sql_saturday.htm)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[QA Club](http://qaclub.com.ua/)
+- [QA Club](http://qaclub.com.ua/)
  
-[Dev-Time](http://dev-time.org/)
+- [Dev-Time](http://dev-time.org/)
  
-[Weekly IT](http://weekly-it.com/)
+- [Weekly IT](http://weekly-it.com/)
  
-[DOU](http://dou.ua/)
+- [DOU](http://dou.ua/)
  
-[БАКОТЕК](http://bakotech.ua/vendor/quest-software/)
+- [БАКОТЕК](http://bakotech.ua/vendor/quest-software/)
  
-[Intapp](http://www.intapp.com/)
+- [Intapp](http://www.intapp.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

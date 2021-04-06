@@ -12,7 +12,7 @@ prettydate: "6 September 2014"
 - Techno Park
 - Stellenbosch, Western Cape, South Africa
  
-<a href="/PDF/0301.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0301.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -423,19 +425,19 @@ and an active member of  SQLCape and the JHB SQL Usergroup.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[EOH Microsoft Coastal](http://www.eohmc.co.za)
+- [EOH Microsoft Coastal](http://www.eohmc.co.za)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[e-magination](http://www.e-magination.co.za/)
+- [e-magination](http://www.e-magination.co.za/)
  
-[3fifteen (PTY) LTD](http://www.3fifteen.co.za/Pages/index.aspx)
+- [3fifteen (PTY) LTD](http://www.3fifteen.co.za/Pages/index.aspx)
  
-[mammoth BI](http://mammothbi.co.za)
+- [mammoth BI](http://mammothbi.co.za)
  
-[Intel](http://womenintech.co.za/blog/)
+- [Intel](http://womenintech.co.za/blog/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

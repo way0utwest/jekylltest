@@ -12,7 +12,7 @@ prettydate: "18 May 2019"
 - Av. Dom José Gaspar, 500
 - Belo Horizonte, Minas Gerais, Brazil
  
-<a href="/PDF/0844.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0844.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -705,19 +707,19 @@ Consultor em atividades voltadas ao desenvolvimento de sistemas há mais de 15 a
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[BI Xperience](http://bixperience.com.br)
+- [BI Xperience](http://bixperience.com.br)
  
-[Dataside](http://www.dataside.com.br)
+- [Dataside](http://www.dataside.com.br)
  
-[K-Multimidia](https://kaiquemartins58.wixsite.com/meusite-2)
+- [K-Multimidia](https://kaiquemartins58.wixsite.com/meusite-2)
  
-[SQL BH](https://sqlbh.pass.org/)
+- [SQL BH](https://sqlbh.pass.org/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "7 October 2017"
 - 1100 Rockhurst Road
 - Kansas City, Missouri
  
-<a href="/PDF/0680.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0680.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -753,25 +755,25 @@ David Maxwell has almost 20 years of experience with SQL Server, with a keen int
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Datrium](http://www.datrium.com/)
+- [Datrium](http://www.datrium.com/)
  
-[Tallgrass Technologies](http://www.tallgrasstech.com)
+- [Tallgrass Technologies](http://www.tallgrasstech.com)
  
-[Cohesity](http://www.cohesity.com/)
+- [Cohesity](http://www.cohesity.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Rockhurst University](http://ww2.rockhurst.edu/helzberg)
+- [Rockhurst University](http://ww2.rockhurst.edu/helzberg)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Data View](http://www.dataview-llc.com)
+- [Data View](http://www.dataview-llc.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

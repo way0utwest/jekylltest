@@ -12,7 +12,7 @@ prettydate: "22 February 2020"
 - 3 Wi Neera Dr, Elsdon, Porirua
 - Wellington, Wellington, New Zealand
  
-<a href="/PDF/0922.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0922.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -754,23 +756,23 @@ Working as a SQL Server DBA  and Report Writer at WineWorks Auckland. I like sol
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SQL Services](https://www.sqlservices.com)
+- [SQL Services](https://www.sqlservices.com)
  
-[Younity](https://www.younity.co.nz/)
+- [Younity](https://www.younity.co.nz/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Trade Me](http://www.trademe.co.nz)
+- [Trade Me](http://www.trademe.co.nz)
  
-[Genesee Academy](https://www.geneseeacademy.com/)
+- [Genesee Academy](https://www.geneseeacademy.com/)
  
-[Pearl Innovations Limited](http://www.pearlinnovations.co.nz)
+- [Pearl Innovations Limited](http://www.pearlinnovations.co.nz)
  
-[Whitireia Community Polytechnic](http://www.whitireia.ac.nz)
+- [Whitireia Community Polytechnic](http://www.whitireia.ac.nz)
  
-[RevDeBug](https://revdebug.com)
+- [RevDeBug](https://revdebug.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "18 October 2014"
 - 
 - Oporto, , Portugal
  
-<a href="/PDF/0341.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0341.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -440,33 +442,33 @@ Jo#227;o Lopes is a SQL Server MCP working as BI Consultant with over 10 years o
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[ISEP](https://www.isep.ipp.pt/)
+- [ISEP](https://www.isep.ipp.pt/)
  
-[BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
+- [BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
  
-[DevScope, S.A.](http://www.devscope.net)
+- [DevScope, S.A.](http://www.devscope.net)
  
-[Rumos](http://www.rumos.pt)
+- [Rumos](http://www.rumos.pt)
  
-[Culto de BI](http://www.culto-de-bi.pt)
+- [Culto de BI](http://www.culto-de-bi.pt)
  
-[Pythian](http://www.pythian.com)
+- [Pythian](http://www.pythian.com)
  
-[Crossjoin Solutions](http://www.crossjoin.pt/)
+- [Crossjoin Solutions](http://www.crossjoin.pt/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Wintech](http://wintech.pt/)
+- [Wintech](http://wintech.pt/)
  
-[Aberto até de madrugada](http://abertoatedemadrugada.com/)
+- [Aberto até de madrugada](http://abertoatedemadrugada.com/)
  
-[TEK](http://tek.sapo.pt/)
+- [TEK](http://tek.sapo.pt/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

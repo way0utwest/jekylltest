@@ -12,7 +12,7 @@ prettydate: "15 September 2012"
 - 1408 Division Rd 
 - East Greenwich, Rhode Island
  
-<a href="/PDF/0156.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0156.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -817,19 +819,19 @@ Jason Brimhall has more than 20 years of experience and has worked with SQL Serv
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Just A Programmer](http://www.justaprogrammer.net)
+- [Just A Programmer](http://www.justaprogrammer.net)
  
-[Ramblings of a Crafty DBA](http://craftydba.com/)
+- [Ramblings of a Crafty DBA](http://craftydba.com/)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

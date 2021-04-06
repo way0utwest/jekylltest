@@ -12,7 +12,7 @@ prettydate: "6 June 2015"
 - "Sausiripaya" 123 Wijerama Mawatha
 - Colombo, Western, Sri Lanka
  
-<a href="/PDF/0417.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0417.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -281,23 +283,23 @@ Pinal Dave is a SQL Server Performance Tuning Expert and an independent consulta
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Sri Lanka](http://www.microsoft.com/en-lk/default.aspx)
+- [Microsoft Sri Lanka](http://www.microsoft.com/en-lk/default.aspx)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Navantis Inc.](http://www.navantis.com)
+- [Navantis Inc.](http://www.navantis.com)
  
-[Virtusa Pvt. Ltd](http://www.virtusa.com)
+- [Virtusa Pvt. Ltd](http://www.virtusa.com)
  
-[NetAssist International](https://www.netassist.com.lk)
+- [NetAssist International](https://www.netassist.com.lk)
  
-[Tech One Global (Pvt) Ltd](http://www.techonelearning.com)
+- [Tech One Global (Pvt) Ltd](http://www.techonelearning.com)
  
-[HTN Information Systems (Pvt) Ltd](http://www.htnsys.com)
+- [HTN Information Systems (Pvt) Ltd](http://www.htnsys.com)
  
-[Wiley / Wrox](http://www.wrox.com)
+- [Wiley / Wrox](http://www.wrox.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

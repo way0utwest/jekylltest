@@ -12,7 +12,7 @@ prettydate: "4 August 2012"
 - 6711 NE Birmingham Rd
 - Kansas City, Missouri
  
-<a href="/PDF/0159.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0159.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -734,21 +736,21 @@ Dave Valentine is a Development DBA with over 15 years of experience with SQL Se
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Cerner corporation](http://www.cerner.com/)
+- [Cerner corporation](http://www.cerner.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[House of Brick Technologies](http://www.houseofbrick.com)
+- [House of Brick Technologies](http://www.houseofbrick.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[David Klee](http://www.davidklee.net)
+- [David Klee](http://www.davidklee.net)
  
-[Craig Purnell](http://www.craigpurnell.com)
+- [Craig Purnell](http://www.craigpurnell.com)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "28 February 2015"
 - 12212 USF Maple Drive
 - Tampa, Florida
  
-<a href="/PDF/0371.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0371.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -980,51 +982,51 @@ Jorge Novo is a database developer with more than 10 years of experience in the 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Amazon Web Services](http://www.aws.amazon.com)
+- [Amazon Web Services](http://www.aws.amazon.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[Plus Consulting](http://www.plusconsulting.com)
+- [Plus Consulting](http://www.plusconsulting.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Apex Systems, Inc](http://www.apexsystemsinc.com/)
+- [Apex Systems, Inc](http://www.apexsystemsinc.com/)
  
-[Veredus Corporation](http://vereduscorp.com/)
+- [Veredus Corporation](http://vereduscorp.com/)
  
-[Raymond James](http://raymondjames.com/)
+- [Raymond James](http://raymondjames.com/)
  
-[Ferman Automotive](http://www.ferman.com)
+- [Ferman Automotive](http://www.ferman.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

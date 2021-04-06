@@ -12,7 +12,7 @@ prettydate: "29 August 2015"
 - 13301 South Pennsylvania Avenue
 - Oklahoma City, Oklahoma
  
-<a href="/PDF/0422.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0422.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -717,31 +719,31 @@ Steven has supported System Center products at Microsoft for 16 years and curren
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[OakTree Software, Inc.](http://oaktreeit.com/)
+- [OakTree Software, Inc.](http://oaktreeit.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[GDH Consulting](http://gdhconsulting.com)
+- [GDH Consulting](http://gdhconsulting.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Addison Group](http://www.addisongroup.com/)
+- [Addison Group](http://www.addisongroup.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Techlahoma Foundation](http://techlahoma.org)
+- [Techlahoma Foundation](http://techlahoma.org)
  
-[Pharmacy Providers of Oklahoma](http://www.ppok.com)
+- [Pharmacy Providers of Oklahoma](http://www.ppok.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

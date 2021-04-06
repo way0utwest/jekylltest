@@ -12,7 +12,7 @@ prettydate: "16 February 2013"
 - 3700 Willingdon Avenue
 - Burnaby, British Columbia, Canada
  
-<a href="/PDF/0198.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0198.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -987,29 +989,29 @@ Mark Tabladillo Ph.D. works for Microsoft as a Cloud Solution Architect for the 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SQLNotes](http://www.sqlnotes.info)
+- [SQLNotes](http://www.sqlnotes.info)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[DevTeach](http://www.devteach.com/Index.aspx)
+- [DevTeach](http://www.devteach.com/Index.aspx)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
-[Steve Stedman](http://DatabaseHealth.SteveStedman.com)
+- [Steve Stedman](http://DatabaseHealth.SteveStedman.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Microsoft Canada](https://technet.microsoft.com/en-ca)
+- [Microsoft Canada](https://technet.microsoft.com/en-ca)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

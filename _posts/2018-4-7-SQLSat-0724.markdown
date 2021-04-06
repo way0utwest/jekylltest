@@ -12,7 +12,7 @@ prettydate: "7 April 2018"
 - 702 Langdon Street
 - Madison, Wisconsin
  
-<a href="/PDF/0724.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0724.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1124,27 +1126,27 @@ Bob Pusateri is a Microsoft Certified Master, DBA, and systems architect with ov
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Amazon Web Services](http://www.aws.amazon.com)
+- [Amazon Web Services](http://www.aws.amazon.com)
  
-[Skyline Technologies](http://www.skylinetechnologies.com)
+- [Skyline Technologies](http://www.skylinetechnologies.com)
  
-[WPS Health Insurance](https://www.wpshealthsolutions.com/)
+- [WPS Health Insurance](https://www.wpshealthsolutions.com/)
  
-[Omni Resources, Inc.](http://www.omniresources.com)
+- [Omni Resources, Inc.](http://www.omniresources.com)
  
-[Talavant](http://www.talavant.com)
+- [Talavant](http://www.talavant.com)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[V-Soft Consulting](http://www.vsoftconsulting.com/)
+- [V-Soft Consulting](http://www.vsoftconsulting.com/)
  
-[Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
+- [Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

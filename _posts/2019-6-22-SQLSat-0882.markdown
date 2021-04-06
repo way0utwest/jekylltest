@@ -12,7 +12,7 @@ prettydate: "22 June 2019"
 - 201 S Clinton St
 - Iowa City, Iowa
  
-<a href="/PDF/0882.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0882.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -617,23 +619,23 @@ Mike has been working with Microsoft SQL Server for the last twenty years.  Curr
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Kingfisher Technologies](http://kingfisherdata.com)
+- [Kingfisher Technologies](http://kingfisherdata.com)
  
-[Chicago SQL Association](http://www.pass.org)
+- [Chicago SQL Association](http://www.pass.org)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[ApexSQL Iowa City](http://www.apexsql.com/)
+- [ApexSQL Iowa City](http://www.apexsql.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

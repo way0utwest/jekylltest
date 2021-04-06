@@ -12,7 +12,7 @@ prettydate: "15 August 2015"
 - 6708 Pine Street
 - Omaha, Nebraska
  
-<a href="/PDF/0397.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0397.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -694,27 +696,27 @@ Since 1999, Mike has been working in the database field, focusing primarily on S
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Tintri](http://www.tintri.com)
+- [Tintri](http://www.tintri.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Alliance Technologies, Inc.](https://www.alliancetechnologies.net)
+- [Alliance Technologies, Inc.](https://www.alliancetechnologies.net)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[Ntirety, A Division of HOSTING](http://ntirety.com/)
+- [Ntirety, A Division of HOSTING](http://ntirety.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

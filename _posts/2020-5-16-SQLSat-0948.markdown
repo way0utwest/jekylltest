@@ -14,7 +14,7 @@ prettydate: "16 May 2020"
 - 250H Teachers-Dyer Complex
 - Cincinnati, Ohio
  
-<a href="/PDF/0948.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0948.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -23,6 +23,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -792,31 +794,31 @@ Her passion outside of SQL Server is volunteering with foster children as their 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Main Street DBAS](http://www.mainstreetdbas.com/)
+- [Main Street DBAS](http://www.mainstreetdbas.com/)
  
-[Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[BITracks](http://www.bitracks.com/)
+- [BITracks](http://www.bitracks.com/)
  
-[KiZAN](https://www.kizan.com)
+- [KiZAN](https://www.kizan.com)
  
-[ZAP](https://www.zapbi.com/)
+- [ZAP](https://www.zapbi.com/)
  
-[Smart Data](https://smartdata.net/)
+- [Smart Data](https://smartdata.net/)
  
-[worldpay from FIS](https://www.worldpay.com/)
+- [worldpay from FIS](https://www.worldpay.com/)
  
-[KingswaySoft](http://www.kingswaysoft.com)
+- [KingswaySoft](http://www.kingswaysoft.com)
  
-[Myriad Genetics](https://myriad.com)
+- [Myriad Genetics](https://myriad.com)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

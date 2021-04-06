@@ -12,7 +12,7 @@ prettydate: "3 February 2018"
 - 28500 Clemens Rd.
 - Cleveland, Ohio
  
-<a href="/PDF/0708.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0708.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -933,31 +935,31 @@ John Morehouse is currently a Consultant with Denny Cherry  Associates living in
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Hyland](http://www.hyland.com)
+- [Hyland](http://www.hyland.com)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[DataCore Software](https://www.datacore.com/maxparallel)
+- [DataCore Software](https://www.datacore.com/maxparallel)
  
-[Foundation Software, Inc.](http://www.foundationsoft.com)
+- [Foundation Software, Inc.](http://www.foundationsoft.com)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[TMW Systems](http://www.tmwsystems.com)
+- [TMW Systems](http://www.tmwsystems.com)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Akron Canton AITP](http://www.akron-aitp.org)
+- [Akron Canton AITP](http://www.akron-aitp.org)
  
-[New Horizons Computer Learning Centers of Cleveland](http://nhls.com)
+- [New Horizons Computer Learning Centers of Cleveland](http://nhls.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQLskills](http://www.sqlskills.com)
+- [SQLskills](http://www.sqlskills.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

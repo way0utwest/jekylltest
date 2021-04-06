@@ -12,7 +12,7 @@ prettydate: "10 June 2017"
 - Grantham-Allee 20
 - Sankt Augustin, North Rhine-Westphalia, Germany
  
-<a href="/PDF/0605.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0605.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -900,31 +902,31 @@ Torsten has delivered more than 100 presentations about Microsoft SQL Server at 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Solisyon GmbH](http://www.solisyon.de/)
+- [Solisyon GmbH](http://www.solisyon.de/)
  
-[Quest Software Deutschland](https://www.quest.com/de-de/)
+- [Quest Software Deutschland](https://www.quest.com/de-de/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[oh22](http://www.oh22.net)
+- [oh22](http://www.oh22.net)
  
-[GDS Business Intelligence GmbH](http://www.gdsbi.de)
+- [GDS Business Intelligence GmbH](http://www.gdsbi.de)
  
-[webtelligence IT consulting GmbH](http://www.webtelligence-itc.net)
+- [webtelligence IT consulting GmbH](http://www.webtelligence-itc.net)
  
-[Acceleratio Ltd.](https://www.sqldockit.com/)
+- [Acceleratio Ltd.](https://www.sqldockit.com/)
  
-[ppedv AG](http://ppedv.de)
+- [ppedv AG](http://ppedv.de)
  
-[CloudDBA](http://clouddba.io)
+- [CloudDBA](http://clouddba.io)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Inasoft GmbH](http://www.inasoft.ch)
+- [Inasoft GmbH](http://www.inasoft.ch)
  
-[inovex GmbH](http://www.inovex.de)
+- [inovex GmbH](http://www.inovex.de)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

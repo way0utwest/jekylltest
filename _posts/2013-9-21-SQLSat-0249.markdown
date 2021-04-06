@@ -12,7 +12,7 @@ prettydate: "21 September 2013"
 - 6256 Greenwich Dr.
 - San Diego, California
  
-<a href="/PDF/0249.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0249.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1261,33 +1263,33 @@ Database Administrator with five years experience in database design, business i
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[UCSD Extension](http://extension.ucsd.edu/)
+- [UCSD Extension](http://extension.ucsd.edu/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Pink Leopard Software](http://www.pinkleopardsoftware.com)
+- [Pink Leopard Software](http://www.pinkleopardsoftware.com)
  
-[Astute](https://www.astutenetworks.com)
+- [Astute](https://www.astutenetworks.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[SQL Power Tools, Inc.](http://www.sqlpower.com)
+- [SQL Power Tools, Inc.](http://www.sqlpower.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[MarkTab Inc](http://marktab.net/datamining/)
+- [MarkTab Inc](http://marktab.net/datamining/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

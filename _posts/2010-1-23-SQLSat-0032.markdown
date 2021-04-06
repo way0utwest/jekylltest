@@ -12,7 +12,7 @@ prettydate: "23 January 2010"
 - 1001 East Palm Ave
 - Tampa, Florida
  
-<a href="/PDF/0032.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0032.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -987,35 +989,35 @@ Kevin Boles is a SQL Server expert, working exclusively with the product since v
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQLShare](http://www.sqlshare.com)
+- [SQLShare](http://www.sqlshare.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[VisualGov Solutions](http://www.visualgov.com)
+- [VisualGov Solutions](http://www.visualgov.com)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
-[Pyn Logic](http://www.enzoauditperformance.com)
+- [Pyn Logic](http://www.enzoauditperformance.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[expressor software](http://www.expressor-software.com)
+- [expressor software](http://www.expressor-software.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Kforce](http://www.kforce.com)
+- [Kforce](http://www.kforce.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

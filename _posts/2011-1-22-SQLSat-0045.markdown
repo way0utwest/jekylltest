@@ -12,7 +12,7 @@ prettydate: "22 January 2011"
 - 132 Eastern Parkway
 - Louisville, Kentucky
  
-<a href="/PDF/0045.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0045.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -547,17 +549,17 @@ Tim Chapman is a Microsoft Certified Master (MCM) and works as a dedicated field
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Sogeti USA](http://www.us.sogeti.com/)
+- [Sogeti USA](http://www.us.sogeti.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "22 May 2010"
 - 5000 North Willamette Blvd
 - Portland, Oregon
  
-<a href="/PDF/0027.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0027.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -585,59 +587,59 @@ Todd McDermid is a local BC developer who’s turned into a data warehouse and b
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Smarsh](http://www.smarsh.com/)
+- [Smarsh](http://www.smarsh.com/)
  
-[DevExpress](http://www.devexpress.com)
+- [DevExpress](http://www.devexpress.com)
  
-[PADNUG](http://padnug.org)
+- [PADNUG](http://padnug.org)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Umbraco](http://umbraco.org/)
+- [Umbraco](http://umbraco.org/)
  
-[Z-Tech Staffing](http://z-techstaffing.com)
+- [Z-Tech Staffing](http://z-techstaffing.com)
  
-[Kryptiq](http://www.kryptiq.com/)
+- [Kryptiq](http://www.kryptiq.com/)
  
-[Intel IT](http://www.intel.com/it/)
+- [Intel IT](http://www.intel.com/it/)
  
-[Widmer Brewing](http://www.widmer.com)
+- [Widmer Brewing](http://www.widmer.com)
  
-[Valentina-db](http://valentina-db.com/)
+- [Valentina-db](http://valentina-db.com/)
  
-[University of Portland](http://www.up.edu/)
+- [University of Portland](http://www.up.edu/)
  
-[WestClinTech](http://westclintech.com)
+- [WestClinTech](http://westclintech.com)
  
-[Apex Systems, Inc](http://www.apexsystemsinc.com/)
+- [Apex Systems, Inc](http://www.apexsystemsinc.com/)
  
-[Hitachi Consulting, Inc](http://www.hitachiconsulting.com)
+- [Hitachi Consulting, Inc](http://www.hitachiconsulting.com)
  
-[Response Interactive](http://www.responseim.com/)
+- [Response Interactive](http://www.responseim.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Edgelink](http://www.edgelink.com/)
+- [Edgelink](http://www.edgelink.com/)
  
-[DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
+- [DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Oregon SQL -developers](http://osql-d.sqlpass.org)
+- [Oregon SQL -developers](http://osql-d.sqlpass.org)
  
-[ComponentOne](http://www.componentone.com)
+- [ComponentOne](http://www.componentone.com)
  
-[Codesmith Tools](http://www.codesmithtools.com)
+- [Codesmith Tools](http://www.codesmithtools.com)
  
-[Cooleremail](http://www.cooleremail.com)
+- [Cooleremail](http://www.cooleremail.com)
  
-[DiscountASP](http://www.discountasp.net/portland/)
+- [DiscountASP](http://www.discountasp.net/portland/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

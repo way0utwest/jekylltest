@@ -12,7 +12,7 @@ prettydate: "27 August 2016"
 - 13301 South Pennsylvania Avenue
 - Oklahoma City, Oklahoma
  
-<a href="/PDF/0553.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0553.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -726,23 +728,23 @@ Tim is an active community speaker and volunteer, having spoken at over 100 even
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Techlahoma Foundation](http://techlahoma.org)
+- [Techlahoma Foundation](http://techlahoma.org)
  
-[Addison Group](http://www.addisongroup.com/)
+- [Addison Group](http://www.addisongroup.com/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Catapult](http://catapultstaffing.com/)
+- [Catapult](http://catapultstaffing.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

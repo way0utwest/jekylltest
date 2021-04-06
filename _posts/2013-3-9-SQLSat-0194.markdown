@@ -12,7 +12,7 @@ prettydate: "9 March 2013"
 - Western Way
 - Exeter, , United Kingdom
  
-<a href="/PDF/0194.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0194.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -677,27 +679,27 @@ Mark Broadbent is a Microsoft Certified Master in SQL Server, Chapter Leader, Vi
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Nexus](http://www.nexusopensystems.co.uk/)
+- [Nexus](http://www.nexusopensystems.co.uk/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
+- [Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
  
-[Purple Frog](http://www.PurpleFrogSystems.com)
+- [Purple Frog](http://www.PurpleFrogSystems.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Jurys Inn](http://exeterhotels.jurysinns.com/)
+- [Jurys Inn](http://exeterhotels.jurysinns.com/)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

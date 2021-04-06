@@ -12,7 +12,7 @@ prettydate: "28 September 2019"
 - Calle Alan Turing s/n 
 - , , 
  
-<a href="/PDF/0904.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0904.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1078,37 +1080,37 @@ José Manuel Jurado currently works as SQL Escalation Engineer and Subject Matte
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Plain Concepts](https://www.plainconcepts.com/)
+- [Plain Concepts](https://www.plainconcepts.com/)
  
-[TOKIOTA](http://tokiota.com/)
+- [TOKIOTA](http://tokiota.com/)
  
-[ENCAMINA](https://www.encamina.com)
+- [ENCAMINA](https://www.encamina.com)
  
-[Universidad Politecnica de Madrid](http://www.upm.es)
+- [Universidad Politecnica de Madrid](http://www.upm.es)
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[CHANNELADVISOR](http://www.channeladvisor.com)
+- [CHANNELADVISOR](http://www.channeladvisor.com)
  
-[Kabel Sistemas de Información S.L.](http://www.kabel.es)
+- [Kabel Sistemas de Información S.L.](http://www.kabel.es)
  
-[Zaltor SolarWinds](https://www.zaltor.com/solarwinds-dpa/)
+- [Zaltor SolarWinds](https://www.zaltor.com/solarwinds-dpa/)
  
-[ALESON ITC](http://aleson-itc.com)
+- [ALESON ITC](http://aleson-itc.com)
  
-[Universidad Politecnica de Madrid](http://www.upm.es)
+- [Universidad Politecnica de Madrid](http://www.upm.es)
  
-[Aura](https://auragroup.es/)
+- [Aura](https://auragroup.es/)
  
-[DevScope, S.A.](http://www.devscope.net)
+- [DevScope, S.A.](http://www.devscope.net)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[sqlpass.es](http://www.sqlpass.es)
+- [sqlpass.es](http://www.sqlpass.es)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

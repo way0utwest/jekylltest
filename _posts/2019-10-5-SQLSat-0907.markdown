@@ -12,7 +12,7 @@ prettydate: "5 October 2019"
 - 1111 McKee Road, Oakdale, PA
 - Oakdale, Pennsylvania
  
-<a href="/PDF/0907.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0907.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1267,27 +1269,27 @@ Peter Shore is a seasoned IT professional with over 25 years of experience. He t
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Snowflake](https://www.snowflake.com/)
+- [Snowflake](https://www.snowflake.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[NIS Technologies](http://www.nistechnologies.com)
+- [NIS Technologies](http://www.nistechnologies.com)
  
-[SQLGene Training](http://www.sqlgene.com)
+- [SQLGene Training](http://www.sqlgene.com)
  
-[Pittsburgh Technical College](http://www.ptcollege.edu/)
+- [Pittsburgh Technical College](http://www.ptcollege.edu/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

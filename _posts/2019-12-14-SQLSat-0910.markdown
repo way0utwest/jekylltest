@@ -12,7 +12,7 @@ prettydate: "14 December 2019"
 - Vecna pot 113
 - Ljubljana, , Slovenia
  
-<a href="/PDF/0910.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0910.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -825,25 +827,25 @@ He relishes sharing and learning and can be found doing both via Twitter @sqldba
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Gen-I, d.o.o.](http://www.gen-i.si/)
+- [Gen-I, d.o.o.](http://www.gen-i.si/)
  
-[Comtrade d.o.o.](http://www.comtradegaming.com/)
+- [Comtrade d.o.o.](http://www.comtradegaming.com/)
  
-[IN516HT d.o.o.](http://www.in516ht.com)
+- [IN516HT d.o.o.](http://www.in516ht.com)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[Kompas Xnet d.o.o.](http://www.kompas-xnet.si)
+- [Kompas Xnet d.o.o.](http://www.kompas-xnet.si)
  
-[SoftwareONE, d.o.o.](http://www.softwareone.com)
+- [SoftwareONE, d.o.o.](http://www.softwareone.com)
  
-[B2 IT d.o.o.](https://www.b2.eu/sl)
+- [B2 IT d.o.o.](https://www.b2.eu/sl)
  
-[Manning Publications](https://www.manning.com)
+- [Manning Publications](https://www.manning.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

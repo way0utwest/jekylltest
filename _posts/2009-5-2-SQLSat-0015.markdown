@@ -12,7 +12,7 @@ prettydate: "2 May 2009"
 - 1 UNF Drive
 - Jacksonville, Florida
  
-<a href="/PDF/0015.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0015.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -831,13 +833,13 @@ Chris Eargle is a Telerik Developer Evangelist, INETA Director, and Microsoft Mo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[JumpstartTV.com](http://www.jumpstarttv.com)
+- [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[Lemington Consulting](http://LemingtonIT.com)
+- [Lemington Consulting](http://LemingtonIT.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

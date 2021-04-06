@@ -12,7 +12,7 @@ prettydate: "1 September 2018"
 - Christian Krohgs gate 32
 - Oslo, Oslo, Norway
  
-<a href="/PDF/0746.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0746.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -949,39 +951,39 @@ John has over a decade of experience working with SQL Server and the Microsoft D
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Kristiania University College](https://kristiania.no)
+- [Kristiania University College](https://kristiania.no)
  
-[Microsoft Norway](http://www.microsoft.no)
+- [Microsoft Norway](http://www.microsoft.no)
  
-[Webstep Innsikt](http://www.webstep.no/)
+- [Webstep Innsikt](http://www.webstep.no/)
  
-[EVRY](http://www.evry.com/)
+- [EVRY](http://www.evry.com/)
  
-[Locke Data](https://itsalocke.com)
+- [Locke Data](https://itsalocke.com)
  
-[dbWatch AS](http://www.dbwatch.com)
+- [dbWatch AS](http://www.dbwatch.com)
  
-[BI builders](http://www.bi-builders.com)
+- [BI builders](http://www.bi-builders.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[TimeXtender](http://www.timextender.com)
+- [TimeXtender](http://www.timextender.com)
  
-[Capgemini](https://www.no.capgemini.com/)
+- [Capgemini](https://www.no.capgemini.com/)
  
-[Norsk Rikstoto](https://www.rikstoto.no)
+- [Norsk Rikstoto](https://www.rikstoto.no)
  
-[Glasspaper AS](http://www.glasspaper.no/)
+- [Glasspaper AS](http://www.glasspaper.no/)
  
-[Avanade Norway AS](https://www.avanade.com/se-no?country=norway)
+- [Avanade Norway AS](https://www.avanade.com/se-no?country=norway)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Basefarm AS](https://www.basefarm.com/no)
+- [Basefarm AS](https://www.basefarm.com/no)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

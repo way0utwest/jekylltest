@@ -12,7 +12,7 @@ prettydate: "28 September 2019"
 - Rua Antônio Macedo, 505
 - São Paulo, São Paulo, Brazil
  
-<a href="/PDF/0906.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0906.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -988,23 +990,23 @@ LinkedIn: [Sergio Passos](https://www.linkedin.com/in/spassosdba/)
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[i-Finger Sistemas Empresariais](http://www.i-finger.com.br)
+- [i-Finger Sistemas Empresariais](http://www.i-finger.com.br)
  
-[Dataside](http://www.dataside.com.br)
+- [Dataside](http://www.dataside.com.br)
  
-[UNIP Tatuapé](http://www.unip.br)
+- [UNIP Tatuapé](http://www.unip.br)
  
-[Vita Database Solution](http://www.vitadbsolutions.com)
+- [Vita Database Solution](http://www.vitadbsolutions.com)
  
-[Green Tecnologia](https://www.green.com.br/site/)
+- [Green Tecnologia](https://www.green.com.br/site/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

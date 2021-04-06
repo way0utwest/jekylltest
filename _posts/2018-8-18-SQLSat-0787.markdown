@@ -12,7 +12,7 @@ prettydate: "18 August 2018"
 - 2001 S Summit Ave
 - Sioux Falls, South Dakota
  
-<a href="/PDF/0787.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0787.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -655,39 +657,39 @@ Microsoft SQL Server Database Administrator for over 6 years with a focus in dat
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Omnitech Inc](http://www.omnitech-inc.com/)
+- [Omnitech Inc](http://www.omnitech-inc.com/)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Hortonworks Iowa](https://hortonworks.com/)
+- [Hortonworks Iowa](https://hortonworks.com/)
  
-[MetaBank](https://www.metabank.com/)
+- [MetaBank](https://www.metabank.com/)
  
-[SDN Communications](https://sdncommunications.com)
+- [SDN Communications](https://sdncommunications.com)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[First Bank  Trust](https://www.bankeasy.com/)
+- [First Bank  Trust](https://www.bankeasy.com/)
  
-[Wells Fargo](https://www.wellsfargo.com/)
+- [Wells Fargo](https://www.wellsfargo.com/)
  
-[Dakota State University](http://dsu.edu/)
+- [Dakota State University](http://dsu.edu/)
  
-[CHR Solutions](http://www.chrsolutions.com)
+- [CHR Solutions](http://www.chrsolutions.com)
  
-[Xigent Solutions](http://www.xigentsolutions.com/)
+- [Xigent Solutions](http://www.xigentsolutions.com/)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Raven Industries](http://www.ravenind.com)
+- [Raven Industries](http://www.ravenind.com)
  
-[RAS Companies](http://www.rascompanies.com)
+- [RAS Companies](http://www.rascompanies.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "27 September 2014"
 - Tatuapé - São Paulo - SP
 - São Paulo, , Brazil
  
-<a href="/PDF/0325.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0325.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -761,29 +763,29 @@ Trabalhando com TI desde 2002, no início da carreira dediquei bons anos ao dese
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[NGR Solutions](http://www.ngrsolutions.com.br)
+- [NGR Solutions](http://www.ngrsolutions.com.br)
  
-[Urmet Daruma Telecomunicacoes e Informatica SA](http://www.desenvolvedoresdaruma.com.br)
+- [Urmet Daruma Telecomunicacoes e Informatica SA](http://www.desenvolvedoresdaruma.com.br)
  
-[MVTech - Minha Vida](http://mvtech.minhavida.com.br)
+- [MVTech - Minha Vida](http://mvtech.minhavida.com.br)
  
-[i-Finger Sistemas Empresariais](http://www.i-finger.com.br)
+- [i-Finger Sistemas Empresariais](http://www.i-finger.com.br)
  
-[2PC](http://www.2pc.com.br)
+- [2PC](http://www.2pc.com.br)
  
-[UNIP Tatuapé](http://www.unip.br)
+- [UNIP Tatuapé](http://www.unip.br)
  
-[Wiley / Wrox](http://www.wrox.com)
+- [Wiley / Wrox](http://www.wrox.com)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[DoomTech](http://leka.com.br)
+- [DoomTech](http://leka.com.br)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

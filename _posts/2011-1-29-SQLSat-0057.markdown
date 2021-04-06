@@ -12,7 +12,7 @@ prettydate: "29 January 2011"
 - 2700 FM 1960 West
 - Houston, Texas
  
-<a href="/PDF/0057.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0057.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -979,35 +981,35 @@ Jen McCown is CEO of MinionWare, LLC; a Microsoft Certified Master for SQL Serve
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[Texas Memory Systems](http://RamSan.com)
+- [Texas Memory Systems](http://RamSan.com)
  
-[Bradmark Technologies](http://www.bradmark.com)
+- [Bradmark Technologies](http://www.bradmark.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Dynamic Worldwide Training Consultants](http://www.dwwtc.com)
+- [Dynamic Worldwide Training Consultants](http://www.dwwtc.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[CTREC Hilton IT Academy](http://www.ctrechilton.com/)
+- [CTREC Hilton IT Academy](http://www.ctrechilton.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

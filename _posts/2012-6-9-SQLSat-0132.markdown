@@ -12,7 +12,7 @@ prettydate: "9 June 2012"
 - 1000 College Blvd, Pensacola
 - Pensacola, Florida
  
-<a href="/PDF/0132.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0132.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -896,37 +898,37 @@ Russ Fustino heads up Developer Evangelism at ComponentOne as a Senior Developer
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[TeleVox Software](http://www.televox.com)
+- [TeleVox Software](http://www.televox.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[GrapeCity](http://www.gcpowertools.com)
+- [GrapeCity](http://www.gcpowertools.com)
  
-[Bit-Wizards](https://bitwizards.com/)
+- [Bit-Wizards](https://bitwizards.com/)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Mike Murach  Associates, Inc.](http://www.Murach.com)
+- [Mike Murach  Associates, Inc.](http://www.Murach.com)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
-[SQLJuJu](http://www.sqljuju.com)
+- [SQLJuJu](http://www.sqljuju.com)
  
-[Bill Pearson (Island Technologies Inc)](http://digital-duke.com/)
+- [Bill Pearson (Island Technologies Inc)](http://digital-duke.com/)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

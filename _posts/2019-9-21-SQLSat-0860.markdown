@@ -12,7 +12,7 @@ prettydate: "21 September 2019"
 - 5, Kn. Sviatoslava Sq., Lviv, Ukraine
 - Lviv, L'vivs'ka Oblast', Ukraine
  
-<a href="/PDF/0860.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0860.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -474,27 +476,27 @@ Power BI Days conference (www.powerbidays.com), Belgium Microsoft Advanced Analy
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SoftServe](http://www.softserveinc.com)
+- [SoftServe](http://www.softserveinc.com)
  
-[Lohika](https://www.lohika.com.ua)
+- [Lohika](https://www.lohika.com.ua)
  
-[ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
+- [ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[EPAM](http://www.epam.com/)
+- [EPAM](http://www.epam.com/)
  
-[N-iX](https://www.n-ix.com/)
+- [N-iX](https://www.n-ix.com/)
  
-[Skelia](https://skelia.com/)
+- [Skelia](https://skelia.com/)
  
-[Savory Data](http://www.savorydata.com)
+- [Savory Data](http://www.savorydata.com)
  
-[AllStars-IT Ukraine](https://allstars-it.com/ukraine/)
+- [AllStars-IT Ukraine](https://allstars-it.com/ukraine/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

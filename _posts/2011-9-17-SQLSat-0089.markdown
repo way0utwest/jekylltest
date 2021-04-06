@@ -12,7 +12,7 @@ prettydate: "17 September 2011"
 - 3775 Brookside Pkwy
 - Alpharetta, Georgia
  
-<a href="/PDF/0089.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0089.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1008,45 +1010,45 @@ Rob Volk is a SQL Server DBA in the Metro Atlanta area since 2001. He also moder
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[EMC](https://community.emc.com/community/connect/everything_microsoft)
+- [EMC](https://community.emc.com/community/connect/everything_microsoft)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[WhereScape](http://wherescape.com)
+- [WhereScape](http://wherescape.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[SQLskills.com](http://www.sqlskills.com/)
+- [SQLskills.com](http://www.sqlskills.com/)
  
-[SSWUG.org](https://www.sswug.org/)
+- [SSWUG.org](https://www.sswug.org/)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[SQLJoe.com](http://www.sqljoe.com)
+- [SQLJoe.com](http://www.sqljoe.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Radney Consulting LLC](http://www.timradney.com)
+- [Radney Consulting LLC](http://www.timradney.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Melissa Coates](http://www.sqlchick.com)
+- [Melissa Coates](http://www.sqlchick.com)
  
-[codegumbo](http://www.codegumbo.com)
+- [codegumbo](http://www.codegumbo.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

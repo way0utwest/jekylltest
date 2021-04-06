@@ -12,7 +12,7 @@ prettydate: "4 October 2014"
 - 1111 McKee Road
 - Oakdale, Pennsylvania
  
-<a href="/PDF/0315.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0315.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -764,31 +766,31 @@ Bill is the Manager of SQL Server Performance Tuning for RDX.  He works with ove
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[All Lines / LANtek](http://allinestech.com/)
+- [All Lines / LANtek](http://allinestech.com/)
  
-[Via Oncology](http://www.viaoncology.com/)
+- [Via Oncology](http://www.viaoncology.com/)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
-[MSSQLTips](http://www.mssqltips.com/index.asp)
+- [MSSQLTips](http://www.mssqltips.com/index.asp)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

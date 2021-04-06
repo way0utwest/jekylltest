@@ -12,7 +12,7 @@ prettydate: "23 May 2015"
 - Via Agostino da Montefeltro 2
 - Torino, , Italy
  
-<a href="/PDF/0400.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0400.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -312,21 +314,21 @@ Andrea is an author for sqlshack.com, sqlservercentral.com, and UGISS (User Grou
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Overnet Education](http://www.overneteducation.it/)
+- [Overnet Education](http://www.overneteducation.it/)
  
-[Bitorchestra SRL](http://www.bitorchestra.com)
+- [Bitorchestra SRL](http://www.bitorchestra.com)
  
-[Microsoft Bulgaria](http://www.microsoft.com)
+- [Microsoft Bulgaria](http://www.microsoft.com)
  
-[jusan network srl unipersonale](http://www.jusan.it)
+- [jusan network srl unipersonale](http://www.jusan.it)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Toolbox Coworking](http://www.toolboxcoworking.com)
+- [Toolbox Coworking](http://www.toolboxcoworking.com)
  
-[SQLServerPills](http://www.sqlserverpills.eu)
+- [SQLServerPills](http://www.sqlserverpills.eu)
  
-[Ugiss](http://www.ugiss.org)
+- [Ugiss](http://www.ugiss.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

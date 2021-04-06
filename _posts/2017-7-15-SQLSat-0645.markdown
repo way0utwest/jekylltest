@@ -12,7 +12,7 @@ prettydate: "15 July 2017"
 - All Saints Campus, Oxford Rd, Manchester
 - Manchester, England, United Kingdom
  
-<a href="/PDF/0645.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0645.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1093,35 +1095,35 @@ Most of his presentations can be found on his YouTube channel www.youtube.com/c/
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Robert Walters plc](https://www.robertwalters.co.uk/)
+- [Robert Walters plc](https://www.robertwalters.co.uk/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Datamovements Limited](https://www.datamovements.co.uk/)
+- [Datamovements Limited](https://www.datamovements.co.uk/)
  
-[Adatis](http://www.adatis.co.uk)
+- [Adatis](http://www.adatis.co.uk)
  
-[COEO](http://www.coeo.com)
+- [COEO](http://www.coeo.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Purple Frog](http://www.PurpleFrogSystems.com)
+- [Purple Frog](http://www.PurpleFrogSystems.com)
  
-[SQL Dot Limited](http://sql.limited/)
+- [SQL Dot Limited](http://sql.limited/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Arapaima Ltd](http://arapaima.uk/)
+- [Arapaima Ltd](http://arapaima.uk/)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "20 February 2016"
 - Rua do Fogo de Santelmo, Lote 2.07.02
 - lisbon, Lisbon, Portugal
  
-<a href="/PDF/0485.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0485.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -421,25 +423,25 @@ Vitor Faria Tomaz is an Embedded Escalation Engineer (EEE) at Microsoft, with sp
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Crossjoin Solutions Lda](http://www.crossjoin.pt)
+- [Crossjoin Solutions Lda](http://www.crossjoin.pt)
  
-[Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
+- [Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
+- [BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
  
-[DevScope, S.A.](http://www.devscope.net)
+- [DevScope, S.A.](http://www.devscope.net)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[SQLSentry PLC](https://www.sentryone.com/)
+- [SQLSentry PLC](https://www.sentryone.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

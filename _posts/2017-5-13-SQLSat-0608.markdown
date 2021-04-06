@@ -12,7 +12,7 @@ prettydate: "13 May 2017"
 - Calle 76 No. 12-22
 - Bogota, Bogota D.C., Colombia
  
-<a href="/PDF/0608.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0608.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -623,49 +625,49 @@ He co-leads the Global Spanish Virtual chapter of PASS. PASS LatAm Regional Ment
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Corporación Universitaria UNITEC](http://www.unitec.edu.co/)
+- [Corporación Universitaria UNITEC](http://www.unitec.edu.co/)
  
-[BDotNet](https://www.meetup.com/bdotnet)
+- [BDotNet](https://www.meetup.com/bdotnet)
  
-[IT Talent - Educaci#243;n y Tecnolog#237;as de Informaci#243;n S.A.](http://www.ittalent.com.co)
+- [IT Talent - Educaci#243;n y Tecnolog#237;as de Informaci#243;n S.A.](http://www.ittalent.com.co)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[CloudMonix](http://cloudmonix.com/)
+- [CloudMonix](http://cloudmonix.com/)
  
-[JetBrains](http://www.jetbrains.com)
+- [JetBrains](http://www.jetbrains.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[KEMP Technologies Inc](http://kemptechnologies.com/)
+- [KEMP Technologies Inc](http://kemptechnologies.com/)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Pearson Education, Informit](http://www.informit.com)
+- [Pearson Education, Informit](http://www.informit.com)
  
-[Apress Media, LLC](http://www.apress.com)
+- [Apress Media, LLC](http://www.apress.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SQL Smash](http://www.sqlsmash.com/)
+- [SQL Smash](http://www.sqlsmash.com/)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[TriggerDB Consulting](http://www.triggerdb.com)
+- [TriggerDB Consulting](http://www.triggerdb.com)
  
-[Oasis Collections LLC](https://www.oasiscollections.com/)
+- [Oasis Collections LLC](https://www.oasiscollections.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Synergy TPC](http://www.synergytpc.com)
+- [Synergy TPC](http://www.synergytpc.com)
  
-[Asesores en TICs y Software S.A.S](http://www.atis.com.co)
+- [Asesores en TICs y Software S.A.S](http://www.atis.com.co)
  
-[TechSmith](http://www.techsmith.com)
+- [TechSmith](http://www.techsmith.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

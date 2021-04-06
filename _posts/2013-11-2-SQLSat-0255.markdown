@@ -12,7 +12,7 @@ prettydate: "2 November 2013"
 - 
 - Arlington, Texas
  
-<a href="/PDF/0255.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0255.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -971,45 +973,45 @@ Christine Assaf is an experienced HR pro who is passionate about the mental heal
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Datical](http://www.datical.com)
+- [Datical](http://www.datical.com)
  
-[Astute Networks](http://www.astutenetworks.com)
+- [Astute Networks](http://www.astutenetworks.com)
  
-[OCZ Storage Solutions - A Toshiba Group Company](http://www.ocz.com)
+- [OCZ Storage Solutions - A Toshiba Group Company](http://www.ocz.com)
  
-[MATRIX](http://www.matrixres.com)
+- [MATRIX](http://www.matrixres.com)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Neudesic](http://www.neudesic.com)
+- [Neudesic](http://www.neudesic.com)
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Slalom Consulting](https://www.slalom.com)
+- [Slalom Consulting](https://www.slalom.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[CorSource Technology Group](http://www.corsource.com)
+- [CorSource Technology Group](http://www.corsource.com)
  
-[The University of Texas at Arlington](http://www.uta.edu/engineering/)
+- [The University of Texas at Arlington](http://www.uta.edu/engineering/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "26 November 2016"
 - Viale Usberti, 181
 - Parma, Emilia-Romagna, Italy
  
-<a href="/PDF/0566.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0566.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -489,37 +491,37 @@ Danilo Dominici, lavora con SQL Server sin dalla versione 6.5. Si occupa princip
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[After Spell Studios](http://www.afterspellstudios.it/)
+- [After Spell Studios](http://www.afterspellstudios.it/)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Elfo srl](http://www.elfo.net/)
+- [Elfo srl](http://www.elfo.net/)
  
-[Engage IT Services](http://www.engageitservices.it)
+- [Engage IT Services](http://www.engageitservices.it)
  
-[DataSkills](http://www.dataskills.it/)
+- [DataSkills](http://www.dataskills.it/)
  
-[Microsys](https://www.msys.it/Pages/default.aspx)
+- [Microsys](https://www.msys.it/Pages/default.aspx)
  
-[Centro Sistemi Treviso](http://www.cstv.it/)
+- [Centro Sistemi Treviso](http://www.cstv.it/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[DanielaMalvisi.Com](http://www.danielamalvisi.com/)
+- [DanielaMalvisi.Com](http://www.danielamalvisi.com/)
  
-[DotNetPodcast](http://www.dotnetpodcast.com)
+- [DotNetPodcast](http://www.dotnetpodcast.com)
  
-[GetLatestVersion.it](http://www.getlatestversion.it/)
+- [GetLatestVersion.it](http://www.getlatestversion.it/)
  
-[Ugiss](http://www.ugiss.org)
+- [Ugiss](http://www.ugiss.org)
  
-[DotNetMarche](http://www.dotnetmarche.org/)
+- [DotNetMarche](http://www.dotnetmarche.org/)
  
-[WindowServer.it](http://www.windowserver.it/)
+- [WindowServer.it](http://www.windowserver.it/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "12 September 2015"
 - 3200 E Cheyenne Ave
 - Las Vegas, Nevada
  
-<a href="/PDF/0436.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0436.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -994,23 +996,23 @@ Carlos Bossy (MCTS, MCP BI, CBIP) is a data and cloud analytics architect with 2
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[Zerto](http://www.zerto.com/)
+- [Zerto](http://www.zerto.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

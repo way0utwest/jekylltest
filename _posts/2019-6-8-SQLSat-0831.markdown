@@ -12,7 +12,7 @@ prettydate: "8 June 2019"
 - 130 Madras Street
 - Christchurch, Canterbury, New Zealand
  
-<a href="/PDF/0831.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0831.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -724,23 +726,23 @@ Marsha Pierce lives in Nashville, TN. She studied Computer Science, Mathematics,
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[SQL Masters Consulting](http://www.sqlmastersconsulting.com.au)
+- [SQL Masters Consulting](http://www.sqlmastersconsulting.com.au)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Crescent Consulting](http://www.crescent.co.nz/)
+- [Crescent Consulting](http://www.crescent.co.nz/)
  
-[SQL Services](https://www.sqlservices.com)
+- [SQL Services](https://www.sqlservices.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[SQL Services](https://www.sqlservices.com)
+- [SQL Services](https://www.sqlservices.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

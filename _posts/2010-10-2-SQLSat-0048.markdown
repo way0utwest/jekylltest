@@ -12,7 +12,7 @@ prettydate: "2 October 2010"
 - 1260 Lexington Dr
 - West Columbia, South Carolina
  
-<a href="/PDF/0048.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0048.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1051,35 +1053,35 @@ Wayne Snyder specializes in Business Intelligence solutions and is an internatio
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[eGroup, Inc.](http://www.eGroup-us.com)
+- [eGroup, Inc.](http://www.eGroup-us.com)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Apress, Inc.](http://www.apress.com)
+- [Apress, Inc.](http://www.apress.com)
  
-[Edgewood Solutions](http://www.edgewoodsolutions.com)
+- [Edgewood Solutions](http://www.edgewoodsolutions.com)
  
-[VC3](http://www.VC3.com)
+- [VC3](http://www.VC3.com)
  
-[Consortium for Enterprise Systems Management](http://www.gocesm.org)
+- [Consortium for Enterprise Systems Management](http://www.gocesm.org)
  
-[Training Concepts](http://www.trainingconcepts.com/)
+- [Training Concepts](http://www.trainingconcepts.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

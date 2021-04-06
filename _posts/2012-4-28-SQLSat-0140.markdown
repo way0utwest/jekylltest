@@ -12,7 +12,7 @@ prettydate: "28 April 2012"
 - 12/251 Adelaide Terrace
 - Perth, , Australia
  
-<a href="/PDF/0140.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0140.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -275,33 +277,33 @@ Paul te Braak is the principle consultant of abaX Data and has over a decade of 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[New Horizons Learning Centres](http://www.nhaustralia.com.au)
+- [New Horizons Learning Centres](http://www.nhaustralia.com.au)
  
-[CSG](http://www.csg.com.au)
+- [CSG](http://www.csg.com.au)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[LobsterPot Solutions](http://lobsterpot.com.au)
+- [LobsterPot Solutions](http://lobsterpot.com.au)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[SQL Down Under](http://www.sqldownunder.com/)
+- [SQL Down Under](http://www.sqldownunder.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[ReadyRoll](http://ready-roll.com/)
+- [ReadyRoll](http://ready-roll.com/)
  
-[StrataDB](http://www.stratadb.com/)
+- [StrataDB](http://www.stratadb.com/)
  
-[SQL Concepts](http://www.sqlconcepts.co.nz/)
+- [SQL Concepts](http://www.sqlconcepts.co.nz/)
  
-[AucklandSQL](http://aucklandsql.com)
+- [AucklandSQL](http://aucklandsql.com)
  
-[McGraw-Hill Education Australia  New Zealand](http://www.mcgraw-hill.com.au/)
+- [McGraw-Hill Education Australia  New Zealand](http://www.mcgraw-hill.com.au/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

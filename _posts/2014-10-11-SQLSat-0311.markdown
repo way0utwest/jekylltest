@@ -12,7 +12,7 @@ prettydate: "11 October 2014"
 - 110 B, Simeonovsko Shosse Bul.
 - Sofia, , Bulgaria
  
-<a href="/PDF/0311.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0311.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -708,33 +710,33 @@ I am a Data platform MVP with more than 10 years of real-life experience with SQ
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[ICN.bg](http://www.icn.bg/)
+- [ICN.bg](http://www.icn.bg/)
  
-[Hewlett-Packard](http://www.hp.com)
+- [Hewlett-Packard](http://www.hp.com)
  
-[ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
+- [ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[SuperHosting.BG](http://www.superhosting.bg/)
+- [SuperHosting.BG](http://www.superhosting.bg/)
  
-[Adastra Bulgaria](http://www.bg.adastragrp.com/)
+- [Adastra Bulgaria](http://www.bg.adastragrp.com/)
  
-[MentorMate](https://goo.gl/53d5Fn)
+- [MentorMate](https://goo.gl/53d5Fn)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Packt Publishing](http://www.PacktPub.com)
+- [Packt Publishing](http://www.PacktPub.com)
  
-[Wintellect](http://www.wintellectnow.com/)
+- [Wintellect](http://www.wintellectnow.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Httpool Bulgaria](http://www.httpool.bg/)
+- [Httpool Bulgaria](http://www.httpool.bg/)
  
-[Microsoft Bulgaria](http://www.microsoft.com)
+- [Microsoft Bulgaria](http://www.microsoft.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

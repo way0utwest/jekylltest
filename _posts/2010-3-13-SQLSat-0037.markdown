@@ -12,7 +12,7 @@ prettydate: "13 March 2010"
 - 5600 City Line Ave
 - Philadelphia, Pennsylvania
  
-<a href="/PDF/0037.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0037.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -506,41 +508,41 @@ I am a Business Intelligence developer, having transitioned over from transactio
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[St Joseph's Haub School of Business](http://online.sju.edu/)
+- [St Joseph's Haub School of Business](http://online.sju.edu/)
  
-[expressor software](http://www.expressor-software.com)
+- [expressor software](http://www.expressor-software.com)
  
-[Validity, LLC](http://www.validityinc.net/)
+- [Validity, LLC](http://www.validityinc.net/)
  
-[Susquehanna International Group, LLP](http://www.sig.com)
+- [Susquehanna International Group, LLP](http://www.sig.com)
  
-[Anexinet](http://www.anexinet.com)
+- [Anexinet](http://www.anexinet.com)
  
-[Microsoft - Malvern office](http://www.microsoft.com/about/companyinformation/usaoffices/midatlantic/malvern.mspx)
+- [Microsoft - Malvern office](http://www.microsoft.com/about/companyinformation/usaoffices/midatlantic/malvern.mspx)
  
-[WestClinTech](http://westclintech.com)
+- [WestClinTech](http://westclintech.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Pearson-InformIT](http://www.informit.com)
+- [Pearson-InformIT](http://www.informit.com)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[xkoto](http://www.xkoto.com)
+- [xkoto](http://www.xkoto.com)
  
-[Panorama Software](http://www.panorama.com)
+- [Panorama Software](http://www.panorama.com)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "16 November 2013"
 - 6651 SW Capitol Highway
 - Portland, Oregon
  
-<a href="/PDF/0265.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0265.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1028,53 +1030,53 @@ Aaron leads the PowerShell Virtual Group of PASS (SQLPS.io), is a board member o
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Emergency Reporting](http://EmergencyReporting.com)
+- [Emergency Reporting](http://EmergencyReporting.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[DH2i](http://www.dh2i.com)
+- [DH2i](http://www.dh2i.com)
  
-[Marquam Group](https://www.marquam.com/)
+- [Marquam Group](https://www.marquam.com/)
  
-[Astute Networks](http://www.astutenetworks.com)
+- [Astute Networks](http://www.astutenetworks.com)
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Charlie Phillips]()
+- [Charlie Phillips]()
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Neudesic](http://www.neudesic.com)
+- [Neudesic](http://www.neudesic.com)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Widmer Brothers Brewing](http://widmerbrothers.com/)
+- [Widmer Brothers Brewing](http://widmerbrothers.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Intertech](http://www.intertech.com/)
+- [Intertech](http://www.intertech.com/)
  
-[Pearson Education, Informit](http://www.informit.com)
+- [Pearson Education, Informit](http://www.informit.com)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[SQL DBA Master and Idera](http://www.sqldbamaster.com)
+- [SQL DBA Master and Idera](http://www.sqldbamaster.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

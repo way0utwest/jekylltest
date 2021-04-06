@@ -12,7 +12,7 @@ prettydate: "23 September 2017"
 - 6256 Greenwich Dr.
 - San Diego, California
  
-<a href="/PDF/0661.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0661.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1111,27 +1113,27 @@ Co-founder of Windocks, Paul is a former Microsoft engineer who is focused on de
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[AWS](https://aws.amazon.com/)
+- [AWS](https://aws.amazon.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[UCSD Extension](http://extension.ucsd.edu/)
+- [UCSD Extension](http://extension.ucsd.edu/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Actifio](http://www.actifio.com)
+- [Actifio](http://www.actifio.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

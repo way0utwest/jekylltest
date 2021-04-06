@@ -12,7 +12,7 @@ prettydate: "18 May 2019"
 - Via Ospedale, 72
 - Cagliari, Sardinia, Italy
  
-<a href="/PDF/0871.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0871.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -394,21 +396,21 @@ When it comes to business I believe that only three things matter most: ask, lis
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Agic Technology srl](https://en.agictech.com/)
+- [Agic Technology srl](https://en.agictech.com/)
  
-[Insight Technology Solutions srl](https://it.insight.com/)
+- [Insight Technology Solutions srl](https://it.insight.com/)
  
-[Overnet Education](http://www.overneteducation.it/)
+- [Overnet Education](http://www.overneteducation.it/)
  
-[Datamaze](http://www.datamaze.it/)
+- [Datamaze](http://www.datamaze.it/)
  
-[SolidQ Italia](http://www.solidq.it)
+- [SolidQ Italia](http://www.solidq.it)
  
-[Ugiss](http://www.ugiss.org)
+- [Ugiss](http://www.ugiss.org)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

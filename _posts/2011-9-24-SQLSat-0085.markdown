@@ -12,7 +12,7 @@ prettydate: "24 September 2011"
 - 100 Weldon Blvd  Building UP
 - Sanford, Florida
  
-<a href="/PDF/0085.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0085.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1043,49 +1045,49 @@ Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Strategy Companion Corporation](http://www.strategycompanion.com/m_home.aspx)
+- [Strategy Companion Corporation](http://www.strategycompanion.com/m_home.aspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[GrapeCity](http://www.gcpowertools.com)
+- [GrapeCity](http://www.gcpowertools.com)
  
-[Pearl Knowledge Solutions](http://www.pearlknows.com)
+- [Pearl Knowledge Solutions](http://www.pearlknows.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[STB Group](http://www.sqlsaturday.com)
+- [STB Group](http://www.sqlsaturday.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[SQL Balls](http://www.SQLBalls.com)
+- [SQL Balls](http://www.SQLBalls.com)
  
-[Silverwing Technologies, Inc.](http://www.programmersedge.com)
+- [Silverwing Technologies, Inc.](http://www.programmersedge.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[McGraw-Hill](http://www.mhprofessional.com/)
+- [McGraw-Hill](http://www.mhprofessional.com/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

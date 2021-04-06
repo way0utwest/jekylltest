@@ -12,7 +12,7 @@ prettydate: "14 June 2014"
 - 18 Holyrood Park Road
 - Edinburgh, , United Kingdom
  
-<a href="/PDF/0281.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0281.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -560,17 +562,17 @@ Neil has 20+ years in a variety of SQL Server roles and is an MCT. He is a regul
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
+- [Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quorum Network Resources](http://www.qnrl.com/)
+- [Quorum Network Resources](http://www.qnrl.com/)
  
-[Rehfeld](http://www.effektor.bi)
+- [Rehfeld](http://www.effektor.bi)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "10 October 2009"
 - 3820 Mundy Mill Rd
 - Gainesville, Georgia
  
-<a href="/PDF/0025.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0025.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -339,23 +341,23 @@ Dr. Sudhanshu Sekhar Panda, GISP is an Asst Prof, GIS/Env. Sci. at Gainesville S
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[JumpstartTV.com](http://www.jumpstarttv.com)
+- [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[InterWorks Inc](http://www.interworksinc.com)
+- [InterWorks Inc](http://www.interworksinc.com)
  
-[Pearson-InformIT](http://www.informit.com)
+- [Pearson-InformIT](http://www.informit.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[codegumbo](http://www.codegumbo.com)
+- [codegumbo](http://www.codegumbo.com)
  
-[Manning Publications Co.](http://www.manning.com)
+- [Manning Publications Co.](http://www.manning.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

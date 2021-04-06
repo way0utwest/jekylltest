@@ -12,7 +12,7 @@ prettydate: "6 August 2016"
 - Nicholson Drive Ext
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0515.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0515.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1491,55 +1493,55 @@ Mike F Robbins is a Microsoft MVP on Windows PowerShell and a SAPIEN Technologie
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[LSU E. J. Ourso College of Business](http://business.lsu.edu)
+- [LSU E. J. Ourso College of Business](http://business.lsu.edu)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Blue Cross Blue Shield of Louisiana](http://www.bcbsla.com)
+- [Blue Cross Blue Shield of Louisiana](http://www.bcbsla.com)
  
-[Robert Half](http://www.roberthalf.com)
+- [Robert Half](http://www.roberthalf.com)
  
-[GCR Inc.](http://gcrincorporated.com)
+- [GCR Inc.](http://gcrincorporated.com)
  
-[Intucio](http://www.intucio.com)
+- [Intucio](http://www.intucio.com)
  
-[Champion Technology Services, Inc.](http://www.champtechnology.com/Jobs/Jobs.asp)
+- [Champion Technology Services, Inc.](http://www.champtechnology.com/Jobs/Jobs.asp)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Integrated Services, Inc. (SQLRx)](http://www.sqlrx.com)
+- [Integrated Services, Inc. (SQLRx)](http://www.sqlrx.com)
  
-[Envoc](http://envoc.com)
+- [Envoc](http://envoc.com)
  
-[Toastmasters District 68](https://www.d68tm.org)
+- [Toastmasters District 68](https://www.d68tm.org)
  
-[LANtec of Louisiana](http://www.lantecctc.com)
+- [LANtec of Louisiana](http://www.lantecctc.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Turner Industries Group, LLC](http://www.turner-industries.com)
+- [Turner Industries Group, LLC](http://www.turner-industries.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Antares Technology Solutions](http://www.antaresnet.com)
+- [Antares Technology Solutions](http://www.antaresnet.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "11 July 2015"
 - 5150 E. Dublin-Granville Rd.
 - Columbus, Ohio
  
-<a href="/PDF/0421.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0421.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -816,23 +818,23 @@ Adam Belebczuk is the Owner amp; Principal Consultant at Belebczuk Consulting Se
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Involta](http://www.Involta.com)
+- [Involta](http://www.Involta.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[PernixData](http://www.pernixdata.com)
+- [PernixData](http://www.pernixdata.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[BITracks](http://www.bitracks.com/)
+- [BITracks](http://www.bitracks.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

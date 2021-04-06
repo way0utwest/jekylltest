@@ -12,7 +12,7 @@ prettydate: "13 August 2016"
 - 3777 Priority Way South Drive
 - Indianapolis, Indiana
  
-<a href="/PDF/0530.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0530.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1268,41 +1270,41 @@ Ben has been a member of the SQL Server Community since 2000. He loves a challen
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Salesforce](https://www.salesforce.com/)
+- [Salesforce](https://www.salesforce.com/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[New Horizons CLC of Indianapolis](https://www.nhindy.com)
+- [New Horizons CLC of Indianapolis](https://www.nhindy.com)
  
-[Moser Consulting](http://moserit.com)
+- [Moser Consulting](http://moserit.com)
  
-[Fusion Alliance](http://www.fusionalliance.com)
+- [Fusion Alliance](http://www.fusionalliance.com)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Main Street DBAS](http://www.mainstreetdbas.com/)
+- [Main Street DBAS](http://www.mainstreetdbas.com/)
  
-[Allegient](http://www.allegient.com)
+- [Allegient](http://www.allegient.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Indy Data Partners](http://indydatapartners.com/)
+- [Indy Data Partners](http://indydatapartners.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Crowe Horwath](http://www.crowehorwath.com)
+- [Crowe Horwath](http://www.crowehorwath.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

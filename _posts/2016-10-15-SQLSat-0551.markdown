@@ -12,7 +12,7 @@ prettydate: "15 October 2016"
 - Leuvenlaan 21
 - Utrecht, Utrecht, Netherlands
  
-<a href="/PDF/0551.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0551.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -729,37 +731,37 @@ The Dutch PASS Chapter
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Info Support](http://www.infosupport.com)
+- [Info Support](http://www.infosupport.com)
  
-[Monkey Recruitment B.V.](http://www.monkeyrecruitment.nl/)
+- [Monkey Recruitment B.V.](http://www.monkeyrecruitment.nl/)
  
-[Motion10](http://www.motion10.nl/)
+- [Motion10](http://www.motion10.nl/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[hp](http://www.valid.nl/)
+- [hp](http://www.valid.nl/)
  
-[Cloud DBA](http://cloud-dba.eu/)
+- [Cloud DBA](http://cloud-dba.eu/)
  
-[Pyramide Analytics](http://www.PyramidAnalytics.com)
+- [Pyramide Analytics](http://www.PyramidAnalytics.com)
  
-[ilionX](http://www.ilionx.com)
+- [ilionX](http://www.ilionx.com)
  
-[Rubicon](http://www.rubicon.nl)
+- [Rubicon](http://www.rubicon.nl)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Visser en Baars](http://www.visservanbaars.nl/)
+- [Visser en Baars](http://www.visservanbaars.nl/)
  
-[Kandenza](https://www.kadenza.nl/)
+- [Kandenza](https://www.kadenza.nl/)
  
-[Hot Item](http://www.hotitem.nl/)
+- [Hot Item](http://www.hotitem.nl/)
  
-[SQLSentry PLC](https://www.sentryone.com/)
+- [SQLSentry PLC](https://www.sentryone.com/)
  
-[DATADOGS](http://www.datadogs.nl)
+- [DATADOGS](http://www.datadogs.nl)
  
-[PASS Nederland](http://www.sqlpass.nl/)
+- [PASS Nederland](http://www.sqlpass.nl/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

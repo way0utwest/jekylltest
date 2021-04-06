@@ -12,7 +12,7 @@ prettydate: "28 March 2015"
 - Cnr Boundary  Rosa Streets
 - Spring Hill, QLD, Australia
  
-<a href="/PDF/0382.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0382.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -417,29 +419,29 @@ Craig has been working with SQL Server for over 20 years and currently holds sev
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[Varigence Australia](http://www.varigence.com.au)
+- [Varigence Australia](http://www.varigence.com.au)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Veeam](https://www.veeam.com)
+- [Veeam](https://www.veeam.com)
  
-[DWS](http://www.dws.com.au/)
+- [DWS](http://www.dws.com.au/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQL Masters Consulting](http://www.sqlmastersconsulting.com.au)
+- [SQL Masters Consulting](http://www.sqlmastersconsulting.com.au)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

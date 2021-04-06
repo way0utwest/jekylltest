@@ -12,7 +12,7 @@ prettydate: "16 May 2015"
 - 3775 Brookside Pkwy
 - Alpharetta, Georgia
  
-<a href="/PDF/0392.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0392.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -2054,71 +2056,71 @@ David is a Sergeant with the Cape Coral Police Department and currently works as
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[DH2i](http://www.dh2i.com)
+- [DH2i](http://www.dh2i.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Linchpin People](http://www.linchpinpeople.com)
+- [Linchpin People](http://www.linchpinpeople.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[MSSQLTips](http://www.mssqltips.com/index.asp)
+- [MSSQLTips](http://www.mssqltips.com/index.asp)
  
-[Effektor](http://www.effektor.bi)
+- [Effektor](http://www.effektor.bi)
  
-[CTS Inc](http://www.askcts.com)
+- [CTS Inc](http://www.askcts.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[SQLskills](http://www.sqlskills.com)
+- [SQLskills](http://www.sqlskills.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Ntirety, Inc.](http://www.ntirety.com)
+- [Ntirety, Inc.](http://www.ntirety.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[SQL Server Associates, LLC](http://sqlserverassociates.com/)
+- [SQL Server Associates, LLC](http://sqlserverassociates.com/)
  
-[Prologika](http://www.prologika.com/)
+- [Prologika](http://www.prologika.com/)
  
-[SQL Chick](http://www.sqlchick.com/)
+- [SQL Chick](http://www.sqlchick.com/)
  
-[SQL Saturday Chattanooga](http://www.sqlsaturday.com/410)
+- [SQL Saturday Chattanooga](http://www.sqlsaturday.com/410)
  
-[T K Creative Solutions Group](http://clarkcreations.net/blog/tk/)
+- [T K Creative Solutions Group](http://clarkcreations.net/blog/tk/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

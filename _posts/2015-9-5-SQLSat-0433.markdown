@@ -12,7 +12,7 @@ prettydate: "5 September 2015"
 - Engelbrektsgatan 73
 - Gothenburg, , Sweden
  
-<a href="/PDF/0433.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0433.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -549,29 +551,29 @@ Cathrine loves teaching and sharing knowledge :) She is based in Norway and work
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Informator](http://www.informator.se)
+- [Informator](http://www.informator.se)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[SQL Service Nordic AB](http://www.sqlservice.se)
+- [SQL Service Nordic AB](http://www.sqlservice.se)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SolidQ Nordic](https://www.solidq.com/)
+- [SolidQ Nordic](https://www.solidq.com/)
  
-[Obnex Technologies AB](http://www.sqlspreads.com)
+- [Obnex Technologies AB](http://www.sqlspreads.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

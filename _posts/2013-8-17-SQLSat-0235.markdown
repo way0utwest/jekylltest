@@ -12,7 +12,7 @@ prettydate: "17 August 2013"
 - 1290 Avenue of the Americas
 - New York City, New York
  
-<a href="/PDF/0235.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0235.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1110,51 +1112,51 @@ I volunteer and present relevant topics at SQL Saturday and internal Microsoft e
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Bridgewater Associates](http://www.bwater.com/default.aspx)
+- [Bridgewater Associates](http://www.bwater.com/default.aspx)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[BlueMetal Architects](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [BlueMetal Architects](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Branegy Systems Inc](https://www.dbmaster.io)
+- [Branegy Systems Inc](https://www.dbmaster.io)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[Pearl Knowledge Solutions](http://www.pearlknows.com)
+- [Pearl Knowledge Solutions](http://www.pearlknows.com)
  
-[Ntirety, Inc.](http://www.ntirety.com)
+- [Ntirety, Inc.](http://www.ntirety.com)
  
-[Aspect Consulting](http://www.aspect-consulting.com/)
+- [Aspect Consulting](http://www.aspect-consulting.com/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[SQLHA](http://www.sqlha.com)
+- [SQLHA](http://www.sqlha.com)
  
-[LearnIT with CTG](http://www.learnitwithctg.com)
+- [LearnIT with CTG](http://www.learnitwithctg.com)
  
-[Hush Hush](http://www.mask-me.net)
+- [Hush Hush](http://www.mask-me.net)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Joes2Pros](http://www.joes2pros.com)
+- [Joes2Pros](http://www.joes2pros.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[McGraw Hill Education](http://www.mhprofessional.com/promo/index.php?promocode=SQL2012cat=114)
+- [McGraw Hill Education](http://www.mhprofessional.com/promo/index.php?promocode=SQL2012cat=114)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

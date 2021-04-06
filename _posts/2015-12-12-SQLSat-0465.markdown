@@ -12,7 +12,7 @@ prettydate: "12 December 2015"
 - 1408 Division Rd 
 - East Greenwich, Rhode Island
  
-<a href="/PDF/0465.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0465.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -729,35 +731,35 @@ A musician in his spare time, Ray plays four different instruments. He also enjo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[MVP Systems Software](http://www.jamsscheduler.com)
+- [MVP Systems Software](http://www.jamsscheduler.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[New Directions Staffing Services](http://www.newdirectionsstaffing.com)
+- [New Directions Staffing Services](http://www.newdirectionsstaffing.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Delphix](http://www.delphix.com)
+- [Delphix](http://www.delphix.com)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Bridge Technical Talent](http://www.bridge-talent.com)
+- [Bridge Technical Talent](http://www.bridge-talent.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[TriCore Solutions](https://www.tricoresolutions.com)
+- [TriCore Solutions](https://www.tricoresolutions.com)
  
-[Actifio](http://www.actifio.com)
+- [Actifio](http://www.actifio.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Pearl Knowledge Solutions Inc.](http://www.pearlknows.com/)
+- [Pearl Knowledge Solutions Inc.](http://www.pearlknows.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

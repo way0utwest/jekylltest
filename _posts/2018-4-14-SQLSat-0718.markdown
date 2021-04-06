@@ -12,7 +12,7 @@ prettydate: "14 April 2018"
 -  Paulo Malschitzki, 10
 - Joinville, Santa Catarina, Brazil
  
-<a href="/PDF/0718.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0718.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -472,19 +474,19 @@ Trained thousands of professionals on the DAX language, M language, and Microsof
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Domo Soluções](http://www.domosolucoes.com.br)
+- [Domo Soluções](http://www.domosolucoes.com.br)
  
-[Univille](http://www.univille.edu.br/)
+- [Univille](http://www.univille.edu.br/)
  
-[Ayty CRM BPO e Serviços de Tecnologia da Informação Ltda](http://www.aytytech.com/)
+- [Ayty CRM BPO e Serviços de Tecnologia da Informação Ltda](http://www.aytytech.com/)
  
-[BECOMEX](http://www.becomex.com.br)
+- [BECOMEX](http://www.becomex.com.br)
  
-[RDornel Data Platform eXperts - RDDPX](http://www.rdornel.com)
+- [RDornel Data Platform eXperts - RDDPX](http://www.rdornel.com)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

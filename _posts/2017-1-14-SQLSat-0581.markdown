@@ -12,7 +12,7 @@ prettydate: "14 January 2017"
 - 1301 East Main Street, Murfreesboro
 - Nashville, Tennessee
  
-<a href="/PDF/0581.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0581.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1708,45 +1710,45 @@ Karen’s presentations are known for their lively and interactive approach to l
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[Vaco Nashville](http://www.vaco.com/)
+- [Vaco Nashville](http://www.vaco.com/)
  
-[Rezult Group](http://www.rezultgroup.com/)
+- [Rezult Group](http://www.rezultgroup.com/)
  
-[InfoWorks, Inc.](http://www.infoworks-tn.com)
+- [InfoWorks, Inc.](http://www.infoworks-tn.com)
  
-[SolidQ North America](http://www.solidq.com)
+- [SolidQ North America](http://www.solidq.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[CTS Inc](http://www.askcts.com)
+- [CTS Inc](http://www.askcts.com)
  
-[Main Street DBAS](http://www.mainstreetdbas.com/)
+- [Main Street DBAS](http://www.mainstreetdbas.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[T K Creative Solutions Group](http://clarkcreations.net/blog/tk/)
+- [T K Creative Solutions Group](http://clarkcreations.net/blog/tk/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Jet Brains](http://www.jetbrains.com/)
+- [Jet Brains](http://www.jetbrains.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "24 March 2012"
 - 15744 Goldenwest Street
 - Huntington Beach, California
  
-<a href="/PDF/0120.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0120.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1099,27 +1101,27 @@ Warren Sifre has been in the IT community since 1998 and has worked in a variety
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[WhereScape USA Limited](http://www.wherescape.com)
+- [WhereScape USA Limited](http://www.wherescape.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[MarkTab Consulting](http://www.marktab.net)
+- [MarkTab Consulting](http://www.marktab.net)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Golden West College](http://www.goldenwestcollege.edu/)
+- [Golden West College](http://www.goldenwestcollege.edu/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

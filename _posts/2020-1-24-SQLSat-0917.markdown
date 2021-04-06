@@ -12,7 +12,7 @@ prettydate: "24 January 2020"
 - Mautner Markhof Gasse 50
 - Vienna, , Austria
  
-<a href="/PDF/0917.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0917.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -917,21 +919,21 @@ Independent database consultant and certified trainer with a passion for chasing
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software Deutschland](https://www.quest.com/de-de/)
+- [Quest Software Deutschland](https://www.quest.com/de-de/)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[dbWatch](http://dbwatch.com/)
+- [dbWatch](http://dbwatch.com/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[ETC - Enterprise Training Center](https://www.etc.at)
+- [ETC - Enterprise Training Center](https://www.etc.at)
  
-[Solisyon GmbH](http://www.solisyon.de/)
+- [Solisyon GmbH](http://www.solisyon.de/)
  
-[GVC Holdings PLC](https://gvc-plc.com/)
+- [GVC Holdings PLC](https://gvc-plc.com/)
  
-[cubido business solutions gmbh](http://www.cubido.at)
+- [cubido business solutions gmbh](http://www.cubido.at)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

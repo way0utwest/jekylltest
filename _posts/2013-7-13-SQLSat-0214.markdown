@@ -12,7 +12,7 @@ prettydate: "13 July 2013"
 - 1500 Alliant Avenue 
 - Louisville, Kentucky
  
-<a href="/PDF/0214.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0214.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -605,21 +607,21 @@ Dave Mattingly has spent thirty years of designing, developing, databasing, docu
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Imperva](http://www.imperva.com/index.html)
+- [Imperva](http://www.imperva.com/index.html)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[BITracks](http://www.bitracks.com/)
+- [BITracks](http://www.bitracks.com/)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[V-Soft Consulting](http://www.vsoftconsulting.com/)
+- [V-Soft Consulting](http://www.vsoftconsulting.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Apparatus](http://www.apparatus.net)
+- [Apparatus](http://www.apparatus.net)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

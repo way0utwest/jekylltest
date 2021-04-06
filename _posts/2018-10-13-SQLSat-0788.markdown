@@ -12,7 +12,7 @@ prettydate: "13 October 2018"
 - Calle el Pedregal y Av. Finca al Espino, frente a la entrada de Escuela Militar, Antiguo Cuscatlán. Facultad de Economía: Tel. 2212-9400 Fax. 2289-5314
 - Antiguo Cuscatlan, La Libertad, El Salvador
  
-<a href="/PDF/0788.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0788.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1000,27 +1002,27 @@ business consultant and BI.  Technology  assesment and ecommerce evangelist
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Universidad Doctor José Matías Delgado](http://www.ujmd.edu.sv/)
+- [Universidad Doctor José Matías Delgado](http://www.ujmd.edu.sv/)
  
-[solcomp](http://www.solcomp.com/)
+- [solcomp](http://www.solcomp.com/)
  
-[SVNet](http://www.svnet.sv)
+- [SVNet](http://www.svnet.sv)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[Business Intelligence LATAM](http://bit.ly/SuscribirseBILATAM)
+- [Business Intelligence LATAM](http://bit.ly/SuscribirseBILATAM)
  
-[Alfaomega Grupo Editor](https://www.alfaomega.com.mx)
+- [Alfaomega Grupo Editor](https://www.alfaomega.com.mx)
  
-[3Corp](https://3corp.net/)
+- [3Corp](https://3corp.net/)
  
-[Grupo Sega](http://www.gruposega.net/web/)
+- [Grupo Sega](http://www.gruposega.net/web/)
  
-[Telus International | Digital Solutions](https://telusinternational-ca.com/en/)
+- [Telus International | Digital Solutions](https://telusinternational-ca.com/en/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

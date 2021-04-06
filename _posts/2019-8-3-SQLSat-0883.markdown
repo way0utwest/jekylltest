@@ -12,7 +12,7 @@ prettydate: "3 August 2019"
 - 450 N Whittington Pkwy
 - Louisville, Kentucky
  
-<a href="/PDF/0883.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0883.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -979,45 +981,45 @@ Angela Tidwell is an experienced Data Professional with a love for Data Analytic
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Smart Data](https://smartdata.net/)
+- [Smart Data](https://smartdata.net/)
  
-[KiZAN](https://www.kizan.com)
+- [KiZAN](https://www.kizan.com)
  
-[Farm Credit Mid-America](http://www.e-farmcredit.com)
+- [Farm Credit Mid-America](http://www.e-farmcredit.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[TEKsystems (Louisville)](http://www.teksystems.com/)
+- [TEKsystems (Louisville)](http://www.teksystems.com/)
  
-[Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[SQL Saturday Atlanta](http://www.atlantamdf.com/)
+- [SQL Saturday Atlanta](http://www.atlantamdf.com/)
  
-[NIS Technologies](http://www.nistechnologies.com)
+- [NIS Technologies](http://www.nistechnologies.com)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[STATCowboy](http://www.statcowboy.com)
+- [STATCowboy](http://www.statcowboy.com)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[CodeNameSQL](https://blog-jhigg.com)
+- [CodeNameSQL](https://blog-jhigg.com)
  
-[SQL Espresso](https://sqlespresso.com/)
+- [SQL Espresso](https://sqlespresso.com/)
  
-[SQL Saturday Indianapolis](https://www.sqlsaturday.com/886/EventHome.aspx)
+- [SQL Saturday Indianapolis](https://www.sqlsaturday.com/886/EventHome.aspx)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

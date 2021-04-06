@@ -12,7 +12,7 @@ prettydate: "26 March 2016"
 - Sahid Shukra Marg
 - Kathmandu, Central Region, Nepal
  
-<a href="/PDF/0482.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0482.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -336,23 +338,23 @@ Working with SQL server for more than 12 years. Had delivered dozens of classroo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Umrao Datacenter Pvt Ltd](https://ucloud.com.np)
+- [Umrao Datacenter Pvt Ltd](https://ucloud.com.np)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Dell Inc](http://www.dell.com/)
+- [Dell Inc](http://www.dell.com/)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
-[Oval Analytics](http://ovalanalytics.com/)
+- [Oval Analytics](http://ovalanalytics.com/)
  
-[Channakya Software Pvt. Ltd.](http://www.channakyasoft.com)
+- [Channakya Software Pvt. Ltd.](http://www.channakyasoft.com)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

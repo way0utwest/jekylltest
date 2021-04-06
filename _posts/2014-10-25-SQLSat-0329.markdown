@@ -12,7 +12,7 @@ prettydate: "25 October 2014"
 - 
 - Rio de Janeiro, , Brazil
  
-<a href="/PDF/0329.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0329.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -432,23 +434,23 @@ Pedro Correia was born in 1976 on the 265th day of that year. He has been workin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Bufalo Informatica](http://www.bufaloinfo.com.br)
+- [Bufalo Informatica](http://www.bufaloinfo.com.br)
  
-[devSQL Pass Chapter](http://facebook.com/devSQL)
+- [devSQL Pass Chapter](http://facebook.com/devSQL)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[MainWorks](http://www.mainwork.com.br/)
+- [MainWorks](http://www.mainwork.com.br/)
  
-[Universidade Veiga de Almeida](http://www.uva.br)
+- [Universidade Veiga de Almeida](http://www.uva.br)
  
-[Daruma](http://www.daruma.com.br/home.php)
+- [Daruma](http://www.daruma.com.br/home.php)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
-[DoomTech](http://leka.com.br)
+- [DoomTech](http://leka.com.br)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

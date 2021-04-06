@@ -12,7 +12,7 @@ prettydate: "26 September 2020"
 - Kanalvej 7
 - Kongens Lyngby, Capital Region, Denmark
  
-<a href="/PDF/0963.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0963.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -608,21 +610,21 @@ Hasan has spoken at many SQL Saturdays, Code Camps and User groups. He is an act
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Kapacity A/S](http://www.kapacity.dk)
+- [Kapacity A/S](http://www.kapacity.dk)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[Red Hat](https://www.redhat.com/)
+- [Red Hat](https://www.redhat.com/)
  
-[ProActive](https://www.proactive.dk/)
+- [ProActive](https://www.proactive.dk/)
  
-[CatMan Solution A/S](http://www.catmansolution.com)
+- [CatMan Solution A/S](http://www.catmansolution.com)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[dbWatch](http://dbwatch.com/)
+- [dbWatch](http://dbwatch.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

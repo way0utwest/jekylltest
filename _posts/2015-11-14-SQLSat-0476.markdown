@@ -12,7 +12,7 @@ prettydate: "14 November 2015"
 - 560 Carillon Parkway
 - St Petersburg, Florida
  
-<a href="/PDF/0476.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0476.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -582,33 +584,33 @@ A BI veteran, Edward currently is the BI architect for Bankers Financial Corp in
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Vaco Tampa](http://www.vaco.com/tampa)
+- [Vaco Tampa](http://www.vaco.com/tampa)
  
-[Dobler Consulting](http://www.doblerconsulting.com/)
+- [Dobler Consulting](http://www.doblerconsulting.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[467 - Tegile Systems](http://www.tegile.com)
+- [467 - Tegile Systems](http://www.tegile.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Code School](http://www.codeschool.com)
+- [Code School](http://www.codeschool.com)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Hays - Powered by Veredus](http://vereduscorp.com/)
+- [Hays - Powered by Veredus](http://vereduscorp.com/)
  
-[Bisk Education](https://www.bisk.com/)
+- [Bisk Education](https://www.bisk.com/)
  
-[Convergence Consulting Group](http://www.ccgBI.com)
+- [Convergence Consulting Group](http://www.ccgBI.com)
  
-[Wolters Kluwer](http://www.teammatesolutions.com/)
+- [Wolters Kluwer](http://www.teammatesolutions.com/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[PSCU](https://www.pscu.com/)
+- [PSCU](https://www.pscu.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

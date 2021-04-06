@@ -12,7 +12,7 @@ prettydate: "3 August 2019"
 - Level 10, Sydney Startup Hub  11-31 York St
 - Sydney, New South Wales, Australia
  
-<a href="/PDF/0875.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0875.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -581,19 +583,19 @@ Pio Balistoy is a Microsoft MVP  Certified Trainer for Data Platform. A SQL Serv
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[FTS Data  AI](https://data.ftsg.com.au)
+- [FTS Data  AI](https://data.ftsg.com.au)
  
-[Angry Koala](http://angrykoala.com.au)
+- [Angry Koala](http://angrykoala.com.au)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

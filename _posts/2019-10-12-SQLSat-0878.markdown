@@ -12,7 +12,7 @@ prettydate: "12 October 2019"
 - Boulevard "Tsarigradsko shose" 111B
 - Sofia, Sofiya, Bulgaria
  
-<a href="/PDF/0878.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0878.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -726,25 +728,25 @@ I'm a BI consultant with experience in both data visualization using D3 and data
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Adatis](http://www.adatis.co.uk)
+- [Adatis](http://www.adatis.co.uk)
  
-[Adastra Bulgaria](http://www.bg.adastragrp.com/)
+- [Adastra Bulgaria](http://www.bg.adastragrp.com/)
  
-[ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
+- [ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
  
-[Inspirit EOOD](http://www.sqlmasteracademy.com)
+- [Inspirit EOOD](http://www.sqlmasteracademy.com)
  
-[The Stars Group](http://www.starsgroup.com/)
+- [The Stars Group](http://www.starsgroup.com/)
  
-[BICA Services](https://www.bicaservices.com)
+- [BICA Services](https://www.bicaservices.com)
  
-[SBTECH](http://www.sbtech.com/)
+- [SBTECH](http://www.sbtech.com/)
  
-[Sofia Tech Park](https://sofiatech.bg/)
+- [Sofia Tech Park](https://sofiatech.bg/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "14 June 2014"
 - Madras Street
 - Christchurch, , New Zealand
  
-<a href="/PDF/0316.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0316.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -267,13 +269,13 @@ He has been using SQL Server in various roles since 2000. In addition to anythin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Varigence Australia](http://www.varigence.com.au)
+- [Varigence Australia](http://www.varigence.com.au)
  
-[Kelly IT Services](http://www.kellyservices.co.nz/)
+- [Kelly IT Services](http://www.kellyservices.co.nz/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "14 April 2018"
 - Magyar tudosok korutja 2
 - Budapest, , Hungary
  
-<a href="/PDF/0732.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0732.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  

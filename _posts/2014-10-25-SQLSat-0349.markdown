@@ -12,7 +12,7 @@ prettydate: "25 October 2014"
 - 1655 Campus Center Dr
 - Salt Lake City, Utah
  
-<a href="/PDF/0349.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0349.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -623,23 +625,23 @@ Scott Heffron has been developing database integration processes for 20+ years. 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[JourneyTEAM](http://www.JourneyTEAM.com)
+- [JourneyTEAM](http://www.JourneyTEAM.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

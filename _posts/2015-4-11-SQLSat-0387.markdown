@@ -12,7 +12,7 @@ prettydate: "11 April 2015"
 - 702 Langdon Street
 - Madison, Wisconsin
  
-<a href="/PDF/0387.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0387.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -981,51 +983,51 @@ Over 20 years of SQL Server experience that includes being a DBA,  BI developmen
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Actuality Business Intelligence LLC](http://wordpressw.abilineage.com)
+- [Actuality Business Intelligence LLC](http://wordpressw.abilineage.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Concurrency, Inc.](http://www.concurrency.com)
+- [Concurrency, Inc.](http://www.concurrency.com)
  
-[SQLintersection](http://www.SQLintersection.com)
+- [SQLintersection](http://www.SQLintersection.com)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[Skyline Technologies](http://www.skylinetechnologies.com)
+- [Skyline Technologies](http://www.skylinetechnologies.com)
  
-[Talavant](http://www.talavant.com)
+- [Talavant](http://www.talavant.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Heartland Business Systems](http://www.hbs.net)
+- [Heartland Business Systems](http://www.hbs.net)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Omni Resources, Inc.](http://www.omniresources.com)
+- [Omni Resources, Inc.](http://www.omniresources.com)
  
-[Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
+- [Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
  
-[American Transmission Company](http://www.atcllc.com/)
+- [American Transmission Company](http://www.atcllc.com/)
  
-[Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
+- [Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Involta](http://www.Involta.com)
+- [Involta](http://www.Involta.com)
  
-[J. J. Keller  Associates, Inc.](http://www.jjkeller.com)
+- [J. J. Keller  Associates, Inc.](http://www.jjkeller.com)
  
-[Decision Systems Inc.](http://www.decisionsystems.com)
+- [Decision Systems Inc.](http://www.decisionsystems.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[McGraw-Hill Education](http://mhprofessional.com)
+- [McGraw-Hill Education](http://mhprofessional.com)
  
-[SQL Smash](http://www.sqlsmash.com/)
+- [SQL Smash](http://www.sqlsmash.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

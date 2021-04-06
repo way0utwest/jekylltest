@@ -12,7 +12,7 @@ prettydate: "6 October 2018"
 - 235 Marshall Avenue
 - Saint Paul, Minnesota
  
-<a href="/PDF/0796.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0796.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1127,33 +1129,33 @@ Eric is a level 70 Data Slayer, who has worked with SQL Server since 2000. Eric 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Beyond Impact](http://www.beyondimpactllc.com)
+- [Beyond Impact](http://www.beyondimpactllc.com)
  
-[Tail Wind Informatics Corp.](http://tailwindtech.com/)
+- [Tail Wind Informatics Corp.](http://tailwindtech.com/)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[PureStorage](http://www.purestorage.com)
+- [PureStorage](http://www.purestorage.com)
  
-[Confluent](https://www.confluent.io/)
+- [Confluent](https://www.confluent.io/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[New Horizons Computer Learning Center - Minnesota](http://minnesota.newhorizons.com/)
+- [New Horizons Computer Learning Center - Minnesota](http://minnesota.newhorizons.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[House of Brick Technologies / Xigent Solutions](http://houseofbrick.com/)
+- [House of Brick Technologies / Xigent Solutions](http://houseofbrick.com/)
  
-[BlueGranite, Inc.](http://www.blue-granite.com/)
+- [BlueGranite, Inc.](http://www.blue-granite.com/)
  
-[Hortonworks Minnesota](http://www.hortonworks.com)
+- [Hortonworks Minnesota](http://www.hortonworks.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

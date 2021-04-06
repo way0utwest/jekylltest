@@ -12,7 +12,7 @@ prettydate: "14 July 2018"
 - All Saints Campus, Oxford Rd, Manchester
 - Manchester, England, United Kingdom
  
-<a href="/PDF/0730.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0730.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -866,33 +868,33 @@ A Principal Data Analytics Consultant working for Adatis Consulting with experie
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Adatis](http://www.adatis.co.uk)
+- [Adatis](http://www.adatis.co.uk)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Datamovements Limited](https://www.datamovements.co.uk/)
+- [Datamovements Limited](https://www.datamovements.co.uk/)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Robert Walters plc](https://www.robertwalters.co.uk/)
+- [Robert Walters plc](https://www.robertwalters.co.uk/)
  
-[dbWatch AS](http://www.dbwatch.com)
+- [dbWatch AS](http://www.dbwatch.com)
  
-[Solutions Crew GmbH](http://www.ssmsboost.com)
+- [Solutions Crew GmbH](http://www.ssmsboost.com)
  
-[DLM Consultants](http://dlmconsultants.com/)
+- [DLM Consultants](http://dlmconsultants.com/)
  
-[SJD Accountancy](https://www.sjdaccountancy.com)
+- [SJD Accountancy](https://www.sjdaccountancy.com)
  
-[Endjin](https://endjin.com/)
+- [Endjin](https://endjin.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Training Limited](http://www.sqltraining.co.uk)
+- [SQL Training Limited](http://www.sqltraining.co.uk)
  
-[eBECS](https://www.ebecs.com/)
+- [eBECS](https://www.ebecs.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

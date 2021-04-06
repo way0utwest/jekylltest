@@ -12,7 +12,7 @@ prettydate: "26 May 2012"
 - 100 Convention Boulevard
 - San Juan, , Puerto Rico
  
-<a href="/PDF/0106.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0106.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -346,35 +348,35 @@ Bill Pearson created Island Technologies Inc. in 1997, and has developed a large
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[IAMCP](http://www.iamcp.org)
+- [IAMCP](http://www.iamcp.org)
  
-[The Cervantes Group](http://www.thecervantesgroup.com)
+- [The Cervantes Group](http://www.thecervantesgroup.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Fusionworks, Inc.](http://www.fwpr.com)
+- [Fusionworks, Inc.](http://www.fwpr.com)
  
-[INVID](http://www.invidpr.com)
+- [INVID](http://www.invidpr.com)
  
-[Rock Solid Technologies, Inc.](http://www.rocksolid.com)
+- [Rock Solid Technologies, Inc.](http://www.rocksolid.com)
  
-[Abarca Health](http://www.abarcahealth.com)
+- [Abarca Health](http://www.abarcahealth.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Nagnoi, LLC](http://www.nagnoi.com)
+- [Nagnoi, LLC](http://www.nagnoi.com)
  
-[Truenorth Corporation](http://www.truenorthcorporation.com)
+- [Truenorth Corporation](http://www.truenorthcorporation.com)
  
-[Hewlett-Packard](http://www.hp.com)
+- [Hewlett-Packard](http://www.hp.com)
  
-[KPG (Knowledge Power Group), Inc.](http://kpginc.net/)
+- [KPG (Knowledge Power Group), Inc.](http://kpginc.net/)
  
-[Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

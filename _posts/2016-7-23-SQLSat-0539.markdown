@@ -12,7 +12,7 @@ prettydate: "23 July 2016"
 - 4801 N Career Avenue
 - Sioux Falls, South Dakota
  
-<a href="/PDF/0539.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0539.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -425,39 +427,39 @@ Rick has 35 years experience as a systems, applications and database architect h
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[SDN Communications](https://sdncommunications.com)
+- [SDN Communications](https://sdncommunications.com)
  
-[Omnitech Inc](http://www.omnitech-inc.com/)
+- [Omnitech Inc](http://www.omnitech-inc.com/)
  
-[Sandhills Publishing](http://www.sandhills.com)
+- [Sandhills Publishing](http://www.sandhills.com)
  
-[House of Brick Technologies](http://www.houseofbrick.com)
+- [House of Brick Technologies](http://www.houseofbrick.com)
  
-[Xigent Solutions](http://www.xigentsolutions.com/)
+- [Xigent Solutions](http://www.xigentsolutions.com/)
  
-[DocuTAP*](http://docutap.com/)
+- [DocuTAP*](http://docutap.com/)
  
-[CHR Solutions](http://www.chrsolutions.com)
+- [CHR Solutions](http://www.chrsolutions.com)
  
-[Dakota State University](http://dsu.edu/)
+- [Dakota State University](http://dsu.edu/)
  
-[Sanford Health](http://www.sanfordhealth.org)
+- [Sanford Health](http://www.sanfordhealth.org)
  
-[First Bank  Trust](https://www.bankeasy.com/)
+- [First Bank  Trust](https://www.bankeasy.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Wells Fargo](https://www.wellsfargo.com/)
+- [Wells Fargo](https://www.wellsfargo.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[SSMS Tools Pack](http://www.ssmstoolspack.com/)
+- [SSMS Tools Pack](http://www.ssmstoolspack.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

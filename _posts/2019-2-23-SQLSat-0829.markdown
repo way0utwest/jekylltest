@@ -12,7 +12,7 @@ prettydate: "23 February 2019"
 - Via Prasecco
 - Pordenone, , Italy
  
-<a href="/PDF/0829.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0829.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -775,19 +777,19 @@ Graduated in Medieval History, I've been working with databases since 2000 and w
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Fluentis](https://www.fluentis.com/)
+- [Fluentis](https://www.fluentis.com/)
  
-[Altitudo](https://www.altitudo.com/it/)
+- [Altitudo](https://www.altitudo.com/it/)
  
-[beanTech srl](http://www.beantech.it/)
+- [beanTech srl](http://www.beantech.it/)
  
-[Wuerth Phoenix](https://www.wuerth-phoenix.com/it/)
+- [Wuerth Phoenix](https://www.wuerth-phoenix.com/it/)
  
-[palazzetti](https://palazzetti.it/)
+- [palazzetti](https://palazzetti.it/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

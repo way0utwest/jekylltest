@@ -12,7 +12,7 @@ prettydate: "3 October 2015"
 - 416 Yates Street
 - Arlington, Texas
  
-<a href="/PDF/0447.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0447.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1046,33 +1048,33 @@ Data Architect and BI Architect.    Experience building Data Warehouse and ETL p
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DH2i](http://www.dh2i.com)
+- [DH2i](http://www.dh2i.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SoftwareONE](http://www.softwareone.com)
+- [SoftwareONE](http://www.softwareone.com)
  
-[The University of Texas at Arlington (UTA)](http://www.uta.edu/engineering)
+- [The University of Texas at Arlington (UTA)](http://www.uta.edu/engineering)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[DBmaestro](http://www.dbmaestro.com/)
+- [DBmaestro](http://www.dbmaestro.com/)
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Integritalent, Inc](http://www.integritalent.com/)
+- [Integritalent, Inc](http://www.integritalent.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

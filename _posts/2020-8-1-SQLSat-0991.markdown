@@ -12,7 +12,7 @@ prettydate: "1 August 2020"
 - 201 S Clinton St
 - Iowa City, Iowa
  
-<a href="/PDF/0991.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0991.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -648,19 +650,19 @@ Jeff Iannucci is a Senior Database Administrator for DriveTime in Tempe, AZ. He 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[Kingfisher Technologies](http://kingfisherdata.com)
+- [Kingfisher Technologies](http://kingfisherdata.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Tintri](http://www.tintri.com)
+- [Tintri](http://www.tintri.com)
  
-[Involta](http://www.Involta.com)
+- [Involta](http://www.Involta.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

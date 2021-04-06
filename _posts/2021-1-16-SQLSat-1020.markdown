@@ -1,0 +1,54 @@
+---
+layout: "post" 
+title: "SQLSaturday #1020 – Costa Rica-BI – Virtual 2020" 
+prettydate: "16 January 2021" 
+---
+# SQLSaturday #1020 – Costa Rica-BI – Virtual 2020
+ 
+**Event Date**: 01/16/2021 00:00:00
+ 
+**Event Location**:
+- Texas Tech University
+- Avenida Escazú, Edificio AE205, San José Province, Escazú
+- Heredia, Heredia Province, Costa Rica
+ 
+<a href="/assets/pdf/1020.pdf">PDF of Schedule</a>
+ 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
+</ul>
+ 
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
+ 
+----------------------------------------------------------------------------------- 
+ 
+# <a name="sessions"></a>Sessions
+This is a list of sessions from the event, based on the schedule in the XML files.
+ 
+----------------------------------------------------------------------------------- 
+## <a name="#speakers"></a>Speakers
+This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
+ 
+ 
+ 
+ 
+## <a name="sponsors"></a>Sponsors
+The following is a list of sponsors that helped fund the event:
+ 
+- [Microsoft](http://www.microsoft.com)
+ 
+- [Google Cloud](https://cloud.google.com/)
+ 
+- [Red Gate Software](http://www.red-gate.com)
+ 
+- [Melissa](http://www.melissa.com)
+ 
+- [Business Intelligence LATAM](http://bit.ly/SuscribirseBILATAM)
+ 
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)

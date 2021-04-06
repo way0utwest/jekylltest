@@ -12,7 +12,7 @@ prettydate: "29 March 2014"
 - Tuborg Boulevard 12
 - Hellerup, , Denmark
  
-<a href="/PDF/0275.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0275.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -781,41 +783,41 @@ Boris is a SQL Server Consultant, but also an Author for Pluralsight and a SQL S
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Rehfeld](http://www.effektor.bi)
+- [Rehfeld](http://www.effektor.bi)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[d60](http://www.d60.dk/)
+- [d60](http://www.d60.dk/)
  
-[Platon A/S](http://www.platon.dk)
+- [Platon A/S](http://www.platon.dk)
  
-[Miracle A/S](http://miracle.dk)
+- [Miracle A/S](http://miracle.dk)
  
-[4D Konsulenterne](http://www.4d.dk/Pages/Default.aspx)
+- [4D Konsulenterne](http://www.4d.dk/Pages/Default.aspx)
  
-[SkillsHouse](http://www.skillshouse.dk)
+- [SkillsHouse](http://www.skillshouse.dk)
  
-[Orange Man](http://OrangeMan.dk)
+- [Orange Man](http://OrangeMan.dk)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[SQLServerDBA.dk](http://sqlserverdba.dk)
+- [SQLServerDBA.dk](http://sqlserverdba.dk)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[3 Business](http://www.3.dk/Business/Losninger/3Business/)
+- [3 Business](http://www.3.dk/Business/Losninger/3Business/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Zumero](http://zumero.com/)
+- [Zumero](http://zumero.com/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

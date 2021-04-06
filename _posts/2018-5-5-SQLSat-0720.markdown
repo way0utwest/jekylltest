@@ -12,7 +12,7 @@ prettydate: "5 May 2018"
 - 5600 Eagle Rock Ave NE
 - Albuquerque, New Mexico
  
-<a href="/PDF/0720.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0720.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -863,57 +865,57 @@ Thane has over 25 years of IT experience focusing on software development during
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Central New Mexico Community College](https://www.cnm.edu/)
+- [Central New Mexico Community College](https://www.cnm.edu/)
  
-[U.S. Eagle Federal Credit Union](https://www.useagle.org/)
+- [U.S. Eagle Federal Credit Union](https://www.useagle.org/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Centino Systems](http://www.centinosystems.com/)
+- [Centino Systems](http://www.centinosystems.com/)
  
-[STATCowboy](http://www.statcowboy.com)
+- [STATCowboy](http://www.statcowboy.com)
  
-[Solisyon GmbH](http://www.solisyon.de/)
+- [Solisyon GmbH](http://www.solisyon.de/)
  
-[SQLGrease](https://www.sqlgrease.com)
+- [SQLGrease](https://www.sqlgrease.com)
  
-[Cincy Pass](https://www.meetup.com/CincyPASS/)
+- [Cincy Pass](https://www.meetup.com/CincyPASS/)
  
-[Desert Isle Group](https://desertislegroup.com/)
+- [Desert Isle Group](https://desertislegroup.com/)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[SavranWeb](http://www.savranweb.com)
+- [SavranWeb](http://www.savranweb.com)
  
-[Data FLowe Solutions](http://www.data-flowe.com)
+- [Data FLowe Solutions](http://www.data-flowe.com)
  
-[ArmorDba](https://armordba.wordpress.com/)
+- [ArmorDba](https://armordba.wordpress.com/)
  
-[JHellsten](http://www.linkedin.com/in/joehellsten)
+- [JHellsten](http://www.linkedin.com/in/joehellsten)
  
-[Chris Hyde](https://www.hydrate.consulting/blog/)
+- [Chris Hyde](https://www.hydrate.consulting/blog/)
  
-[David Hiltenbrand](http://www.davidhiltenbrand.com)
+- [David Hiltenbrand](http://www.davidhiltenbrand.com)
  
-[SQLearning, Inc.](https://www.SQLServerInternals.com)
+- [SQLearning, Inc.](https://www.SQLServerInternals.com)
  
-[ThatAwesomeTrainer.com](http://ThatAwesomeTrainer.com)
+- [ThatAwesomeTrainer.com](http://ThatAwesomeTrainer.com)
  
-[Data Savvy](https://datasavvy.me/)
+- [Data Savvy](https://datasavvy.me/)
  
-[Database Superhero](http://databasesuperhero.com)
+- [Database Superhero](http://databasesuperhero.com)
  
-[Andy Levy](https://therestisjustcode.wordpress.com)
+- [Andy Levy](https://therestisjustcode.wordpress.com)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
-[codegumbo](http://www.codegumbo.com)
+- [codegumbo](http://www.codegumbo.com)
  
-[Born SQL](https://bornsql.ca)
+- [Born SQL](https://bornsql.ca)
  
-[dbatools](https://dbatools.io)
+- [dbatools](https://dbatools.io)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

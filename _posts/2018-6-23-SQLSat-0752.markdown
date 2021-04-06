@@ -12,7 +12,7 @@ prettydate: "23 June 2018"
 - 201 S Clinton St
 - Iowa City, Iowa
  
-<a href="/PDF/0752.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0752.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -624,23 +626,23 @@ Originally from Southern Illinois, Sean enjoys running and lifting, as well as c
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Hortonworks](http://hortonworks.com/)
+- [Hortonworks](http://hortonworks.com/)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Kingfisher Technologies](http://kingfisherdata.com)
+- [Kingfisher Technologies](http://kingfisherdata.com)
  
-[Teamsoft](http://www.teamsoftinc.com)
+- [Teamsoft](http://www.teamsoftinc.com)
  
-[Chicago SQL Association](http://www.pass.org)
+- [Chicago SQL Association](http://www.pass.org)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Ubisoft - Iowa City](http://ubitsoft.com/)
+- [Ubisoft - Iowa City](http://ubitsoft.com/)
  
-[Redgate Iowa City](http://rd.gt/2j7SNf9)
+- [Redgate Iowa City](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

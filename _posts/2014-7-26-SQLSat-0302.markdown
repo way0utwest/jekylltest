@@ -12,7 +12,7 @@ prettydate: "26 July 2014"
 - 1400 Washington Ave
 - Albany, New York
  
-<a href="/PDF/0302.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0302.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -782,41 +784,41 @@ Veteran DBA Mike Hillwig is a native Pittsburgher and resident of the Boston Sub
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Branegy Systems Inc](https://www.dbmaster.io)
+- [Branegy Systems Inc](https://www.dbmaster.io)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Autotask](http://www.autotask.com/about-us/careers)
+- [Autotask](http://www.autotask.com/about-us/careers)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Capital Tech Search](http://www.captechsearch.com/)
+- [Capital Tech Search](http://www.captechsearch.com/)
  
-[Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
+- [Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
  
-[Digineer](http://www.digineer.com/)
+- [Digineer](http://www.digineer.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Summer Camp](https://wateroxconsulting.com)
+- [SQL Summer Camp](https://wateroxconsulting.com)
  
-[SSWUG.org](https://www.sswug.org/)
+- [SSWUG.org](https://www.sswug.org/)
  
-[College of Computing and Information at UAlbany](http://www.albany.edu/cci/)
+- [College of Computing and Information at UAlbany](http://www.albany.edu/cci/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[CommerceHub](https://www.commercehub.com)
+- [CommerceHub](https://www.commercehub.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

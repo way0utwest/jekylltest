@@ -12,7 +12,7 @@ prettydate: "17 March 2018"
 - 2600 Clifton Ave
 - Cincinnati, Ohio
  
-<a href="/PDF/0701.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0701.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -905,43 +907,43 @@ Slava Trofimov has over 15 years of experience in leading business transformatio
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[BITracks](http://www.bitracks.com/)
+- [BITracks](http://www.bitracks.com/)
  
-[Civica CMI](http://www.civicacmi.com)
+- [Civica CMI](http://www.civicacmi.com)
  
-[KiZAN](https://www.kizan.com)
+- [KiZAN](https://www.kizan.com)
  
-[Medpace Inc](https://www.medpace.com)
+- [Medpace Inc](https://www.medpace.com)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[Main Street DBAS](http://www.mainstreetdbas.com/)
+- [Main Street DBAS](http://www.mainstreetdbas.com/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[TradeGlobal](http://www.tradeglobal.com)
+- [TradeGlobal](http://www.tradeglobal.com)
  
-[Gateway Community and Technical College](http://www.kctcs.edu/)
+- [Gateway Community and Technical College](http://www.kctcs.edu/)
  
-[DMI](https://dminc.com/)
+- [DMI](https://dminc.com/)
  
-[V-Tech I/O](http://vtechio.com/)
+- [V-Tech I/O](http://vtechio.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Civica CMI](http://www.civicacmi.com)
+- [Civica CMI](http://www.civicacmi.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[The David J. Joseph Company](https://www.djj.com/)
+- [The David J. Joseph Company](https://www.djj.com/)
  
-[Vantiv Now Worldpay](https://www.vantiv.com/)
+- [Vantiv Now Worldpay](https://www.vantiv.com/)
  
-[Smart Data Systems](https://www.smartdatasystems.com/)
+- [Smart Data Systems](https://www.smartdatasystems.com/)
  
-[SQLGene Training](http://www.sqlgene.com)
+- [SQLGene Training](http://www.sqlgene.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

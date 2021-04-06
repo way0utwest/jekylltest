@@ -12,7 +12,7 @@ prettydate: "10 November 2012"
 - 2011 Mottman Road SW
 - Olympia, Washington
  
-<a href="/PDF/0166.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0166.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -488,19 +490,19 @@ Laerte Junior is a  Windows PowerShell MVP Reconnect, PASS PowerShell VC Co-lead
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Steve Stedman](http://DatabaseHealth.SteveStedman.com)
+- [Steve Stedman](http://DatabaseHealth.SteveStedman.com)
  
-[Morgan Kaufmann Publishers](http://mkp.com/)
+- [Morgan Kaufmann Publishers](http://mkp.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

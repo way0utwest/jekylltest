@@ -12,7 +12,7 @@ prettydate: "16 September 2017"
 - ul. Sportowa 29
 - Chorzow, Silesian Voivodeship, Poland
  
-<a href="/PDF/0664.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0664.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -325,15 +327,15 @@ Since 2014 based in Barcelona, Spain. Learning enthusiast and always with passio
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Wyższa Szkoła Zarządzania i Bankowości w Krakowie](http://www.wszib.edu.pl)
+- [Wyższa Szkoła Zarządzania i Bankowości w Krakowie](http://www.wszib.edu.pl)
  
-[dbWatch](http://dbwatch.com/)
+- [dbWatch](http://dbwatch.com/)
  
-[Wyższa Szkoła Bankowa w Chorzowie](http://www.wsb.pl/chorzow/)
+- [Wyższa Szkoła Bankowa w Chorzowie](http://www.wsb.pl/chorzow/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

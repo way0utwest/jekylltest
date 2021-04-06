@@ -12,7 +12,7 @@ prettydate: "1 October 2016"
 - ul. Nadwiślańska 6, Kraków
 - Krakow, Lesser Poland Voivodeship, Poland
  
-<a href="/PDF/0534.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0534.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -537,21 +539,21 @@ Now he focuses on building solutions based on Microsoft SQL Server environment (
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[APN Promise S.A.](https://www.promise.pl/)
+- [APN Promise S.A.](https://www.promise.pl/)
  
-[Aon Hewitt Sp. z o.o.](http://www.pracaaon.pl/)
+- [Aon Hewitt Sp. z o.o.](http://www.pracaaon.pl/)
  
-[ITMAGINATION Sp. z o.o.](http://www.itmagination.pl/)
+- [ITMAGINATION Sp. z o.o.](http://www.itmagination.pl/)
  
-[PEPCO](http://www.pepco.pl/)
+- [PEPCO](http://www.pepco.pl/)
  
-[Chatham Financial](http://www.chathamfinancial.com/)
+- [Chatham Financial](http://www.chathamfinancial.com/)
  
-[Compendium Centrum Edukacyjne](http://www.compendium.pl/)
+- [Compendium Centrum Edukacyjne](http://www.compendium.pl/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

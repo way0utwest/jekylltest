@@ -12,7 +12,7 @@ prettydate: "4 October 2014"
 - 2800 Campus Ridge Road
 - Charlotte, North Carolina
  
-<a href="/PDF/0330.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0330.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -857,43 +859,43 @@ Chris Skorlinski has been with Microsoft for 17 years. He is a Support Escalatio
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[BlueGranite](http://www.blue-granite.com)
+- [BlueGranite](http://www.blue-granite.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Diversant](http://www.diversant.com)
+- [Diversant](http://www.diversant.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[SQLChick](http://www.sqlchick.com/)
+- [SQLChick](http://www.sqlchick.com/)
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Mr. Excel](http://www.mrexcel.com/)
+- [Mr. Excel](http://www.mrexcel.com/)
  
-[Kimball Group](http://kimballgroup.com)
+- [Kimball Group](http://kimballgroup.com)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Central Piedmont Community College, Levine Campus](https://www.cpcc.edu/computertraining)
+- [Central Piedmont Community College, Levine Campus](https://www.cpcc.edu/computertraining)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "16 September 2017"
 - 2040 S Race St
 - Denver, Colorado
  
-<a href="/PDF/0673.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0673.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -946,29 +948,29 @@ Chase Aucoin has nearly a decade working several large scale data driven applica
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[BlueGranite, Inc.](http://www.blue-granite.com/)
+- [BlueGranite, Inc.](http://www.blue-granite.com/)
  
-[Datalere](https://datalere.com/)
+- [Datalere](https://datalere.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Actifio](http://www.actifio.com)
+- [Actifio](http://www.actifio.com)
  
-[Delphix](http://www.delphix.com)
+- [Delphix](http://www.delphix.com)
  
-[RevGen Partners](http://www.revgenpartners.com/)
+- [RevGen Partners](http://www.revgenpartners.com/)
  
-[Data Savvy](https://datasavvy.me/)
+- [Data Savvy](https://datasavvy.me/)
  
-[Mile Hi Power BI User Group](http://milehipowerbi.com)
+- [Mile Hi Power BI User Group](http://milehipowerbi.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

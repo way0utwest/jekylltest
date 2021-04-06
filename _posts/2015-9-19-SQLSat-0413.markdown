@@ -12,7 +12,7 @@ prettydate: "19 September 2015"
 - Tuborg Boulevard 12
 - Hellerup, , Denmark
  
-<a href="/PDF/0413.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0413.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1104,41 +1106,41 @@ André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has d
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Effektor](http://www.effektor.bi)
+- [Effektor](http://www.effektor.bi)
  
-[Kapacity A/S](http://www.kapacity.dk)
+- [Kapacity A/S](http://www.kapacity.dk)
  
-[Rehfeld Partners A/S](http://www.rehfeld.dk/)
+- [Rehfeld Partners A/S](http://www.rehfeld.dk/)
  
-[d60](http://www.d60.dk/)
+- [d60](http://www.d60.dk/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[SQL Powerhouse A/S](http://www.sqlpowerhouse.com)
+- [SQL Powerhouse A/S](http://www.sqlpowerhouse.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Orange Man](http://OrangeMan.dk)
+- [Orange Man](http://OrangeMan.dk)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[4D Konsulenterne](http://www.4d.dk/Pages/Default.aspx)
+- [4D Konsulenterne](http://www.4d.dk/Pages/Default.aspx)
  
-[CatMan Solution A/S](http://www.catmansolution.com)
+- [CatMan Solution A/S](http://www.catmansolution.com)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[Fusion IO a SanDisk Company](http://www.fusionio.com/)
+- [Fusion IO a SanDisk Company](http://www.fusionio.com/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

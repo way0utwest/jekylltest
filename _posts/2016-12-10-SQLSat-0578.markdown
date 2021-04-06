@@ -12,7 +12,7 @@ prettydate: "10 December 2016"
 - 1125 Sanctuary Parkway
 - Alpharetta, Georgia
  
-<a href="/PDF/0578.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0578.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -861,15 +863,15 @@ Julie Smith is a Microsoft Data Platform MVP and a BI consultant for Innovative 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SQLGator.com](http://sqlgator.com)
+- [SQLGator.com](http://sqlgator.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

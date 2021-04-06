@@ -12,7 +12,7 @@ prettydate: "23 June 2018"
 - Gustavo Ramos Sehbe, 107 Caxias do Sul - RS
 - Caxias do Sul, Rio Grande do Sul, Brazil
  
-<a href="/PDF/0744.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0744.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -482,25 +484,25 @@ Diego Nogare is Chief Data Officer @ Lambda3. He has graduated in Computer Scien
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[RowUp](http://rowup.com.br)
+- [RowUp](http://rowup.com.br)
  
-[Oca Coworking](https://www.oca.network/)
+- [Oca Coworking](https://www.oca.network/)
  
-[Maia TI](http://www.maiati.com.br/)
+- [Maia TI](http://www.maiati.com.br/)
  
-[Teevo](http://www.teevo.com.br/)
+- [Teevo](http://www.teevo.com.br/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[BI do Brasil](http://www.bidobrasil.com/portugues/)
+- [BI do Brasil](http://www.bidobrasil.com/portugues/)
  
-[Prodaly](https://www.cigam.com.br/prodaly)
+- [Prodaly](https://www.cigam.com.br/prodaly)
  
-[Ubitsoft](http://www.ubitsoft.com)
+- [Ubitsoft](http://www.ubitsoft.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "13 June 2020"
 - 1 LMU Drive, Los Angeles, California
 - Los Angeles, California
  
-<a href="/PDF/0978.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0978.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -906,29 +908,29 @@ Anna is a Data and Applied Scientist on the Azure Data (SQL) product team at Mic
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[BlackLine Systems](https://www.blackline.com/)
+- [BlackLine Systems](https://www.blackline.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[AWS](https://aws.amazon.com/)
+- [AWS](https://aws.amazon.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Galpin Motors - 978](https://www.galpin.com)
+- [Galpin Motors - 978](https://www.galpin.com)
  
-[Eagle Peak Group](https://www.eaglepeakgroup.com)
+- [Eagle Peak Group](https://www.eaglepeakgroup.com)
  
-[#978 Cappuccino Insurance](https://www.cappuccinoinsurance.com)
+- [#978 Cappuccino Insurance](https://www.cappuccinoinsurance.com)
  
-[O'Reilly Media](https://www.oreilly.com)
+- [O'Reilly Media](https://www.oreilly.com)
  
-[Wiley and Sons](https://www.wiley.com/en-us)
+- [Wiley and Sons](https://www.wiley.com/en-us)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

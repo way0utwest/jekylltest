@@ -12,7 +12,7 @@ prettydate: "9 May 2015"
 - 8890 McGaw Road
 - Columbia, Maryland
  
-<a href="/PDF/0395.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0395.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -809,41 +811,41 @@ Warren Sifre has been in the IT community since 1998 and has worked in a variety
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[B2B Solutions](http://www.b2bsol.com)
+- [B2B Solutions](http://www.b2bsol.com)
  
-[CapTech](http://www.captechconsulting.com/)
+- [CapTech](http://www.captechconsulting.com/)
  
-[SMC LLC](http://slavasql.blogspot.com/)
+- [SMC LLC](http://slavasql.blogspot.com/)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Microsoft Careers](http://careers.microsoft.com)
+- [Microsoft Careers](http://careers.microsoft.com)
  
-[Loyola University](http://www.loyola.edu/)
+- [Loyola University](http://www.loyola.edu/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[LMO Advertising](http://www.lmo.com)
+- [LMO Advertising](http://www.lmo.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[Mladen Prajdic s.p.](http://www.ssmstoolspack.com/)
+- [Mladen Prajdic s.p.](http://www.ssmstoolspack.com/)
  
-[Infojini Inc](http://www.infojiniconsulting.com)
+- [Infojini Inc](http://www.infojiniconsulting.com)
  
-[Mind Over Machines](http://mindovermachines.com/)
+- [Mind Over Machines](http://mindovermachines.com/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

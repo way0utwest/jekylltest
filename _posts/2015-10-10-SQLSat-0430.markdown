@@ -12,7 +12,7 @@ prettydate: "10 October 2015"
 - bulevard "Aleksandar Malinov" 31
 - Sofia, , Bulgaria
  
-<a href="/PDF/0430.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0430.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -628,31 +630,31 @@ Data Philosopher. Since 2006 invariably awarded Microsoft Most Valuable Professi
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Bulgaria](http://www.microsoft.com)
+- [Microsoft Bulgaria](http://www.microsoft.com)
  
-[ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
+- [ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[SoftServe](http://www.softserveinc.com)
+- [SoftServe](http://www.softserveinc.com)
  
-[SuperHosting.BG](http://www.superhosting.bg/)
+- [SuperHosting.BG](http://www.superhosting.bg/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Strypes](http://www.strypes.eu/)
+- [Strypes](http://www.strypes.eu/)
  
-[SBTECH](http://www.sbtech.com/)
+- [SBTECH](http://www.sbtech.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Adastra Bulgaria](http://www.bg.adastragrp.com/)
+- [Adastra Bulgaria](http://www.bg.adastragrp.com/)
  
-[Pluralsight  LLC](http://pluralsight.com)
+- [Pluralsight  LLC](http://pluralsight.com)
  
-[WintellectNOW](https://www.wintellectnow.com/)
+- [WintellectNOW](https://www.wintellectnow.com/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

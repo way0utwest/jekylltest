@@ -12,7 +12,7 @@ prettydate: "15 September 2012"
 - Konrad-Zuse-Straße 1
 - Unterschleißheim, , Germany
  
-<a href="/PDF/0170.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0170.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -432,21 +434,21 @@ Christoph Muthmann ist seit vielen Jahren mit dem Design und der Administration 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[inovex GmbH](http://www.inovex.de)
+- [inovex GmbH](http://www.inovex.de)
  
-[Quest Software GmbH](http://www.questsoftware.de)
+- [Quest Software GmbH](http://www.questsoftware.de)
  
-[Theobald Software GmbH](http://theobald-software.com/)
+- [Theobald Software GmbH](http://theobald-software.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

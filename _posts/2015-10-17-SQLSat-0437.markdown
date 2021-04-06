@@ -12,7 +12,7 @@ prettydate: "17 October 2015"
 - 1 Cambridge Center
 - Cambridge, Massachusetts
  
-<a href="/PDF/0437.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0437.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -691,25 +693,25 @@ I am a data integration developer at Time Warner Cable.  I have been working wit
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[ICFI](http://www.icfi.com)
+- [ICFI](http://www.icfi.com)
  
-[TriCore Solutions](https://www.tricoresolutions.com)
+- [TriCore Solutions](https://www.tricoresolutions.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[New England SQL Server User Group](https://www.meetup.com/nesqlug/)
+- [New England SQL Server User Group](https://www.meetup.com/nesqlug/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "6 February 2016"
 - 28500 Clemens Rd.
 - Cleveland, Ohio
  
-<a href="/PDF/0473.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0473.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1005,35 +1007,35 @@ Adam Belebczuk is the Owner amp; Principal Consultant at Belebczuk Consulting Se
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Hyland, creator of OnBase](http://www.onbase.com/)
+- [Hyland, creator of OnBase](http://www.onbase.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[TMW Systems](http://www.tmwsystems.com)
+- [TMW Systems](http://www.tmwsystems.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Cynergies Solutions Group](http://www.cynergies.net)
+- [Cynergies Solutions Group](http://www.cynergies.net)
  
-[New Horizons Computer Learning Centers of Cleveland](http://nhls.com)
+- [New Horizons Computer Learning Centers of Cleveland](http://nhls.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

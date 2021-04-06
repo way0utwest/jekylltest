@@ -12,7 +12,7 @@ prettydate: "29 September 2012"
 - 110 B, Simeonovsko Shosse Bul.
 - Sofia, , Bulgaria
  
-<a href="/PDF/0152.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0152.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -466,21 +468,21 @@ I am manager of the SQL server team in HP Sofia Global Delivery Center. My team 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Bulgaria](http://www.microsoft.com)
+- [Microsoft Bulgaria](http://www.microsoft.com)
  
-[Inspirit EOOD](http://www.sqlmasteracademy.com)
+- [Inspirit EOOD](http://www.sqlmasteracademy.com)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
+- [ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
  
-[Hewlett-Packard](http://www.hp.com)
+- [Hewlett-Packard](http://www.hp.com)
  
-[JobTiger](http://www.jobtiger.bg/)
+- [JobTiger](http://www.jobtiger.bg/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[International Data Group (IDG)](http://idg.bg/)
+- [International Data Group (IDG)](http://idg.bg/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

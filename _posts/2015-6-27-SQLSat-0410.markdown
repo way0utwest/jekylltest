@@ -12,7 +12,7 @@ prettydate: "27 June 2015"
 - 784 Vine Street
 - Chattanooga, Tennessee
  
-<a href="/PDF/0410.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0410.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -959,31 +961,31 @@ Dave Fackler is a business intelligence architect, focusing on enterprise data w
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tennessee Valley Authority](http://www.tva.gov)
+- [Tennessee Valley Authority](http://www.tva.gov)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[New Horizons of Chattanooga](http://nhsolutionshub.com/about-us/locations/chattanooga-tn)
+- [New Horizons of Chattanooga](http://nhsolutionshub.com/about-us/locations/chattanooga-tn)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Chattanooga Technology Council](https://www.chattanoogatechnologycouncil.org/)
+- [Chattanooga Technology Council](https://www.chattanoogatechnologycouncil.org/)
  
-[SQL Server Associates, LLC](http://sqlserverassociates.com/)
+- [SQL Server Associates, LLC](http://sqlserverassociates.com/)
  
-[T K Creative Solutions Group](http://clarkcreations.net/blog/tk/)
+- [T K Creative Solutions Group](http://clarkcreations.net/blog/tk/)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
-[UT Chattanooga](http://www.utc.edu)
+- [UT Chattanooga](http://www.utc.edu)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

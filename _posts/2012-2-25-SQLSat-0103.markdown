@@ -12,7 +12,7 @@ prettydate: "25 February 2012"
 - 111 Jan Noorduynweg
 - Willemstad, Curaçao, Netherlands Antilles
  
-<a href="/PDF/0103.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0103.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -318,19 +320,19 @@ Roy Ernest (Twitter: @RumblingDBA) currently works as the Manager of the IT-DBA 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[University of the Netherlands Antilles](http://www.una.an/)
+- [University of the Netherlands Antilles](http://www.una.an/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
-[MarkTab Consulting](http://www.marktab.net)
+- [MarkTab Consulting](http://www.marktab.net)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Radney Consulting LLC](http://www.timradney.com)
+- [Radney Consulting LLC](http://www.timradney.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "16 April 2016"
 - 3300 West Camelback Road
 - Phoenix, Arizona
  
-<a href="/PDF/0492.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0492.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1801,45 +1803,45 @@ Video presentations (for local SQL Server user groups or SQL Saturdays) can be f
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Neudesic](http://www.neudesic.com)
+- [Neudesic](http://www.neudesic.com)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DBMS Insights Inc.](http://www.dbmsinsights.com/)
+- [DBMS Insights Inc.](http://www.dbmsinsights.com/)
  
-[Plus Consulting](http://www.plusconsulting.com)
+- [Plus Consulting](http://www.plusconsulting.com)
  
-[Cloudera](http://www.cloudera.com/)
+- [Cloudera](http://www.cloudera.com/)
  
-[Hortonworks](http://hortonworks.com/)
+- [Hortonworks](http://hortonworks.com/)
  
-[Headfarmer](http://www.hfrecruiting.com)
+- [Headfarmer](http://www.hfrecruiting.com)
  
-[Foresight Intelligence, Inc.](http://foresightintelligence.com/)
+- [Foresight Intelligence, Inc.](http://foresightintelligence.com/)
  
-[Catapult Systems](http://www.catapultsystems.com)
+- [Catapult Systems](http://www.catapultsystems.com)
  
-[Grand Canyon University](http://www.gcu.edu/)
+- [Grand Canyon University](http://www.gcu.edu/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Phoenix Home Security Judge](http://phoenixhomesecurityjudge.com/)
+- [Phoenix Home Security Judge](http://phoenixhomesecurityjudge.com/)
  
-[Slalom](https://www.slalom.com/)
+- [Slalom](https://www.slalom.com/)
  
-[Interface Technical Training](http://www.interfacett.com/)
+- [Interface Technical Training](http://www.interfacett.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

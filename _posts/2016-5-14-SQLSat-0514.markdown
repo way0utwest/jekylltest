@@ -12,7 +12,7 @@ prettydate: "14 May 2016"
 - 13735 Beamer Rd
 - Houston, Texas
  
-<a href="/PDF/0514.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0514.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1286,59 +1288,59 @@ http://dbace.us
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Integrated Services, Inc. (SQLRx)](http://www.sqlrx.com)
+- [Integrated Services, Inc. (SQLRx)](http://www.sqlrx.com)
  
-[Brent Ozar Unlimited](http://www.brentozar.com)
+- [Brent Ozar Unlimited](http://www.brentozar.com)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DBMS Insights Inc.](http://www.dbmsinsights.com/)
+- [DBMS Insights Inc.](http://www.dbmsinsights.com/)
  
-[Tintri](http://www.tintri.com)
+- [Tintri](http://www.tintri.com)
  
-[467 - Tegile Systems](http://www.tegile.com)
+- [467 - Tegile Systems](http://www.tegile.com)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[SQLWatchmen, LLC.](http://www.sqlwatchmen.com)
+- [SQLWatchmen, LLC.](http://www.sqlwatchmen.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Improving](http://www.improving.com)
+- [Improving](http://www.improving.com)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Perficient](http://www.perficient.com/)
+- [Perficient](http://www.perficient.com/)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[The Australian Software Company](http://www.sqldelta.com)
+- [The Australian Software Company](http://www.sqldelta.com)
  
-[Pluralsight  LLC](http://pluralsight.com)
+- [Pluralsight  LLC](http://pluralsight.com)
  
-[MSSQLTips](http://www.mssqltips.com/index.asp)
+- [MSSQLTips](http://www.mssqltips.com/index.asp)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "1 February 2020"
 - 16 St Mary's St, Edinburgh 
 - Edinburgh, Scotland, United Kingdom
  
-<a href="/PDF/0927.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0927.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -948,23 +950,23 @@ Ted has worked with SQL Server since it's inception, and focuses on applying new
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Advancing Analytics](https://www.advancinganalytics.co.uk/)
+- [Advancing Analytics](https://www.advancinganalytics.co.uk/)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[gethynellis.com](https://www.gethynellis.com/)
+- [gethynellis.com](https://www.gethynellis.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Quorum](https://www.qnrl.com/)
+- [Quorum](https://www.qnrl.com/)
  
-[DLM Consultants](http://dlmconsultants.com/)
+- [DLM Consultants](http://dlmconsultants.com/)
  
-[Power BI Sentinel](https://PowerBISentinel.com)
+- [Power BI Sentinel](https://PowerBISentinel.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "18 November 2017"
 - Viale Usberti, 181
 - Parma, Emilia-Romagna, Italy
  
-<a href="/PDF/0675.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0675.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -649,31 +651,31 @@ SSIS e SSRS, Azure SQL Database, Azure DataWarehouse.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Engage IT Services](http://www.engageitservices.it)
+- [Engage IT Services](http://www.engageitservices.it)
  
-[Factory Software](http://www.bifactory.it/)
+- [Factory Software](http://www.bifactory.it/)
  
-[Microsys](https://www.msys.it/Pages/default.aspx)
+- [Microsys](https://www.msys.it/Pages/default.aspx)
  
-[DataSkills](http://www.dataskills.it/)
+- [DataSkills](http://www.dataskills.it/)
  
-[Elfo srl](http://www.elfo.net/)
+- [Elfo srl](http://www.elfo.net/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Digibahn](http://www.digibahn.it)
+- [Digibahn](http://www.digibahn.it)
  
-[Overnet Education](http://www.overneteducation.it/)
+- [Overnet Education](http://www.overneteducation.it/)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[ive](http://ive.ai/)
+- [ive](http://ive.ai/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

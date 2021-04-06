@@ -12,7 +12,7 @@ prettydate: "21 November 2015"
 - A.E.n.5 e 6 Setor C Norte
 - Brasilia, Distrito Federal, Brazil
  
-<a href="/PDF/0469.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0469.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -704,23 +706,23 @@ Consultor com mais de 10 anos de experi#234;ncia na suite Bi Microsoft, atualmen
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[HeptaNovintec](http://www.heptanovintec.com.br)
+- [HeptaNovintec](http://www.heptanovintec.com.br)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[SQLSentry PLC](https://www.sentryone.com/)
+- [SQLSentry PLC](https://www.sentryone.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Faculdade Proje#231;#227;o](http://www.faculdadeprojecao.edu.br/)
+- [Faculdade Proje#231;#227;o](http://www.faculdadeprojecao.edu.br/)
  
-[Sr. Nimbus](http://www.srnimbus.com.br)
+- [Sr. Nimbus](http://www.srnimbus.com.br)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

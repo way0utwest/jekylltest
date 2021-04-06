@@ -12,7 +12,7 @@ prettydate: "18 June 2016"
 - Rua Ibituruna, 108, Tijuca
 - Rio de Janeiro, Rio de Janeiro, Brazil
  
-<a href="/PDF/0512.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0512.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -505,29 +507,29 @@ Freddie Santos is an SQL Database Senior Support Engineer with Microsoft CSS. He
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Bufalo Inform#225;tica](http://bufaloinfo.cloudapp.net)
+- [Bufalo Inform#225;tica](http://bufaloinfo.cloudapp.net)
  
-[devSQL Pass Chapter](http://facebook.com/devSQL)
+- [devSQL Pass Chapter](http://facebook.com/devSQL)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tomate](http://www.tomatemkt.com/)
+- [Tomate](http://www.tomatemkt.com/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Fernando Fukuda](http://fukuda.com.br)
+- [Fernando Fukuda](http://fukuda.com.br)
  
-[BI do Brasil](http://www.bidobrasil.com/portugues/)
+- [BI do Brasil](http://www.bidobrasil.com/portugues/)
  
-[Plural Sight](http://www.pluralsight-training.net)
+- [Plural Sight](http://www.pluralsight-training.net)
  
-[Net Coders](http://netcoders.com.br)
+- [Net Coders](http://netcoders.com.br)
  
-[Oreilly Books](http://www.oreilly.com/)
+- [Oreilly Books](http://www.oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

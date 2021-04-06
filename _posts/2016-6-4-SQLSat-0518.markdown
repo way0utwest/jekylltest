@@ -12,7 +12,7 @@ prettydate: "4 June 2016"
 - 34 Bedford Street
 - Portland, Maine
  
-<a href="/PDF/0518.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0518.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -726,31 +728,31 @@ and was awarded '2009 Exceptional DBA of the Year', by RedGate and my peers.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Plus Consulting](http://www.plusconsulting.com)
+- [Plus Consulting](http://www.plusconsulting.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Tintri](http://www.tintri.com)
+- [Tintri](http://www.tintri.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Bracebridge Capital](http://www.bracebridgecapital.com)
+- [Bracebridge Capital](http://www.bracebridgecapital.com)
  
-[Actifio](http://www.actifio.com)
+- [Actifio](http://www.actifio.com)
  
-[New Horizons Computer Learning Centers of Nashua](http://nhlearningsolutions.com/)
+- [New Horizons Computer Learning Centers of Nashua](http://nhlearningsolutions.com/)
  
-[Heraflux Technologies](http://www.heraflux.com)
+- [Heraflux Technologies](http://www.heraflux.com)
  
-[Systems Engineering](https://www.syseng.com)
+- [Systems Engineering](https://www.syseng.com)
  
-[Tyler Technologies](https://www.tylertech.com)
+- [Tyler Technologies](https://www.tylertech.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

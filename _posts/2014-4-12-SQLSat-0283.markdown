@@ -12,7 +12,7 @@ prettydate: "12 April 2014"
 - 100 Convention Boulevard
 - San Juan, , Puerto Rico
  
-<a href="/PDF/0283.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0283.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -477,23 +479,23 @@ Guillermo Caicedo es un profesional de bases de datos y tecnolog#237;a trabajand
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[IT Impact, Inc.](http://www.itimpact.com)
+- [IT Impact, Inc.](http://www.itimpact.com)
  
-[INGELLICOM CORPORATION](http://www.ingellicom.com)
+- [INGELLICOM CORPORATION](http://www.ingellicom.com)
  
-[Experis Puerto Rico](http://www.experis.com)
+- [Experis Puerto Rico](http://www.experis.com)
  
-[Wovenware Inc.](http://www.wovenware.com/)
+- [Wovenware Inc.](http://www.wovenware.com/)
  
-[Puerto Rico IIBA Chapter Inc](http://puertorico.iiba.org/)
+- [Puerto Rico IIBA Chapter Inc](http://puertorico.iiba.org/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Nagnoi, LLC](http://www.nagnoi.com)
+- [Nagnoi, LLC](http://www.nagnoi.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "13 December 2014"
 - Vecna pot 113
 - Ljubljana, , Slovenia
  
-<a href="/PDF/0356.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0356.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -629,27 +631,27 @@ Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[IN516HT d.o.o.](http://www.in516ht.com)
+- [IN516HT d.o.o.](http://www.in516ht.com)
  
-[Microsoft Slovenija](http://www.microsoft.si)
+- [Microsoft Slovenija](http://www.microsoft.si)
  
-[SAOP d.o.o.](http://www.saop.si)
+- [SAOP d.o.o.](http://www.saop.si)
  
-[XITASO GmbH](http://xitaso.com/)
+- [XITASO GmbH](http://xitaso.com/)
  
-[Kompas Xnet](http://www.kompas-xnet.si/)
+- [Kompas Xnet](http://www.kompas-xnet.si/)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Vinogradništvo Kukovec](http://vina-kukovec.si)
+- [Vinogradništvo Kukovec](http://vina-kukovec.si)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Dejan Žerdin s.p. (BIRBOX)](http://www.birbox.si)
+- [Dejan Žerdin s.p. (BIRBOX)](http://www.birbox.si)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

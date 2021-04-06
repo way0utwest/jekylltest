@@ -12,7 +12,7 @@ prettydate: "13 September 2014"
 - 6711 NE Birmingham Rd
 - Kansas City, Missouri
  
-<a href="/PDF/0300.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0300.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1010,35 +1012,35 @@ Leslie Weed is currently a Data and BI Architect with RevGen Partners in Denver,
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Cerner corporation](http://www.cerner.com/)
+- [Cerner corporation](http://www.cerner.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Centriq Training](https://www.Centriq.com)
+- [Centriq Training](https://www.Centriq.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Triple-I](http://www.triplei.com/home)
+- [Triple-I](http://www.triplei.com/home)
  
-[Valorem Consulting Group LLC](http://www.valoremconsulting.com)
+- [Valorem Consulting Group LLC](http://www.valoremconsulting.com)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

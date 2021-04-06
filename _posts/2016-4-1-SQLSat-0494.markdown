@@ -12,7 +12,7 @@ prettydate: "1 April 2016"
 - Mautner-Markhof-Gasse 50
 - Vienna, Vienna, Austria
  
-<a href="/PDF/0494.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0494.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -630,27 +632,27 @@ Together with his team at Solisyon, Ben provides training, implementation and co
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pure Storage GmbH](http://www.purestorage.com)
+- [Pure Storage GmbH](http://www.purestorage.com)
  
-[SolidQ CEE](http://www.solidq.com)
+- [SolidQ CEE](http://www.solidq.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quest SOFTWARE GmbH](https://www.quest.com/de-de/)
+- [Quest SOFTWARE GmbH](https://www.quest.com/de-de/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[pmOne GmbH](http://www.pmone.com)
+- [pmOne GmbH](http://www.pmone.com)
  
-[cubido business solutions gmbh](http://www.cubido.at)
+- [cubido business solutions gmbh](http://www.cubido.at)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

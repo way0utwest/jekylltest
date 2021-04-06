@@ -12,7 +12,7 @@ prettydate: "30 August 2014"
 - Schweigaardsgate 14
 - Oslo, , Norway
  
-<a href="/PDF/0317.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0317.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -586,33 +588,33 @@ Scott Klein is a senior consultant with SQL Solutions Group with over two decade
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Webstep Innsikt](http://www.webstep.no/)
+- [Webstep Innsikt](http://www.webstep.no/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Rehfeld](http://www.effektor.bi)
+- [Rehfeld](http://www.effektor.bi)
  
-[SQL Service AB](http://www.sqlservice.se)
+- [SQL Service AB](http://www.sqlservice.se)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Glasspaper AS](http://www.glasspaper.no/)
+- [Glasspaper AS](http://www.glasspaper.no/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[OfficeAid AS](http://www.officeaid.no/)
+- [OfficeAid AS](http://www.officeaid.no/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Computas AS](http://www.computas.com)
+- [Computas AS](http://www.computas.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "28 October 2017"
 - 14204 NE Salmon Creek Ave 
 - Vancouver, Washington
  
-<a href="/PDF/0686.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0686.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1033,37 +1035,37 @@ Phil Robinson is an independent consultant focused on developing Business Intell
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Kind Snacks](https://www.kindsnacks.com/)
+- [Kind Snacks](https://www.kindsnacks.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Interject Data Systems](http://www.gointerject.com)
+- [Interject Data Systems](http://www.gointerject.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Marquam Group](https://www.marquam.com/)
+- [Marquam Group](https://www.marquam.com/)
  
-[DELL EMC 2](http://www.dellemc.com)
+- [DELL EMC 2](http://www.dellemc.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[WhereScape](http://wherescape.com)
+- [WhereScape](http://wherescape.com)
  
-[DH2i](http://www.dh2i.com)
+- [DH2i](http://www.dh2i.com)
  
-[VanderHouwen  Associates, Inc.](http://www.vanderhouwen.com/)
+- [VanderHouwen  Associates, Inc.](http://www.vanderhouwen.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[IGNW](http://ignw.io)
+- [IGNW](http://ignw.io)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Pragmaticworks](http://pragmaticworks.com)
+- [Pragmaticworks](http://pragmaticworks.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

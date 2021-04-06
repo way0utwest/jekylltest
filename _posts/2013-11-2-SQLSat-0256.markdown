@@ -12,7 +12,7 @@ prettydate: "2 November 2013"
 - 1819 East Milham Ave
 - Portage, Michigan
  
-<a href="/PDF/0256.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0256.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -689,21 +691,21 @@ I#39;m a SQL Server DBA and Business Intelligence Consultant with over 10 years 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[BlueGranite](http://www.blue-granite.com)
+- [BlueGranite](http://www.blue-granite.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quicken Loans](http://www.quickenloanscareers.com)
+- [Quicken Loans](http://www.quickenloanscareers.com)
  
-[New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
+- [New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
  
-[Softura](http://www.softura.com)
+- [Softura](http://www.softura.com)
  
-[Hush Hush](http://www.mask-me.net)
+- [Hush Hush](http://www.mask-me.net)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "16 February 2008"
 - 4500 West Cypress Stree
 - Tampa, Florida
  
-<a href="/PDF/0002.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0002.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -524,23 +526,23 @@ Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Durable Impact](http://durableimpact.com/)
+- [Durable Impact](http://durableimpact.com/)
  
-[Veredus](http://www.vereduscorp.com/)
+- [Veredus](http://www.vereduscorp.com/)
  
-[T2 Software Systems](http://www.t2ssi.com/)
+- [T2 Software Systems](http://www.t2ssi.com/)
  
-[Solid Quality Mentors](http://www.solidq.com)
+- [Solid Quality Mentors](http://www.solidq.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

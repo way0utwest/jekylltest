@@ -12,7 +12,7 @@ prettydate: "9 June 2018"
 - 1 LMU Drive, Los Angeles, California
 - Los Angeles, California
  
-<a href="/PDF/0773.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0773.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1119,61 +1121,61 @@ Consultant with a demonstrated history of working with clients across multiple v
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Loyola Marymount University](https://www.lmu.edu)
+- [Loyola Marymount University](https://www.lmu.edu)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[DesignMind_773](https://www.designmind.com)
+- [DesignMind_773](https://www.designmind.com)
  
-[PureStorage](http://www.purestorage.com)
+- [PureStorage](http://www.purestorage.com)
  
-[LevelEdu_773](https://www.leveledu.com/)
+- [LevelEdu_773](https://www.leveledu.com/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Amazon Web Services, LLC](http://aws.amazon.com)
+- [Amazon Web Services, LLC](http://aws.amazon.com)
  
-[Attunix1](https://attunix.com/)
+- [Attunix1](https://attunix.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[CloudHealth Technologies](https://www.cloudhealthtech.com/)
+- [CloudHealth Technologies](https://www.cloudhealthtech.com/)
  
-[Galpin Ford](http://www.galpinford.com)
+- [Galpin Ford](http://www.galpinford.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[Avanade1](https://www.avanade.com/en)
+- [Avanade1](https://www.avanade.com/en)
  
-[CappucinoInsurance_773](http://www.cappuccinoinsurance.com/)
+- [CappucinoInsurance_773](http://www.cappuccinoinsurance.com/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Wiley_773](https://www.wiley.com/en-us)
+- [Wiley_773](https://www.wiley.com/en-us)
  
-[O'Reilly_773](https://www.oreilly.com/)
+- [O'Reilly_773](https://www.oreilly.com/)
  
-[Galpin Mazda](https://www.galpinmazda.com)
+- [Galpin Mazda](https://www.galpinmazda.com)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[Jetbrains1](https://www.jetbrains.com/)
+- [Jetbrains1](https://www.jetbrains.com/)
  
-[techsmith_773](https://www.techsmith.com/)
+- [techsmith_773](https://www.techsmith.com/)
  
-[SQL Malibu SSUG](http://sqlmalibu.pass.org)
+- [SQL Malibu SSUG](http://sqlmalibu.pass.org)
  
-[L.A. SQL Server Professionals Group](http://www.sql.la)
+- [L.A. SQL Server Professionals Group](http://www.sql.la)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

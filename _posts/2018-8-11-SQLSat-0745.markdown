@@ -12,7 +12,7 @@ prettydate: "11 August 2018"
 - 300 N 17th St
 - Noblesville, Indiana
  
-<a href="/PDF/0745.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0745.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1395,41 +1397,41 @@ Grant Fritchey is a Data Platform MVP with over 20 years’ experience in IT, in
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Salesforce](https://www.salesforce.com/)
+- [Salesforce](https://www.salesforce.com/)
  
-[Amazon Web Services](http://www.aws.amazon.com)
+- [Amazon Web Services](http://www.aws.amazon.com)
  
-[Flexware Innovation](http://www.flexwareinnovation.com)
+- [Flexware Innovation](http://www.flexwareinnovation.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[New Horizons CLC of Indianapolis](https://www.nhindy.com)
+- [New Horizons CLC of Indianapolis](https://www.nhindy.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Pinnacle Partners, Inc,](http://www.partnersinstaffing.com)
+- [Pinnacle Partners, Inc,](http://www.partnersinstaffing.com)
  
-[Moser Consulting](http://moserit.com)
+- [Moser Consulting](http://moserit.com)
  
-[DMI](https://dminc.com/)
+- [DMI](https://dminc.com/)
  
-[BigRentz, Inc](https://www.bigrentz.com)
+- [BigRentz, Inc](https://www.bigrentz.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[DataVeld](https://dataveld.com)
+- [DataVeld](https://dataveld.com)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

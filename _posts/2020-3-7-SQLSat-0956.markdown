@@ -12,7 +12,7 @@ prettydate: "7 March 2020"
 - Campus De Vest, Zandpoortvest 60, 2800 Mechelen
 - Mechelen, Antwerp, Belgium
  
-<a href="/PDF/0956.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0956.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -432,35 +434,35 @@ He is a father, husband, swimmer, cyclist, r
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Micropole Insight](https://www.micropole.be/)
+- [Micropole Insight](https://www.micropole.be/)
  
-[Monin NV](https://www.monin-it.be/)
+- [Monin NV](https://www.monin-it.be/)
  
-[Ordina](https://www.ordina.be/)
+- [Ordina](https://www.ordina.be/)
  
-[Sparkle](https://www.sparkle.ms/)
+- [Sparkle](https://www.sparkle.ms/)
  
-[U2U](https://www.u2u.be/)
+- [U2U](https://www.u2u.be/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Cegeka](https://www.cegeka.com/)
+- [Cegeka](https://www.cegeka.com/)
  
-[Realdolmen](https://www.realdolmen.com)
+- [Realdolmen](https://www.realdolmen.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Loop1](https://loop1.com/)
+- [Loop1](https://loop1.com/)
  
-[element61](https://www.element61.be)
+- [element61](https://www.element61.be)
  
-[Kohera](https://kohera.be)
+- [Kohera](https://kohera.be)
  
-[Thomas More](https://thomasmore.be/)
+- [Thomas More](https://thomasmore.be/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

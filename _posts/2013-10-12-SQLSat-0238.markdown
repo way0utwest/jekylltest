@@ -12,7 +12,7 @@ prettydate: "12 October 2013"
 - 200 Union Street SE
 - Minneapolis, Minnesota
  
-<a href="/PDF/0238.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0238.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -944,53 +946,53 @@ Merrill is a consultant with the national Digital and Technology Consultancy RBA
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Intertech](http://www.intertech.com/)
+- [Intertech](http://www.intertech.com/)
  
-[Digineer](http://www.digineer.com/)
+- [Digineer](http://www.digineer.com/)
  
-[RBA](http://www.rbaconsulting.com)
+- [RBA](http://www.rbaconsulting.com)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[C2 IT Solutions](http://www.c2its.com)
+- [C2 IT Solutions](http://www.c2its.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Magenic](http://www.magenic.com)
+- [Magenic](http://www.magenic.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[sdg](http://solutiondesign.com/)
+- [sdg](http://solutiondesign.com/)
  
-[Experts Exchange](http://www.experts-exchange.com)
+- [Experts Exchange](http://www.experts-exchange.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[SQL Power Tools, Inc.](http://www.sqlpower.com)
+- [SQL Power Tools, Inc.](http://www.sqlpower.com)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[Emergent Networks](http://www.emergentnetworks.com)
+- [Emergent Networks](http://www.emergentnetworks.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

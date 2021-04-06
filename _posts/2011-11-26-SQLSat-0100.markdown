@@ -12,7 +12,7 @@ prettydate: "26 November 2011"
 - 12901 - Itaim Bibi
 - São Paulo, , Brazil
  
-<a href="/PDF/0100.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0100.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -424,41 +426,41 @@ Marcelo Fernandes atua no mercado há 10 anos, especializado na área de Banco d
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[Mainwork Software](http://www.mainwork.com.br)
+- [Mainwork Software](http://www.mainwork.com.br)
  
-[KA Solution](http://www.kasolution.com.br)
+- [KA Solution](http://www.kasolution.com.br)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[DoomTech](http://leka.com.br)
+- [DoomTech](http://leka.com.br)
  
-[Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
+- [Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
  
-[TTSSUG](http://www.nigelpsammy.com/)
+- [TTSSUG](http://www.nigelpsammy.com/)
  
-[SQLAuthority.com](http://blog.sqlauthority.com)
+- [SQLAuthority.com](http://blog.sqlauthority.com)
  
-[SQLChicken](http://sqlchicken.com)
+- [SQLChicken](http://sqlchicken.com)
  
-[Myself](http://shellyourexperience.wordpress.com)
+- [Myself](http://shellyourexperience.wordpress.com)
  
-[Shay Levy](http://PowerShay.com)
+- [Shay Levy](http://PowerShay.com)
  
-[Ravichaganti.com](http://www.ravichaganti.com/blog)
+- [Ravichaganti.com](http://www.ravichaganti.com/blog)
  
-[SQLServerCentral](http://www.sqlservercentral.com)
+- [SQLServerCentral](http://www.sqlservercentral.com)
  
-[MCDBABRASIL](http://www.mcdbabrasil.com.br)
+- [MCDBABRASIL](http://www.mcdbabrasil.com.br)
  
-[Sev17](http://sev17.com/)
+- [Sev17](http://sev17.com/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[SSWUG.org](https://www.sswug.org/)
+- [SSWUG.org](https://www.sswug.org/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

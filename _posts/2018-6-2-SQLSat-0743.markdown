@@ -12,7 +12,7 @@ prettydate: "2 June 2018"
 - 1000 College Blvd
 - Pensacola, Florida
  
-<a href="/PDF/0743.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0743.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -705,33 +707,33 @@ Mohammad Darab is a Microsoft Data Professional, speaker and blogger with over 1
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[Bit-Wizards](https://bitwizards.com/)
+- [Bit-Wizards](https://bitwizards.com/)
  
-[AtlantaMDF](http://atlantamdf.com)
+- [AtlantaMDF](http://atlantamdf.com)
  
-[AppRiver](http://www.appriver.com)
+- [AppRiver](http://www.appriver.com)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Chicago SQL Association](http://www.pass.org)
+- [Chicago SQL Association](http://www.pass.org)
  
-[ThatAwesomeTrainer.com](http://ThatAwesomeTrainer.com)
+- [ThatAwesomeTrainer.com](http://ThatAwesomeTrainer.com)
  
-[Tim Radney](https://www.sqlskills.com/blogs/tim/)
+- [Tim Radney](https://www.sqlskills.com/blogs/tim/)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

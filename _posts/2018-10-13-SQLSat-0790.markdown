@@ -12,7 +12,7 @@ prettydate: "13 October 2018"
 - Leuvenlaan 21
 - Utrecht, Utrecht, Netherlands
  
-<a href="/PDF/0790.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0790.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -919,41 +921,41 @@ Database developer and (sometimes) administrator working with SQL Server Data Pl
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Motion10](http://www.motion10.nl/)
+- [Motion10](http://www.motion10.nl/)
  
-[Info Support](http://www.infosupport.com)
+- [Info Support](http://www.infosupport.com)
  
-[Valid](http://www.valid.nl/)
+- [Valid](http://www.valid.nl/)
  
-[ilionX](http://www.ilionx.com)
+- [ilionX](http://www.ilionx.com)
  
-[Jibes](https://www.jibes.nl)
+- [Jibes](https://www.jibes.nl)
  
-[Rubicon](http://www.rubicon.nl)
+- [Rubicon](http://www.rubicon.nl)
  
-[Data Masterminds](http://www.datamasterminds.io)
+- [Data Masterminds](http://www.datamasterminds.io)
  
-[DBA.nl](https://www.dba.nl/)
+- [DBA.nl](https://www.dba.nl/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Closesure](https://www.closesure.nl/)
+- [Closesure](https://www.closesure.nl/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Axians](https://www.axians.nl/business-analytics/)
+- [Axians](https://www.axians.nl/business-analytics/)
  
-[Visser en van Baars](http://www.visservanbaars.nl/)
+- [Visser en van Baars](http://www.visservanbaars.nl/)
  
-[Macaw](https://www.macaw.nl/)
+- [Macaw](https://www.macaw.nl/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Avanade](https://www.avanade.com/nl-nl)
+- [Avanade](https://www.avanade.com/nl-nl)
  
-[Kadenza](https://www.kadenza.nl)
+- [Kadenza](https://www.kadenza.nl)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

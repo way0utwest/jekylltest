@@ -12,7 +12,7 @@ prettydate: "6 June 2015"
 - 
 - Malvern, Pennsylvania
  
-<a href="/PDF/0390.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0390.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1423,21 +1425,21 @@ Sharon Dooley has worked with SQL Server since its first release. Her major area
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Anexinet](http://www.anexinet.com)
+- [Anexinet](http://www.anexinet.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[InSource](http://insourcenow.com/)
+- [InSource](http://insourcenow.com/)
  
-[Aspect Consulting](http://www.aspect-consulting.com/)
+- [Aspect Consulting](http://www.aspect-consulting.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

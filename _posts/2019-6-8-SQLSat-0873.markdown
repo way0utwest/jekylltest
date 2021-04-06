@@ -12,7 +12,7 @@ prettydate: "8 June 2019"
 - Mlynske Nivy 12
 - Bratislava, Bratislava Region, Slovakia
  
-<a href="/PDF/0873.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0873.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -277,13 +279,13 @@ I am a Microsoft MVP, and I currently hold the MCSE: Data Management and Analyti
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Swiss Re Corporate Solutions Services s.r.o.](https://www.swissre.com/)
+- [Swiss Re Corporate Solutions Services s.r.o.](https://www.swissre.com/)
  
-[KaPa Consulting](http://www.kapa-consulting.sk)
+- [KaPa Consulting](http://www.kapa-consulting.sk)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

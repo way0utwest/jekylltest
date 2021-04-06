@@ -12,7 +12,7 @@ prettydate: "24 January 2009"
 - 1001 East Palm Ave
 - Tampa, Florida
  
-<a href="/PDF/0010.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0010.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -752,47 +754,47 @@ I am an active SQL DBA at a public company in St.Pete,  and MCT with considerabl
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DevFish](http://www.devfish.net/)
+- [DevFish](http://www.devfish.net/)
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[JumpstartTV.com](http://www.jumpstarttv.com)
+- [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[BakBone Software](http://www.bakbone.com)
+- [BakBone Software](http://www.bakbone.com)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Apress, Inc.](http://www.apress.com)
+- [Apress, Inc.](http://www.apress.com)
  
-[VisualGov Solutions](http://www.visualgov.com)
+- [VisualGov Solutions](http://www.visualgov.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Durable Impact Consulting](http://www.durableimpact.com)
+- [Durable Impact Consulting](http://www.durableimpact.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[TARGIT US](http://www.targit.com)
+- [TARGIT US](http://www.targit.com)
  
-[Solid Quality Mentors](http://www.solidq.com)
+- [Solid Quality Mentors](http://www.solidq.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[NEC Americas](http://www.necam.com/servers/enterprise)
+- [NEC Americas](http://www.necam.com/servers/enterprise)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Edgewood Solutions](http://www.edgewoodsolutions.com)
+- [Edgewood Solutions](http://www.edgewoodsolutions.com)
  
-[Kforce](http://www.kforce.com)
+- [Kforce](http://www.kforce.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

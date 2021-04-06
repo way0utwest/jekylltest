@@ -12,7 +12,7 @@ prettydate: "20 October 2012"
 - 10701 South River Front Parkway
 - Salt Lake City, Utah
  
-<a href="/PDF/0153.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0153.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -537,17 +539,17 @@ Martin Miller is a senior BI architect for a large health care organization, and
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Utah Geek Events](http://www.utahgeekevents.com)
+- [Utah Geek Events](http://www.utahgeekevents.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Steve Stedman](http://DatabaseHealth.SteveStedman.com)
+- [Steve Stedman](http://DatabaseHealth.SteveStedman.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

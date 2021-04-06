@@ -12,7 +12,7 @@ prettydate: "17 September 2011"
 - 6256 Greenwich Dr.
 - San Diego, California
  
-<a href="/PDF/0095.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0095.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -953,51 +955,51 @@ Peter Kral is a Premier Field Engineer (Data  AI) at Microsoft. He holds SQL Ser
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[New Horizons CLC of Southern California](http://www.nhsocal.com/Localweb/)
+- [New Horizons CLC of Southern California](http://www.nhsocal.com/Localweb/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SSWUG.org](https://www.sswug.org/)
+- [SSWUG.org](https://www.sswug.org/)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[UCSD Extension](http://extension.ucsd.edu/)
+- [UCSD Extension](http://extension.ucsd.edu/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Elsasoft](http://www.elsasoft.org)
+- [Elsasoft](http://www.elsasoft.org)
  
-[DbVis Software](http://www.dbvis.com/)
+- [DbVis Software](http://www.dbvis.com/)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Aspose Pty Ltd](http://www.aspose.com)
+- [Aspose Pty Ltd](http://www.aspose.com)
  
-[Spectral Core](http://www.spectralcore.com/)
+- [Spectral Core](http://www.spectralcore.com/)
  
-[SiSense](http://www.sisense.com)
+- [SiSense](http://www.sisense.com)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

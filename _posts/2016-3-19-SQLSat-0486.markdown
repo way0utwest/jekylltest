@@ -12,7 +12,7 @@ prettydate: "19 March 2016"
 - 11104 W. Broad Street
 - Glen Allen, Virginia
  
-<a href="/PDF/0486.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0486.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1109,27 +1111,27 @@ Cameron Snapp is a MCSE and PMP certified IT Consultant with over 14 years of da
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[B2B Solutions](http://www.b2bsol.com)
+- [B2B Solutions](http://www.b2bsol.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Vaco Richmond](http://www.vaco.com/richmond.html)
+- [Vaco Richmond](http://www.vaco.com/richmond.html)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[CapTech Consulting](http://captechconsulting.com/)
+- [CapTech Consulting](http://captechconsulting.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
+- [SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

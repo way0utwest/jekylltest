@@ -12,7 +12,7 @@ prettydate: "19 May 2018"
 - Av. Dom José Gaspar, 500
 - Belo Horizonte, Minas Gerais, Brazil
  
-<a href="/PDF/0715.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0715.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -533,27 +535,27 @@ Consultor em atividades voltadas ao desenvolvimento de sistemas há mais de 15 a
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Planilheiros Treinamentos Empresariais Ltda](https://planilheiros.com.br)
+- [Planilheiros Treinamentos Empresariais Ltda](https://planilheiros.com.br)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[BI do Brasil](http://www.bidobrasil.com/portugues/)
+- [BI do Brasil](http://www.bidobrasil.com/portugues/)
  
-[Ódecor Comunicação Visual](https://www.odecor.com.br/)
+- [Ódecor Comunicação Visual](https://www.odecor.com.br/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[DATAB Inteligência e Estratégia](http://www.datab.com.br)
+- [DATAB Inteligência e Estratégia](http://www.datab.com.br)
  
-[Otus7 Consultoria e Treinamento](http://otus7.com/)
+- [Otus7 Consultoria e Treinamento](http://otus7.com/)
  
-[Dataside](http://www.dataside.com.br)
+- [Dataside](http://www.dataside.com.br)
  
-[MAXINST](http://www.maxinst.com)
+- [MAXINST](http://www.maxinst.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

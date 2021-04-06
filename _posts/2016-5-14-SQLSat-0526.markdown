@@ -12,7 +12,7 @@ prettydate: "14 May 2016"
 - 1 Lomb Memorial Drive
 - Rochester, New York
  
-<a href="/PDF/0526.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0526.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -788,17 +790,17 @@ Robert is a SQL Server Certified Master, MVP, and has spent 17+ years honing his
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tintri](http://www.tintri.com)
+- [Tintri](http://www.tintri.com)
  
-[Rochester Institute of Technology](http://www.rit.edu/)
+- [Rochester Institute of Technology](http://www.rit.edu/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

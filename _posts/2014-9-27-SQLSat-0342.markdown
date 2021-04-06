@@ -12,7 +12,7 @@ prettydate: "27 September 2014"
 - 150 Jaguar Dr
 - Mobile, Alabama
  
-<a href="/PDF/0342.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0342.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -491,17 +493,17 @@ Stuart Ainsworth (MA, MEd) manages a team of Service Reliability Engineers for t
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[University of South Alabama School of Computing](http://soc.southalabama.edu/)
+- [University of South Alabama School of Computing](http://soc.southalabama.edu/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Rural Sourcing Inc.](https://www.ruralsourcing.com/)
+- [Rural Sourcing Inc.](https://www.ruralsourcing.com/)
  
-[TeleVox Software](http://www.televox.com)
+- [TeleVox Software](http://www.televox.com)
  
-[Database Solutions](http://www.accuregsoftware.com)
+- [Database Solutions](http://www.accuregsoftware.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

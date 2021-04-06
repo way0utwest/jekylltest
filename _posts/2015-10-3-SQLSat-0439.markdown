@@ -12,7 +12,7 @@ prettydate: "3 October 2015"
 - 1510 3rd Ave
 - Phenix City, Alabama
  
-<a href="/PDF/0439.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0439.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -865,21 +867,21 @@ Mark Tabladillo Ph.D. works for Microsoft as a Cloud Solution Architect for the 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQLskills.com](http://www.sqlskills.com/)
+- [SQLskills.com](http://www.sqlskills.com/)
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[AtlantaMDF](http://atlantamdf.com)
+- [AtlantaMDF](http://atlantamdf.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Server Associates, LLC](http://sqlserverassociates.com/)
+- [SQL Server Associates, LLC](http://sqlserverassociates.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

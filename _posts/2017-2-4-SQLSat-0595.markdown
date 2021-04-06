@@ -12,7 +12,7 @@ prettydate: "4 February 2017"
 - 28500 Clemens Rd.
 - Cleveland, Ohio
  
-<a href="/PDF/0595.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0595.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -890,39 +892,39 @@ Started working with SQL Server 7.0 as DBA and Developer. Since then went throug
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Hyland](http://www.hyland.com)
+- [Hyland](http://www.hyland.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[SelectStar](https://selectstar.io/)
+- [SelectStar](https://selectstar.io/)
  
-[Datrium](http://www.datrium.com/)
+- [Datrium](http://www.datrium.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[TMW Systems](http://www.tmwsystems.com)
+- [TMW Systems](http://www.tmwsystems.com)
  
-[Foundation Software, Inc.](http://www.foundationsoft.com)
+- [Foundation Software, Inc.](http://www.foundationsoft.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[New Horizons Computer Learning Centers of Cleveland](http://nhls.com)
+- [New Horizons Computer Learning Centers of Cleveland](http://nhls.com)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Survival](http://www.sql-survival.com)
+- [SQL Survival](http://www.sql-survival.com)
  
-[OEC](http://www.oeconnection.com/)
+- [OEC](http://www.oeconnection.com/)
  
-[Assocation of IT Professionals](http://akron-aitp.org/)
+- [Assocation of IT Professionals](http://akron-aitp.org/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

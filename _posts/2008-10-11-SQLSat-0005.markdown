@@ -12,7 +12,7 @@ prettydate: "11 October 2008"
 - 222 Columbia St NW
 - Olympia, Washington
  
-<a href="/PDF/0005.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0005.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -312,21 +314,21 @@ Mr. Celko's past columns include: Columns for Simple-Talk (Redgate Software); "C
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Durable Impact](http://durableimpact.com/)
+- [Durable Impact](http://durableimpact.com/)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
-[Smith-McCann Computer Resources, Inc.](http://www.smith-mccann.com)
+- [Smith-McCann Computer Resources, Inc.](http://www.smith-mccann.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[ImageSource, Inc.](http://www.imagesourceinc.com)
+- [ImageSource, Inc.](http://www.imagesourceinc.com)
  
-[Solid Quality Mentors](http://www.solidq.com)
+- [Solid Quality Mentors](http://www.solidq.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

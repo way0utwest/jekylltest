@@ -12,7 +12,7 @@ prettydate: "24 April 2010"
 - 15744 Goldenwest Street
 - Huntington Beach, California
  
-<a href="/PDF/0044.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0044.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -696,19 +698,19 @@ Jesse Gebhardt is a technical resource for our Sales Team. He is presented with 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Strategy Companion](http://www.strategycompanion.com)
+- [Strategy Companion](http://www.strategycompanion.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Attunity](http://www.attunity.com)
+- [Attunity](http://www.attunity.com)
  
-[SharePoint360](http://www.sharepoint360.com/)
+- [SharePoint360](http://www.sharepoint360.com/)
  
-[WestClinTech](http://westclintech.com)
+- [WestClinTech](http://westclintech.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[MySpace](http://www.myspace.com/)
+- [MySpace](http://www.myspace.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

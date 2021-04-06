@@ -12,7 +12,7 @@ prettydate: "18 June 2016"
 - "Sausiripaya" 123 Wijerama Mawatha
 - Colombo, Western, Sri Lanka
  
-<a href="/PDF/0535.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0535.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -354,25 +356,25 @@ Being certified from both Microsoft amp; Red Hat at the highest level as a cloud
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Sri Lanka](http://www.microsoft.com/en-lk/default.aspx)
+- [Microsoft Sri Lanka](http://www.microsoft.com/en-lk/default.aspx)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Brandix i3](http://www.brandixi3.com/)
+- [Brandix i3](http://www.brandixi3.com/)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Tech One Global (Pvt) Ltd](http://www.techonelearning.com)
+- [Tech One Global (Pvt) Ltd](http://www.techonelearning.com)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[dinesQL Pvt Limited](http://dinesql.com/)
+- [dinesQL Pvt Limited](http://dinesql.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

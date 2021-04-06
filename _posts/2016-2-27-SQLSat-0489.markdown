@@ -12,7 +12,7 @@ prettydate: "27 February 2016"
 - 4202 E Fowler Ave
 - Tampa, Florida
  
-<a href="/PDF/0489.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0489.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1194,39 +1196,39 @@ Jen McCown is CEO of MinionWare, LLC; a Microsoft Certified Master for SQL Serve
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Plus Consulting](http://www.plusconsulting.com)
+- [Plus Consulting](http://www.plusconsulting.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Enzo Unified](http://www.enzounified.com)
+- [Enzo Unified](http://www.enzounified.com)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Apex Systems, Inc](http://www.apexsystemsinc.com/)
+- [Apex Systems, Inc](http://www.apexsystemsinc.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Wolters Kluwer](http://www.teammatesolutions.com/)
+- [Wolters Kluwer](http://www.teammatesolutions.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Dobler Consulting Services LLC](http://doblerconsulting.com)
+- [Dobler Consulting Services LLC](http://doblerconsulting.com)
  
-[MD Data Technologies](http://www.sqletl.com)
+- [MD Data Technologies](http://www.sqletl.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

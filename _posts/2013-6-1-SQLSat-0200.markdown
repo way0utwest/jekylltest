@@ -12,7 +12,7 @@ prettydate: "1 June 2013"
 - 
 - Malvern, Pennsylvania
  
-<a href="/PDF/0200.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0200.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1234,41 +1236,41 @@ Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Anexinet](http://www.anexinet.com)
+- [Anexinet](http://www.anexinet.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Inc.](https://www.quest.com)
+- [Quest Inc.](https://www.quest.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Connolly LLC](http://www.connolly.com)
+- [Connolly LLC](http://www.connolly.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Aspect Consulting](http://www.aspect-consulting.com/)
+- [Aspect Consulting](http://www.aspect-consulting.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Power Tools, Inc.](http://www.sqlpower.com)
+- [SQL Power Tools, Inc.](http://www.sqlpower.com)
  
-[Ntirety, Inc.](http://www.ntirety.com)
+- [Ntirety, Inc.](http://www.ntirety.com)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
-[Pearl Knowledge Solutions](http://www.pearlknows.com)
+- [Pearl Knowledge Solutions](http://www.pearlknows.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

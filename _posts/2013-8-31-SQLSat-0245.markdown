@@ -12,7 +12,7 @@ prettydate: "31 August 2013"
 - 
 - Rio de Janeiro, , Brazil
  
-<a href="/PDF/0245.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0245.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -333,35 +335,35 @@ Dennes Torres is a Data Platform MVP with more than 25 years of experience in th
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Universidade Veiga de Almeida](http://www.uva.br)
+- [Universidade Veiga de Almeida](http://www.uva.br)
  
-[Bufalo Informatica](http://www.bufaloinfo.com.br)
+- [Bufalo Informatica](http://www.bufaloinfo.com.br)
  
-[Mainwork Software](http://www.mainwork.com.br)
+- [Mainwork Software](http://www.mainwork.com.br)
  
-[devSQL Pass Chapter](http://facebook.com/devSQL)
+- [devSQL Pass Chapter](http://facebook.com/devSQL)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[BigLeka](http://leka.com.br/)
+- [BigLeka](http://leka.com.br/)
  
-[MarkTab Inc](http://marktab.net/datamining/)
+- [MarkTab Inc](http://marktab.net/datamining/)
  
-[UDGWebDev](http://udgwebdev.com)
+- [UDGWebDev](http://udgwebdev.com)
  
-[CBSA](http://cbsa.com.br/)
+- [CBSA](http://cbsa.com.br/)
  
-[Blog da TI](http://www.blogdati.com.br)
+- [Blog da TI](http://www.blogdati.com.br)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[NGR](http://www.ngrsolutions.com.br/)
+- [NGR](http://www.ngrsolutions.com.br/)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

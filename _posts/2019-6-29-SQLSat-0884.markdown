@@ -12,7 +12,7 @@ prettydate: "29 June 2019"
 - 1000 College Blvd
 - Pensacola, Florida
  
-<a href="/PDF/0884.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0884.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -914,35 +916,35 @@ I have over 26 years of IT experience as a Tech Support Rep, Programmer, and Sol
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Ntirety, A Division of HOSTING](http://ntirety.com/)
+- [Ntirety, A Division of HOSTING](http://ntirety.com/)
  
-[SQL Saturday Atlanta](http://www.atlantamdf.com/)
+- [SQL Saturday Atlanta](http://www.atlantamdf.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[AppRiver](http://www.appriver.com)
+- [AppRiver](http://www.appriver.com)
  
-[Provalus](https://provalus.com/)
+- [Provalus](https://provalus.com/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[STATCowboy](http://www.statcowboy.com)
+- [STATCowboy](http://www.statcowboy.com)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[SQL Swimmer](https://sqlswimmer.wordpress.com/)
+- [SQL Swimmer](https://sqlswimmer.wordpress.com/)
  
-[SQL Espresso](https://sqlespresso.com/)
+- [SQL Espresso](https://sqlespresso.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

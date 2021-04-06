@@ -12,7 +12,7 @@ prettydate: "23 November 2019"
 - Parco Area delle Scienze, 181/a
 - Parma, , Italy
  
-<a href="/PDF/0895.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0895.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -658,39 +660,39 @@ In 2020 he started working in Softjam SPA as Advisory Engineer and then in Micro
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Factory Software](http://www.bifactory.it/)
+- [Factory Software](http://www.bifactory.it/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SolidQ Italia](http://www.solidq.it)
+- [SolidQ Italia](http://www.solidq.it)
  
-[Engage IT Services](http://www.engageitservices.it)
+- [Engage IT Services](http://www.engageitservices.it)
  
-[VMware1](http://www.vmware.com)
+- [VMware1](http://www.vmware.com)
  
-[SoftJam](https://www.softjam.it/)
+- [SoftJam](https://www.softjam.it/)
  
-[pcsnet](https://pcsnet.it/)
+- [pcsnet](https://pcsnet.it/)
  
-[Wuerth Phoenix](https://www.wuerth-phoenix.com/it/)
+- [Wuerth Phoenix](https://www.wuerth-phoenix.com/it/)
  
-[YourImprovement](http://www.yimp.it/)
+- [YourImprovement](http://www.yimp.it/)
  
-[Tweppy](https://www.tweppy.com)
+- [Tweppy](https://www.tweppy.com)
  
-[Università degli studi di Parma](http://www.dii.unipr.it/it)
+- [Università degli studi di Parma](http://www.dii.unipr.it/it)
  
-[SSMSBoost](https://www.ssmsboost.com/)
+- [SSMSBoost](https://www.ssmsboost.com/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Ugiss](http://www.ugiss.org)
+- [Ugiss](http://www.ugiss.org)
  
-[DanielaMalvisi.Com](http://www.danielamalvisi.com/)
+- [DanielaMalvisi.Com](http://www.danielamalvisi.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

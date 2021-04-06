@@ -12,7 +12,7 @@ prettydate: "19 September 2015"
 - Moskovskiy ave, 199-B
 - Kharkiv, Kharkivs'ka Oblast', Ukraine
  
-<a href="/PDF/0406.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0406.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -486,19 +488,19 @@ I've been designing data-centric systems for last 20 years and have gained huge 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
+- [ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

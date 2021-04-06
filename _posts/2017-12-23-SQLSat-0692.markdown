@@ -12,7 +12,7 @@ prettydate: "23 December 2017"
 - Kantipath कान्तिपथ मार्ग, Kathmandu, Nepal
 - Nepal, , Nepal
  
-<a href="/PDF/0692.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0692.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -195,15 +197,15 @@ Kathmandu, Nepal since 2010.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pioneer Solutions](http://pioneersolutionsglobal.com/)
+- [Pioneer Solutions](http://pioneersolutionsglobal.com/)
  
-[Edgewood Solutions LLc](https://www.mssqltips.com/)
+- [Edgewood Solutions LLc](https://www.mssqltips.com/)
  
-[SQLHELPS](http://www.sqlhelps.com/)
+- [SQLHELPS](http://www.sqlhelps.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "7 September 2019"
 - 3012 William Nicol Drive
 - Bryanston, Gauteng, South Africa
  
-<a href="/PDF/0903.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0903.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -617,15 +619,15 @@ I have been using SQL for 9 years professionally from SQL 2003 and more recently
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[ATS Network Management](http://atsnwm.co.za)
+- [ATS Network Management](http://atsnwm.co.za)
  
-[Cobalt Analytics](https://CobaltAnalytics.io)
+- [Cobalt Analytics](https://CobaltAnalytics.io)
  
-[Tarsus Cloud OnDemand](http://www.cloudondemand.co.za/)
+- [Tarsus Cloud OnDemand](http://www.cloudondemand.co.za/)
  
-[Expeditus](https://expeditus.co.za/wp/)
+- [Expeditus](https://expeditus.co.za/wp/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

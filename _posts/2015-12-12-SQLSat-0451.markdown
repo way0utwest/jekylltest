@@ -12,7 +12,7 @@ prettydate: "12 December 2015"
 - Bellevue Residences, Levent Mahallesi, Aydin Sokak, No7, Levent, Istanbul
 - Istanbul, Istanbul, Turkey
  
-<a href="/PDF/0451.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0451.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -340,13 +342,13 @@ Ismail Adar, Computer Engineer, Microsoft Certified Trainer, MCSE and MCSA. Focu
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[ÇözümPark](http://www.cozumpark.com)
+- [ÇözümPark](http://www.cozumpark.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

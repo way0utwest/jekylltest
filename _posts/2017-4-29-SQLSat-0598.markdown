@@ -12,7 +12,7 @@ prettydate: "29 April 2017"
 - Calle 28, San José, Costa Rica
 - San José, San José, Costa Rica
  
-<a href="/PDF/0598.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0598.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -644,19 +646,19 @@ Javier tiene más de 20 años de experiencia como Instructor Técnico, casi 30 a
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Stewart Lender Services](https://www.stewart.com)
+- [Stewart Lender Services](https://www.stewart.com)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

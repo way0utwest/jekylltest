@@ -12,7 +12,7 @@ prettydate: "17 September 2016"
 - 2800 Campus Ridge Road
 - Charlotte, North Carolina
  
-<a href="/PDF/0560.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0560.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -959,49 +961,49 @@ Her passion outside of SQL Server is volunteering with foster children as their 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[AvidXchange](http://www.avidxchange.com)
+- [AvidXchange](http://www.avidxchange.com)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[CapTech](http://www.captechconsulting.com/)
+- [CapTech](http://www.captechconsulting.com/)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[Diversant](http://www.diversant.com)
+- [Diversant](http://www.diversant.com)
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Charlotte BI Group](http://www.charbigroup.com)
+- [Charlotte BI Group](http://www.charbigroup.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Signature Consultants](http://www.sigconsult.com/)
+- [Signature Consultants](http://www.sigconsult.com/)
  
-[Packt Publishing](http://www.PacktPub.com)
+- [Packt Publishing](http://www.PacktPub.com)
  
-[Mr. Excel](http://www.mrexcel.com/)
+- [Mr. Excel](http://www.mrexcel.com/)
  
-[Prologika](http://www.prologika.com/)
+- [Prologika](http://www.prologika.com/)
  
-[SQL Chick](http://www.sqlchick.com/)
+- [SQL Chick](http://www.sqlchick.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

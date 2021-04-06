@@ -12,7 +12,7 @@ prettydate: "3 October 2009"
 - 15255 NE 40th Street
 - Redmond, Washington
  
-<a href="/PDF/0026.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0026.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -409,17 +411,17 @@ Rob is a Data Architect working for Fiserv in Portland, Oregon. He has over twen
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SolutionsIQ](http://www.SolutionsIQ.com)
+- [SolutionsIQ](http://www.SolutionsIQ.com)
  
-[SQLSoft+](http://www.sqlsoft.com)
+- [SQLSoft+](http://www.sqlsoft.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Pearson-InformIT](http://www.informit.com)
+- [Pearson-InformIT](http://www.informit.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

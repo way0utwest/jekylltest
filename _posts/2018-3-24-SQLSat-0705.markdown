@@ -12,7 +12,7 @@ prettydate: "24 March 2018"
 - 11104 W. Broad Street
 - Glen Allen, Virginia
  
-<a href="/PDF/0705.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0705.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -877,25 +879,25 @@ Please see LinkedIn profile for more details.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Enterprise Data  Analytics](http://entdna.com)
+- [Enterprise Data  Analytics](http://entdna.com)
  
-[Solvaria](http://www.solvaria.com)
+- [Solvaria](http://www.solvaria.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Verscend Technologies](https://www.verscend.com/)
+- [Verscend Technologies](https://www.verscend.com/)
  
-[Vaco Richmond](http://www.vaco.com/richmond.html)
+- [Vaco Richmond](http://www.vaco.com/richmond.html)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
+- [SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

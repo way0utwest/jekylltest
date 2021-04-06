@@ -12,7 +12,7 @@ prettydate: "22 September 2012"
 - 10150 E. Belleview Avenue
 - Englewood, Colorado
  
-<a href="/PDF/0169.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0169.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -805,37 +807,37 @@ Over the past 7 years, Brandon has explored SQL Server as a developer, admin, an
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Xtivia](http://www.xtivia.com/)
+- [Xtivia](http://www.xtivia.com/)
  
-[DawaBI](http://www.DawaBI.com)
+- [DawaBI](http://www.DawaBI.com)
  
-[Qortex](http://www.qortex.com)
+- [Qortex](http://www.qortex.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Cruise](http://sqlcruise.com/2013-cruises/)
+- [SQL Cruise](http://sqlcruise.com/2013-cruises/)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
-[Quanta Intelligence](http://www.quantaintelligence.com)
+- [Quanta Intelligence](http://www.quantaintelligence.com)
  
-[Datavail](http://www.datavail.com/)
+- [Datavail](http://www.datavail.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

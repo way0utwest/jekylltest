@@ -12,7 +12,7 @@ prettydate: "12 October 2019"
 - 2040 S Race St
 - Denver, Colorado
  
-<a href="/PDF/0908.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0908.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1116,25 +1118,25 @@ Kellyn has spoken at numerous technical conferences for Oracle, Big Data, DevOps
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[University of  Denver](http://www.du.edu/)
+- [University of  Denver](http://www.du.edu/)
  
-[Mile Hi Power BI User Group](http://milehipowerbi.com)
+- [Mile Hi Power BI User Group](http://milehipowerbi.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Redapt, Inc.](https://www.redapt.com/)
+- [Redapt, Inc.](https://www.redapt.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[RevGen Partners](http://www.revgenpartners.com/)
+- [RevGen Partners](http://www.revgenpartners.com/)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[AWS](https://aws.amazon.com/)
+- [AWS](https://aws.amazon.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

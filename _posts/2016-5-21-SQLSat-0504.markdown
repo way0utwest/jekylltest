@@ -12,7 +12,7 @@ prettydate: "21 May 2016"
 - Calle el Pedregal y Av. Finca al Espino, frente a la entrada de Escuela Militar, Antiguo Cuscatlán. Facultad de Economía: Tel. 2212-9400 Fax. 2289-5314
 - Antiguo Cuscatlan, La Libertad, El Salvador
  
-<a href="/PDF/0504.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0504.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -679,27 +681,27 @@ Marco Tulio Posee una maestria en Tecnologías de la informacion y varias certif
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Universidad Doctor José Matías Delgado](http://www.ujmd.edu.sv/)
+- [Universidad Doctor José Matías Delgado](http://www.ujmd.edu.sv/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[STB Group](http://www.sqlsaturday.com)
+- [STB Group](http://www.sqlsaturday.com)
  
-[Telefonica](http://www.telefonica.com.sv/)
+- [Telefonica](http://www.telefonica.com.sv/)
  
-[El Diario el Mundo](http://elmundo.sv/)
+- [El Diario el Mundo](http://elmundo.sv/)
  
-[MovieStar](http://www.movistar.com.sv/)
+- [MovieStar](http://www.movistar.com.sv/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Ninja Web Corp](http://www.ninjawebcorporation.com/)
+- [Ninja Web Corp](http://www.ninjawebcorporation.com/)
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
-[ricoh](http://www.ricoh.com.sv/)
+- [ricoh](http://www.ricoh.com.sv/)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "20 August 2016"
 -  #22-01 One Marina Boulevard
 - Singapore, Singapore, Singapore
  
-<a href="/PDF/0549.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0549.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -398,15 +400,15 @@ Joe cut his database teeth on Oracle serving hard time as a developer then DBA. 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Sarpedon Quality Lab](http://www.sarpedonqualitylab.com/)
+- [Sarpedon Quality Lab](http://www.sarpedonqualitylab.com/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

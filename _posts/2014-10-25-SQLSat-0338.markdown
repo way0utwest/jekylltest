@@ -12,7 +12,7 @@ prettydate: "25 October 2014"
 - Via Augusta, 390
 - Barcelona, Barcelona, Spain
  
-<a href="/PDF/0338.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0338.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -497,19 +499,19 @@ Data Platform MVP for almost 12 years, I love Data and Database in all their for
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[IQS School of Management](http://www.iqs.edu/en/)
+- [IQS School of Management](http://www.iqs.edu/en/)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Attunity](http://www.attunity.com)
+- [Attunity](http://www.attunity.com)
  
-[Solid Quality Mentors](http://www.solidq.com)
+- [Solid Quality Mentors](http://www.solidq.com)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

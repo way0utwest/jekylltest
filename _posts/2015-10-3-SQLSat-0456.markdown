@@ -12,7 +12,7 @@ prettydate: "3 October 2015"
 - AUT International House Auckland, Wakefield St, Auckland 
 - Auckland, Auckland, New Zealand
  
-<a href="/PDF/0456.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0456.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -179,13 +181,13 @@ He has been using SQL Server in various roles since 2000. In addition to anythin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[RADACAD](http://radacad.com/)
+- [RADACAD](http://radacad.com/)
  
-[Varigence Australia](http://www.varigence.com.au)
+- [Varigence Australia](http://www.varigence.com.au)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Mettle Consulting Ltd](http://www.mettle.net.nz)
+- [Mettle Consulting Ltd](http://www.mettle.net.nz)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

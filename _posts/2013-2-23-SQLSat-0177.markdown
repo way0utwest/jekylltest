@@ -12,7 +12,7 @@ prettydate: "23 February 2013"
 - 1065 La Avenida
 - Mountain View, California
  
-<a href="/PDF/0177.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0177.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -900,69 +902,69 @@ Aaron leads the PowerShell Virtual Group of PASS (SQLPS.io), is a board member o
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[QuickStart Intelligence](http://www.quickstart.com)
+- [QuickStart Intelligence](http://www.quickstart.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Dynamics Edge](http://www.dynamicsedge.com)
+- [Dynamics Edge](http://www.dynamicsedge.com)
  
-[Precise](http://www.precise.com)
+- [Precise](http://www.precise.com)
  
-[LearnIT](http://www.learnit.com)
+- [LearnIT](http://www.learnit.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Xtivia](http://www.xtivia.com/)
+- [Xtivia](http://www.xtivia.com/)
  
-[Data by Design](http://www.dataxdesign.com)
+- [Data by Design](http://www.dataxdesign.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[SQLskills.com](http://www.sqlskills.com/)
+- [SQLskills.com](http://www.sqlskills.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQL Power Tools, Inc.](http://www.sqlpower.com)
+- [SQL Power Tools, Inc.](http://www.sqlpower.com)
  
-[CampusMVP](http://www.campusmvp.net/)
+- [CampusMVP](http://www.campusmvp.net/)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Steve Stedman](http://DatabaseHealth.SteveStedman.com)
+- [Steve Stedman](http://DatabaseHealth.SteveStedman.com)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[NetApp](http://www.netapp.com)
+- [NetApp](http://www.netapp.com)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[DesignMind](http://www.designmind.com/)
+- [DesignMind](http://www.designmind.com/)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[EMC](https://community.emc.com/community/connect/everything_microsoft)
+- [EMC](https://community.emc.com/community/connect/everything_microsoft)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Astute Networks](http://www.astutenetworks.com)
+- [Astute Networks](http://www.astutenetworks.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

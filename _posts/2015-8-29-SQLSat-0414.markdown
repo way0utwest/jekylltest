@@ -12,7 +12,7 @@ prettydate: "29 August 2015"
 - Schweigaardsgate 14
 - Oslo, Oslo, Norway
  
-<a href="/PDF/0414.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0414.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -736,35 +738,35 @@ Bob works as a Database Architect at the Prodata SQL Centre of Excellence where 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Capgemini](https://www.no.capgemini.com/)
+- [Capgemini](https://www.no.capgemini.com/)
  
-[EVRY](http://www.evry.com/)
+- [EVRY](http://www.evry.com/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Webstep Innsikt](http://www.webstep.no/)
+- [Webstep Innsikt](http://www.webstep.no/)
  
-[Microsoft Norway](http://www.microsoft.no)
+- [Microsoft Norway](http://www.microsoft.no)
  
-[Glasspaper AS](http://www.glasspaper.no/)
+- [Glasspaper AS](http://www.glasspaper.no/)
  
-[NextBridge Consulting](http://nextbridge.no)
+- [NextBridge Consulting](http://nextbridge.no)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Computas AS](http://www.computas.com)
+- [Computas AS](http://www.computas.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[SQLCruise](http://www.sqlcruise.com)
+- [SQLCruise](http://www.sqlcruise.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

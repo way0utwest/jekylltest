@@ -12,7 +12,7 @@ prettydate: "6 April 2019"
 - 4435 North Chestnut Street
 - Colorado Springs, Colorado
  
-<a href="/PDF/0830.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0830.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -831,23 +833,23 @@ Michelle is a database administrator and has been working with SQL Server for ov
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Xtivia](http://www.xtivia.com/)
+- [Xtivia](http://www.xtivia.com/)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[GroverDB, inc](https://groverdb.com/)
+- [GroverDB, inc](https://groverdb.com/)
  
-[Sensible Data Integrations](http://sensibledataintegrations.com)
+- [Sensible Data Integrations](http://sensibledataintegrations.com)
  
-[Mile Hi Power BI User Group](http://milehipowerbi.com)
+- [Mile Hi Power BI User Group](http://milehipowerbi.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[Colorado Technical University](http://www.coloradotech.edu)
+- [Colorado Technical University](http://www.coloradotech.edu)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

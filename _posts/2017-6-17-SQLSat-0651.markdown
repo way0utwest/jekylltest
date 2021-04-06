@@ -12,7 +12,7 @@ prettydate: "17 June 2017"
 - 13735 Beamer Rd
 - Houston, Texas
  
-<a href="/PDF/0651.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0651.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -937,31 +939,31 @@ Robyn Fuentes is an experienced software developer working as a Senior Consultan
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Brent Ozar Unlimited](http://www.brentozar.com)
+- [Brent Ozar Unlimited](http://www.brentozar.com)
  
-[Improving](http://www.improving.com)
+- [Improving](http://www.improving.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[467 - Tegile Systems](http://www.tegile.com)
+- [467 - Tegile Systems](http://www.tegile.com)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Procure SQL](http://procuresql.com)
+- [Procure SQL](http://procuresql.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQLDocKit by Acceleratio](https://www.sqldockit.com/)
+- [SQLDocKit by Acceleratio](https://www.sqldockit.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

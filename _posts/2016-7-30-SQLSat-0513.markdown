@@ -12,7 +12,7 @@ prettydate: "30 July 2016"
 - 1400 Washington Ave
 - Albany, New York
  
-<a href="/PDF/0513.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0513.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -995,29 +997,29 @@ Az Arunachalam has been working with SQL server since v4.21/SQLNT.  He started h
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Panorama](http://www.panorama.com/)
+- [Panorama](http://www.panorama.com/)
  
-[Tintri](http://www.tintri.com)
+- [Tintri](http://www.tintri.com)
  
-[CommerceHub](https://www.commercehub.com)
+- [CommerceHub](https://www.commercehub.com)
  
-[Autotask](http://www.autotask.com/about-us/careers)
+- [Autotask](http://www.autotask.com/about-us/careers)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Tyler Technologies Transportation Solutions](http://www.tylertech.com)
+- [Tyler Technologies Transportation Solutions](http://www.tylertech.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Capital Tech Search](http://www.captechsearch.com/)
+- [Capital Tech Search](http://www.captechsearch.com/)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

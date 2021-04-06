@@ -12,7 +12,7 @@ prettydate: "27 September 2014"
 - 1 Cambridge Center
 - Cambridge, Massachusetts
  
-<a href="/PDF/0334.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0334.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -671,21 +673,21 @@ Jason Brimhall has more than 20 years of experience and has worked with SQL Serv
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
+- [Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Boston BI User Group](http://www.bostonbi.org/Home.aspx)
+- [Boston BI User Group](http://www.bostonbi.org/Home.aspx)
  
-[New England SQL User Group](http://www.meetup.com/NESQLUG/)
+- [New England SQL User Group](http://www.meetup.com/NESQLUG/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

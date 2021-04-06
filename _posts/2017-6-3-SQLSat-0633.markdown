@@ -12,7 +12,7 @@ prettydate: "3 June 2017"
 - Mérida No. 33 Roma Norte
 - Cuauhtemoc, The Federal District, Mexico
  
-<a href="/PDF/0633.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0633.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -910,17 +912,17 @@ IT consultant and a Microsoft  MVP with the expertise in Microsoft Azure, specia
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Universidad del Valle de Mexico Campus Roma](https://www.universidaduvm.mx/web/uvm/campus-roma)
+- [Universidad del Valle de Mexico Campus Roma](https://www.universidaduvm.mx/web/uvm/campus-roma)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Forums Inc/Quest](http://www.quest.com)
+- [Forums Inc/Quest](http://www.quest.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

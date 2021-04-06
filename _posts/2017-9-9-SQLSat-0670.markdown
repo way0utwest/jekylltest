@@ -12,7 +12,7 @@ prettydate: "9 September 2017"
 - Veljka Mlađenovića bb
 - Banja Luka, Republika Srpska, Bosnia and Herzegovina
  
-<a href="/PDF/0670.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0670.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -327,15 +329,15 @@ Dean is Senior DBA practicing SQL Server since version 7.0 and main areas of int
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Lanaco](http://www.tehnoloskicentar.ba/index-eng.php)
+- [Lanaco](http://www.tehnoloskicentar.ba/index-eng.php)
  
-[Addiko bank](https://www.addiko-rs.ba/)
+- [Addiko bank](https://www.addiko-rs.ba/)
  
-[Agencija za informaciono društvo Republike Srpske](https://www.aidrs.org/sr/)
+- [Agencija za informaciono društvo Republike Srpske](https://www.aidrs.org/sr/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "8 August 2020"
 - Level 2/350 Queen Street, Auckland CBD
 - Auckland, Auckland, New Zealand
  
-<a href="/PDF/0982.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0982.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1353,11 +1355,11 @@ Rob Farley runs LobsterPot Solutions in Australia, where he's a consultant in th
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[RADACAD](http://radacad.com/)
+- [RADACAD](http://radacad.com/)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

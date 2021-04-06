@@ -12,7 +12,7 @@ prettydate: "25 June 2016"
 - 1399, Avenida Ana G. Mendez
 - San Juan, San Juan, Puerto Rico
  
-<a href="/PDF/0537.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0537.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -551,15 +553,15 @@ Guillermo Caicedo es un profesional de bases de datos y tecnolog#237;a trabajand
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Nagnoi, LLC](http://www.nagnoi.com)
+- [Nagnoi, LLC](http://www.nagnoi.com)
  
-[Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Experis Puerto Rico](http://www.experis.com)
+- [Experis Puerto Rico](http://www.experis.com)
  
-[Comunidad Windows](http://www.facebook.com/ComunidadWindows)
+- [Comunidad Windows](http://www.facebook.com/ComunidadWindows)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

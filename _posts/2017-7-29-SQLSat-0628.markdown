@@ -12,7 +12,7 @@ prettydate: "29 July 2017"
 - Nicholson Drive Ext
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0628.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0628.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1413,37 +1415,37 @@ Management Instructor at The University of Louisiana at Lafayette, HR Profession
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[SQL Watchmen](http://www.sqlwatchmen.com)
+- [SQL Watchmen](http://www.sqlwatchmen.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[CGI](http://www.cgi.com)
+- [CGI](http://www.cgi.com)
  
-[GCR Inc.](http://gcrincorporated.com)
+- [GCR Inc.](http://gcrincorporated.com)
  
-[Turner Industries Group, LLC](http://www.turner-industries.com)
+- [Turner Industries Group, LLC](http://www.turner-industries.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[AtlasOne Technologies](http://www.atlas1.com/)
+- [AtlasOne Technologies](http://www.atlas1.com/)
  
-[Simien  Simien, LLC](http://www.simien.com)
+- [Simien  Simien, LLC](http://www.simien.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

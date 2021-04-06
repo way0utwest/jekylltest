@@ -12,7 +12,7 @@ prettydate: "23 March 2019"
 - 837-979 Washington St.
 - Cheney, Washington
  
-<a href="/PDF/0822.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0822.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -626,17 +628,17 @@ Konstantin was born and had been working in Ukraine for a long time, passionatel
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[IntelliTect](http://www.intellitect.com)
+- [IntelliTect](http://www.intellitect.com)
  
-[Eastern Washington University Computer Science Department](https://www.ewu.edu/cstem/departments/computer-science)
+- [Eastern Washington University Computer Science Department](https://www.ewu.edu/cstem/departments/computer-science)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[RevDeBug](https://revdebug.com)
+- [RevDeBug](https://revdebug.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

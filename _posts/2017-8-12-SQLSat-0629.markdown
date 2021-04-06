@@ -12,7 +12,7 @@ prettydate: "12 August 2017"
 - 300 N 17th St
 - Noblesville, Indiana
  
-<a href="/PDF/0629.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0629.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1455,35 +1457,35 @@ Pat Phelan first joined a computer user group (DECUS) in High School, and has jo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Salesforce](https://www.salesforce.com/)
+- [Salesforce](https://www.salesforce.com/)
  
-[Vexata](https://www.vexata.com/)
+- [Vexata](https://www.vexata.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Moser Consulting](http://moserit.com)
+- [Moser Consulting](http://moserit.com)
  
-[New Horizons CLC of Indianapolis](https://www.nhindy.com)
+- [New Horizons CLC of Indianapolis](https://www.nhindy.com)
  
-[Allegient](http://www.allegient.com)
+- [Allegient](http://www.allegient.com)
  
-[TEKsystems, Inc.](http://www.teksystems.com)
+- [TEKsystems, Inc.](http://www.teksystems.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[WGU Indiana](http://indiana.wgu.edu/)
+- [WGU Indiana](http://indiana.wgu.edu/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Tintri - Great Lakes](https://www.tintri.com/)
+- [Tintri - Great Lakes](https://www.tintri.com/)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

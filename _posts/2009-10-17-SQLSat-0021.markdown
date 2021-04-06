@@ -12,7 +12,7 @@ prettydate: "17 October 2009"
 - 100 Weldon Boulevard
 - Orlando, Florida
  
-<a href="/PDF/0021.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0021.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1280,27 +1282,27 @@ Eric Wisdahl does not like writing about himself in the third person.  It is kin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQLShare](http://www.sqlshare.com)
+- [SQLShare](http://www.sqlshare.com)
  
-[Seminole State College](http://www.seminolestate.edu/)
+- [Seminole State College](http://www.seminolestate.edu/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[DevFish](http://www.devfish.net/)
+- [DevFish](http://www.devfish.net/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[O'Reilly Media, Inc](http://www.oreilly.com)
+- [O'Reilly Media, Inc](http://www.oreilly.com)
  
-[Apress, Inc.](http://www.apress.com)
+- [Apress, Inc.](http://www.apress.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

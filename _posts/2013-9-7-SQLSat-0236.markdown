@@ -12,7 +12,7 @@ prettydate: "7 September 2013"
 - 3545 Lindell Blvd 
 - Saint Louis, Missouri
  
-<a href="/PDF/0236.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0236.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -488,31 +490,31 @@ I#39;m a SQL Server DBA and Business Intelligence Consultant with over 10 years 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Covenant Technology Partners](http://www.covenanttechnologypartners.com/)
+- [Covenant Technology Partners](http://www.covenanttechnologypartners.com/)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Hush Hush](http://www.mask-me.net)
+- [Hush Hush](http://www.mask-me.net)
  
-[Modis](http://www.modis.com/)
+- [Modis](http://www.modis.com/)
  
-[Saint Louis University's Center for Workforce](http://www.slu.edu/center-for-workforce-and-organizational-development)
+- [Saint Louis University's Center for Workforce](http://www.slu.edu/center-for-workforce-and-organizational-development)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Oakwood Systems](http://www.oakwoodsys.com/Pages/default.aspx)
+- [Oakwood Systems](http://www.oakwoodsys.com/Pages/default.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

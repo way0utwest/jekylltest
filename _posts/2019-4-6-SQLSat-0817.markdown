@@ -12,7 +12,7 @@ prettydate: "6 April 2019"
 - Rua Paulo Malschitzki, 10
 - Joinville, Santa Catarina, Brazil
  
-<a href="/PDF/0817.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0817.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -478,23 +480,23 @@ Consultor e Administrador de bancos de dados especialista em SQL Server, graduad
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[BECOMEX](http://www.becomex.com.br)
+- [BECOMEX](http://www.becomex.com.br)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[RDornel Data Platform eXperts - RDDPX](http://www.rdornel.com)
+- [RDornel Data Platform eXperts - RDDPX](http://www.rdornel.com)
  
-[Domo Soluções](http://www.domosolucoes.com.br)
+- [Domo Soluções](http://www.domosolucoes.com.br)
  
-[RevDeBug](https://revdebug.com)
+- [RevDeBug](https://revdebug.com)
  
-[Univille](http://www.univille.edu.br/)
+- [Univille](http://www.univille.edu.br/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

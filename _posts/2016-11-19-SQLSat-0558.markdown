@@ -12,7 +12,7 @@ prettydate: "19 November 2016"
 - Santo Tomas, Heredia
 - Santo Domingo, Heredia, Costa Rica
  
-<a href="/PDF/0558.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0558.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -691,33 +693,33 @@ Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pythian](http://www.pythian.com)
+- [Pythian](http://www.pythian.com)
  
-[Banco Promerica](https://www.promerica.fi.cr/site/index.aspx)
+- [Banco Promerica](https://www.promerica.fi.cr/site/index.aspx)
  
-[SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
+- [SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
  
-[McKinsey  Company](http://www.mckinsey.com)
+- [McKinsey  Company](http://www.mckinsey.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[SQL Smash](http://www.sqlsmash.com/)
+- [SQL Smash](http://www.sqlsmash.com/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

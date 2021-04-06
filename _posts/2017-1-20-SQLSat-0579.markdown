@@ -12,7 +12,7 @@ prettydate: "20 January 2017"
 - Mautner-Markhof-Gasse 50
 - Vienna, Vienna, Austria
  
-<a href="/PDF/0579.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0579.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -846,31 +848,31 @@ Emma Page ist bei Pyramid Analytics zusammen mit ihrem Team für die Marktentwic
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[ETC - Enterprise Training Center](https://www.etc.at)
+- [ETC - Enterprise Training Center](https://www.etc.at)
  
-[Acceleratio Ltd.](https://www.sqldockit.com/)
+- [Acceleratio Ltd.](https://www.sqldockit.com/)
  
-[DB Pro Oy](https://www.sqlgovernor.com)
+- [DB Pro Oy](https://www.sqlgovernor.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Trivadis AG](http://www.trivadis.com/de)
+- [Trivadis AG](http://www.trivadis.com/de)
  
-[SolidQ CEE](http://www.solidq.com)
+- [SolidQ CEE](http://www.solidq.com)
  
-[Solisyon GmbH](http://www.solisyon.de/)
+- [Solisyon GmbH](http://www.solisyon.de/)
  
-[cubido business solutions gmbh](http://www.cubido.at)
+- [cubido business solutions gmbh](http://www.cubido.at)
  
-[pmOne Analytics](https://www.pmone.com/unternehmen/pmone-analytics-gmbh/)
+- [pmOne Analytics](https://www.pmone.com/unternehmen/pmone-analytics-gmbh/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

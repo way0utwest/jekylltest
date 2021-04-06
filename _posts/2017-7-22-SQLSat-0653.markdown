@@ -12,7 +12,7 @@ prettydate: "22 July 2017"
 -  100 W Home St
 - Columbus, Ohio
  
-<a href="/PDF/0653.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0653.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -788,35 +790,35 @@ Starting his career as an SSIS and SSRS developer, Bert fell in love with SQL Se
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Civica CMI](http://www.civicacmi.com)
+- [Civica CMI](http://www.civicacmi.com)
  
-[IGS](http://www.igscompanies.com)
+- [IGS](http://www.igscompanies.com)
  
-[Vexata](https://www.vexata.com/)
+- [Vexata](https://www.vexata.com/)
  
-[Tintri - Great Lakes](https://www.tintri.com/)
+- [Tintri - Great Lakes](https://www.tintri.com/)
  
-[All Lines Technology](http://www.all-lines-tech.com)
+- [All Lines Technology](http://www.all-lines-tech.com)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[CoverMyMeds](https://www.covermymeds.com/main/)
+- [CoverMyMeds](https://www.covermymeds.com/main/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[Moser Consulting](http://moserit.com)
+- [Moser Consulting](http://moserit.com)
  
-[Farm Credit Mid-America](http://www.e-farmcredit.com)
+- [Farm Credit Mid-America](http://www.e-farmcredit.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Haas Painting Company](https://haaspaintingcompany.com/)
+- [Haas Painting Company](https://haaspaintingcompany.com/)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

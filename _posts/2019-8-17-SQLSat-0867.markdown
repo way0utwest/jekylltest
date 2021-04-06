@@ -12,7 +12,7 @@ prettydate: "17 August 2019"
 - 501 South Quad Drive
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0867.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0867.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1767,43 +1769,43 @@ Kellyn has spoken at numerous technical conferences for Oracle, Big Data, DevOps
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Alliance Safety Council](http://www.alliancesafetycouncil.org)
+- [Alliance Safety Council](http://www.alliancesafetycouncil.org)
  
-[CGI](http://www.cgi.com)
+- [CGI](http://www.cgi.com)
  
-[Blue Cross Blue Shield of Louisiana](http://www.bcbsla.com)
+- [Blue Cross Blue Shield of Louisiana](http://www.bcbsla.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[ExaGrid](http://www.exagrid.com)
+- [ExaGrid](http://www.exagrid.com)
  
-[Netchex](https://netchex.com/)
+- [Netchex](https://netchex.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Antares Technology Solutions](http://www.antaresnet.com)
+- [Antares Technology Solutions](http://www.antaresnet.com)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[EATEL Business](https://www.eatelbusiness.com/)
+- [EATEL Business](https://www.eatelbusiness.com/)
  
-[TekChix Staffing and Consulting, LLC](http://thetekchix.com/)
+- [TekChix Staffing and Consulting, LLC](http://thetekchix.com/)
  
-[Headspring](https://headspring.com/)
+- [Headspring](https://headspring.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[Tiger Toastmasters](https://tigertoastmasters.toastmastersclubs.org/)
+- [Tiger Toastmasters](https://tigertoastmasters.toastmastersclubs.org/)
  
-[Louisiana Technology Park (SQLSaturday)](http://www.nexus-la.org/)
+- [Louisiana Technology Park (SQLSaturday)](http://www.nexus-la.org/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "29 October 2010"
 - 
 - Minnesota, Minnesota
  
-<a href="/PDF/0058.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0058.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -682,53 +684,53 @@ Eddie Wuerch has 20 years of experience as a SQL Server specialist in a much-lon
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Virteva](http://www.virteva.com)
+- [Virteva](http://www.virteva.com)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[SwiftKnowledge](http://www.swiftknowledge.com)
+- [SwiftKnowledge](http://www.swiftknowledge.com)
  
-[RBA](http://www.rbaconsulting.com)
+- [RBA](http://www.rbaconsulting.com)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Magenic](http://www.magenic.com)
+- [Magenic](http://www.magenic.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Solution Design Group](http://www.solutiondesign.com)
+- [Solution Design Group](http://www.solutiondesign.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Digineer](http://www.digineer.com/)
+- [Digineer](http://www.digineer.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Intertech](http://www.intertech.com/)
+- [Intertech](http://www.intertech.com/)
  
-[Emergent Networks](http://www.emergentnetworks.com)
+- [Emergent Networks](http://www.emergentnetworks.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[User Group Support Services](http://www.technicalcommunity.com)
+- [User Group Support Services](http://www.technicalcommunity.com)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

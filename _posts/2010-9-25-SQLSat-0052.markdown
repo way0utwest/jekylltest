@@ -12,7 +12,7 @@ prettydate: "25 September 2010"
 - 10150 E. Belleview Avenue
 - Englewood, Colorado
  
-<a href="/PDF/0052.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0052.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -850,27 +852,27 @@ Over the past five years, Brandon has explored SQL Server as a developer, admini
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Wrox Pres - Wiley Publishing](http://www.wrox.com/go/ugmember)
+- [Wrox Pres - Wiley Publishing](http://www.wrox.com/go/ugmember)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[DawaBI](http://www.DawaBI.com)
+- [DawaBI](http://www.DawaBI.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[InSphere Insurance Solutions](http://www.insphereis.com/tlenz)
+- [InSphere Insurance Solutions](http://www.insphereis.com/tlenz)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

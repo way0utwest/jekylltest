@@ -12,7 +12,7 @@ prettydate: "22 June 2019"
 - 4501 Amnicola Highway
 - Chattanooga, Tennessee
  
-<a href="/PDF/0881.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0881.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -614,29 +616,29 @@ Louis Davidson has worked in the IT industry for over 25 years as a corporate da
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tennessee Valley Authority](http://www.tva.gov)
+- [Tennessee Valley Authority](http://www.tva.gov)
  
-[SQL Saturday Atlanta](http://www.atlantamdf.com/)
+- [SQL Saturday Atlanta](http://www.atlantamdf.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[SQLGrease](https://www.sqlgrease.com)
+- [SQLGrease](https://www.sqlgrease.com)
  
-[TEKsystems, Inc.](http://www.teksystems.com)
+- [TEKsystems, Inc.](http://www.teksystems.com)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[Scenic City Summit](http://www.sceniccitysummit.com)
+- [Scenic City Summit](http://www.sceniccitysummit.com)
  
-[SQL Saturday Indianapolis](https://www.sqlsaturday.com/886/EventHome.aspx)
+- [SQL Saturday Indianapolis](https://www.sqlsaturday.com/886/EventHome.aspx)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

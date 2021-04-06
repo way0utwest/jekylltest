@@ -12,7 +12,7 @@ prettydate: "30 May 2009"
 - 4600 Valleydale Road
 - Birmingham, Alabama
  
-<a href="/PDF/0007.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0007.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -337,37 +339,37 @@ Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Dasher Technologies](http://www.dashertechnologies.com/)
+- [Dasher Technologies](http://www.dashertechnologies.com/)
  
-[Teksouth Corporation](http://www.teksouth.com)
+- [Teksouth Corporation](http://www.teksouth.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Web Basics](http://www.webbasics.net)
+- [Web Basics](http://www.webbasics.net)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Publishing Imprints of Pearson Education](http://www.informit.com/shortcuts)
+- [Publishing Imprints of Pearson Education](http://www.informit.com/shortcuts)
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[JumpstartTV.com](http://www.jumpstarttv.com)
+- [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[Matrix Resources](http://www.matrixresources.com/)
+- [Matrix Resources](http://www.matrixresources.com/)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Steel City SQL](http://steelcitysql.sqlpass.org)
+- [Steel City SQL](http://steelcitysql.sqlpass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

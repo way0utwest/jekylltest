@@ -12,7 +12,7 @@ prettydate: "9 April 2016"
 - 702 Langdon Street
 - Madison, Wisconsin
  
-<a href="/PDF/0499.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0499.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1098,41 +1100,41 @@ Elizabeth Block is passionate about using database technologies to solve busines
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Omni Resources, Inc.](http://www.omniresources.com)
+- [Omni Resources, Inc.](http://www.omniresources.com)
  
-[Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
+- [Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tintri - Great Lakes](https://www.tintri.com/)
+- [Tintri - Great Lakes](https://www.tintri.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Hortonworks](http://hortonworks.com/)
+- [Hortonworks](http://hortonworks.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Talavant](http://www.talavant.com)
+- [Talavant](http://www.talavant.com)
  
-[Concurrency, Inc.](http://www.concurrency.com)
+- [Concurrency, Inc.](http://www.concurrency.com)
  
-[Smart Solutions](http://www.smart-solutions.com/)
+- [Smart Solutions](http://www.smart-solutions.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Skyline Technologies](http://www.skylinetechnologies.com)
+- [Skyline Technologies](http://www.skylinetechnologies.com)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[American Transmission Company](http://www.atcllc.com/)
+- [American Transmission Company](http://www.atcllc.com/)
  
-[Madison Gas  Electric Company](https://www.mge.com/careers/)
+- [Madison Gas  Electric Company](https://www.mge.com/careers/)
  
-[Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
+- [Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

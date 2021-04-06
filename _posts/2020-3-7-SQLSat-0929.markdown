@@ -12,7 +12,7 @@ prettydate: "7 March 2020"
 - 2228 Patrick Taylor Hall
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0929.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0929.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -772,31 +774,31 @@ In the second half of 2018, I discovered Tableau Desktop, attended my first Tab
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[Alliance Safety Council](http://www.alliancesafetycouncil.org)
+- [Alliance Safety Council](http://www.alliancesafetycouncil.org)
  
-[Icimo](http://www.icimo.com)
+- [Icimo](http://www.icimo.com)
  
-[LSU College of Engineering - Patrick Taylor Hall](https://www.lsu.edu/eng/about/pft-hall-overview.php)
+- [LSU College of Engineering - Patrick Taylor Hall](https://www.lsu.edu/eng/about/pft-hall-overview.php)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[eQHealth Solutions](https://www.eqhs.com)
+- [eQHealth Solutions](https://www.eqhs.com)
  
-[Postlethwaite  Netterville](http://www.pncpa.com)
+- [Postlethwaite  Netterville](http://www.pncpa.com)
  
-[Marquee Insights](https://marqueeinsights.com)
+- [Marquee Insights](https://marqueeinsights.com)
  
-[ZAP](https://www.zapbi.com/)
+- [ZAP](https://www.zapbi.com/)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[L'Auberge Casino Hotel Baton Rouge](https://www.lbatonrouge.com/)
+- [L'Auberge Casino Hotel Baton Rouge](https://www.lbatonrouge.com/)
  
-[Fox Pest Control](https://foxpest-batonrouge.com/)
+- [Fox Pest Control](https://foxpest-batonrouge.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

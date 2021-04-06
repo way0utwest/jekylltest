@@ -76,6 +76,17 @@ layout: base
         </li>
         {% endif %}
       </ul>
+
+      {% if include.type == "post" %}
+      <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+      {% if page.last-updated %}
+        <span class="post-meta">
+          <span class="d-none d-md-inline middot">&middot;</span>
+          Last updated {{ page.last-updated | date: date_format }}
+        </span>
+      {% endif %}
+
+
       {% include comments.html %}
     </div>
   </div>

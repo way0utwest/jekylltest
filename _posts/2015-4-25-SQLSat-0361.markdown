@@ -12,7 +12,7 @@ prettydate: "25 April 2015"
 - Rua Paulo Malschitzki, 10
 - Joinville, Santa Catarina, Brazil
  
-<a href="/PDF/0361.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0361.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -415,25 +417,25 @@ Premier Field Engineer - SQL Business Intelligence - Microsoft.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[NGR Solutions](http://www.ngrsolutions.com.br)
+- [NGR Solutions](http://www.ngrsolutions.com.br)
  
-[RDornel Data Platform eXperts - RDDPX](http://www.rdornel.com)
+- [RDornel Data Platform eXperts - RDDPX](http://www.rdornel.com)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[Domo Soluções](http://www.domosolucoes.com.br)
+- [Domo Soluções](http://www.domosolucoes.com.br)
  
-[MCDBABRASIL](http://www.mcdbabrasil.com.br)
+- [MCDBABRASIL](http://www.mcdbabrasil.com.br)
  
-[Univille](http://www.univille.edu.br/)
+- [Univille](http://www.univille.edu.br/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Learning 365](http://www.learning365.com.br/)
+- [Learning 365](http://www.learning365.com.br/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

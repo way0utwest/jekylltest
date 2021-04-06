@@ -12,7 +12,7 @@ prettydate: "27 July 2019"
 - 840 Montague Dr.
 - Birmingham, Alabama
  
-<a href="/PDF/0899.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0899.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -465,29 +467,29 @@ Kevin Boles is a SQL Server expert, working exclusively with the product since v
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[ITAC Solutions](https://itacsolutions.com/locations/birmingham)
+- [ITAC Solutions](https://itacsolutions.com/locations/birmingham)
  
-[Accelebrate](https://www.accelebrate.com)
+- [Accelebrate](https://www.accelebrate.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[Steel City SQL](http://steelcitysql.sqlpass.org)
+- [Steel City SQL](http://steelcitysql.sqlpass.org)
  
-[AtlantaMDF](http://atlantamdf.com)
+- [AtlantaMDF](http://atlantamdf.com)
  
-[Samford University](https://www.samford.edu)
+- [Samford University](https://www.samford.edu)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "7 July 2018"
 - 253, rue du Faubourg Saint-Martin
 - Paris, Île-de-France, France
  
-<a href="/PDF/0762.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0762.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -583,21 +585,21 @@ Michael graduated from the State Academy for Data Processing in Boeblingen, Germ
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[webtelligence IT consulting GmbH](http://www.webtelligence-itc.net)
+- [webtelligence IT consulting GmbH](http://www.webtelligence-itc.net)
  
-[Conseil IT](http://www.conseil-it.fr/)
+- [Conseil IT](http://www.conseil-it.fr/)
  
-[Concat Skills](http://www.concatskills.com)
+- [Concat Skills](http://www.concatskills.com)
  
-[Criteo](http://labs.criteo.com/blog/)
+- [Criteo](http://labs.criteo.com/blog/)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Data by Design](http://www.dataxdesign.com)
+- [Data by Design](http://www.dataxdesign.com)
  
-[DataCrossroad](http://www.datacrossroad.be/)
+- [DataCrossroad](http://www.datacrossroad.be/)
  
-[Azeo](http://www.azeo.com/)
+- [Azeo](http://www.azeo.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

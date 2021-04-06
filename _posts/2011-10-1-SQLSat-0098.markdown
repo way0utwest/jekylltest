@@ -12,7 +12,7 @@ prettydate: "1 October 2011"
 - 201 S Clinton St
 - Iowa City, Iowa
  
-<a href="/PDF/0098.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0098.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -450,27 +452,27 @@ Jason Strate is a SQL Server Solutions Architect with Pragmatic Works. He is als
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Modis](http://www.modis.com/)
+- [Modis](http://www.modis.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Integrated DNA Technologies, Inc.](http://www.idtdna.com)
+- [Integrated DNA Technologies, Inc.](http://www.idtdna.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Emergent Networks](http://www.emergentnetworks.com)
+- [Emergent Networks](http://www.emergentnetworks.com)
  
-[Involta](http://www.Involta.com)
+- [Involta](http://www.Involta.com)
  
-[Aureus Group](http://www.aureusgroup.com)
+- [Aureus Group](http://www.aureusgroup.com)
  
-[GoDaddy.com](http://www.godaddy.com/)
+- [GoDaddy.com](http://www.godaddy.com/)
  
-[Mercy Medical Center](https://careers.mercycare.org/applicantnavigator)
+- [Mercy Medical Center](https://careers.mercycare.org/applicantnavigator)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

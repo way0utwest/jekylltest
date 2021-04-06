@@ -12,7 +12,7 @@ prettydate: "3 September 2011"
 - 31 Brickfield Road
 - Western Cape, , South Africa
  
-<a href="/PDF/0088.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0088.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -326,25 +328,25 @@ Siqhamo is a Senior Business Intelligence Consultant at ITB
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Saratoga Software](http://www.saratoga.co.za)
+- [Saratoga Software](http://www.saratoga.co.za)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Kalahari.com](http://www.kalahari.com)
+- [Kalahari.com](http://www.kalahari.com)
  
-[Pragmaticworks](http://pragmaticworks.com)
+- [Pragmaticworks](http://pragmaticworks.com)
  
-[Osmosis Consulting](http://www.osmosisconsulting.co.za/)
+- [Osmosis Consulting](http://www.osmosisconsulting.co.za/)
  
-[iSolve](http://www.isolve.co.za)
+- [iSolve](http://www.isolve.co.za)
  
-[IT Business](http://www.itbusiness.co.za)
+- [IT Business](http://www.itbusiness.co.za)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Morgan Kaufmann Publishers](http://mkp.com/)
+- [Morgan Kaufmann Publishers](http://mkp.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

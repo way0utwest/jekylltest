@@ -12,7 +12,7 @@ prettydate: "13 September 2014"
 - 33 Avenue du Maine
 - Paris, , France
  
-<a href="/PDF/0323.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0323.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -580,29 +582,29 @@ Au contact journalier de gens du métier, c’est par rapport aux besoins exprim
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DCube](http://www.dcube.fr/)
+- [DCube](http://www.dcube.fr/)
  
-[myAMS](http://www.myams.fr/)
+- [myAMS](http://www.myams.fr/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Umanis](http://www.umanis.com/)
+- [Umanis](http://www.umanis.com/)
  
-[Azeo](http://www.azeo.com/)
+- [Azeo](http://www.azeo.com/)
  
-[Masao](http://www.masao.eu/)
+- [Masao](http://www.masao.eu/)
  
-[Evolusys](http://www.evolusys.ch/fr/)
+- [Evolusys](http://www.evolusys.ch/fr/)
  
-[Neos-SDI](http://www.neos-sdi.com/fr/)
+- [Neos-SDI](http://www.neos-sdi.com/fr/)
  
-[Cellenza](http://cellenza.com/)
+- [Cellenza](http://cellenza.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

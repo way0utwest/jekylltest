@@ -12,7 +12,7 @@ prettydate: "12 May 2012"
 - 4600 Valleydale Road
 - Birmingham, Alabama
  
-<a href="/PDF/0112.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0112.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -602,39 +604,39 @@ My name is Bob Cheatham, I am a SQL Server Technology Specialist with Microsoft 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[Teksouth Corporation](http://www.teksouth.com)
+- [Teksouth Corporation](http://www.teksouth.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Daxko](https://daxko.com)
+- [Daxko](https://daxko.com)
  
-[Alabama Computer Solutions, LLC](http://www.AlabamaComputerSolutions.com)
+- [Alabama Computer Solutions, LLC](http://www.AlabamaComputerSolutions.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[New Horizon Computer Learning Center](http://www.nhalabama.com/LocalWeb/default.aspx?groupid=330)
+- [New Horizon Computer Learning Center](http://www.nhalabama.com/LocalWeb/default.aspx?groupid=330)
  
-[Plural Site](http://www.pluralsight-training.net/microsoft/)
+- [Plural Site](http://www.pluralsight-training.net/microsoft/)
  
-[Steel City SQL](http://steelcitysql.sqlpass.org)
+- [Steel City SQL](http://steelcitysql.sqlpass.org)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[MarkTab Consulting](http://www.marktab.net)
+- [MarkTab Consulting](http://www.marktab.net)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

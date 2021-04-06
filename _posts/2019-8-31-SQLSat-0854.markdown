@@ -12,7 +12,7 @@ prettydate: "31 August 2019"
 - Christian Krohgs gate 32
 - Oslo, Oslo, Norway
  
-<a href="/PDF/0854.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0854.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1041,39 +1043,39 @@ Markus Ehrenmueller-Jensen, as the founder of Savory Data, has a long history of
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Kristiania University College](https://kristiania.no)
+- [Kristiania University College](https://kristiania.no)
  
-[Microsoft Norway](http://www.microsoft.no)
+- [Microsoft Norway](http://www.microsoft.no)
  
-[Capgemini](https://www.no.capgemini.com/)
+- [Capgemini](https://www.no.capgemini.com/)
  
-[EVRY](http://www.evry.com/)
+- [EVRY](http://www.evry.com/)
  
-[dbWatch](http://dbwatch.com/)
+- [dbWatch](http://dbwatch.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[BI builders](http://www.bi-builders.com)
+- [BI builders](http://www.bi-builders.com)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Norsk Rikstoto](https://www.rikstoto.no)
+- [Norsk Rikstoto](https://www.rikstoto.no)
  
-[Inmeta](https://inmeta.no)
+- [Inmeta](https://inmeta.no)
  
-[CLOUDBERRIES AS](http://cloudberries.no/)
+- [CLOUDBERRIES AS](http://cloudberries.no/)
  
-[Avanade Norway AS](https://www.avanade.com/se-no?country=norway)
+- [Avanade Norway AS](https://www.avanade.com/se-no?country=norway)
  
-[Basefarm](http://basefarm.no/)
+- [Basefarm](http://basefarm.no/)
  
-[Webstep Innsikt](http://www.webstep.no/)
+- [Webstep Innsikt](http://www.webstep.no/)
  
-[Manning Publications](https://www.manning.com)
+- [Manning Publications](https://www.manning.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

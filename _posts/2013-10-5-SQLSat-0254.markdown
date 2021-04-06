@@ -12,7 +12,7 @@ prettydate: "5 October 2013"
 - Calle Arce # 1020, San Salvador
 - San Salvador, , El Salvador
  
-<a href="/PDF/0254.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0254.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -370,15 +372,15 @@ Carlos Chacon is the managing partner of SQL Data Partners LLC and co-host of th
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Universidad Tecnológica de El Salvador](http://www.utec.edu.sv/)
+- [Universidad Tecnológica de El Salvador](http://www.utec.edu.sv/)
  
-[Sensus](https://www.facebook.com/BusinessIntelligenceLatam)
+- [Sensus](https://www.facebook.com/BusinessIntelligenceLatam)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
+- [SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

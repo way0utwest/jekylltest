@@ -12,7 +12,7 @@ prettydate: "14 August 2010"
 - 1109 Patrick F. Taylor Hall
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0028.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0028.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1119,43 +1121,43 @@ Sean McCown is a Certified Master with 23 years of experience in databases. He i
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[JumpstartTV.com](http://www.jumpstarttv.com)
+- [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[Antares Technology Solutions](http://www.antaresnet.com)
+- [Antares Technology Solutions](http://www.antaresnet.com)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Novedea systems inc](http://www.novedea.com)
+- [Novedea systems inc](http://www.novedea.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[Nitrosphere](http://www.nitrosphere.net)
+- [Nitrosphere](http://www.nitrosphere.net)
  
-[Enta Ticketing Solutions](http://www.entausa.com)
+- [Enta Ticketing Solutions](http://www.entausa.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[SwiftKnowledge](http://www.swiftknowledge.com)
+- [SwiftKnowledge](http://www.swiftknowledge.com)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[New Horizons Computer Learning Center](http://www.nhls.com)
+- [New Horizons Computer Learning Center](http://www.nhls.com)
  
-[Louisiana Technology Council](http://www.latechcouncil.com)
+- [Louisiana Technology Council](http://www.latechcouncil.com)
  
-[Information Builders](http://www.informationbuilders.com)
+- [Information Builders](http://www.informationbuilders.com)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "26 November 2016"
 - ул. Троицкая, 21 Г
 - Dnipro, Dnipropetrovs'ka Oblast', Ukraine
  
-<a href="/PDF/0577.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0577.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -458,39 +460,39 @@ Dmitri specializes in the design, development, and performance tuning of complex
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Dobovo.com](http://dobovo.com)
+- [Dobovo.com](http://dobovo.com)
  
-[DAXX](http://www.daxx.com/)
+- [DAXX](http://www.daxx.com/)
  
-[DataArt](http://dataart.ua/)
+- [DataArt](http://dataart.ua/)
  
-[itvdn](http://itvdn.com/ru)
+- [itvdn](http://itvdn.com/ru)
  
-[RubyGarage](https://rubygarage.org)
+- [RubyGarage](https://rubygarage.org)
  
-[КА "Шаг"](http://itstep.dp.ua/)
+- [КА "Шаг"](http://itstep.dp.ua/)
  
-[Cbsystematics](http://www.edu.cbsystematics.com/)
+- [Cbsystematics](http://www.edu.cbsystematics.com/)
  
-[Web-peppers](http://web-peppers.com/)
+- [Web-peppers](http://web-peppers.com/)
  
-[QA Community Dnepropetrovsk](http://qacommunity.com.ua/)
+- [QA Community Dnepropetrovsk](http://qacommunity.com.ua/)
  
-[ITEM](http://item.com.ua/)
+- [ITEM](http://item.com.ua/)
  
-[GeeksLab](https://www.facebook.com/GeeksLab.co/posts/670257219803754)
+- [GeeksLab](https://www.facebook.com/GeeksLab.co/posts/670257219803754)
  
-[I coworking hub](http://icoworking.net)
+- [I coworking hub](http://icoworking.net)
  
-[Dnepr SQL User Group](http://dneprsqlusergroup.blogspot.com/)
+- [Dnepr SQL User Group](http://dneprsqlusergroup.blogspot.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

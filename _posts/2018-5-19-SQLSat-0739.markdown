@@ -12,7 +12,7 @@ prettydate: "19 May 2018"
 - 12 Hospitalna street
 - , , Ukraine
  
-<a href="/PDF/0739.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0739.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -659,31 +661,31 @@ Senior Database Platform Engineer, leader of Krakow chapter of Data Community Kr
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Intapp](http://www.intapp.com/)
+- [Intapp](http://www.intapp.com/)
  
-[Simplement PR LLC](https://www.simplement.us)
+- [Simplement PR LLC](https://www.simplement.us)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[AltaReturn](http://altareturn.com/)
+- [AltaReturn](http://altareturn.com/)
  
-[DataArt](http://dataart.ua/)
+- [DataArt](http://dataart.ua/)
  
-[Infopulse Ukraine](https://www.infopulse.com/)
+- [Infopulse Ukraine](https://www.infopulse.com/)
  
-[ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
+- [ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
  
-[ZONE3000](https://zone3000.net/)
+- [ZONE3000](https://zone3000.net/)
  
-[Ciklum](http://www.ciklum.com/)
+- [Ciklum](http://www.ciklum.com/)
  
-[GoEuro](https://www.goeuro.com/)
+- [GoEuro](https://www.goeuro.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

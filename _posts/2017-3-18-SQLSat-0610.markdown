@@ -12,7 +12,7 @@ prettydate: "18 March 2017"
 - 1651 E Parham Rd
 - Richmond, Virginia
  
-<a href="/PDF/0610.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0610.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -661,15 +663,15 @@ Az Arunachalam has been working with SQL server since v4.21/SQLNT.  He started h
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Solvaria](http://www.solvaria.com)
+- [Solvaria](http://www.solvaria.com)
  
-[CapTech Consulting](http://captechconsulting.com/)
+- [CapTech Consulting](http://captechconsulting.com/)
  
-[Vaco Richmond](http://www.vaco.com/richmond.html)
+- [Vaco Richmond](http://www.vaco.com/richmond.html)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

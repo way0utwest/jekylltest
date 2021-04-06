@@ -12,7 +12,7 @@ prettydate: "14 September 2013"
 - 24 rue Pasteur
 - Le Kremlin-Bicetre, , France
  
-<a href="/PDF/0251.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0251.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -265,11 +267,11 @@ Des DBA viendront vous parler de leur métier et de leur quotidien
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[D-Cube](http://d-cube.fr/Pages/default.aspx)
+- [D-Cube](http://d-cube.fr/Pages/default.aspx)
  
-[Azeo](http://www.azeo.com/)
+- [Azeo](http://www.azeo.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

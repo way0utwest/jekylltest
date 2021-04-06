@@ -12,7 +12,7 @@ prettydate: "16 May 2015"
 - Rua do Fogo de Santelmo, Lote 2.07.02
 - lisbon, Lisbon, Portugal
  
-<a href="/PDF/0369.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0369.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1020,39 +1022,39 @@ Kenneth M. Nielsen currently work at Microsoft as Data Platform Solution Archite
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
+- [BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
  
-[SQLCloud Limited](http://bit.ly/sqlcloudporto)
+- [SQLCloud Limited](http://bit.ly/sqlcloudporto)
  
-[Rumos](http://www.rumos.pt)
+- [Rumos](http://www.rumos.pt)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pythian](http://www.pythian.com)
+- [Pythian](http://www.pythian.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[DevScope, S.A.](http://www.devscope.net)
+- [DevScope, S.A.](http://www.devscope.net)
  
-[Culto de BI](http://www.culto-de-bi.pt)
+- [Culto de BI](http://www.culto-de-bi.pt)
  
-[BOLDINT Lda](http://www.boldint.com/)
+- [BOLDINT Lda](http://www.boldint.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Diego Nogare](http://www.livrosdonogare.com.br/)
+- [Diego Nogare](http://www.livrosdonogare.com.br/)
  
-[SQLPort](http://sqlport.com/sql-server/)
+- [SQLPort](http://sqlport.com/sql-server/)
  
-[pplware](http://pplware.sapo.pt)
+- [pplware](http://pplware.sapo.pt)
  
-[Aberto até de madrugada](http://abertoatedemadrugada.com/)
+- [Aberto até de madrugada](http://abertoatedemadrugada.com/)
  
-[Wintech](http://wintech.pt/)
+- [Wintech](http://wintech.pt/)
  
-[Pluralsight LLC](http://pluralsight.com)
+- [Pluralsight LLC](http://pluralsight.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

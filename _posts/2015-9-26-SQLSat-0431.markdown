@@ -12,7 +12,7 @@ prettydate: "26 September 2015"
 - 160 East St. John Street
 - Spartanburg, South Carolina
  
-<a href="/PDF/0431.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0431.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1043,23 +1045,23 @@ Paco Gonzalez is the CEO of SolidQ North America, and a Microsoft Data Platform 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[MBI Solutions](http://www.mbisolutions.net/)
+- [MBI Solutions](http://www.mbisolutions.net/)
  
-[American Credit Acceptance](http://www.americancreditacceptance.com/)
+- [American Credit Acceptance](http://www.americancreditacceptance.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[AtlantaMDF](http://atlantamdf.com)
+- [AtlantaMDF](http://atlantamdf.com)
  
-[FGP Tech](http://fgptech.com)
+- [FGP Tech](http://fgptech.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

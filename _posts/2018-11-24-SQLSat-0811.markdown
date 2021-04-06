@@ -12,7 +12,7 @@ prettydate: "24 November 2018"
 - Rua São José 90
 - Rio de Janeiro, Rio de Janeiro, Brazil
  
-<a href="/PDF/0811.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0811.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -534,17 +536,17 @@ Microsoft Data Platform MVP, MongoDB Ambassador, Evangelist e Certified Trainer,
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Dataside](http://www.dataside.com.br)
+- [Dataside](http://www.dataside.com.br)
  
-[Cluster Consultoria e Treinamento](https://www.clusterconsultoria.com)
+- [Cluster Consultoria e Treinamento](https://www.clusterconsultoria.com)
  
-[Instituto Infnet](http://www.infnet.edu.br/)
+- [Instituto Infnet](http://www.infnet.edu.br/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

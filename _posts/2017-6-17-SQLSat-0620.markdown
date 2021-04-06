@@ -12,7 +12,7 @@ prettydate: "17 June 2017"
 - College Green, Dublin 2
 - Dublin, County Dublin, Ireland
  
-<a href="/PDF/0620.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0620.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -778,23 +780,23 @@ SqlSatDublin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Spanish Point Technologies Ltd](http://www.spanishpoint.ie)
+- [Spanish Point Technologies Ltd](http://www.spanishpoint.ie)
  
-[COEO](http://www.coeo.com)
+- [COEO](http://www.coeo.com)
  
-[DB Pro Oy](https://www.sqlgovernor.com)
+- [DB Pro Oy](https://www.sqlgovernor.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Storm Technology](http://www.storm.ie)
+- [Storm Technology](http://www.storm.ie)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[European SharePoint, Office 365  Azure Conference](https://www.sharepointeurope.com)
+- [European SharePoint, Office 365  Azure Conference](https://www.sharepointeurope.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

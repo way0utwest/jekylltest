@@ -12,7 +12,7 @@ prettydate: "17 November 2012"
 - 1001 East Palm Ave
 - Tampa, Florida
  
-<a href="/PDF/0168.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0168.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -718,21 +720,21 @@ Mark Tabladillo (MVP, SAS Expert) has been an information technology professiona
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[TekPartners BI](http://www.tekpartnersbi.com)
+- [TekPartners BI](http://www.tekpartnersbi.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Convergence Consulting Group](http://www.ccgBI.com)
+- [Convergence Consulting Group](http://www.ccgBI.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Agile Bay, Inc.](http://www.agilebay.com)
+- [Agile Bay, Inc.](http://www.agilebay.com)
  
-[Jason Thomas](http://road-blogs.blogspot.com)
+- [Jason Thomas](http://road-blogs.blogspot.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

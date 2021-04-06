@@ -12,7 +12,7 @@ prettydate: "29 October 2011"
 - 6711 NE Birmingham Rd
 - Kansas City, Missouri
  
-<a href="/PDF/0101.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0101.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -667,33 +669,33 @@ Kathy has over 19 years of IT work experience and over 13 years of DBA experienc
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[O'Reilly Media, Inc](http://www.oreilly.com)
+- [O'Reilly Media, Inc](http://www.oreilly.com)
  
-[Cerner corporation](http://www.cerner.com/)
+- [Cerner corporation](http://www.cerner.com/)
  
-[ScaleSQL Consulting](http://www.scalesql.com)
+- [ScaleSQL Consulting](http://www.scalesql.com)
  
-[SQLTeam](http://www.sqlteam.com)
+- [SQLTeam](http://www.sqlteam.com)
  
-[TEKsystems, Inc.](http://www.teksystems.com)
+- [TEKsystems, Inc.](http://www.teksystems.com)
  
-[Data Education](http://dataeducation.com)
+- [Data Education](http://dataeducation.com)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

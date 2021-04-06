@@ -12,7 +12,7 @@ prettydate: "24 April 2010"
 - 1125 Sanctuary Parkway
 - Alpharetta, Georgia
  
-<a href="/PDF/0041.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0041.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1036,39 +1038,39 @@ I spent 10 years doing RD for a major textile manufacturer. I joined Microsoft 5
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Attunity](http://www.attunity.com)
+- [Attunity](http://www.attunity.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SetFocus](http://www.setfocus.com)
+- [SetFocus](http://www.setfocus.com)
  
-[expressor software](http://www.expressor-software.com)
+- [expressor software](http://www.expressor-software.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Netserv Applications Inc](http://www.netserv-appl.com)
+- [Netserv Applications Inc](http://www.netserv-appl.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[WestClinTech](http://westclintech.com)
+- [WestClinTech](http://westclintech.com)
  
-[Apress Inc.](http://apress.com/)
+- [Apress Inc.](http://apress.com/)
  
-[Manning Publications Co.](http://www.manning.com)
+- [Manning Publications Co.](http://www.manning.com)
  
-[Matrix Resources](http://www.matrixresources.com/)
+- [Matrix Resources](http://www.matrixresources.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

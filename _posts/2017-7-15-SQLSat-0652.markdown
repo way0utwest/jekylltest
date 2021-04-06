@@ -12,7 +12,7 @@ prettydate: "15 July 2017"
 - 5150 Sugarloaf Parkway Bldg 900 Bldg
 - Atlanta, Georgia
  
-<a href="/PDF/0652.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0652.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1636,43 +1638,43 @@ Cassius Rhue is the Director of Engineering for SIOS Technology Corp. He leads t
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Amazon Web Services](http://www.aws.amazon.com)
+- [Amazon Web Services](http://www.aws.amazon.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Vexata](https://www.vexata.com/)
+- [Vexata](https://www.vexata.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[XLCubed](http://www.xlcubed.com)
+- [XLCubed](http://www.xlcubed.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Enterprise Data  Analytics](http://entdna.com)
+- [Enterprise Data  Analytics](http://entdna.com)
  
-[Tyleris Data Solutions](https://www.tyleris.com)
+- [Tyleris Data Solutions](https://www.tyleris.com)
  
-[PowerPivotPro](http://www.powerpivotpro.com/)
+- [PowerPivotPro](http://www.powerpivotpro.com/)
  
-[Actifio](http://www.actifio.com)
+- [Actifio](http://www.actifio.com)
  
-[Heraflux Technologies](http://www.heraflux.com)
+- [Heraflux Technologies](http://www.heraflux.com)
  
-[Straight Path Solutions](https://straightpathsql.com)
+- [Straight Path Solutions](https://straightpathsql.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

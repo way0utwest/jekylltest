@@ -12,7 +12,7 @@ prettydate: "6 March 2010"
 - 8050 Microsoft Way
 - Charlotte, North Carolina
  
-<a href="/PDF/0033.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0033.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1234,23 +1236,23 @@ As an Architect in Parallel Data Warehouse Center of Excellence Sergey designs c
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software UK Ltd](http://www.quest.com)
+- [Quest Software UK Ltd](http://www.quest.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[New Horizons Computer Learning Center of Charlotte](http://www.nhcharlotte.com)
+- [New Horizons Computer Learning Center of Charlotte](http://www.nhcharlotte.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

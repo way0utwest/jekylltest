@@ -12,7 +12,7 @@ prettydate: "28 April 2012"
 - 2626 East Pecos Road
 - Chandler, Arizona
  
-<a href="/PDF/0131.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0131.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1216,37 +1218,37 @@ Since 2000, Stacia has provided consulting and education services for Microsoft'
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Neudesic](http://www.neudesic.com)
+- [Neudesic](http://www.neudesic.com)
  
-[Statera](http://www.statera.com)
+- [Statera](http://www.statera.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Business  Decision](http://www.businessdecision.us)
+- [Business  Decision](http://www.businessdecision.us)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[GoDaddy.com](http://www.godaddy.com/)
+- [GoDaddy.com](http://www.godaddy.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Interface Technical Training](http://www.interfacett.com/)
+- [Interface Technical Training](http://www.interfacett.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[MarkTab Consulting](http://www.marktab.net)
+- [MarkTab Consulting](http://www.marktab.net)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Bill Pearson (Island Technologies Inc)](http://digital-duke.com/)
+- [Bill Pearson (Island Technologies Inc)](http://digital-duke.com/)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

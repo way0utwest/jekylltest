@@ -12,7 +12,7 @@ prettydate: "20 May 2017"
 - 11 Times Square
 - New York City, New York
  
-<a href="/PDF/0588.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0588.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1707,39 +1709,39 @@ Chris Seferlis is a Sr Cloud Solution Architect at Microsoft. He has 20+ yearsâ€
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[IT Impact, Inc.](http://www.itimpact.com)
+- [IT Impact, Inc.](http://www.itimpact.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Acceleratio Ltd.](https://www.sqldockit.com/)
+- [Acceleratio Ltd.](https://www.sqldockit.com/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[MVP Systems Software](http://www.jamsscheduler.com)
+- [MVP Systems Software](http://www.jamsscheduler.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[New Horizons Computer Learning Centers of New York City](https://nhlearningsolutions.com/)
+- [New Horizons Computer Learning Centers of New York City](https://nhlearningsolutions.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Bridge Technical Talent, LLC](http://www.bridge-talent.com/)
+- [Bridge Technical Talent, LLC](http://www.bridge-talent.com/)
  
-[SolidQ North America](http://www.solidq.com)
+- [SolidQ North America](http://www.solidq.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

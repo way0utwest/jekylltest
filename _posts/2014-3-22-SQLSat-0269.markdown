@@ -12,7 +12,7 @@ prettydate: "22 March 2014"
 - Western Way
 - Exeter, , United Kingdom
  
-<a href="/PDF/0269.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0269.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -716,21 +718,21 @@ Hugo is also a SQL Server MVP since 2006.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
+- [Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Crossjoin Consulting Limited](http://www.technitrain.com/)
+- [Crossjoin Consulting Limited](http://www.technitrain.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

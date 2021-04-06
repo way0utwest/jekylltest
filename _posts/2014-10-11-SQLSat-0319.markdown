@@ -12,7 +12,7 @@ prettydate: "11 October 2014"
 - Avenida Ricardo J. Alfaro
 - Ciudad de Panamá, , Panama
  
-<a href="/PDF/0319.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0319.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -499,13 +501,13 @@ Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (fo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Powered Solutions](http://www.poweredsolutions.co)
+- [Powered Solutions](http://www.poweredsolutions.co)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Universidad Católica Santa María La Antigua](http://www.usmapanama.com)
+- [Universidad Católica Santa María La Antigua](http://www.usmapanama.com)
  
-[iThink Panama](http://www.ithinkpanama.com)
+- [iThink Panama](http://www.ithinkpanama.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

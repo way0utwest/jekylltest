@@ -12,7 +12,7 @@ prettydate: "21 May 2016"
 - 6 Vadima Getmana str.
 - Kyiv, Kiev Oblast, Ukraine
  
-<a href="/PDF/0508.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0508.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -793,23 +795,23 @@ Founder and main speaker at Ukrainian Microsoft Azure Community. 15+ years in ap
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Intapp](http://www.intapp.com/)
+- [Intapp](http://www.intapp.com/)
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[JetBrains](http://www.jetbrains.com)
+- [JetBrains](http://www.jetbrains.com)
  
-[DataArt](http://dataart.ua/)
+- [DataArt](http://dataart.ua/)
  
-[Digital Ukraine](http://digitalua.org/)
+- [Digital Ukraine](http://digitalua.org/)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

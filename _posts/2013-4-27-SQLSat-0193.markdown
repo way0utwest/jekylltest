@@ -12,7 +12,7 @@ prettydate: "27 April 2013"
 - 2626 East Pecos Road
 - Chandler, Arizona
  
-<a href="/PDF/0193.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0193.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1144,39 +1146,39 @@ I have worked with all versions of Microsoft SQL Server.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Delphix](http://www.delphix.com)
+- [Delphix](http://www.delphix.com)
  
-[Neudesic](http://www.neudesic.com)
+- [Neudesic](http://www.neudesic.com)
  
-[Business  Decision](http://www.businessdecision.us)
+- [Business  Decision](http://www.businessdecision.us)
  
-[Statera](http://www.statera.com)
+- [Statera](http://www.statera.com)
  
-[Chandler-Gilbert Community College](http://www.cgc.maricopa.edu/Pages/Default.aspx)
+- [Chandler-Gilbert Community College](http://www.cgc.maricopa.edu/Pages/Default.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Xtivia](http://www.xtivia.com/)
+- [Xtivia](http://www.xtivia.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[GoDaddy.com](http://www.godaddy.com/)
+- [GoDaddy.com](http://www.godaddy.com/)
  
-[Fuller Solutions](http://www.fuller-solutions.com)
+- [Fuller Solutions](http://www.fuller-solutions.com)
  
-[Interface Technical Training](http://www.interfacett.com/)
+- [Interface Technical Training](http://www.interfacett.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Power Tools, Inc.](http://www.sqlpower.com)
+- [SQL Power Tools, Inc.](http://www.sqlpower.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

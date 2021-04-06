@@ -12,7 +12,7 @@ prettydate: "3 August 2013"
 - Nicholson Drive Ext
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0234.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0234.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1327,45 +1329,45 @@ Wesley Brown is a former SQL Server MVP and PASS Chapter Leader who loves to tea
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Amedisys Holdings, LLC](http://www.amedisys.com)
+- [Amedisys Holdings, LLC](http://www.amedisys.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Turner Industries Group, LLC](http://www.turner-industries.com)
+- [Turner Industries Group, LLC](http://www.turner-industries.com)
  
-[Envoc](http://envoc.com)
+- [Envoc](http://envoc.com)
  
-[Antares Technology Solutions](http://www.antaresnet.com)
+- [Antares Technology Solutions](http://www.antaresnet.com)
  
-[Geocent](http://www.geocent.com)
+- [Geocent](http://www.geocent.com)
  
-[Ameritas Technologies](http://ameritastech.com/)
+- [Ameritas Technologies](http://ameritastech.com/)
  
-[SoftwareONE](http://www.softwareone.com)
+- [SoftwareONE](http://www.softwareone.com)
  
-[ElectSolve Technology Solutions and Services, Inc.](http://www.electsolve.com)
+- [ElectSolve Technology Solutions and Services, Inc.](http://www.electsolve.com)
  
-[Louisiana Farm Bureau insurance companies](http://www.lafarmbureau.com)
+- [Louisiana Farm Bureau insurance companies](http://www.lafarmbureau.com)
  
-[GE Capital](http://www.gecapital.com/)
+- [GE Capital](http://www.gecapital.com/)
  
-[Affirmative Insurance Holdings, Inc.](http://www.affirmativeholdings.com)
+- [Affirmative Insurance Holdings, Inc.](http://www.affirmativeholdings.com)
  
-[HRTact](http://www.hrtact.com)
+- [HRTact](http://www.hrtact.com)
  
-[SQLTact](http://www.sqltact.com)
+- [SQLTact](http://www.sqltact.com)
  
-[Blue Cross Blue Shield of Louisiana](http://www.bcbsla.com)
+- [Blue Cross Blue Shield of Louisiana](http://www.bcbsla.com)
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

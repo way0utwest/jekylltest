@@ -12,7 +12,7 @@ prettydate: "15 June 2019"
 - 1 LMU Drive, Los Angeles, California
 - Los Angeles, California
  
-<a href="/PDF/0891.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0891.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1640,81 +1642,81 @@ Advanced Analytics architect working in data, analytics and cloud space for last
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[WhereScape 891](https://www.wherescape.com)
+- [WhereScape 891](https://www.wherescape.com)
  
-[Loyola Marymount University 891](https://www.lmu.edu)
+- [Loyola Marymount University 891](https://www.lmu.edu)
  
-[AWS](https://aws.amazon.com/)
+- [AWS](https://aws.amazon.com/)
  
-[Datavail 891](https://www.datavail.com)
+- [Datavail 891](https://www.datavail.com)
  
-[SolidQ North America](http://www.solidq.com)
+- [SolidQ North America](http://www.solidq.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Data Advantage Group](https://www.dag.com/)
+- [Data Advantage Group](https://www.dag.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Attunix 891](https://www.attunix.com/)
+- [Attunix 891](https://www.attunix.com/)
  
-[BizData](https://www.bizdata.com.au/)
+- [BizData](https://www.bizdata.com.au/)
  
-[Dun  Bradstreet](http://www.dnb.com)
+- [Dun  Bradstreet](http://www.dnb.com)
  
-[Windocks](https://windocks.com)
+- [Windocks](https://windocks.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[SentryOne 891](https://www.sentryone.com/)
+- [SentryOne 891](https://www.sentryone.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[Cappuccino Insurance (891)](http://www.cappuccinoinsurance.com/)
+- [Cappuccino Insurance (891)](http://www.cappuccinoinsurance.com/)
  
-[Galpin Ford 891](http://www.galpin.com)
+- [Galpin Ford 891](http://www.galpin.com)
  
-[ProcureSQL 891](https://www.procuresql.com)
+- [ProcureSQL 891](https://www.procuresql.com)
  
-[North American DevOps Group](http://www.nadevops.com)
+- [North American DevOps Group](http://www.nadevops.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[Data Driven Technologies Inc.](https://datadriventechnologies.org/)
+- [Data Driven Technologies Inc.](https://datadriventechnologies.org/)
  
-[LA Data Platform](http://ladataplatform.pass.org)
+- [LA Data Platform](http://ladataplatform.pass.org)
  
-[Apress Media 891](https://www.apress.com)
+- [Apress Media 891](https://www.apress.com)
  
-[Costco 891](http://www.costco.com)
+- [Costco 891](http://www.costco.com)
  
-[ApexSQL 891](http://www.apexsql.com)
+- [ApexSQL 891](http://www.apexsql.com)
  
-[RedGate Software 891](https://www.red-gate.com)
+- [RedGate Software 891](https://www.red-gate.com)
  
-[JetBrains 891](https://www.jetbrains.com)
+- [JetBrains 891](https://www.jetbrains.com)
  
-[Whole Foods](https://www.wholefoodsmarket.com)
+- [Whole Foods](https://www.wholefoodsmarket.com)
  
-[O'Reilly 891](https://www.oreilly.com/)
+- [O'Reilly 891](https://www.oreilly.com/)
  
-[DevArt 891](https://www.devart.com/)
+- [DevArt 891](https://www.devart.com/)
  
-[Galpin Honda](http://www.galpinhonda.com)
+- [Galpin Honda](http://www.galpinhonda.com)
  
-[Zoom 891](https://www.zoom.us/)
+- [Zoom 891](https://www.zoom.us/)
  
-[John Wiley  Sons, Inc 891](https://www.wiley.com/en-us)
+- [John Wiley  Sons, Inc 891](https://www.wiley.com/en-us)
  
-[TechSmith 891](https://www.techsmith.com)
+- [TechSmith 891](https://www.techsmith.com)
  
-[Trader Joe's](https://www.traderjoes.com)
+- [Trader Joe's](https://www.traderjoes.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

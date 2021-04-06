@@ -12,7 +12,7 @@ prettydate: "29 March 2014"
 - 
 - Madison, Wisconsin
  
-<a href="/PDF/0287.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0287.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1008,35 +1010,35 @@ Jason#39;s past has included being a developer, a development manager,  accident
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Skyline Technologies](http://www.skylinetechnologies.com)
+- [Skyline Technologies](http://www.skylinetechnologies.com)
  
-[BlueMetal Architects](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [BlueMetal Architects](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Trek Bicycle](http://trekbikes.com/)
+- [Trek Bicycle](http://trekbikes.com/)
  
-[Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
+- [Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Heartland Business Systems/Avastone Technologies](http://www.avastonetech.com)
+- [Heartland Business Systems/Avastone Technologies](http://www.avastonetech.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

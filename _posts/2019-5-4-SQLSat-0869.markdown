@@ -12,7 +12,7 @@ prettydate: "4 May 2019"
 - 2626 East Pecos Road
 - Chandler, Arizona
  
-<a href="/PDF/0869.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0869.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1204,27 +1206,27 @@ Martin is an independent Business Intelligence  Analytics consultant, helping cu
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DriveTime Automotive Group](https://jobs.drivetime.com/)
+- [DriveTime Automotive Group](https://jobs.drivetime.com/)
  
-[Paychex](https://paychex.com)
+- [Paychex](https://paychex.com)
  
-[Snowflake Inc](https://www.snowflake.com/)
+- [Snowflake Inc](https://www.snowflake.com/)
  
-[Neudesic](http://www.neudesic.com)
+- [Neudesic](http://www.neudesic.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Windocks](https://windocks.com)
+- [Windocks](https://windocks.com)
  
-[Slalom](https://www.slalom.com/)
+- [Slalom](https://www.slalom.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

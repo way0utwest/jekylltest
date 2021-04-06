@@ -12,7 +12,7 @@ prettydate: "23 April 2016"
 - Calle 5 Avenida 5
 - San Jose, San José, Costa Rica
  
-<a href="/PDF/0490.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0490.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -895,21 +897,21 @@ Consultor en Desarrollo de Software, conocedor de tecnolog#237;as basadas en la 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[Comunidad Windows](http://www.facebook.com/ComunidadWindows)
+- [Comunidad Windows](http://www.facebook.com/ComunidadWindows)
  
-[Proximity Costa Rica LLC](http://www.proximitycr.com/)
+- [Proximity Costa Rica LLC](http://www.proximitycr.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "8 February 2020"
 - 1600 Innovation Blvd, Hutto TX
 - Austin, Texas
  
-<a href="/PDF/0939.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0939.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -596,29 +598,29 @@ Wenbin Zhao is a Sr. Data Analyst and Tableau developer. He graduated from Brigh
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SQLSaturday Baton Rouge](http://www.sqlsatbr.com)
+- [SQLSaturday Baton Rouge](http://www.sqlsatbr.com)
  
-[CAPITOL TECHNOLOGY UNIVERSITY](https://www.captechu.edu/)
+- [CAPITOL TECHNOLOGY UNIVERSITY](https://www.captechu.edu/)
  
-[Procure SQL](http://procuresql.com)
+- [Procure SQL](http://procuresql.com)
  
-[ZAP](https://www.zapbi.com/)
+- [ZAP](https://www.zapbi.com/)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[TidwellTidbits](https://tidwelltidbits.com/)
+- [TidwellTidbits](https://tidwelltidbits.com/)
  
-[Data Savvy](https://datasavvy.me/)
+- [Data Savvy](https://datasavvy.me/)
  
-[SearchRPM Inc.](https://www.searchrpm.com/)
+- [SearchRPM Inc.](https://www.searchrpm.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

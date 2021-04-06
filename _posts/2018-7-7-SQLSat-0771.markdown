@@ -12,7 +12,7 @@ prettydate: "7 July 2018"
 - 160 Clarence Street
 - Sydney, New South Wales, Australia
  
-<a href="/PDF/0771.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0771.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -560,15 +562,15 @@ Iman Eftekhari (MCSE BI, MCITP, CSP) has more than 15 years of experience predom
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Angry Koala](http://angrykoala.com.au)
+- [Angry Koala](http://angrykoala.com.au)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Fortude](http://www.fortude.co/)
+- [Fortude](http://www.fortude.co/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

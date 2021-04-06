@@ -12,7 +12,7 @@ prettydate: "22 September 2018"
 - 6256 Greenwich Dr.
 - San Diego, California
  
-<a href="/PDF/0802.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0802.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1039,25 +1041,25 @@ Mindy Curnutt is a 5X Microsoft Data Platform MVP, Business Owner and Entreprene
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[UCSD Extension](http://extension.ucsd.edu/)
+- [UCSD Extension](http://extension.ucsd.edu/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Attunix](https://Attunix.com)
+- [Attunix](https://Attunix.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Data Technology Community Inc.](https://www.sqlsaturday.com/802/EventHome.aspx)
+- [Data Technology Community Inc.](https://www.sqlsaturday.com/802/EventHome.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

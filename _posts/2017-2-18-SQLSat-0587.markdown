@@ -12,7 +12,7 @@ prettydate: "18 February 2017"
 - 15 Broadway, Ultimo
 - Sydney, New South Wales, Australia
  
-<a href="/PDF/0587.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0587.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -833,17 +835,17 @@ Craig has been working with SQL Server for over 20 years and currently holds sev
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Agile BI](http://www.agilebi.com.au/)
+- [Agile BI](http://www.agilebi.com.au/)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Angry Koala](http://angrykoala.com.au)
+- [Angry Koala](http://angrykoala.com.au)
  
-[ACS Foundation](http://acsfoundation.com.au/)
+- [ACS Foundation](http://acsfoundation.com.au/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

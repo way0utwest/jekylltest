@@ -12,7 +12,7 @@ prettydate: "24 June 2017"
 - Apollo Business Center II, Block E, Prievozská 4D, Bratislava 
 - Bratislava, Bratislavský, Slovakia
  
-<a href="/PDF/0644.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0644.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -303,13 +305,13 @@ Roman Rehak is a Principal Database Architect at MyWebGrocer.com in Burlington, 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Millennium, spol. s r. o.](http://www.millennium.sk)
+- [Millennium, spol. s r. o.](http://www.millennium.sk)
  
-[BSP Softwaredistribution a.s.](http://www.bsp.sk)
+- [BSP Softwaredistribution a.s.](http://www.bsp.sk)
  
-[Maind, s.r.o.](https://maind.sk/)
+- [Maind, s.r.o.](https://maind.sk/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

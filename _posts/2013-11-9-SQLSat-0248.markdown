@@ -12,7 +12,7 @@ prettydate: "9 November 2013"
 - 4202 E Fowler Ave
 - Tampa, Florida
  
-<a href="/PDF/0248.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0248.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -770,33 +772,33 @@ Faculty at USF.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Agile Bay, Inc.](http://www.agilebay.com)
+- [Agile Bay, Inc.](http://www.agilebay.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[TekPartners BI](http://www.tekpartnersbi.com)
+- [TekPartners BI](http://www.tekpartnersbi.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQLJoe.com](http://www.sqljoe.com)
+- [SQLJoe.com](http://www.sqljoe.com)
  
-[MarkTab Inc](http://marktab.net/datamining/)
+- [MarkTab Inc](http://marktab.net/datamining/)
  
-[Impact Analytix](http://www.impactanalytix.com/)
+- [Impact Analytix](http://www.impactanalytix.com/)
  
-[University of South Florida](http://www.usf.edu)
+- [University of South Florida](http://www.usf.edu)
  
-[Modis](http://www.modis.com/)
+- [Modis](http://www.modis.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

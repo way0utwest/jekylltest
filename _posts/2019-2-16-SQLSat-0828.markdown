@@ -12,7 +12,7 @@ prettydate: "16 February 2019"
 - Calle Manuel F. Ayau (6 Calle final), zona 10
 - Guatemala, Guatemala, Guatemala
  
-<a href="/PDF/0828.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0828.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1067,23 +1069,23 @@ Consultor de Inteligencia de Negocios. Experiencia y formación con tecnologías
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[GBM](https://www.gbm.net/)
+- [GBM](https://www.gbm.net/)
  
-[solcomp](http://www.solcomp.com/)
+- [solcomp](http://www.solcomp.com/)
  
-[RevDeBug](https://revdebug.com)
+- [RevDeBug](https://revdebug.com)
  
-[Guatemala Power BI User Group](https://www.pbiusergroup.com/guatemala)
+- [Guatemala Power BI User Group](https://www.pbiusergroup.com/guatemala)
  
-[Guatemala SQL Server User Group](http://gtssug.pass.org/)
+- [Guatemala SQL Server User Group](http://gtssug.pass.org/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[MSSQLTips](http://www.mssqltips.com/index.asp)
+- [MSSQLTips](http://www.mssqltips.com/index.asp)
  
-[Guatemala Business Intelligence PASS Local Group](https://guatemalabi.pass.org/)
+- [Guatemala Business Intelligence PASS Local Group](https://guatemalabi.pass.org/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

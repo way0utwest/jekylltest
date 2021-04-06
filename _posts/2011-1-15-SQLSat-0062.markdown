@@ -12,7 +12,7 @@ prettydate: "15 January 2011"
 - 1001 East Palm Ave
 - Tampa, Florida
  
-<a href="/PDF/0062.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0062.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -975,39 +977,39 @@ He had spoken in various SQLSaturday sessions across the country.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Enterprise Software Solutions](http://www.entsoftsol.com/)
+- [Enterprise Software Solutions](http://www.entsoftsol.com/)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Catapult Systems](http://www.catapultsystems.com)
+- [Catapult Systems](http://www.catapultsystems.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Advaiya, Inc.](http://www.advaiya.com)
+- [Advaiya, Inc.](http://www.advaiya.com)
  
-[SQLShare](http://www.sqlshare.com)
+- [SQLShare](http://www.sqlshare.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Kforce](http://www.kforce.com)
+- [Kforce](http://www.kforce.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Tavolacci and Associates, Inc.](http://tavolacci-associates.com)
+- [Tavolacci and Associates, Inc.](http://tavolacci-associates.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

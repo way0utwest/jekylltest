@@ -12,7 +12,7 @@ prettydate: "22 November 2014"
 - 160 Princess St.
 - Winnipeg, Manitoba, Canada
  
-<a href="/PDF/0350.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0350.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -472,25 +474,25 @@ Aaron, Product Manager at SentryOne, produces performance and optimization tools
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Protegra](http://www.protegra.com)
+- [Protegra](http://www.protegra.com)
  
-[Microsoft Canada](https://technet.microsoft.com/en-ca)
+- [Microsoft Canada](https://technet.microsoft.com/en-ca)
  
-[Imaginet Resources Corp.](http://www.imaginet.com)
+- [Imaginet Resources Corp.](http://www.imaginet.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Hortonworks](http://hortonworks.com/)
+- [Hortonworks](http://hortonworks.com/)
  
-[McGraw-Hill Ryerson Ltd.](http://www.mheducation.ca/)
+- [McGraw-Hill Ryerson Ltd.](http://www.mheducation.ca/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[MDD Solutions Ltd.](http://mikedefehr.com)
+- [MDD Solutions Ltd.](http://mikedefehr.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

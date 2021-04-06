@@ -12,7 +12,7 @@ prettydate: "28 September 2013"
 - Silver Street
 - Cambridge, , United Kingdom
  
-<a href="/PDF/0228.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0228.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -977,41 +979,41 @@ Kevin Boles is a SQL Server expert, working exclusively with the product since v
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[K2](http://www.k2.com)
+- [K2](http://www.k2.com)
  
-[Combined Knowledge Ltd](http://www.combined-knowledge.com/)
+- [Combined Knowledge Ltd](http://www.combined-knowledge.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Copper Blue Consulting Ltd	](http://copper-blue.co.uk/)
+- [Copper Blue Consulting Ltd	](http://copper-blue.co.uk/)
  
-[Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
+- [Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SoftwareONE](http://www.softwareone.com)
+- [SoftwareONE](http://www.softwareone.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[AxioWorks Ltd](http://www.axioworks.com)
+- [AxioWorks Ltd](http://www.axioworks.com)
  
-[John Q Martin](http://www.jqmartin.co.uk)
+- [John Q Martin](http://www.jqmartin.co.uk)
  
-[Robin Sasson](https://www.linkedin.com/pub/robin-sasson/39/773/572)
+- [Robin Sasson](https://www.linkedin.com/pub/robin-sasson/39/773/572)
  
-[@retracement](http://tenbulls.co.uk)
+- [@retracement](http://tenbulls.co.uk)
  
-[Microsoft Ltd](http://www.microsoft.com/sql)
+- [Microsoft Ltd](http://www.microsoft.com/sql)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

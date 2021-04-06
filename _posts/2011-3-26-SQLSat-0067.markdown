@@ -12,7 +12,7 @@ prettydate: "26 March 2011"
 - 1221 North Swift Road
 - Addison, Illinois
  
-<a href="/PDF/0067.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0067.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -909,89 +911,89 @@ Jim has been a Senior Technical Trainer and Consultant with Directions Training 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SQLskills.com](http://www.sqlskills.com/)
+- [SQLskills.com](http://www.sqlskills.com/)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Magenic](http://www.magenic.com)
+- [Magenic](http://www.magenic.com)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
+- [DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQLskills.com](http://www.sqlskills.com/)
+- [SQLskills.com](http://www.sqlskills.com/)
  
-[contextQ](http://contextQ.com)
+- [contextQ](http://contextQ.com)
  
-[Erin Stellato](http://www.erinstellato.com)
+- [Erin Stellato](http://www.erinstellato.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Yanni Robel](http://yannirobel.com)
+- [Yanni Robel](http://yannirobel.com)
  
-[Bob Pusateri](http://www.bobpusateri.com)
+- [Bob Pusateri](http://www.bobpusateri.com)
  
-[Brent Ozar Unlimited](http://www.brentozar.com)
+- [Brent Ozar Unlimited](http://www.brentozar.com)
  
-[Silverwing Technologies, Inc.](http://www.programmersedge.com)
+- [Silverwing Technologies, Inc.](http://www.programmersedge.com)
  
-[sqlmashup](http://www.sqlmashup.com)
+- [sqlmashup](http://www.sqlmashup.com)
  
-[Matt Velic](http://mattvelic.com)
+- [Matt Velic](http://mattvelic.com)
  
-[Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
+- [Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
  
-[The Wendy Verse](http://wendyverse.blogspot.com)
+- [The Wendy Verse](http://wendyverse.blogspot.com)
  
-[IndyDBA.com](http://IndyDBA.com)
+- [IndyDBA.com](http://IndyDBA.com)
  
-[Aaron Bertrand](http://sqlblog.com/blogs/aaron_bertrand/)
+- [Aaron Bertrand](http://sqlblog.com/blogs/aaron_bertrand/)
  
-[Noel McKinney](http://noelmckinney.com/)
+- [Noel McKinney](http://noelmckinney.com/)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Aaron Lowe](http://www.aaronlowe.net/)
+- [Aaron Lowe](http://www.aaronlowe.net/)
  
-[Doug Lane](http://www.douglane.net)
+- [Doug Lane](http://www.douglane.net)
  
-[InfoAdvisors](http://blog.infoadvisors.com)
+- [InfoAdvisors](http://blog.infoadvisors.com)
  
-[Jes Schultz Borland](http://tinyurl.com/tinyJes)
+- [Jes Schultz Borland](http://tinyurl.com/tinyJes)
  
-[SQLRockstar](http://thomaslarock.com)
+- [SQLRockstar](http://thomaslarock.com)
  
-[Karla Landrum](http://www.karlalandrum.wordpress.com)
+- [Karla Landrum](http://www.karlalandrum.wordpress.com)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "3 December 2016"
 - Vyskocilova 1561/4a, Praha 4
 - Praha, Hlavní Mesto Praha, Czechia
  
-<a href="/PDF/0569.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0569.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -634,19 +636,19 @@ Regis has more than 15 years of experience with SQL Server, SharePoint and .Net 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Joyful Craftsmen](http://joyfulcraftsmen.com)
+- [Joyful Craftsmen](http://joyfulcraftsmen.com)
  
-[DB Pro Oy](https://www.sqlgovernor.com)
+- [DB Pro Oy](https://www.sqlgovernor.com)
  
-[Avast Software s.r.o.](https://www.avast.com)
+- [Avast Software s.r.o.](https://www.avast.com)
  
-[Alza.cz a.s.](http://www.alza.cz)
+- [Alza.cz a.s.](http://www.alza.cz)
  
-[Advantage Solutions, s. r. o.](https://www.origam.com)
+- [Advantage Solutions, s. r. o.](https://www.origam.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

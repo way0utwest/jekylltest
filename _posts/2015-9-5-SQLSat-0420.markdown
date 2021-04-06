@@ -12,7 +12,7 @@ prettydate: "5 September 2015"
 - Tour Montparnasse
 - Paris, Île-de-France, France
  
-<a href="/PDF/0420.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0420.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -531,29 +533,29 @@ He has been Developing amp; Architecting software solutions since 2003 always fo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SkillInsight](http://guss.pro/2015/03/05/sponsors-sqlsaturday-paris-2015/)
+- [SkillInsight](http://guss.pro/2015/03/05/sponsors-sqlsaturday-paris-2015/)
  
-[Evolusys](http://www.evolusys.ch/fr/)
+- [Evolusys](http://www.evolusys.ch/fr/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Cellenza](http://cellenza.com/)
+- [Cellenza](http://cellenza.com/)
  
-[DCube](http://www.dcube.fr/)
+- [DCube](http://www.dcube.fr/)
  
-[Effektor](http://www.effektor.bi)
+- [Effektor](http://www.effektor.bi)
  
-[Maltem](http://www.maltem.com/)
+- [Maltem](http://www.maltem.com/)
  
-[Criteo](http://labs.criteo.com/blog/)
+- [Criteo](http://labs.criteo.com/blog/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Micropole](https://www.micropole.be/)
+- [Micropole](https://www.micropole.be/)
  
-[SUPINFO](http://www.supinfo.com)
+- [SUPINFO](http://www.supinfo.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

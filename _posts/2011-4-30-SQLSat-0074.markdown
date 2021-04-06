@@ -12,7 +12,7 @@ prettydate: "30 April 2011"
 - 1 UNF Drive
 - Jacksonville, Florida
  
-<a href="/PDF/0074.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0074.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -847,29 +849,29 @@ Donny is a BI Trainer and Software Support team member for Pragmatic Works.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[University of North Florida](http://www.unf.edu)
+- [University of North Florida](http://www.unf.edu)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SNI Technology](http://www.snitechnology.com/)
+- [SNI Technology](http://www.snitechnology.com/)
  
-[Incepture](http://www.incepture.com/)
+- [Incepture](http://www.incepture.com/)
  
-[Station Four](http://www.stationfour.com)
+- [Station Four](http://www.stationfour.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[iMethods Inc.](http://www.imethods.com)
+- [iMethods Inc.](http://www.imethods.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

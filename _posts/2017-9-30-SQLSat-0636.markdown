@@ -12,7 +12,7 @@ prettydate: "30 September 2017"
 - 1111 McKee Road, Oakdale, PA
 - Oakdale, Pennsylvania
  
-<a href="/PDF/0636.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0636.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1123,25 +1125,25 @@ Drew Furgiuele is a senior DBA that lives in Dublin, Ohio who is passionate abou
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Plus Consulting](http://www.plusconsulting.com)
+- [Plus Consulting](http://www.plusconsulting.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[New Horizons Computer Learning Centers of Pittsburgh](http://www.nhpittsburgh.com)
+- [New Horizons Computer Learning Centers of Pittsburgh](http://www.nhpittsburgh.com)
  
-[All Lines Technology](http://www.all-lines-tech.com)
+- [All Lines Technology](http://www.all-lines-tech.com)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Pittsburgh Technical College](http://www.ptcollege.edu/)
+- [Pittsburgh Technical College](http://www.ptcollege.edu/)
  
-[Visvero, Inc.](http://www.visvero.com)
+- [Visvero, Inc.](http://www.visvero.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

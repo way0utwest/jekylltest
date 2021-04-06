@@ -1,0 +1,54 @@
+---
+layout: "post" 
+title: "SQLSaturday #1023 – Haiti – Virtual 2021" 
+prettydate: "27 March 2021" 
+---
+# SQLSaturday #1023 – Haiti – Virtual 2021
+ 
+**Event Date**: 03/27/2021 00:00:00
+ 
+**Event Location**:
+- Haiti
+- Port-au-Prince, Haiti
+- Port-au-Prince, Ouest Department, Haiti
+ 
+<a href="/assets/pdf/1023.pdf">PDF of Schedule</a>
+ 
+This event has completed. All data shown below is from the historical XML public data available.
+<ul>
+   <li><a href="#sessions">Sessions</a></li>
+   <li><a href="#speakers">Speakers</a></li>
+   <li><a href="#sponsors">Sponsors</a></li>
+</ul>
+ 
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
+ 
+----------------------------------------------------------------------------------- 
+ 
+# <a name="sessions"></a>Sessions
+This is a list of sessions from the event, based on the schedule in the XML files.
+ 
+----------------------------------------------------------------------------------- 
+## <a name="#speakers"></a>Speakers
+This is a list of speakers from the XML Guidebook records. The details and URLs were valid at the time of the event.
+ 
+ 
+**Jean Joseph**
+ 
+Twitter:  - [garella79](https://www.twitter.com/garella79)
+ 
+LinkedIn: [Jean Joseph](https://www.linkedin.com/in/jeandjoseph/)
+ 
+Contact: [http://tsqlhelp.wordpress.com/](http://tsqlhelp.wordpress.com/)
+ 
+Highly experienced in Big Data and traditional data technologies with a history of successes in designing, implementing complex technical projects for diverse businesses in various stages of their development. Acknowledged as a leader capable of mentoring teams of different backgrounds and talents and inspiring individual efforts to deliver. Organized and detail-oriented, with a positive pro-active and hardworking attitude. Performance history reflects a highly analytical strategic thinker with strengths in defining solutions and executing programs that have been invaluable to an all-encompassing range of projects and positions.
+ 
+ 
+ 
+## <a name="sponsors"></a>Sponsors
+The following is a list of sponsors that helped fund the event:
+ 
+[Back to the SQL Saturday Event List](/past.html)
+&nbsp;
+[Back to the home page](/index.html)

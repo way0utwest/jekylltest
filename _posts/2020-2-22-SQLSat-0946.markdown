@@ -12,7 +12,7 @@ prettydate: "22 February 2020"
 - 6750 N Andrews Ave, Suite #400
 - Fort Lauderdale, Florida
  
-<a href="/PDF/0946.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0946.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -814,23 +816,23 @@ Priscilla Camp is a Business Intelligence and Analytics Specialist at the Univer
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Enzo Unified](http://www.enzounified.com)
+- [Enzo Unified](http://www.enzounified.com)
  
-[Magna Data](http://www.magnadatasolutions.com/)
+- [Magna Data](http://www.magnadatasolutions.com/)
  
-[Precision IT Tech](https://www.precisionit.com.ar)
+- [Precision IT Tech](https://www.precisionit.com.ar)
  
-[Improving-Atlanta](https://improving.com/location/atlanta)
+- [Improving-Atlanta](https://improving.com/location/atlanta)
  
-[NetCorp](https://www.netcorpinc.com)
+- [NetCorp](https://www.netcorpinc.com)
  
-[The Academy, Computer Training Centers](https://www.it-certification-courses.com/)
+- [The Academy, Computer Training Centers](https://www.it-certification-courses.com/)
  
-[Microsoft Data and AI SoFLa](https://www.meetup.com/Microsoft-Data-and-AI/)
+- [Microsoft Data and AI SoFLa](https://www.meetup.com/Microsoft-Data-and-AI/)
  
-[SFSSUG](https://www.sfssug.org)
+- [SFSSUG](https://www.sfssug.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

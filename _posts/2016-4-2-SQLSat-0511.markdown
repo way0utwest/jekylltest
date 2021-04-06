@@ -12,7 +12,7 @@ prettydate: "2 April 2016"
 - 16070 NE 36th Way 
 - Redmond, Washington
  
-<a href="/PDF/0511.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0511.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -677,27 +679,27 @@ Chuck Lathrope is a data architect for Limeade, a SaaS health and wellness platf
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[DBMS Insights Inc.](http://www.dbmsinsights.com/)
+- [DBMS Insights Inc.](http://www.dbmsinsights.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Zumero LLC](http://zumero.com)
+- [Zumero LLC](http://zumero.com)
  
-[Level Education](http://www.leveledu.com)
+- [Level Education](http://www.leveledu.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

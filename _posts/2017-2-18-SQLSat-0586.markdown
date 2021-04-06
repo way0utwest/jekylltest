@@ -12,7 +12,7 @@ prettydate: "18 February 2017"
 - Calle Manuel F. Ayau (6 Calle final), zona 10
 - Guatemala, Guatemala, Guatemala
  
-<a href="/PDF/0586.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0586.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -872,21 +874,21 @@ Soy entrenador de los cursos oficiales de Microsoft.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[solcomp](http://www.solcomp.com/)
+- [solcomp](http://www.solcomp.com/)
  
-[Universidad Francisco Marroquin - UFM](http://fce.ufm.edu/cs)
+- [Universidad Francisco Marroquin - UFM](http://fce.ufm.edu/cs)
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Gyssa](http://www.gyssa.com/)
+- [Gyssa](http://www.gyssa.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

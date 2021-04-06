@@ -12,7 +12,7 @@ prettydate: "21 October 2017"
 - Poupětova 1
 - Prague, Hlavní Mesto Praha, Czechia
  
-<a href="/PDF/0689.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0689.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -505,17 +507,17 @@ More than 10 years in IT spent on custom solution(s) development, mainly for ent
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Avast Software s.r.o.](https://www.avast.com)
+- [Avast Software s.r.o.](https://www.avast.com)
  
-[JT Banka, a.s.](https://www.jtbank.cz/)
+- [JT Banka, a.s.](https://www.jtbank.cz/)
  
-[Joyful Craftsmen](http://joyfulcraftsmen.com)
+- [Joyful Craftsmen](http://joyfulcraftsmen.com)
  
-[Prianto GmbH](http://www.quest.com/_home/)
+- [Prianto GmbH](http://www.quest.com/_home/)
  
-[Advantage Solutions, s. r. o.](https://www.origam.com)
+- [Advantage Solutions, s. r. o.](https://www.origam.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

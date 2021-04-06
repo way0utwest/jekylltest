@@ -12,7 +12,7 @@ prettydate: "6 August 2011"
 - 3304 Patrick F Taylor hall
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0064.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0064.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1114,37 +1116,37 @@ Eric Trivette, MCPD, has been working with Microsoft ASP.NET since December 2006
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Antares Technology Solutions](http://www.antaresnet.com)
+- [Antares Technology Solutions](http://www.antaresnet.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Geocent](http://www.geocent.com)
+- [Geocent](http://www.geocent.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[K2](http://www.k2.com)
+- [K2](http://www.k2.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Amedisys Home Health Services](https://www2.ultirecruit.com/AME1028/JobBoard/searchjobs.aspx?Page=Search__SVRTRID=D6D7412E-88D4-43D4-96CA-34DDDD2B1A24)
+- [Amedisys Home Health Services](https://www2.ultirecruit.com/AME1028/JobBoard/searchjobs.aspx?Page=Search__SVRTRID=D6D7412E-88D4-43D4-96CA-34DDDD2B1A24)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[HP - Microsoft Alliance](http://www.microsoft.com/sqlserver/en/us/solutions-technologies/hp-partnership.aspx)
+- [HP - Microsoft Alliance](http://www.microsoft.com/sqlserver/en/us/solutions-technologies/hp-partnership.aspx)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Perficient, Inc.](http://www.perficient.com)
+- [Perficient, Inc.](http://www.perficient.com)
  
-[Louisiana State University](http://www.lsu.edu)
+- [Louisiana State University](http://www.lsu.edu)
  
-[Community Coffee Company](http://www.communitycoffee.com)
+- [Community Coffee Company](http://www.communitycoffee.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

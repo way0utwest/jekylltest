@@ -12,7 +12,7 @@ prettydate: "1 August 2015"
 - Nicholson Drive Ext
 - Baton Rouge, Louisiana
  
-<a href="/PDF/0423.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0423.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1504,47 +1506,47 @@ Tim Goedeke serves as a part-time Chief Information Officer for several South Lo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[RedGate](http://www.red-gate.com/about/community_relations/sql_saturday.htm)
+- [RedGate](http://www.red-gate.com/about/community_relations/sql_saturday.htm)
  
-[SQLWatchmen, LLC.](http://www.sqlwatchmen.com)
+- [SQLWatchmen, LLC.](http://www.sqlwatchmen.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[GCR Inc.](http://gcrincorporated.com)
+- [GCR Inc.](http://gcrincorporated.com)
  
-[Louisiana Farm Bureau insurance companies](http://www.lafarmbureau.com)
+- [Louisiana Farm Bureau insurance companies](http://www.lafarmbureau.com)
  
-[Toastmasters District 68](https://www.d68tm.org)
+- [Toastmasters District 68](https://www.d68tm.org)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Envoc](http://envoc.com)
+- [Envoc](http://envoc.com)
  
-[Postlethwaite  Netterville; PN Tech](http://www.pncpa.com/)
+- [Postlethwaite  Netterville; PN Tech](http://www.pncpa.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Turner Industries Group, LLC](http://www.turner-industries.com)
+- [Turner Industries Group, LLC](http://www.turner-industries.com)
  
-[Geocent](http://www.geocent.com)
+- [Geocent](http://www.geocent.com)
  
-[Antares Technology Solutions](http://www.antaresnet.com)
+- [Antares Technology Solutions](http://www.antaresnet.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[LSU College of Business](http://business.lsu.edu)
+- [LSU College of Business](http://business.lsu.edu)
  
-[Venyu](https://www.venyu.com)
+- [Venyu](https://www.venyu.com)
  
-[Sparkhound, Inc.](http://www.sparkhound.com)
+- [Sparkhound, Inc.](http://www.sparkhound.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

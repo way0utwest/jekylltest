@@ -12,7 +12,7 @@ prettydate: "21 July 2018"
 - 1500 Alliant Avenue 
 - Louisville, Kentucky
  
-<a href="/PDF/0729.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0729.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1047,33 +1049,33 @@ Jason Brimhall has more than 20 years of experience and has worked with SQL Serv
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[KiZAN](https://www.kizan.com)
+- [KiZAN](https://www.kizan.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[BITracks](http://www.bitracks.com/)
+- [BITracks](http://www.bitracks.com/)
  
-[Farm Credit Mid-America](http://www.e-farmcredit.com)
+- [Farm Credit Mid-America](http://www.e-farmcredit.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[PureStorage](http://www.purestorage.com)
+- [PureStorage](http://www.purestorage.com)
  
-[Schneider Electric](https://www.schneider-electric.com)
+- [Schneider Electric](https://www.schneider-electric.com)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

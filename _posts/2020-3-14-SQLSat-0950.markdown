@@ -12,7 +12,7 @@ prettydate: "14 March 2020"
 - 3100 Foul Bay Rd
 - Victoria, British Columbia, Canada
  
-<a href="/PDF/0950.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0950.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -673,27 +675,27 @@ Rich Baumet has been working in the Database field since 2001.  18+ years as DBA
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Camosun College](http://camosun.ca/)
+- [Camosun College](http://camosun.ca/)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[oh22](http://www.oh22.net)
+- [oh22](http://www.oh22.net)
  
-[Snowflake](https://www.snowflake.com/)
+- [Snowflake](https://www.snowflake.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Rock Your Data](https://rockyourdata.cloud)
+- [Rock Your Data](https://rockyourdata.cloud)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[Sierra Systems](http://www.sierrasystems.com)
+- [Sierra Systems](http://www.sierrasystems.com)
  
-[xMatters](https://www.xmatters.com/company/careers/)
+- [xMatters](https://www.xmatters.com/company/careers/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

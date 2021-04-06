@@ -12,7 +12,7 @@ prettydate: "7 October 2017"
 - Kanalvej 7
 - Kongens Lyngby, Capital Region, Denmark
  
-<a href="/PDF/0656.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0656.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -884,35 +886,35 @@ Board member of the Swedish SQL Server usergroup 2017-2019, organizer of SQL Sat
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Kapacity A/S](http://www.kapacity.dk)
+- [Kapacity A/S](http://www.kapacity.dk)
  
-[it-Craft A/S](http://www.it-craft.dk)
+- [it-Craft A/S](http://www.it-craft.dk)
  
-[ProActive](https://www.proactive.dk/)
+- [ProActive](https://www.proactive.dk/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[VENZO Analytics](http://venzoanalytics.com)
+- [VENZO Analytics](http://venzoanalytics.com)
  
-[Nextagenda](http://www.nextagenda.dk)
+- [Nextagenda](http://www.nextagenda.dk)
  
-[QuintilesIMS](http://denmark.quintilesims.com/)
+- [QuintilesIMS](http://denmark.quintilesims.com/)
  
-[Accobat](https://www.accobat.com)
+- [Accobat](https://www.accobat.com)
  
-[Orange Man](http://OrangeMan.dk)
+- [Orange Man](http://OrangeMan.dk)
  
-[BIWISE](http://biwise.dk)
+- [BIWISE](http://biwise.dk)
  
-[Inspari A/S](http://inspari.dk)
+- [Inspari A/S](http://inspari.dk)
  
-[SuperUsers](https://www.superusers.dk/)
+- [SuperUsers](https://www.superusers.dk/)
  
-[Affecto Denmark A/S](http://www.affecto.dk)
+- [Affecto Denmark A/S](http://www.affecto.dk)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

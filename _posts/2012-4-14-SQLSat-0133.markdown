@@ -12,7 +12,7 @@ prettydate: "14 April 2012"
 - Calle 5
 - San Jose, , Costa Rica
  
-<a href="/PDF/0133.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0133.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -363,17 +365,17 @@ Jesus Gil (Dr. Rudo SQL) es un experto en SQL con mas de 10 años de experiencia
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SherlockTech Staffing](http://www.sherlocktech.com/staff-seeker/)
+- [SherlockTech Staffing](http://www.sherlocktech.com/staff-seeker/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Grupo Asesor en Informatica](http://www.grupoasesor.net)
+- [Grupo Asesor en Informatica](http://www.grupoasesor.net)
  
-[Grape City Power Tools](http://us.grapecity.com/index.htm)
+- [Grape City Power Tools](http://us.grapecity.com/index.htm)
  
-[http://www.sapien.com/software/primalscript](http://www.sapien.com/software/primalscript)
+- [http://www.sapien.com/software/primalscript](http://www.sapien.com/software/primalscript)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

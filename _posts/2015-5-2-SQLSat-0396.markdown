@@ -12,7 +12,7 @@ prettydate: "2 May 2015"
 - 7000 State Hwy 161
 - Irving, Texas
  
-<a href="/PDF/0396.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0396.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -738,25 +740,25 @@ MSBIC is a community focused on promoting the discipline of Business Intelligenc
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[Artis Consulting, L.P.](http://www.artisconsulting.com)
+- [Artis Consulting, L.P.](http://www.artisconsulting.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Slalom, LLC](https://www.slalom.com/)
+- [Slalom, LLC](https://www.slalom.com/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

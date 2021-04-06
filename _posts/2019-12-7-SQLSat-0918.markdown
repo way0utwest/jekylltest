@@ -12,7 +12,7 @@ prettydate: "7 December 2019"
 - 9025 University Rd, Charlotte, NC
 - Charlotte, North Carolina
  
-<a href="/PDF/0918.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0918.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1236,17 +1238,17 @@ After work, Erika can usually be found hiking with her husband and three dogs or
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[BlueAlly Technology Solutions](https://blueally.com/)
+- [BlueAlly Technology Solutions](https://blueally.com/)
  
-[Signature Consultants](http://www.sigconsult.com/)
+- [Signature Consultants](http://www.sigconsult.com/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

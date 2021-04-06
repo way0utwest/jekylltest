@@ -12,7 +12,7 @@ prettydate: "17 October 2015"
 - 2800 Campus Ridge Road
 - Charlotte, North Carolina
  
-<a href="/PDF/0452.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0452.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1156,35 +1158,35 @@ John Welch joined SentryOne in spring 2018 as VP of Engineering with the acquisi
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[AvidXchange](http://www.avidxchange.com)
+- [AvidXchange](http://www.avidxchange.com)
  
-[RDA Corporation](http://www.rdacorp.com/)
+- [RDA Corporation](http://www.rdacorp.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[CapTech](http://www.captechconsulting.com/)
+- [CapTech](http://www.captechconsulting.com/)
  
-[Diversant](http://www.diversant.com)
+- [Diversant](http://www.diversant.com)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Central Piedmont Community College, Levine Campus](https://www.cpcc.edu/computertraining)
+- [Central Piedmont Community College, Levine Campus](https://www.cpcc.edu/computertraining)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

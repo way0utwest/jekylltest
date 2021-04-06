@@ -12,7 +12,7 @@ prettydate: "20 May 2017"
 - Peremohy Ave 84
 - Kiev, Misto Kyyiv, Ukraine
  
-<a href="/PDF/0616.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0616.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -764,33 +766,33 @@ Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Men
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Intapp](http://www.intapp.com/)
+- [Intapp](http://www.intapp.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
+- [ELEKS](http://eleks.com/?utm_source=SQLSaturday_Lvivutm_medium=partner_pageutm_content=site-linkutm_campaign=ua_events)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[DataArt](http://dataart.ua/)
+- [DataArt](http://dataart.ua/)
  
-[EPAM](http://www.epam.com/)
+- [EPAM](http://www.epam.com/)
  
-[Infopulse Ukraine](https://www.infopulse.com/)
+- [Infopulse Ukraine](https://www.infopulse.com/)
  
-[KRAN](http://krann.com.ua/)
+- [KRAN](http://krann.com.ua/)
  
-[Планета Кіно](https://planetakino.ua)
+- [Планета Кіно](https://planetakino.ua)
  
-[Digital Ukraine](http://digitalua.org/)
+- [Digital Ukraine](http://digitalua.org/)
  
-[Startup.Network](https://startup.network/)
+- [Startup.Network](https://startup.network/)
  
-[Data Science UA](http://data-science.com.ua/)
+- [Data Science UA](http://data-science.com.ua/)
  
-[Sigma Software](http://sigma.software/)
+- [Sigma Software](http://sigma.software/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "19 April 2012"
 - 45 West Row
 - Canberra, , Australia
  
-<a href="/PDF/0137.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0137.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -159,27 +161,27 @@ Grant Paisley is a Data Platform MVP and founder of Angry Koala, a Microsoft Bus
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[SQL Down Under](http://www.sqldownunder.com/)
+- [SQL Down Under](http://www.sqldownunder.com/)
  
-[LobsterPot Solutions](http://lobsterpot.com.au)
+- [LobsterPot Solutions](http://lobsterpot.com.au)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[ReadyRoll](http://ready-roll.com/)
+- [ReadyRoll](http://ready-roll.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[StrataDB](http://www.stratadb.com/)
+- [StrataDB](http://www.stratadb.com/)
  
-[AucklandSQL](http://aucklandsql.com)
+- [AucklandSQL](http://aucklandsql.com)
  
-[SQL Concepts](http://www.sqlconcepts.co.nz/)
+- [SQL Concepts](http://www.sqlconcepts.co.nz/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

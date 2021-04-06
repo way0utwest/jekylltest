@@ -12,7 +12,7 @@ prettydate: "6 May 2017"
 - 8890 McGaw Road
 - Columbia, Maryland
  
-<a href="/PDF/0615.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0615.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1026,31 +1028,31 @@ A musician in his spare time, Ray plays four different instruments. He also enjo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Moser Consulting](http://moserit.com)
+- [Moser Consulting](http://moserit.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Realistic Computing Inc.](http://www.realistic-computing.com/)
+- [Realistic Computing Inc.](http://www.realistic-computing.com/)
  
-[Allegient](http://www.allegient.com)
+- [Allegient](http://www.allegient.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Applied Information Sciences](http://workatais.com/)
+- [Applied Information Sciences](http://workatais.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Vision Technology Services](http://www.bgstaffing.com/executive-recruitment/it-project-management/)
+- [Vision Technology Services](http://www.bgstaffing.com/executive-recruitment/it-project-management/)
  
-[SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
+- [SQL Data Partners LLC](http://www.sqldatapartners.com/podcast)
  
-[Goldberg Finnegan](https://www.goldbergfinnegan.com/)
+- [Goldberg Finnegan](https://www.goldbergfinnegan.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

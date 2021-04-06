@@ -12,7 +12,7 @@ prettydate: "14 April 2018"
 - 15 E Peace Street
 - Raleigh, North Carolina
  
-<a href="/PDF/0721.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0721.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1117,25 +1119,25 @@ Most recently, he created PowerPump, a “PowerShell Database Copy Server” for
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[CData Software](https://www.cdata.com/)
+- [CData Software](https://www.cdata.com/)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Hays - Powered by Veredus](http://vereduscorp.com/)
+- [Hays - Powered by Veredus](http://vereduscorp.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[SQL Saturday Atlanta](http://www.atlantamdf.com/)
+- [SQL Saturday Atlanta](http://www.atlantamdf.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

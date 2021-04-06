@@ -12,7 +12,7 @@ prettydate: "1 March 2014"
 - 370 Bassett Road
 - North Haven, Connecticut
  
-<a href="/PDF/0268.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0268.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -645,33 +647,33 @@ Leonard Lobel is a SQL Server MVP and database architect at Tallan. Programming 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Tallan](http://www.tallan.com)
+- [Tallan](http://www.tallan.com)
  
-[Bridgewater Associates](http://www.bwater.com/default.aspx)
+- [Bridgewater Associates](http://www.bwater.com/default.aspx)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
+- [Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
  
-[Bridge Technical Talent](http://www.bridge-talent.com)
+- [Bridge Technical Talent](http://www.bridge-talent.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SQLintersection](http://www.SQLintersection.com)
+- [SQLintersection](http://www.SQLintersection.com)
  
-[Blum Shapiro](http://www.blumshapiro.com)
+- [Blum Shapiro](http://www.blumshapiro.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

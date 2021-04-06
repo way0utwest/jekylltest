@@ -12,7 +12,7 @@ prettydate: "18 May 2013"
 - Kommunarov st 268B
 - Krasnodar, , Russian Federation
  
-<a href="/PDF/0216.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0216.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -236,13 +238,13 @@ Denis Reznik is a Data Architect at Intapp, Inc. He has more than ten years expe
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SQL.RU](http://www.sql.ru/)
+- [SQL.RU](http://www.sql.ru/)
  
-[it-sobytie.ru](http://it-sobytie.ru/)
+- [it-sobytie.ru](http://it-sobytie.ru/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "15 December 2012"
 - Tripureshor
 - Kathmandu, Bagmati, Nepal
  
-<a href="/PDF/0180.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0180.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -179,35 +181,35 @@ Currently she works as a Managing Partner and Chief SQL Architect of Inspirit, h
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Navantis Inc.](http://www.navantis.com)
+- [Navantis Inc.](http://www.navantis.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cyber International (P). Ltd](http://cipl.com.np)
+- [Cyber International (P). Ltd](http://cipl.com.np)
  
-[Thakral One Nepal Pvt. Ltd.](http://www.thakralone.com)
+- [Thakral One Nepal Pvt. Ltd.](http://www.thakralone.com)
  
-[Mercantile Communications Pvt. Ltd](http://www.mos.com.np)
+- [Mercantile Communications Pvt. Ltd](http://www.mos.com.np)
  
-[ComTech Group Co.Pvt.Ltd](http://www.hardwarenepal.com)
+- [ComTech Group Co.Pvt.Ltd](http://www.hardwarenepal.com)
  
-[Sunway International Business School](http://www.sunway.edu.np/)
+- [Sunway International Business School](http://www.sunway.edu.np/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SYNTEGRATE](http://syntegrate.com.np)
+- [SYNTEGRATE](http://syntegrate.com.np)
  
-[TrainSignal, Inc](http://www.trainsignal.com/)
+- [TrainSignal, Inc](http://www.trainsignal.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Pluralsight LLC](http://pluralsight.com)
+- [Pluralsight LLC](http://pluralsight.com)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Apress, Inc.](http://www.apress.com)
+- [Apress, Inc.](http://www.apress.com)
  
-[Verisk Information Technologies](http://www.veriskit.com/)
+- [Verisk Information Technologies](http://www.veriskit.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

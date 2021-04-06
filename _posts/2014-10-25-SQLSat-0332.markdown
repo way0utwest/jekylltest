@@ -12,7 +12,7 @@ prettydate: "25 October 2014"
 - 200 Union Street SE
 - Minneapolis, Minnesota
  
-<a href="/PDF/0332.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0332.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -848,55 +850,55 @@ As a Technology Solutions Professional at Microsoft I am constantly working to b
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Hortonworks](http://hortonworks.com/)
+- [Hortonworks](http://hortonworks.com/)
  
-[SNI Technology](http://www.snitechnology.com/)
+- [SNI Technology](http://www.snitechnology.com/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[sdg](http://solutiondesign.com/)
+- [sdg](http://solutiondesign.com/)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Digineer](http://www.digineer.com/)
+- [Digineer](http://www.digineer.com/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[RBA](http://www.rbaconsulting.com)
+- [RBA](http://www.rbaconsulting.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Intertech](http://www.intertech.com/)
+- [Intertech](http://www.intertech.com/)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Ntirety, A Division of HOSTING](http://ntirety.com/)
+- [Ntirety, A Division of HOSTING](http://ntirety.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Jim Dorame](http://www.jamesdorame.com/)
+- [Jim Dorame](http://www.jamesdorame.com/)
  
-[RealSQLGuy.com](http://realsqlguy.com)
+- [RealSQLGuy.com](http://realsqlguy.com)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[Softvative Inc](http://www.softvative.com)
+- [Softvative Inc](http://www.softvative.com)
  
-[MSSQLTips](http://www.mssqltips.com/index.asp)
+- [MSSQLTips](http://www.mssqltips.com/index.asp)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

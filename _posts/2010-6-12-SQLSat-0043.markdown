@@ -12,7 +12,7 @@ prettydate: "12 June 2010"
 - 15255 NE 40th Street
 - Redmond, Washington
  
-<a href="/PDF/0043.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0043.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -407,29 +409,29 @@ Greg Larsen has been working with SQL Server since 1999. He has authored 100's o
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[expressor software](http://www.expressor-software.com)
+- [expressor software](http://www.expressor-software.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[WestClinTech](http://westclintech.com)
+- [WestClinTech](http://westclintech.com)
  
-[Attunity](http://www.attunity.com)
+- [Attunity](http://www.attunity.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Pearson User Group Program](http://www.informit.com/usregroups)
+- [Pearson User Group Program](http://www.informit.com/usregroups)
  
-[Apress Inc.](http://apress.com/)
+- [Apress Inc.](http://apress.com/)
  
-[Kalen Delaney](http://www.SQLServerInternals.com)
+- [Kalen Delaney](http://www.SQLServerInternals.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

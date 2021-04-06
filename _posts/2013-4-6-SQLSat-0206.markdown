@@ -12,7 +12,7 @@ prettydate: "6 April 2013"
 - 3550 Anderson St
 - Madison, Wisconsin
  
-<a href="/PDF/0206.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0206.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -807,21 +809,21 @@ Janis Griffin has over 30 years of DBA/database experience including design, dev
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tushaus Computer Services](http://www.tushaus.com)
+- [Tushaus Computer Services](http://www.tushaus.com)
  
-[Rubix Consulting, LLC](http://www.rubixconsulting.net)
+- [Rubix Consulting, LLC](http://www.rubixconsulting.net)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
+- [Trek Bicycle Corporation](http://www.trekbikes.com/us/en/sitemap/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

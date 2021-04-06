@@ -12,7 +12,7 @@ prettydate: "19 August 2017"
 - 4801 N Career Ave
 - Sioux Falls, South Dakota
  
-<a href="/PDF/0662.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0662.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -580,37 +582,37 @@ Since 2000, Stacia has provided consulting and education services for Microsoft'
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[MetaBank](https://www.metabank.com/)
+- [MetaBank](https://www.metabank.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Beyond Impact](http://www.beyondimpactllc.com)
+- [Beyond Impact](http://www.beyondimpactllc.com)
  
-[SDN Communications](https://sdncommunications.com)
+- [SDN Communications](https://sdncommunications.com)
  
-[Omnitech Inc](http://www.omnitech-inc.com/)
+- [Omnitech Inc](http://www.omnitech-inc.com/)
  
-[Sanford Health](http://www.sanfordhealth.org)
+- [Sanford Health](http://www.sanfordhealth.org)
  
-[Dakota State University](http://dsu.edu/)
+- [Dakota State University](http://dsu.edu/)
  
-[First Bank  Trust](https://www.bankeasy.com/)
+- [First Bank  Trust](https://www.bankeasy.com/)
  
-[Wells Fargo](https://www.wellsfargo.com/)
+- [Wells Fargo](https://www.wellsfargo.com/)
  
-[CHR Solutions](http://www.chrsolutions.com)
+- [CHR Solutions](http://www.chrsolutions.com)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Daktronics](http://www.daktronics.com)
+- [Daktronics](http://www.daktronics.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

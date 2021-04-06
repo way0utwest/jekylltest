@@ -12,7 +12,7 @@ prettydate: "19 September 2020"
 - Miramarska 24
 - Zagreb, , Croatia
  
-<a href="/PDF/0932.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0932.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -483,29 +485,29 @@ Catalin Gheorghiu is a solution architect from Romania. He has more than 15 year
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[Red Hat](https://www.redhat.com/)
+- [Red Hat](https://www.redhat.com/)
  
-[MOBILNA INFORMATIKA D.O.O.](https://www.repsly.com/)
+- [MOBILNA INFORMATIKA D.O.O.](https://www.repsly.com/)
  
-[Plus-IT doo](https://plus-it.hr)
+- [Plus-IT doo](https://plus-it.hr)
  
-[KING ICT](http://www.king-ict.hr/)
+- [KING ICT](http://www.king-ict.hr/)
  
-[SPAN d.o.o.](https://span.eu/)
+- [SPAN d.o.o.](https://span.eu/)
  
-[Data Sense d.o.o.](http://www.datasense.hr)
+- [Data Sense d.o.o.](http://www.datasense.hr)
  
-[Infobip d.o.o.](https://www.infobip.com/)
+- [Infobip d.o.o.](https://www.infobip.com/)
  
-[HR Prodigy](https://hrprodigy.hr/)
+- [HR Prodigy](https://hrprodigy.hr/)
  
-[Praxis Info d.o.o.](https://www.firmoteka.hr/)
+- [Praxis Info d.o.o.](https://www.firmoteka.hr/)
  
-[RevDeBug](https://revdebug.com)
+- [RevDeBug](https://revdebug.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

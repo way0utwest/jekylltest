@@ -12,7 +12,7 @@ prettydate: "7 January 2012"
 - Domlur, Bangalore 
 - Bangalore, Karnataka, India
  
-<a href="/PDF/0116.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0116.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -279,11 +281,11 @@ In July 2011, I appared for SSAS Maestro (MCM) in Redmond - resut awaited.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Joes 2 Pros](http://joes2pros.com/)
+- [Joes 2 Pros](http://joes2pros.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

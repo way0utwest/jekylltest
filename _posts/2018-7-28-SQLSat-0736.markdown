@@ -12,7 +12,7 @@ prettydate: "28 July 2018"
 - 27 S Grove Street
 - Columbus, Ohio
  
-<a href="/PDF/0736.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0736.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1098,27 +1100,27 @@ Andy lives just outside Boston, Massachusetts, USA with his husband and their tw
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[SQLGrease](https://www.sqlgrease.com)
+- [SQLGrease](https://www.sqlgrease.com)
  
-[RDX](http://www.navisite.com)
+- [RDX](http://www.navisite.com)
  
-[DataPerf Professionals](https://www.dataperfpro.com)
+- [DataPerf Professionals](https://www.dataperfpro.com)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[DataVeld](https://dataveld.com)
+- [DataVeld](https://dataveld.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

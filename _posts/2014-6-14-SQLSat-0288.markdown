@@ -12,7 +12,7 @@ prettydate: "14 June 2014"
 - 3301 College Ave
 - Davie, Florida
  
-<a href="/PDF/0288.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0288.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1393,51 +1395,51 @@ Kendal is a database strategist, community advocate, public speaker, and blogger
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SherlockTech Staffing](http://www.sherlocktech.com/staff-seeker/)
+- [SherlockTech Staffing](http://www.sherlocktech.com/staff-seeker/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[TEKPartners](http://www.tekpartners.com)
+- [TEKPartners](http://www.tekpartners.com)
  
-[Nova Southeastern University](http://scis.nova.edu)
+- [Nova Southeastern University](http://scis.nova.edu)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Signature Consulting](http://www.sigconsult.com)
+- [Signature Consulting](http://www.sigconsult.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Blue Syntax Consulting](http://www.bluesyntaxconsulting.com)
+- [Blue Syntax Consulting](http://www.bluesyntaxconsulting.com)
  
-[SolidFire](https://solidfire.com)
+- [SolidFire](https://solidfire.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Wintellect](http://www.wintellectnow.com/)
+- [Wintellect](http://www.wintellectnow.com/)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Apress Media LLC](https://www.apress.com/)
+- [Apress Media LLC](https://www.apress.com/)
  
-[Intertech](http://www.intertech.com/)
+- [Intertech](http://www.intertech.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

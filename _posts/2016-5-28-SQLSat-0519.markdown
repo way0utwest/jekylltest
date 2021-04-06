@@ -12,7 +12,7 @@ prettydate: "28 May 2016"
 - 15 Gladston Str., 4000 Plovdiv, Bulgaria
 - Plovdiv, Plovdiv, Bulgaria
  
-<a href="/PDF/0519.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0519.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -455,25 +457,25 @@ I am a Data platform MVP with more than 10 years of real-life experience with SQ
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SuperHosting.BG](http://www.superhosting.bg/)
+- [SuperHosting.BG](http://www.superhosting.bg/)
  
-[Dutch IT Cluster](http://www.dutchitcluster.eu/)
+- [Dutch IT Cluster](http://www.dutchitcluster.eu/)
  
-[SBTECH](http://www.sbtech.com/)
+- [SBTECH](http://www.sbtech.com/)
  
-[Bulpros](http://www.bulpros.com/)
+- [Bulpros](http://www.bulpros.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[TechTalks.bg](http://techtalks.bg/)
+- [TechTalks.bg](http://techtalks.bg/)
  
-[Programista](http://www.programista.bg/)
+- [Programista](http://www.programista.bg/)
  
-[Adastra Bulgaria](http://www.bg.adastragrp.com/)
+- [Adastra Bulgaria](http://www.bg.adastragrp.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

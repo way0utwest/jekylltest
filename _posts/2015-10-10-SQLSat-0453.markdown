@@ -12,7 +12,7 @@ prettydate: "10 October 2015"
 - 1000 Lasalle Ave
 - Minneapolis, Minnesota
  
-<a href="/PDF/0453.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0453.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -950,35 +952,35 @@ Microsoft Certified - 461 Querying Microsoft SQL Server 2014
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Tail Wind Informatics Corp.](http://tailwindtech.com/)
+- [Tail Wind Informatics Corp.](http://tailwindtech.com/)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Improving](http://www.improving.com)
+- [Improving](http://www.improving.com)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Intertech Inc](http://www.intertech.com/)
+- [Intertech Inc](http://www.intertech.com/)
  
-[SafeNet Consulting Inc.](http://www.safenetconsulting.com/index.php)
+- [SafeNet Consulting Inc.](http://www.safenetconsulting.com/index.php)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

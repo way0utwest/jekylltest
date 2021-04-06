@@ -12,7 +12,7 @@ prettydate: "18 November 2017"
 - Paicaví 3280, Concepción, Región del Bío Bío
 - Concepcion, Bío-Bío, Chile
  
-<a href="/PDF/0684.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0684.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -638,21 +640,21 @@ Transporte Marítimo/Portuario (CSAV, Hapag Lloyd) Retail (johnson) Banca (banco
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Metric Arts](http://www.metricarts.com)
+- [Metric Arts](http://www.metricarts.com)
  
-[Lagash](http://www.lagash.com)
+- [Lagash](http://www.lagash.com)
  
-[CUATROi](http://www.cuatroi.com)
+- [CUATROi](http://www.cuatroi.com)
  
-[GSIX](http://www.gsix.cl)
+- [GSIX](http://www.gsix.cl)
  
-[SoftwareONE](http://www.softwareone.com)
+- [SoftwareONE](http://www.softwareone.com)
  
-[Valmar](http://www.valmar.cl/)
+- [Valmar](http://www.valmar.cl/)
  
-[Xenitt](http://xenitt.cl/)
+- [Xenitt](http://xenitt.cl/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

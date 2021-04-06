@@ -12,7 +12,7 @@ prettydate: "2 September 2017"
 - 139 Carrington Rd, Mount Albert
 - Auckland, Auckland, New Zealand
  
-<a href="/PDF/0655.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0655.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -601,19 +603,19 @@ Warwick Rudd is a Microsoft Certified Master – SQL Server 2008 and Principal C
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Unitec Institute of Technology](http://www.unitec.ac.nz/)
+- [Unitec Institute of Technology](http://www.unitec.ac.nz/)
  
-[RADACAD](http://radacad.com/)
+- [RADACAD](http://radacad.com/)
  
-[TimeXtender](http://www.timextender.com)
+- [TimeXtender](http://www.timextender.com)
  
-[MS Communities New Zealand](http://www.mscommunities.co.nz/)
+- [MS Communities New Zealand](http://www.mscommunities.co.nz/)
  
-[Detecta](https://www.detecta.io)
+- [Detecta](https://www.detecta.io)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

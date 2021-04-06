@@ -12,7 +12,7 @@ prettydate: "19 January 2018"
 - Mautner-Markhof-Gasse 50
 - Vienna, Vienna, Austria
  
-<a href="/PDF/0679.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0679.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -870,29 +872,29 @@ Go to http://Andy.PT and you'll know the same as the NSA...
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[webtelligence IT consulting GmbH](http://www.webtelligence-itc.net)
+- [webtelligence IT consulting GmbH](http://www.webtelligence-itc.net)
  
-[Quest Software Deutschland](https://www.quest.com/de-de/)
+- [Quest Software Deutschland](https://www.quest.com/de-de/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SolidQ CEE](http://www.solidq.com)
+- [SolidQ CEE](http://www.solidq.com)
  
-[Trivadis AG](http://www.trivadis.com/de)
+- [Trivadis AG](http://www.trivadis.com/de)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Solisyon GmbH](http://www.solisyon.de/)
+- [Solisyon GmbH](http://www.solisyon.de/)
  
-[oh22](http://www.oh22.net)
+- [oh22](http://www.oh22.net)
  
-[pmOne Analytics](https://www.pmone.com/unternehmen/pmone-analytics-gmbh/)
+- [pmOne Analytics](https://www.pmone.com/unternehmen/pmone-analytics-gmbh/)
  
-[cubido business solutions gmbh](http://www.cubido.at)
+- [cubido business solutions gmbh](http://www.cubido.at)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Greentube Internet Entertainment Solutions GmbH](https://www.greentube.com/)
+- [Greentube Internet Entertainment Solutions GmbH](https://www.greentube.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

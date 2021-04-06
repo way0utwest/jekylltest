@@ -12,7 +12,7 @@ prettydate: "30 March 2019"
 - 250H Teachers-Dyer Complex
 - Cincinnati, Ohio
  
-<a href="/PDF/0827.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0827.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1100,39 +1102,39 @@ Joshua Higginbotham is a Data Services Manager at Republic Bank based out of Lou
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[BITracks](http://www.bitracks.com/)
+- [BITracks](http://www.bitracks.com/)
  
-[Snowflake](https://www.snowflake.com/)
+- [Snowflake](https://www.snowflake.com/)
  
-[Insight Enterprises](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [Insight Enterprises](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[Main Street DBAS](http://www.mainstreetdbas.com/)
+- [Main Street DBAS](http://www.mainstreetdbas.com/)
  
-[KiZAN](https://www.kizan.com)
+- [KiZAN](https://www.kizan.com)
  
-[Ingage Partners](http://www.ingagepartners.com/)
+- [Ingage Partners](http://www.ingagepartners.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[NIS Technologies](http://www.nistechnologies.com)
+- [NIS Technologies](http://www.nistechnologies.com)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[Eric](https://www.jaggedpeak.com/)
+- [Eric](https://www.jaggedpeak.com/)
  
-[Vantiv Now Worldpay](https://www.vantiv.com/)
+- [Vantiv Now Worldpay](https://www.vantiv.com/)
  
-[DataPerf Professionals](https://www.dataperfpro.com)
+- [DataPerf Professionals](https://www.dataperfpro.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "26 September 2015"
 - Leuvenlaan 21
 - Utrecht, Utrecht, Netherlands
  
-<a href="/PDF/0434.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0434.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -903,29 +905,29 @@ Denny Cherry is the owner and principal consultant for Denny Cherry  Associates 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Motion10](http://www.motion10.nl/)
+- [Motion10](http://www.motion10.nl/)
  
-[Info Support](http://www.infosupport.com)
+- [Info Support](http://www.infosupport.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[hp](http://www.valid.nl/)
+- [hp](http://www.valid.nl/)
  
-[Monkey Recruitment B.V.](http://www.monkeyrecruitment.nl/)
+- [Monkey Recruitment B.V.](http://www.monkeyrecruitment.nl/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[PernixData](http://www.pernixdata.com)
+- [PernixData](http://www.pernixdata.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Rubicon](http://www.rubicon.nl)
+- [Rubicon](http://www.rubicon.nl)
  
-[ilionX](http://www.ilionx.com)
+- [ilionX](http://www.ilionx.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

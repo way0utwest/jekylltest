@@ -12,7 +12,7 @@ prettydate: "25 October 2014"
 - 
 - Tampa, Florida
  
-<a href="/PDF/0326.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0326.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -351,19 +353,19 @@ For years Mike has had a passion for automating tasks  processes related to the 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Agile Bay, Inc.](http://www.agilebay.com)
+- [Agile Bay, Inc.](http://www.agilebay.com)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Vaco Tampa](http://www.vaco.com/tampa)
+- [Vaco Tampa](http://www.vaco.com/tampa)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[MSSQLTips](http://www.mssqltips.com/index.asp)
+- [MSSQLTips](http://www.mssqltips.com/index.asp)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

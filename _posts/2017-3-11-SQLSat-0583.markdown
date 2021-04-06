@@ -12,7 +12,7 @@ prettydate: "11 March 2017"
 - Rua do Fogo de Santelmo, Lote 2.07.02
 - lisbon, Lisbon, Portugal
  
-<a href="/PDF/0583.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0583.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -813,31 +815,31 @@ Blog: http://sqland.wordpress.com/
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
+- [Rumos - Formação e Comunicação, S. A.](http://formacao.rumos.pt)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
+- [BI4ALL - Consultores de Gestão, lda](http://www.bi4all.pt)
  
-[MyGet](http://myget.org/)
+- [MyGet](http://myget.org/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[CloudMonix](http://cloudmonix.com/)
+- [CloudMonix](http://cloudmonix.com/)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[TUGA - ASSOCIAÇÃO PARA A PROMOÇÃO DO CONHECIMENTO](http://www.tugait.pt)
+- [TUGA - ASSOCIAÇÃO PARA A PROMOÇÃO DO CONHECIMENTO](http://www.tugait.pt)
  
-[SQLPort](http://sqlport.com/sql-server/)
+- [SQLPort](http://sqlport.com/sql-server/)
  
-[pplware](http://pplware.sapo.pt)
+- [pplware](http://pplware.sapo.pt)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

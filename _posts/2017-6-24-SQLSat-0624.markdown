@@ -12,7 +12,7 @@ prettydate: "24 June 2017"
 - 784 Vine Street
 - Chattanooga, Tennessee
  
-<a href="/PDF/0624.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0624.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1602,35 +1604,35 @@ Louis Davidson has worked in the IT industry for over 25 years as a corporate da
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Tennessee Valley Authority](http://www.tva.gov)
+- [Tennessee Valley Authority](http://www.tva.gov)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[UT Chattanooga](http://www.utc.edu)
+- [UT Chattanooga](http://www.utc.edu)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[New Horizons of Chattanooga](http://nhsolutionshub.com/about-us/locations/chattanooga-tn)
+- [New Horizons of Chattanooga](http://nhsolutionshub.com/about-us/locations/chattanooga-tn)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[SolidQ North America](http://www.solidq.com)
+- [SolidQ North America](http://www.solidq.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Professionals of Chattanooga](http://spoc.sqlpass.org)
+- [SQL Professionals of Chattanooga](http://spoc.sqlpass.org)
  
-[Prologika](http://www.prologika.com/)
+- [Prologika](http://www.prologika.com/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Scenic City Developers Summit](https://www.sceniccitysummit.com/)
+- [Scenic City Developers Summit](https://www.sceniccitysummit.com/)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

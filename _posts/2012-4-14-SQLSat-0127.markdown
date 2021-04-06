@@ -12,7 +12,7 @@ prettydate: "14 April 2012"
 - 
 - Rio de Janeiro, , Brazil
  
-<a href="/PDF/0127.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0127.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -305,51 +307,51 @@ CEO  Founder of SQLCORE Database Solutions and Red Gate Partner in Brazil.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[Universidade Veiga de Almeida](http://www.uva.br)
+- [Universidade Veiga de Almeida](http://www.uva.br)
  
-[Bufalo Informatica](http://www.bufaloinfo.com.br)
+- [Bufalo Informatica](http://www.bufaloinfo.com.br)
  
-[devSQL Pass Chapter](http://facebook.com/devSQL)
+- [devSQL Pass Chapter](http://facebook.com/devSQL)
  
-[MCDBABRASIL](http://www.mcdbabrasil.com.br)
+- [MCDBABRASIL](http://www.mcdbabrasil.com.br)
  
-[Blog da TI](http://www.blogdati.com.br)
+- [Blog da TI](http://www.blogdati.com.br)
  
-[DoomTech](http://leka.com.br)
+- [DoomTech](http://leka.com.br)
  
-[Vida de Suporte](http://www.vidadesuporte.com.br)
+- [Vida de Suporte](http://www.vidadesuporte.com.br)
  
-[Fabiano Amorim](http://blogfabiano.com)
+- [Fabiano Amorim](http://blogfabiano.com)
  
-[FabricioLima.Net](http://fabriciolima.net/)
+- [FabricioLima.Net](http://fabriciolima.net/)
  
-[MundoConectado.NET](http://mundoconectado.net/)
+- [MundoConectado.NET](http://mundoconectado.net/)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Edvaldo Castro' Blog](http://edvaldocastro.wordpress.com)
+- [Edvaldo Castro' Blog](http://edvaldocastro.wordpress.com)
  
-[CBSA](http://cbsa.com.br/)
+- [CBSA](http://cbsa.com.br/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[WebMundi](http://www.webmundi.net/)
+- [WebMundi](http://www.webmundi.net/)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[UDGWebDev](http://udgwebdev.com)
+- [UDGWebDev](http://udgwebdev.com)
  
-[Diego Nogare](http://www.livrosdonogare.com.br/)
+- [Diego Nogare](http://www.livrosdonogare.com.br/)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
-[Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
+- [Morgan Kaufmann](http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

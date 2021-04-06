@@ -12,7 +12,7 @@ prettydate: "10 May 2014"
 - 1 UNF Drive
 - Jacksonville, Florida
  
-<a href="/PDF/0298.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0298.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -945,27 +947,27 @@ Brian K. McDonald, MCDBA, MCSD, is an author, a BI and data warehouse geek and S
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[University of North Florida](http://www.unf.edu)
+- [University of North Florida](http://www.unf.edu)
  
-[SNI Technology](http://www.snitechnology.com/)
+- [SNI Technology](http://www.snitechnology.com/)
  
-[Code on the Beach](http://www.codeonthebeach.com)
+- [Code on the Beach](http://www.codeonthebeach.com)
  
-[DMEautomotive](http://www.dmeautomotive.com/)
+- [DMEautomotive](http://www.dmeautomotive.com/)
  
-[Yash Creations Inc.](http://www.yashcreations.com)
+- [Yash Creations Inc.](http://www.yashcreations.com)
  
-[Alluvion Staffing](http://www.alluvionstaffing.com)
+- [Alluvion Staffing](http://www.alluvionstaffing.com)
  
-[iMethods Inc.](http://www.imethods.com)
+- [iMethods Inc.](http://www.imethods.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "18 April 2015"
 - Calle 5
 - San Jose, , Costa Rica
  
-<a href="/PDF/0368.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0368.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -912,17 +914,17 @@ Carlos Rojas Vargas es Microsoft MVP en SQL-Server desde el año 2001 con 16 añ
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Grupo Asesor en Informatica](http://www.grupoasesor.net)
+- [Grupo Asesor en Informatica](http://www.grupoasesor.net)
  
-[Comunidad Windows](http://www.facebook.com/ComunidadWindows)
+- [Comunidad Windows](http://www.facebook.com/ComunidadWindows)
  
-[Linchpin People, LLC](http://www.linchpinpeople.com)
+- [Linchpin People, LLC](http://www.linchpinpeople.com)
  
-[Informatech](http://www.informatech.cr/)
+- [Informatech](http://www.informatech.cr/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

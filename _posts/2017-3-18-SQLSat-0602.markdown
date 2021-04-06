@@ -12,7 +12,7 @@ prettydate: "18 March 2017"
 - Menntavegur 1
 - Reykjavik, Gullbringusysla, Iceland
  
-<a href="/PDF/0602.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0602.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -606,15 +608,15 @@ He has extensive experience in designing and developing Big Data Analytics, Data
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Advania](https://www.advania.is/)
+- [Advania](https://www.advania.is/)
  
-[Miracle ehf.](http://www.miracle.is)
+- [Miracle ehf.](http://www.miracle.is)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[LS Retail](http://lsretail.com)
+- [LS Retail](http://lsretail.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

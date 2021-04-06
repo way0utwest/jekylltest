@@ -12,7 +12,7 @@ prettydate: "1 April 2017"
 - Antonio Varas 666, Providencia
 - Santiago, Región Metropolitana, Chile
  
-<a href="/PDF/0606.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0606.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -540,23 +542,23 @@ My goal is to belong to an organization where I can develop and enhance my skill
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SoftwareONE](http://www.softwareone.com)
+- [SoftwareONE](http://www.softwareone.com)
  
-[Metric Arts](http://www.metricarts.com)
+- [Metric Arts](http://www.metricarts.com)
  
-[AWS](https://aws.amazon.com/)
+- [AWS](https://aws.amazon.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Arkano](https://www.arkanosoft.com/)
+- [Arkano](https://www.arkanosoft.com/)
  
-[LatinShare](http://www.latinshare.com/)
+- [LatinShare](http://www.latinshare.com/)
  
-[Quest Software Latam](https://www.quest.com/)
+- [Quest Software Latam](https://www.quest.com/)
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

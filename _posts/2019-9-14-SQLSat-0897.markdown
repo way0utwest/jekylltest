@@ -12,7 +12,7 @@ prettydate: "14 September 2019"
 - Liesbeek Parkway  Observatory Road, Observatory, Cape Town,  South Africa 
 - Cape Town, Western Cape, South Africa
  
-<a href="/PDF/0897.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0897.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -710,17 +712,17 @@ Itinerant Data Scientist; Geek; Runner.
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Zebra](https://www.zebra.com/gb/en.html)
+- [Zebra](https://www.zebra.com/gb/en.html)
  
-[AWS](https://aws.amazon.com/)
+- [AWS](https://aws.amazon.com/)
  
-[Tarsus Cloud OnDemand](http://www.cloudondemand.co.za/)
+- [Tarsus Cloud OnDemand](http://www.cloudondemand.co.za/)
  
-[Northern Data](http://www.northerndata.co.za)
+- [Northern Data](http://www.northerndata.co.za)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

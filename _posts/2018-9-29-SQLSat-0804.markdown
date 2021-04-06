@@ -12,7 +12,7 @@ prettydate: "29 September 2018"
 - Rua Antônio Macedo, 505
 - São Paulo, São Paulo, Brazil
  
-<a href="/PDF/0804.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0804.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -882,27 +884,27 @@ Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE an
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[FCamara](http://www.fcnuvem.com.br)
+- [FCamara](http://www.fcnuvem.com.br)
  
-[Dataside](http://www.dataside.com.br)
+- [Dataside](http://www.dataside.com.br)
  
-[Green Tecnologia](https://www.green.com.br/site/)
+- [Green Tecnologia](https://www.green.com.br/site/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[Planilheiros Treinamentos Empresariais Ltda](https://planilheiros.com.br)
+- [Planilheiros Treinamentos Empresariais Ltda](https://planilheiros.com.br)
  
-[Vita Database Solution](http://www.vitadbsolutions.com)
+- [Vita Database Solution](http://www.vitadbsolutions.com)
  
-[FabricioLima.Net](http://fabriciolima.net/)
+- [FabricioLima.Net](http://fabriciolima.net/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "25 March 2017"
 - 3300 West Camelback Road
 - Phoenix, Arizona
  
-<a href="/PDF/0597.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0597.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1444,21 +1446,21 @@ I write C# and T-SQL code that scales well. I teach others to do it. DBAs like m
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQLCloud](http://sqlcloud.co.uk)
+- [SQLCloud](http://sqlcloud.co.uk)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Neudesic](http://www.neudesic.com)
+- [Neudesic](http://www.neudesic.com)
  
-[Plus Consulting](http://www.plusconsulting.com)
+- [Plus Consulting](http://www.plusconsulting.com)
  
-[Catapult Systems](http://www.catapultsystems.com)
+- [Catapult Systems](http://www.catapultsystems.com)
  
-[Foresight Intelligence, Inc.](http://foresightintelligence.com/)
+- [Foresight Intelligence, Inc.](http://foresightintelligence.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

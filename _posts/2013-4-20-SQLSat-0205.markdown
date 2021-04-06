@@ -12,7 +12,7 @@ prettydate: "20 April 2013"
 - 100 Convention Boulevard
 - San Juan, , Puerto Rico
  
-<a href="/PDF/0205.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0205.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -481,25 +483,25 @@ His latest book is "Transact SQL the Definitive Guide."
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Experis](https://www.experis.com)
+- [Experis](https://www.experis.com)
  
-[Technology Partners, Inc.](http://www.tppr.com)
+- [Technology Partners, Inc.](http://www.tppr.com)
  
-[Kode Technologies](http://www.kode-techpr.com)
+- [Kode Technologies](http://www.kode-techpr.com)
  
-[Fusionworks, Inc.](http://www.fwpr.com)
+- [Fusionworks, Inc.](http://www.fwpr.com)
  
-[Nagnoi, LLC](http://www.nagnoi.com)
+- [Nagnoi, LLC](http://www.nagnoi.com)
  
-[Abarca Health](http://www.abarcahealth.com)
+- [Abarca Health](http://www.abarcahealth.com)
  
-[Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Puerto Rico](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

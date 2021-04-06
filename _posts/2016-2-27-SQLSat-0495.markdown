@@ -12,7 +12,7 @@ prettydate: "27 February 2016"
 - Via Prasecco, 3/a
 - Pordenone, Friuli, Italy
  
-<a href="/PDF/0495.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0495.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -570,25 +572,25 @@ Matija Lah has more than a decade of experience working with Microsoft SQL Serve
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Beantech](http://www.beantech.it)
+- [Beantech](http://www.beantech.it)
  
-[Realcomm Srl](http://www.realcomm.it/)
+- [Realcomm Srl](http://www.realcomm.it/)
  
-[Overnet Education](http://www.overneteducation.it/)
+- [Overnet Education](http://www.overneteducation.it/)
  
-[thinkIT](http://www.thinkit.it/)
+- [thinkIT](http://www.thinkit.it/)
  
-[Ugiss](http://www.ugiss.org)
+- [Ugiss](http://www.ugiss.org)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[ApexSql - SqlSat495](http://www.apexsql.com/)
+- [ApexSql - SqlSat495](http://www.apexsql.com/)
  
-[Consorzio Universitario di Pordenone](http://www.unipordenone.it/)
+- [Consorzio Universitario di Pordenone](http://www.unipordenone.it/)
  
-[1nn0va](http://www.innovazionefvg.net/)
+- [1nn0va](http://www.innovazionefvg.net/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

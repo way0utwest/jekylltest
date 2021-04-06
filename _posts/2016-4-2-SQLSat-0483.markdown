@@ -12,7 +12,7 @@ prettydate: "2 April 2016"
 - 4435 North Chestnut Street
 - Colorado Springs, Colorado
  
-<a href="/PDF/0483.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0483.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -801,33 +803,33 @@ Rob Volk is a SQL Server DBA in the Metro Atlanta area since 2001. He also moder
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[X-IO Technologies](http://www.x-io.com)
+- [X-IO Technologies](http://www.x-io.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[SNI Technology](http://www.snitechnology.com/)
+- [SNI Technology](http://www.snitechnology.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Quanta Intelligence](http://www.quantaintelligence.com)
+- [Quanta Intelligence](http://www.quantaintelligence.com)
  
-[Colorado Technical University](http://www.coloradotech.edu)
+- [Colorado Technical University](http://www.coloradotech.edu)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[RevGen Partners](http://www.revgenpartners.com/)
+- [RevGen Partners](http://www.revgenpartners.com/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

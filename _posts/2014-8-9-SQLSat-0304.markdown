@@ -12,7 +12,7 @@ prettydate: "9 August 2014"
 - 3777 Priority Way South Drive
 - Indianapolis, Indiana
  
-<a href="/PDF/0304.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0304.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -887,41 +889,41 @@ Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Renaissance Electronic Services](http://www.res-llc.com)
+- [Renaissance Electronic Services](http://www.res-llc.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Moser Consulting](http://moserit.com)
+- [Moser Consulting](http://moserit.com)
  
-[Apparatus](http://www.apparatus.net)
+- [Apparatus](http://www.apparatus.net)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[LobsterPot Solutions](http://lobsterpot.com.au)
+- [LobsterPot Solutions](http://lobsterpot.com.au)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Allegient](http://www.allegient.com)
+- [Allegient](http://www.allegient.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Broadstroke Consulting](http://www.broadstrokeconsulting.com)
+- [Broadstroke Consulting](http://www.broadstrokeconsulting.com)
  
-[Foundation 648, Inc.](http://www.foundation648.com)
+- [Foundation 648, Inc.](http://www.foundation648.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Indicium Resources, Inc.](http://www.idonthaveawebsite.com)
+- [Indicium Resources, Inc.](http://www.idonthaveawebsite.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

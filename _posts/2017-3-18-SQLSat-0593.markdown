@@ -12,7 +12,7 @@ prettydate: "18 March 2017"
 - 800 Lakeshore Drive
 - Birmingham, Alabama
  
-<a href="/PDF/0593.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0593.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -933,39 +935,39 @@ Teo has authored and co-authored several bestselling books on organizational and
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[KEYSYS](https://www.keysys.io/)
+- [KEYSYS](https://www.keysys.io/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[ITAC Solutions](https://itacsolutions.com/locations/birmingham)
+- [ITAC Solutions](https://itacsolutions.com/locations/birmingham)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Sparkhound](http://www.sparkhound.com/)
+- [Sparkhound](http://www.sparkhound.com/)
  
-[Steel City SQL](http://steelcitysql.sqlpass.org)
+- [Steel City SQL](http://steelcitysql.sqlpass.org)
  
-[AtlantaMDF](http://atlantamdf.com)
+- [AtlantaMDF](http://atlantamdf.com)
  
-[Birmingham .NET Meetup](https://www.meetup.com/Birmingham-NET-Meetup/)
+- [Birmingham .NET Meetup](https://www.meetup.com/Birmingham-NET-Meetup/)
  
-[Samford University](https://www.samford.edu)
+- [Samford University](https://www.samford.edu)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Murach](http://murach.com)
+- [Murach](http://murach.com)
  
-[Prologika](http://www.prologika.com/)
+- [Prologika](http://www.prologika.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

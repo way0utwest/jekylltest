@@ -12,7 +12,7 @@ prettydate: "21 November 2015"
 - 2000 McGill College, 5e étage
 - Montreal, Quebec, Canada
  
-<a href="/PDF/0466.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0466.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -203,11 +205,11 @@ Since that time he has worked on projects for House of Commons, Innovapost, Bell
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DevTeach](http://www.devteach.com/Index.aspx)
+- [DevTeach](http://www.devteach.com/Index.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

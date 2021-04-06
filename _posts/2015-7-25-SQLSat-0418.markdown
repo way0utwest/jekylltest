@@ -12,7 +12,7 @@ prettydate: "25 July 2015"
 - 
 - Manchester, , United Kingdom
  
-<a href="/PDF/0418.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0418.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -936,27 +938,27 @@ David has spoken at multiple SQL Saturdays as well as local usergroups and is a 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[RedGate](http://www.red-gate.com/about/community_relations/sql_saturday.htm)
+- [RedGate](http://www.red-gate.com/about/community_relations/sql_saturday.htm)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Fusion IO a SanDisk Company](http://www.fusionio.com/)
+- [Fusion IO a SanDisk Company](http://www.fusionio.com/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[The Big Bang Data Company](http://facebook.com/bigbangdataco)
+- [The Big Bang Data Company](http://facebook.com/bigbangdataco)
  
-[Evolution Recruitment Solutions](http://www.evolutionjobs.co.uk)
+- [Evolution Recruitment Solutions](http://www.evolutionjobs.co.uk)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SIOS Technology EMEA](http://us.sios.com/)
+- [SIOS Technology EMEA](http://us.sios.com/)
  
-[Purple Frog](http://www.PurpleFrogSystems.com)
+- [Purple Frog](http://www.PurpleFrogSystems.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

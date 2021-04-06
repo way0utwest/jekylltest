@@ -12,7 +12,7 @@ prettydate: "30 April 2016"
 - 8890 McGaw Road
 - Columbia, Maryland
  
-<a href="/PDF/0506.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0506.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -958,29 +960,29 @@ Host of BDBI Radio (http://www.bdbiradio.com), a weekly webcast on SQL/BI topics
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[CapTech Consulting](http://captechconsulting.com/)
+- [CapTech Consulting](http://captechconsulting.com/)
  
-[LMO Advertising](http://www.lmo.com)
+- [LMO Advertising](http://www.lmo.com)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Loyola University](http://www.loyola.edu/)
+- [Loyola University](http://www.loyola.edu/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[MicrosoftPress](https://www.microsoftpressstore.com/)
+- [MicrosoftPress](https://www.microsoftpressstore.com/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

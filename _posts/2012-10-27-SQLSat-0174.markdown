@@ -12,7 +12,7 @@ prettydate: "27 October 2012"
 - 2800 Campus Ridge Road
 - Charlotte, North Carolina
  
-<a href="/PDF/0174.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0174.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1030,67 +1032,67 @@ Mike Oryszak is a SharePoint Server MVP and Principal Consultant with Intellinet
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[TekPartners BI](http://www.tekpartnersbi.com)
+- [TekPartners BI](http://www.tekpartnersbi.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[Enterprise Software Solutions](http://www.entsoftsol.com/)
+- [Enterprise Software Solutions](http://www.entsoftsol.com/)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Mariner](http://www.mariner-usa-blog.com/)
+- [Mariner](http://www.mariner-usa-blog.com/)
  
-[GridIron Systems](http://www.gridironsystems.com)
+- [GridIron Systems](http://www.gridironsystems.com)
  
-[New Horizons Computer Learning Center of Charlotte](http://www.nhcharlotte.com)
+- [New Horizons Computer Learning Center of Charlotte](http://www.nhcharlotte.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[CapTech Consulting](http://captechconsulting.com/)
+- [CapTech Consulting](http://captechconsulting.com/)
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Blue Granite](http://www.blue-granite.com/site/Home/tabid/36/Default.aspx)
+- [Blue Granite](http://www.blue-granite.com/site/Home/tabid/36/Default.aspx)
  
-[Rafael Salas](http://www.rafael-salas.com)
+- [Rafael Salas](http://www.rafael-salas.com)
  
-[Melissa Coates](http://www.sqlchick.com)
+- [Melissa Coates](http://www.sqlchick.com)
  
-[Jason Thomas](http://road-blogs.blogspot.com)
+- [Jason Thomas](http://road-blogs.blogspot.com)
  
-[Javier Guillen](http://javierguillen.files.wordpress.com)
+- [Javier Guillen](http://javierguillen.files.wordpress.com)
  
-[Que Publishing](http://www.quepublishing.com/)
+- [Que Publishing](http://www.quepublishing.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Packt Publishing](http://www.PacktPub.com)
+- [Packt Publishing](http://www.PacktPub.com)
  
-[TechSmith](http://www.techsmith.com)
+- [TechSmith](http://www.techsmith.com)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Kimball Group](http://kimballgroup.com)
+- [Kimball Group](http://kimballgroup.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Prologika](http://www.prologika.com/)
+- [Prologika](http://www.prologika.com/)
  
-[Mr. Excel](http://www.mrexcel.com/)
+- [Mr. Excel](http://www.mrexcel.com/)
  
-[McGraw Hill](http://www.mhprofessional.com)
+- [McGraw Hill](http://www.mhprofessional.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "30 March 2019"
 - QNG 46, Area Especial 08
 - Brasilia, Distrito Federal, Brazil
  
-<a href="/PDF/0819.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0819.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -560,7 +562,7 @@ Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE an
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

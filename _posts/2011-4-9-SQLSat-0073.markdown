@@ -12,7 +12,7 @@ prettydate: "9 April 2011"
 - 15744 Goldenwest St
 - Orange County, California
  
-<a href="/PDF/0073.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0073.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -858,15 +860,15 @@ David McCarter is a Microsoft MVP and a principal software engineer/architect in
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Strategy Companion](http://www.strategycompanion.com)
+- [Strategy Companion](http://www.strategycompanion.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

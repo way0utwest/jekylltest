@@ -12,7 +12,7 @@ prettydate: "18 September 2010"
 - 201 S Clinton St
 - Iowa City, Iowa
  
-<a href="/PDF/0050.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0050.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -473,21 +475,21 @@ Wendy Pastrick is from Chicago, IL, and for the past 15 years has served as a Da
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Alliance Technologies](http://www.alliancetechnologies.net/)
+- [Alliance Technologies](http://www.alliancetechnologies.net/)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[GoDaddy.com](http://www.godaddy.com/)
+- [GoDaddy.com](http://www.godaddy.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

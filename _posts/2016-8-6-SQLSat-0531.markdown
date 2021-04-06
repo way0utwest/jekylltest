@@ -12,7 +12,7 @@ prettydate: "6 August 2016"
 - 1500 Alliant Avenue 
 - Louisville, Kentucky
  
-<a href="/PDF/0531.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0531.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -942,33 +944,33 @@ Peter Shore is a seasoned IT professional with over 25 years of experience. He t
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Imperva](http://www.imperva.com/index.html)
+- [Imperva](http://www.imperva.com/index.html)
  
-[Farm Credit Mid-America](http://www.e-farmcredit.com)
+- [Farm Credit Mid-America](http://www.e-farmcredit.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Click IT Staffing](http://clickitstaffing.com/)
+- [Click IT Staffing](http://clickitstaffing.com/)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Homecare Homebase](http://hchb.com)
+- [Homecare Homebase](http://hchb.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Datavail](http://www.datavail.com/)
+- [Datavail](http://www.datavail.com/)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

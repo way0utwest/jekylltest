@@ -12,7 +12,7 @@ prettydate: "3 June 2017"
 - 1000 College Blvd
 - Pensacola, Florida
  
-<a href="/PDF/0617.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0617.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -973,39 +975,39 @@ Daniel is passionate about giving back and building the Microsoft technical comm
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[CTS Inc](http://www.askcts.com)
+- [CTS Inc](http://www.askcts.com)
  
-[Columbia Southern University](http://www.columbiasouthern.edu/)
+- [Columbia Southern University](http://www.columbiasouthern.edu/)
  
-[Bit-Wizards](https://bitwizards.com/)
+- [Bit-Wizards](https://bitwizards.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[AppRiver](http://www.appriver.com)
+- [AppRiver](http://www.appriver.com)
  
-[ELEAD CRM](http://www.elead-crm.com/)
+- [ELEAD CRM](http://www.elead-crm.com/)
  
-[Tyleris Data Solutions](https://www.tyleris.com)
+- [Tyleris Data Solutions](https://www.tyleris.com)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[HOSTING](http://www.HOSTING.com)
+- [HOSTING](http://www.HOSTING.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[T and K Creative Solutions Group](http://clarkcreations.net/blog/)
+- [T and K Creative Solutions Group](http://clarkcreations.net/blog/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

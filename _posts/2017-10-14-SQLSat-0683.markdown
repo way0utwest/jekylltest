@@ -12,7 +12,7 @@ prettydate: "14 October 2017"
 - 2800 Campus Ridge Road
 - Charlotte, North Carolina
  
-<a href="/PDF/0683.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0683.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1237,41 +1239,41 @@ Brad Llewellyn is a Service Engineer on Microsoft's FastTrack for Azure Team in 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Cardinal Solutions](http://www.cardinalsolutions.com)
+- [Cardinal Solutions](http://www.cardinalsolutions.com)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
-[Vexata](https://www.vexata.com/)
+- [Vexata](https://www.vexata.com/)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Signature Consultants](http://www.sigconsult.com/)
+- [Signature Consultants](http://www.sigconsult.com/)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[AvidXchange](http://www.avidxchange.com)
+- [AvidXchange](http://www.avidxchange.com)
  
-[Datrium](http://www.datrium.com/)
+- [Datrium](http://www.datrium.com/)
  
-[SQLChick](http://www.sqlchick.com/)
+- [SQLChick](http://www.sqlchick.com/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Central Piedmont Community College, Levine Campus](https://www.cpcc.edu/computertraining)
+- [Central Piedmont Community College, Levine Campus](https://www.cpcc.edu/computertraining)
  
-[Charlotte BI Group](http://www.charbigroup.com)
+- [Charlotte BI Group](http://www.charbigroup.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

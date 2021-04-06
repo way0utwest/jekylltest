@@ -12,7 +12,7 @@ prettydate: "18 August 2012"
 - 4141 Rockside Road
 - Cleveland, Ohio
  
-<a href="/PDF/0164.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0164.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -955,33 +957,33 @@ Eric Wise is a senior solutions architect who plays the role of DBA and .NET dev
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Hyland Software](http://www.hyland.com)
+- [Hyland Software](http://www.hyland.com)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
+- [DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[TMW Systems](http://www.tmwsystems.com)
+- [TMW Systems](http://www.tmwsystems.com)
  
-[Cynergies Solutions Group](http://www.cynergies.net)
+- [Cynergies Solutions Group](http://www.cynergies.net)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
+- [New Horizons Computer Learning Centers](http://www.nhgreatlakes.com)
  
-[Solutient](http://www.solutient.com/traininghome)
+- [Solutient](http://www.solutient.com/traininghome)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SQL Cruise](http://sqlcruise.com/2013-cruises/)
+- [SQL Cruise](http://sqlcruise.com/2013-cruises/)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

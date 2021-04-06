@@ -12,7 +12,7 @@ prettydate: "11 October 2014"
 - 3545 Lindell Blvd
 - St. Louis, Missouri
  
-<a href="/PDF/0333.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0333.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -485,21 +487,21 @@ Bill Fellows is a SQL Server MVP and has been a database developer for most of h
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Covenant Technology Partners](http://www.covenanttechnologypartners.com/)
+- [Covenant Technology Partners](http://www.covenanttechnologypartners.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Hortonworks](http://hortonworks.com/)
+- [Hortonworks](http://hortonworks.com/)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[Saint Louis University's Center for Workforce](http://www.slu.edu/center-for-workforce-and-organizational-development)
+- [Saint Louis University's Center for Workforce](http://www.slu.edu/center-for-workforce-and-organizational-development)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

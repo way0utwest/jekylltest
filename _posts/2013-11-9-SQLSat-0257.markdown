@@ -12,7 +12,7 @@ prettydate: "9 November 2013"
 - 
 - Verona, , Italy
  
-<a href="/PDF/0257.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0257.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -438,33 +440,33 @@ Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Filippetti S.p.A.](http://www.gruppofilippetti.it/it/)
+- [Filippetti S.p.A.](http://www.gruppofilippetti.it/it/)
  
-[hp](http://www.valid.nl/)
+- [hp](http://www.valid.nl/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[IBM](http://www.ibm.it)
+- [IBM](http://www.ibm.it)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Trilance](http://www.trilance.com/)
+- [Trilance](http://www.trilance.com/)
  
-[Università di Verona](http://www.univr.it/)
+- [Università di Verona](http://www.univr.it/)
  
-[DotNetMarche](http://www.dotnetmarche.org/)
+- [DotNetMarche](http://www.dotnetmarche.org/)
  
-[1nn0va](http://www.innovazionefvg.net/)
+- [1nn0va](http://www.innovazionefvg.net/)
  
-[HTML.it](http://www.html.it)
+- [HTML.it](http://www.html.it)
  
-[HTML.it srl](http://www.pmi.it/)
+- [HTML.it srl](http://www.pmi.it/)
  
-[Servizi CGN](http://www.cgn.it)
+- [Servizi CGN](http://www.cgn.it)
  
-[SolidQ Italia](http://www.solidq.it)
+- [SolidQ Italia](http://www.solidq.it)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

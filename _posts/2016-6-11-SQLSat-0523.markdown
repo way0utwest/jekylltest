@@ -12,7 +12,7 @@ prettydate: "11 June 2016"
 - 201 S Clinton St
 - Iowa City, Iowa
  
-<a href="/PDF/0523.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0523.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -716,37 +718,37 @@ David Klee is a Microsoft Data Platform MVP and VMware vExpert with a lifelong p
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Gnet Group, LLC](http://www.gnetgroup.com)
+- [Gnet Group, LLC](http://www.gnetgroup.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Brent Ozar Unlimited](http://www.brentozar.com)
+- [Brent Ozar Unlimited](http://www.brentozar.com)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[Kingfisher Technologies](http://kingfisherdata.com)
+- [Kingfisher Technologies](http://kingfisherdata.com)
  
-[IowaComputerGurus, Inc.](http://www.iowacomputergurus.com)
+- [IowaComputerGurus, Inc.](http://www.iowacomputergurus.com)
  
-[TaxAct](https://www.taxact.com/)
+- [TaxAct](https://www.taxact.com/)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[Idera - Iowa City](https://www.idera.com/)
+- [Idera - Iowa City](https://www.idera.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[McGraw Hill Ed](http://www.mheducation.com/)
+- [McGraw Hill Ed](http://www.mheducation.com/)
  
-[ApexSQL Iowa City](http://www.apexsql.com/)
+- [ApexSQL Iowa City](http://www.apexsql.com/)
  
-[Redgate Iowa City](http://rd.gt/2j7SNf9)
+- [Redgate Iowa City](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

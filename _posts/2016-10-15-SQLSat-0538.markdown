@@ -12,7 +12,7 @@ prettydate: "15 October 2016"
 - бул. Александър Малинов 31
 - Sofia, Sofiya, Bulgaria
  
-<a href="/PDF/0538.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0538.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -618,31 +620,31 @@ With 17+ years of strong experience in design and development of web systems, SO
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[TechTalks.bg](http://techtalks.bg/)
+- [TechTalks.bg](http://techtalks.bg/)
  
-[SuperHosting.BG](http://www.superhosting.bg/)
+- [SuperHosting.BG](http://www.superhosting.bg/)
  
-[SQL Master Academy](http://www.sqlmasteracademy.com/)
+- [SQL Master Academy](http://www.sqlmasteracademy.com/)
  
-[Programista](http://www.programista.bg/)
+- [Programista](http://www.programista.bg/)
  
-[Bulpros](http://www.bulpros.com/)
+- [Bulpros](http://www.bulpros.com/)
  
-[Progress](https://www.progress.com/)
+- [Progress](https://www.progress.com/)
  
-[SBTECH](http://www.sbtech.com/)
+- [SBTECH](http://www.sbtech.com/)
  
-[Dutch IT Cluster](http://www.dutchitcluster.eu/)
+- [Dutch IT Cluster](http://www.dutchitcluster.eu/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Adastra Bulgaria](http://www.bg.adastragrp.com/)
+- [Adastra Bulgaria](http://www.bg.adastragrp.com/)
  
-[MentorMate](https://goo.gl/53d5Fn)
+- [MentorMate](https://goo.gl/53d5Fn)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

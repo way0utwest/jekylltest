@@ -12,7 +12,7 @@ prettydate: "7 December 2013"
 - Moskovskiy ave, 199-A
 - Kharkiv, , Ukraine
  
-<a href="/PDF/0259.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0259.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -458,37 +460,37 @@ I have been working with SQL Server since SQL Server 2000 version as a database 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[SqlCodeGuard](http://sqlcodeguard.com/)
+- [SqlCodeGuard](http://sqlcodeguard.com/)
  
-[Voomy IT Park](http://voomy.ua/en/)
+- [Voomy IT Park](http://voomy.ua/en/)
  
-[Dev-Time](http://dev-time.org/)
+- [Dev-Time](http://dev-time.org/)
  
-[WeeklyIT](http://weekly-it.com/events/predstoyashhee/)
+- [WeeklyIT](http://weekly-it.com/events/predstoyashhee/)
  
-[dev.net.ua](http://dev.net.ua/)
+- [dev.net.ua](http://dev.net.ua/)
  
-[DataArt](http://dataart.ua/)
+- [DataArt](http://dataart.ua/)
  
-[it-sobytie.ru](http://it-sobytie.ru/)
+- [it-sobytie.ru](http://it-sobytie.ru/)
  
-[DAXX](http://www.daxx.com/)
+- [DAXX](http://www.daxx.com/)
  
-[UNETA](http://uneta.ua/)
+- [UNETA](http://uneta.ua/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

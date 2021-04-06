@@ -22,6 +22,8 @@ This event has completed. All data shown below is from the historical XML public
 </ul>
  
  
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
+ 
 ----------------------------------------------------------------------------------- 
  
 # <a name="sessions"></a>Sessions
@@ -612,15 +614,15 @@ He is a frequent international speaker, a Data Platform MVP, podcaster, blogger 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[Red Hat](https://www.redhat.com/)
+- [Red Hat](https://www.redhat.com/)
  
-[Melissa](http://www.melissa.com)
+- [Melissa](http://www.melissa.com)
  
-[dbWatch AS](http://www.dbwatch.com)
+- [dbWatch AS](http://www.dbwatch.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

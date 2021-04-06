@@ -12,7 +12,7 @@ prettydate: "10 August 2013"
 - 3777 Priority Way South Drive
 - Indianapolis, Indiana
  
-<a href="/PDF/0242.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0242.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -788,47 +790,47 @@ Allen White is a Data Platform consultant. He has been both a developer and an a
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Interactive Intelligence](http://www.inin.jobs)
+- [Interactive Intelligence](http://www.inin.jobs)
  
-[Allegient](http://www.allegient.com)
+- [Allegient](http://www.allegient.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Delivra](http://www.delivra.com/)
+- [Delivra](http://www.delivra.com/)
  
-[Theoris Services](http://www.theoris.com)
+- [Theoris Services](http://www.theoris.com)
  
-[GyanSys Inc](http://gyansys.com/)
+- [GyanSys Inc](http://gyansys.com/)
  
-[New Horizons CLC of Indianapolis](https://www.nhindy.com)
+- [New Horizons CLC of Indianapolis](https://www.nhindy.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Apparatus](http://www.apparatus.net)
+- [Apparatus](http://www.apparatus.net)
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Indicium Resources, Inc.](http://www.idonthaveawebsite.com)
+- [Indicium Resources, Inc.](http://www.idonthaveawebsite.com)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[http://tameraclark.com](http://tameraclark.com)
+- [http://tameraclark.com](http://tameraclark.com)
  
-[Dykes Data Design, LLC.](http://www.alandykes.com)
+- [Dykes Data Design, LLC.](http://www.alandykes.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[BITracks](http://www.bitracks.com/)
+- [BITracks](http://www.bitracks.com/)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

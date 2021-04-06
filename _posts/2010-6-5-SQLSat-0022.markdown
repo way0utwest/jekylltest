@@ -12,7 +12,7 @@ prettydate: "5 June 2010"
 - 1000 College Blvd, Pensacola
 - Pensacola, Florida
  
-<a href="/PDF/0022.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0022.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -941,39 +943,39 @@ Tim is an active community speaker and volunteer, having spoken at over 100 even
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[JumpstartTV.com](http://www.jumpstarttv.com)
+- [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[Apress Inc.](http://apress.com/)
+- [Apress Inc.](http://apress.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Bit-Wizards Custom Softwarwe Solutions, Inc.](http://www.bitwizards.com)
+- [Bit-Wizards Custom Softwarwe Solutions, Inc.](http://www.bitwizards.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Antares Technology Solutions](http://www.antaresnet.com)
+- [Antares Technology Solutions](http://www.antaresnet.com)
  
-[Overgroup Consulting, LLC](http://www.overgroup.com)
+- [Overgroup Consulting, LLC](http://www.overgroup.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[TeleVox Software](http://www.televox.com)
+- [TeleVox Software](http://www.televox.com)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[WestClinTech](http://westclintech.com)
+- [WestClinTech](http://westclintech.com)
  
-[HealthWare Corporation](http://www.healthware.com)
+- [HealthWare Corporation](http://www.healthware.com)
  
-[Pensacola Junior College - Information Assurance](http://www.pjc.edu)
+- [Pensacola Junior College - Information Assurance](http://www.pjc.edu)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

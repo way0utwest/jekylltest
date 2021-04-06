@@ -12,7 +12,7 @@ prettydate: "21 June 2014"
 - 1 Lomb Memorial Drive
 - Rochester, New York
  
-<a href="/PDF/0303.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0303.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -574,25 +576,25 @@ Andy Roberts is a currently a Data Platform Specialist for Microsoft in the Nort
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Rochester Institute of Technology](http://www.rit.edu/)
+- [Rochester Institute of Technology](http://www.rit.edu/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[New Horizons](http://www.nhcomputerlearning.com)
+- [New Horizons](http://www.nhcomputerlearning.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
+- [Atrion Networking Corporation](http://www.atrion.net/Pages/default.aspx)
  
-[CloudShare, Inc.](http://www.CloudShare.com)
+- [CloudShare, Inc.](http://www.CloudShare.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

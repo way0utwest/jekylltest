@@ -12,7 +12,7 @@ prettydate: "16 October 2010"
 - 100 Weldon Boulevard
 - Orlando, Florida
  
-<a href="/PDF/0049.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0049.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1339,67 +1341,67 @@ Mike Davis, MCITP, is a Consulting Team Lead at Pragmatic Works.  He is an autho
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Veredus Corporation](http://vereduscorp.com/)
+- [Veredus Corporation](http://vereduscorp.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[expressor software](http://www.expressor-software.com)
+- [expressor software](http://www.expressor-software.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[O'Reilly Media, Inc](http://www.oreilly.com)
+- [O'Reilly Media, Inc](http://www.oreilly.com)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[CA Technologies](http://www.erwin.com)
+- [CA Technologies](http://www.erwin.com)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[SQL RNNR Database Services](http://jasonbrimhall.info)
+- [SQL RNNR Database Services](http://jasonbrimhall.info)
  
-[The Modern Resume](http://modernresume.blogspot.com/)
+- [The Modern Resume](http://modernresume.blogspot.com/)
  
-[SQLAndy](http://www.sqlandy.com)
+- [SQLAndy](http://www.sqlandy.com)
  
-[The Grateful DBA](http://troygallant.com)
+- [The Grateful DBA](http://troygallant.com)
  
-[Rafael Salas](http://www.rafael-salas.com)
+- [Rafael Salas](http://www.rafael-salas.com)
  
-[Bob Pusateri](http://www.bobpusateri.com)
+- [Bob Pusateri](http://www.bobpusateri.com)
  
-[Jes Borland](http://jesborland.wordpress.com)
+- [Jes Borland](http://jesborland.wordpress.com)
  
-[Noel McKinney](http://noelmckinney.com/)
+- [Noel McKinney](http://noelmckinney.com/)
  
-[Brandie Tarvin](http://BrandieTarvin.livejournal.com)
+- [Brandie Tarvin](http://BrandieTarvin.livejournal.com)
  
-[StraightPath Solutions - Mike Walsh](http://www.straightpathsql.com)
+- [StraightPath Solutions - Mike Walsh](http://www.straightpathsql.com)
  
-[SQL Lunch](http://www.sqllunch.com)
+- [SQL Lunch](http://www.sqllunch.com)
  
-[SQLRockstar](http://thomaslarock.com)
+- [SQLRockstar](http://thomaslarock.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

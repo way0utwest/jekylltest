@@ -12,7 +12,7 @@ prettydate: "8 October 2016"
 - Walter-Gropius-Str. 5
 - Munich, Bavaria, Germany
  
-<a href="/PDF/0555.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0555.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -706,25 +708,25 @@ Co-Ordinator of the UK PowerShell User Groups - with groups in Manchester amp; L
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Solisyon GmbH](http://www.solisyon.de/)
+- [Solisyon GmbH](http://www.solisyon.de/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Trivadis AG](http://www.trivadis.com/de)
+- [Trivadis AG](http://www.trivadis.com/de)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Alteryx](https://www.alteryx.com/de)
+- [Alteryx](https://www.alteryx.com/de)
  
-[JetBrains](http://www.jetbrains.com)
+- [JetBrains](http://www.jetbrains.com)
  
-[oh22](http://www.oh22.net)
+- [oh22](http://www.oh22.net)
  
-[GDS Business Intelligence GmbH](http://www.gdsbi.de)
+- [GDS Business Intelligence GmbH](http://www.gdsbi.de)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[inovex GmbH](http://www.inovex.de)
+- [inovex GmbH](http://www.inovex.de)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

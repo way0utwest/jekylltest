@@ -12,7 +12,7 @@ prettydate: "12 December 2020"
 - Vecna pot 113
 - Ljubljana, Ljubljana, Slovenia
  
-<a href="/PDF/1010.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/1010.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -565,19 +567,19 @@ Mark Broadbent is a Data Platform MVP and SQL Server MCM with more than 20 years
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Gen-I, d.o.o.](http://www.gen-i.si/)
+- [Gen-I, d.o.o.](http://www.gen-i.si/)
  
-[IN516HT d.o.o.](http://www.in516ht.com)
+- [IN516HT d.o.o.](http://www.in516ht.com)
  
-[B2 BI d.o.o.](https://www.b2-bi.com/sl)
+- [B2 BI d.o.o.](https://www.b2-bi.com/sl)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[Melissa](http://www.melissa.com)
+- [Melissa](http://www.melissa.com)
  
-[Red Hat](https://www.redhat.com/)
+- [Red Hat](https://www.redhat.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

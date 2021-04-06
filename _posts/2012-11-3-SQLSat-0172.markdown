@@ -12,7 +12,7 @@ prettydate: "3 November 2012"
 - 6651 SW Capitol Highway
 - Portland, Oregon
  
-<a href="/PDF/0172.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0172.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -983,33 +985,33 @@ Julie Koesmarno, MCSE Data Platform, and MCSE Business Intelligence, MCT, is a S
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[WhereScape USA Limited](http://www.wherescape.com)
+- [WhereScape USA Limited](http://www.wherescape.com)
  
-[Xtivia](http://www.xtivia.com/)
+- [Xtivia](http://www.xtivia.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Joes 2 Pros](http://joes2pros.com/)
+- [Joes 2 Pros](http://joes2pros.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[VanderHouwen  Associates, Inc.](http://www.vanderhouwen.com/)
+- [VanderHouwen  Associates, Inc.](http://www.vanderhouwen.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Morgan Kaufmann Publishers](http://mkp.com/)
+- [Morgan Kaufmann Publishers](http://mkp.com/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

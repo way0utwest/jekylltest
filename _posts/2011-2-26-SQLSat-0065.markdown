@@ -12,7 +12,7 @@ prettydate: "26 February 2011"
 - 1128 West Hastings Street
 - Vancouver, British Columbia, Canada
  
-<a href="/PDF/0065.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0065.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -584,73 +586,73 @@ Argenis Fernandez is a Data Platform MVP, Microsoft Certified Master, VMware vEx
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[WorkTamer](http://www.worktamer.com)
+- [WorkTamer](http://www.worktamer.com)
  
-[Marathon Technologies](http://www.marathontechnologies.com)
+- [Marathon Technologies](http://www.marathontechnologies.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Microsoft Canada](https://technet.microsoft.com/en-ca)
+- [Microsoft Canada](https://technet.microsoft.com/en-ca)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Stack Exchange](http://www.stackexchange.com)
+- [Stack Exchange](http://www.stackexchange.com)
  
-[SQLTeach](http://www.sqlteach.com)
+- [SQLTeach](http://www.sqlteach.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[British Columbia Institute of Technology (BCIT)](http://www.bcit.ca/cas/computingparttime/)
+- [British Columbia Institute of Technology (BCIT)](http://www.bcit.ca/cas/computingparttime/)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Robert L Davis](http://www.sqlsoldier.com)
+- [Robert L Davis](http://www.sqlsoldier.com)
  
-[Black Ninja Software](http://www.blackninjasoftware.com)
+- [Black Ninja Software](http://www.blackninjasoftware.com)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Advaiya](http://blogs.msdn.com/b/billramo/)
+- [Advaiya](http://blogs.msdn.com/b/billramo/)
  
-[Pearson User Group Program](http://www.informit.com/usregroups)
+- [Pearson User Group Program](http://www.informit.com/usregroups)
  
-[Advaiya](http://blogs.msdn.com/b/billramo/)
+- [Advaiya](http://blogs.msdn.com/b/billramo/)
  
-[Scott Stauffer](http://www.sqlservertoolbox.com/)
+- [Scott Stauffer](http://www.sqlservertoolbox.com/)
  
-[SQLAndy](http://www.sqlandy.com)
+- [SQLAndy](http://www.sqlandy.com)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[Yanni Robel](http://yannirobel.com)
+- [Yanni Robel](http://yannirobel.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Tim Costello](http://www.timcost.com)
+- [Tim Costello](http://www.timcost.com)
  
-[InfoAdvisors](http://blog.infoadvisors.com)
+- [InfoAdvisors](http://blog.infoadvisors.com)
  
-[Aaron Bertrand](http://sqlblog.com/blogs/aaron_bertrand/)
+- [Aaron Bertrand](http://sqlblog.com/blogs/aaron_bertrand/)
  
-[Todd McDermid](http://toddmcdermid.blogspot.com)
+- [Todd McDermid](http://toddmcdermid.blogspot.com)
  
-[sqlbelle](http://www.sqlmusings.com)
+- [sqlbelle](http://www.sqlmusings.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

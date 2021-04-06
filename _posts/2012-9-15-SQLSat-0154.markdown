@@ -12,7 +12,7 @@ prettydate: "15 September 2012"
 - 5 Jackson Avenue
 - Clayton, Missouri
  
-<a href="/PDF/0154.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0154.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -556,37 +558,37 @@ Janis Griffin has over 30 years of DBA/database experience including design, dev
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Covenant Technology Partners](http://www.covenanttechnologypartners.com/)
+- [Covenant Technology Partners](http://www.covenanttechnologypartners.com/)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Technology Partners, Inc.](http://www.tppr.com)
+- [Technology Partners, Inc.](http://www.tppr.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SyllogisTeks](http://www.syllogisteks.com)
+- [SyllogisTeks](http://www.syllogisteks.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[CAIT - Washington University in St Louis](http://www.cait.wustl.edu/)
+- [CAIT - Washington University in St Louis](http://www.cait.wustl.edu/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[Oakwood Systems](http://www.oakwoodsys.com/Pages/default.aspx)
+- [Oakwood Systems](http://www.oakwoodsys.com/Pages/default.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

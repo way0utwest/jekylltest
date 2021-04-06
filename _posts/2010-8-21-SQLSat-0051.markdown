@@ -12,7 +12,7 @@ prettydate: "21 August 2010"
 - 
 - Nashville, Tennessee
  
-<a href="/PDF/0051.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0051.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -713,55 +715,55 @@ Alan worked on the Microsoft SQL Server support team from 1992 to 1997, and sinc
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Novedea systems inc](http://www.novedea.com)
+- [Novedea systems inc](http://www.novedea.com)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[CED Solutions, LLC](http://www.cedsolutions.com)
+- [CED Solutions, LLC](http://www.cedsolutions.com)
  
-[Transcender](http://www.transcender.com)
+- [Transcender](http://www.transcender.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Extreme Data Systems](http://www.SQLLocator.com)
+- [Extreme Data Systems](http://www.SQLLocator.com)
  
-[Dickson Resources](http://www.dicksonresources.com)
+- [Dickson Resources](http://www.dicksonresources.com)
  
-[Conexess Group](http://www.conexess.com)
+- [Conexess Group](http://www.conexess.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[NovaCopy, Inc.](http://www.NovaCopy.com)
+- [NovaCopy, Inc.](http://www.NovaCopy.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
-[CA Technologies](http://www.erwin.com)
+- [CA Technologies](http://www.erwin.com)
  
-[TechSmith](http://www.techsmith.com)
+- [TechSmith](http://www.techsmith.com)
  
-[Blueberry Software](http://www.bbsoftware.co.uk/)
+- [Blueberry Software](http://www.bbsoftware.co.uk/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Altova, Inc.](http://www.altova.com/)
+- [Altova, Inc.](http://www.altova.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

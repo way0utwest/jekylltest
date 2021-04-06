@@ -12,7 +12,7 @@ prettydate: "7 February 2015"
 - 888 Dandenong Road
 - Caulfield East , Victoria, Australia
  
-<a href="/PDF/0365.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0365.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -676,35 +678,35 @@ He has been using SQL Server in various roles since 2000. In addition to anythin
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[LobsterPot Solutions](http://lobsterpot.com.au)
+- [LobsterPot Solutions](http://lobsterpot.com.au)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Perspective Information Lifecycle Management](http://www.perspectiveilm.com)
+- [Perspective Information Lifecycle Management](http://www.perspectiveilm.com)
  
-[SQL Masters Consulting](http://www.sqlmastersconsulting.com.au)
+- [SQL Masters Consulting](http://www.sqlmastersconsulting.com.au)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Varigence Australia](http://www.varigence.com.au)
+- [Varigence Australia](http://www.varigence.com.au)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Kimball Group](http://kimballgroup.com)
+- [Kimball Group](http://kimballgroup.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

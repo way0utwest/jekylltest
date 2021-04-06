@@ -12,7 +12,7 @@ prettydate: "17 September 2016"
 - Kanalvej 7
 - Kongens Lyngby, Capital Region, Denmark
  
-<a href="/PDF/0541.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0541.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -837,33 +839,33 @@ Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[it-Craft A/S](http://www.it-craft.dk)
+- [it-Craft A/S](http://www.it-craft.dk)
  
-[Kapacity A/S](http://www.kapacity.dk)
+- [Kapacity A/S](http://www.kapacity.dk)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[CLOUDIO](http://www.cloudio.dk)
+- [CLOUDIO](http://www.cloudio.dk)
  
-[Scales Group A/S](http://www.scales-group.com)
+- [Scales Group A/S](http://www.scales-group.com)
  
-[SQL Powerhouse A/S](http://www.sqlpowerhouse.com)
+- [SQL Powerhouse A/S](http://www.sqlpowerhouse.com)
  
-[Nextagenda](http://www.nextagenda.dk)
+- [Nextagenda](http://www.nextagenda.dk)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Rehfeld Partners A/S](http://www.rehfeld.dk/)
+- [Rehfeld Partners A/S](http://www.rehfeld.dk/)
  
-[BIWISE](http://biwise.dk)
+- [BIWISE](http://biwise.dk)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

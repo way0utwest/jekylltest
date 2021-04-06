@@ -12,7 +12,7 @@ prettydate: "24 June 2017"
 - Gustavo Ramos Sehbe, 107 Caxias do Sul - RS
 - Caxias do Sul, Rio Grande do Sul, Brazil
  
-<a href="/PDF/0609.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0609.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -482,35 +484,35 @@ Microsoft Most Valuable Professional em Enterprise Mobility, VMware vExpert 2019
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[CrespiDB](http://www.crespidb.com.br)
+- [CrespiDB](http://www.crespidb.com.br)
  
-[Vita Database Solution](http://www.vitadbsolutions.com)
+- [Vita Database Solution](http://www.vitadbsolutions.com)
  
-[BI do Brasil](http://www.bidobrasil.com/portugues/)
+- [BI do Brasil](http://www.bidobrasil.com/portugues/)
  
-[Introduce Ltda](http://introduceti.com.br/)
+- [Introduce Ltda](http://introduceti.com.br/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[FLEXXO CENTRO DE TREINAMENTO EM TI](http://www.flexxo.com.br)
+- [FLEXXO CENTRO DE TREINAMENTO EM TI](http://www.flexxo.com.br)
  
-[Tomate](http://www.tomatemkt.com/)
+- [Tomate](http://www.tomatemkt.com/)
  
-[Dataside](http://www.dataside.com.br)
+- [Dataside](http://www.dataside.com.br)
  
-[Dataside](http://www.dataside.com.br)
+- [Dataside](http://www.dataside.com.br)
  
-[Fabricio Lima Soluções em BD](http://www.fabriciolima.net/)
+- [Fabricio Lima Soluções em BD](http://www.fabriciolima.net/)
  
-[NGR Solutions](http://www.ngrsolutions.com.br)
+- [NGR Solutions](http://www.ngrsolutions.com.br)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

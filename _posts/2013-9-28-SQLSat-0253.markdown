@@ -12,7 +12,7 @@ prettydate: "28 September 2013"
 - CNB 14 Lote 7 - Sandú Norte
 - Brasilia, , Brazil
  
-<a href="/PDF/0253.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0253.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -489,19 +491,19 @@ Profissional entusiasta do mundo de banco de dados e armazenamento, passou por v
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[T-IT Consultoria  Serviços](http://www.titcs.com.br)
+- [T-IT Consultoria  Serviços](http://www.titcs.com.br)
  
-[Hepta Informática](http://www.hepta.com.br)
+- [Hepta Informática](http://www.hepta.com.br)
  
-[Bluestar Informática](http://www.bluestar.inf.br/)
+- [Bluestar Informática](http://www.bluestar.inf.br/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Sr. Nimbus](http://www.srnimbus.com.br)
+- [Sr. Nimbus](http://www.srnimbus.com.br)
  
-[NGR Solutions](http://www.ngrsolutions.com.br)
+- [NGR Solutions](http://www.ngrsolutions.com.br)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "13 July 2019"
 - 3001 S Congress Ave.
 - Austin, Texas
  
-<a href="/PDF/0890.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0890.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1321,93 +1323,93 @@ Chris Bell offers a unique view of how we live and work with data, both now and 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Procure SQL](http://procuresql.com)
+- [Procure SQL](http://procuresql.com)
  
-[Ntirety, A Division of HOSTING](http://ntirety.com/)
+- [Ntirety, A Division of HOSTING](http://ntirety.com/)
  
-[Dallas DBAs](http://www.dallasdbas.com)
+- [Dallas DBAs](http://www.dallasdbas.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
+- [MinionWare, LLC](http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[AtlantaMDF](http://atlantamdf.com)
+- [AtlantaMDF](http://atlantamdf.com)
  
-[Brent Ozar Unlimited](http://www.brentozar.com)
+- [Brent Ozar Unlimited](http://www.brentozar.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Erik Darling Data](http://erikdarlingdata.com)
+- [Erik Darling Data](http://erikdarlingdata.com)
  
-[Unicorn Computing](https://www.unicorncomputing.com)
+- [Unicorn Computing](https://www.unicorncomputing.com)
  
-[Solisyon GmbH / Community Support](http://www.nerdycorn.de/)
+- [Solisyon GmbH / Community Support](http://www.nerdycorn.de/)
  
-[CodeNameSQL](https://blog-jhigg.com)
+- [CodeNameSQL](https://blog-jhigg.com)
  
-[SQL Dba With A Beard](https://sqldbawithabeard.com)
+- [SQL Dba With A Beard](https://sqldbawithabeard.com)
  
-[SQLGene Training](http://www.sqlgene.com)
+- [SQLGene Training](http://www.sqlgene.com)
  
-[LACE Technology](https://www.lace.technology)
+- [LACE Technology](https://www.lace.technology)
  
-[DBAKevlar](https://dbakevlar.com)
+- [DBAKevlar](https://dbakevlar.com)
  
-[Tracy Boggiano](http://databasesuperhero.com)
+- [Tracy Boggiano](http://databasesuperhero.com)
  
-[Jes Borland](http://jesborland.wordpress.com)
+- [Jes Borland](http://jesborland.wordpress.com)
  
-[SQLKohai](http://www.sqlkohai.com)
+- [SQLKohai](http://www.sqlkohai.com)
  
-[SavranWeb](http://www.savranweb.com)
+- [SavranWeb](http://www.savranweb.com)
  
-[SQL Saturday Indianapolis](https://www.sqlsaturday.com/886/EventHome.aspx)
+- [SQL Saturday Indianapolis](https://www.sqlsaturday.com/886/EventHome.aspx)
  
-[Drewsk.tech](https://www.drewsk.tech)
+- [Drewsk.tech](https://www.drewsk.tech)
  
-[codegumbo](http://www.codegumbo.com)
+- [codegumbo](http://www.codegumbo.com)
  
-[davebland.com](http://www.davebland.com)
+- [davebland.com](http://www.davebland.com)
  
-[Mental Health Affects Someone Like Me](https://mhasl.me)
+- [Mental Health Affects Someone Like Me](https://mhasl.me)
  
-[Alexander Arvidsson](https://www.kneedeepintech.com)
+- [Alexander Arvidsson](https://www.kneedeepintech.com)
  
-[Paginated Report Bear](https://twitter.com/paginatedbear)
+- [Paginated Report Bear](https://twitter.com/paginatedbear)
  
-[SQLatSpeed](https://www.sqlatspeed.com)
+- [SQLatSpeed](https://www.sqlatspeed.com)
  
-[dbatools](https://dbatools.io)
+- [dbatools](https://dbatools.io)
  
-[TidwellTidbits](https://tidwelltidbits.com/)
+- [TidwellTidbits](https://tidwelltidbits.com/)
  
-[Gina Meronek](https://www.linkedin.com/in/ginameronek/)
+- [Gina Meronek](https://www.linkedin.com/in/ginameronek/)
  
-[Old Sword Guy](https://ssbipolar.com/)
+- [Old Sword Guy](https://ssbipolar.com/)
  
-[Andy Mallon](http://am2.co)
+- [Andy Mallon](http://am2.co)
  
-[Constantine Kokkinos](https://constantinekokkinos.com)
+- [Constantine Kokkinos](https://constantinekokkinos.com)
  
-[Richard Munn](https://t.co/qO4MRrvVhu)
+- [Richard Munn](https://t.co/qO4MRrvVhu)
  
-[Andy Leonard](https://andyleonard.blog)
+- [Andy Leonard](https://andyleonard.blog)
  
-[STATCowboy](http://www.statcowboy.com)
+- [STATCowboy](http://www.statcowboy.com)
  
-[BostonSQL](https://massdatatraining.org/)
+- [BostonSQL](https://massdatatraining.org/)
  
-[Data Savvy](https://datasavvy.me/)
+- [Data Savvy](https://datasavvy.me/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[1907](https://www.quest.com/)
+- [1907](https://www.quest.com/)
  
-[ByrdNest Consulting](http://www.tsqlmentoring.com/about.html)
+- [ByrdNest Consulting](http://www.tsqlmentoring.com/about.html)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

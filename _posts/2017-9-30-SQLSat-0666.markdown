@@ -12,7 +12,7 @@ prettydate: "30 September 2017"
 - Leuvenlaan 21
 - Utrecht, Utrecht, Netherlands
  
-<a href="/PDF/0666.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0666.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1100,41 +1102,41 @@ Edgar Walther has been an independent  BI consultant for over 12 years and spec
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Motion10](http://www.motion10.nl/)
+- [Motion10](http://www.motion10.nl/)
  
-[Info Support](http://www.infosupport.com)
+- [Info Support](http://www.infosupport.com)
  
-[Cloud DBA](http://cloud-dba.eu/)
+- [Cloud DBA](http://cloud-dba.eu/)
  
-[Valid](http://www.valid.nl/)
+- [Valid](http://www.valid.nl/)
  
-[Rubicon](http://www.rubicon.nl)
+- [Rubicon](http://www.rubicon.nl)
  
-[Avanade](https://www.avanade.com/nl-nl)
+- [Avanade](https://www.avanade.com/nl-nl)
  
-[DB Pro Oy](https://www.sqlgovernor.com)
+- [DB Pro Oy](https://www.sqlgovernor.com)
  
-[dbWatch](http://dbwatch.com/)
+- [dbWatch](http://dbwatch.com/)
  
-[ilionX](http://www.ilionx.com)
+- [ilionX](http://www.ilionx.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[DATADOGS](http://www.datadogs.nl)
+- [DATADOGS](http://www.datadogs.nl)
  
-[VX Company](https://vxcompany.com/)
+- [VX Company](https://vxcompany.com/)
  
-[Visser en van Baars](http://www.visservanbaars.nl/)
+- [Visser en van Baars](http://www.visservanbaars.nl/)
  
-[Axis into ICT](https://axisintoict.nl/over-ons/vacatures/sql-server-specialist/)
+- [Axis into ICT](https://axisintoict.nl/over-ons/vacatures/sql-server-specialist/)
  
-[SQL Support](http://www.sqlsupport.nl/)
+- [SQL Support](http://www.sqlsupport.nl/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

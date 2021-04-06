@@ -12,7 +12,7 @@ prettydate: "18 September 2010"
 - 4830 Eastgate Mall
 - San Diego, California
  
-<a href="/PDF/0055.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0055.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -383,45 +385,45 @@ Steve Hendricks is a sought after speaker and consultant on database and job sea
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[BiTKOO](http://www.bitkoo.com)
+- [BiTKOO](http://www.bitkoo.com)
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[JetBrains](http://www.jetbrains.com)
+- [JetBrains](http://www.jetbrains.com)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Aspose Pty Ltd](http://www.aspose.com)
+- [Aspose Pty Ltd](http://www.aspose.com)
  
-[Learn Dev Now](http://www.learndevnow.com/)
+- [Learn Dev Now](http://www.learndevnow.com/)
  
-[Nitriq](http://www.nitriq.com/)
+- [Nitriq](http://www.nitriq.com/)
  
-[Atomiq](http://www.getatomiq.com)
+- [Atomiq](http://www.getatomiq.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Perpetuum Software LLC](http://www.perpetuumsoft.com)
+- [Perpetuum Software LLC](http://www.perpetuumsoft.com)
  
-[Altova](http://www.altova.com)
+- [Altova](http://www.altova.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

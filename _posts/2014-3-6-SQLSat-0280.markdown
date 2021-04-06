@@ -12,7 +12,7 @@ prettydate: "6 March 2014"
 - Am Euro Platz 3
 - Vienna, , Austria
  
-<a href="/PDF/0280.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0280.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -571,27 +573,27 @@ Kevin Boles is a SQL Server expert, working exclusively with the product since v
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[cubido business solutions gmbh](http://www.cubido.at)
+- [cubido business solutions gmbh](http://www.cubido.at)
  
-[Melissa Data GmbH](http://www.melissadata.de)
+- [Melissa Data GmbH](http://www.melissadata.de)
  
-[Global Knowledge Network GmbH](http://www.globalknowledge.at/)
+- [Global Knowledge Network GmbH](http://www.globalknowledge.at/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[ETC](http://www.etc.at)
+- [ETC](http://www.etc.at)
  
-[pmOne GmbH](http://www.pmone.com)
+- [pmOne GmbH](http://www.pmone.com)
  
-[ppedv GmbH](http://www.ppedv.at/SQL)
+- [ppedv GmbH](http://www.ppedv.at/SQL)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Microsoft Austria](http://www.microsoft.at)
+- [Microsoft Austria](http://www.microsoft.at)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

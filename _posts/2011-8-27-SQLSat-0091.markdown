@@ -12,7 +12,7 @@ prettydate: "27 August 2011"
 - 6708 Pine Street
 - Omaha, Nebraska
  
-<a href="/PDF/0091.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0091.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -642,59 +644,59 @@ Randy Knight is a data professional who has worked with Microsoft technology for
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[House of Brick Technologies](http://www.houseofbrick.com)
+- [House of Brick Technologies](http://www.houseofbrick.com)
  
-[Deliveron Consulting Services](http://www.deliveron.com)
+- [Deliveron Consulting Services](http://www.deliveron.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Blue Cross Blue Shield of Nebraska](https://www.nebraskablue.com/)
+- [Blue Cross Blue Shield of Nebraska](https://www.nebraskablue.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Farm Credit Services of America](https://www.fcsamerica.com/)
+- [Farm Credit Services of America](https://www.fcsamerica.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Telvent DTN](http://www.telvent.com)
+- [Telvent DTN](http://www.telvent.com)
  
-[Dice Communications Inc.](http://www.dicecommunications.com)
+- [Dice Communications Inc.](http://www.dicecommunications.com)
  
-[CareerSearch Dynamics, LLC](http://careersearchdynamics.com)
+- [CareerSearch Dynamics, LLC](http://careersearchdynamics.com)
  
-[Sogeti USA](http://www.us.sogeti.com/)
+- [Sogeti USA](http://www.us.sogeti.com/)
  
-[Sapp Bros, Inc.](http://sappbrostc.com)
+- [Sapp Bros, Inc.](http://sappbrostc.com)
  
-[Bass  Associates](http://www.bass-inc.com)
+- [Bass  Associates](http://www.bass-inc.com)
  
-[Capstone Consulting](http://www.capstoneomaha.com)
+- [Capstone Consulting](http://www.capstoneomaha.com)
  
-[Aspect Software](http://www.aspect.com/Pages/default.aspx)
+- [Aspect Software](http://www.aspect.com/Pages/default.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[House of Brick Technologies](http://www.houseofbrick.com)
+- [House of Brick Technologies](http://www.houseofbrick.com)
  
-[Planet Group Inc.](http://www.planetgroupinc.com/)
+- [Planet Group Inc.](http://www.planetgroupinc.com/)
  
-[QCI](https://www.qci.com)
+- [QCI](https://www.qci.com)
  
-[SQL Solutions Group](http://www.sqlsolutionsgroup.com)
+- [SQL Solutions Group](http://www.sqlsolutionsgroup.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Radney Consulting LLC](http://www.timradney.com)
+- [Radney Consulting LLC](http://www.timradney.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

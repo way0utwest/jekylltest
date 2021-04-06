@@ -12,7 +12,7 @@ prettydate: "10 August 2019"
 - 139 Carrington Rd, Mount Albert
 - Auckland, Auckland, New Zealand
  
-<a href="/PDF/0866.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0866.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -795,21 +797,21 @@ I've been with SQL Services almost 10 years as a Senior Consultant. Besides supp
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[RADACAD](http://radacad.com/)
+- [RADACAD](http://radacad.com/)
  
-[Unitec Institute of Technology](http://www.unitec.ac.nz/)
+- [Unitec Institute of Technology](http://www.unitec.ac.nz/)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[SQL Services](https://www.sqlservices.com)
+- [SQL Services](https://www.sqlservices.com)
  
-[Detecta](https://www.detecta.io)
+- [Detecta](https://www.detecta.io)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

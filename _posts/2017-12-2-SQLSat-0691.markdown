@@ -12,7 +12,7 @@ prettydate: "2 December 2017"
 - Guatemala 1075
 - Montevideo, Montevideo, Uruguay
  
-<a href="/PDF/0691.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0691.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -235,13 +237,13 @@ Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyxis](http://www.pyxis.com.uy/)
+- [Pyxis](http://www.pyxis.com.uy/)
  
-[Arkano Software](http://www.arkanosoft.com)
+- [Arkano Software](http://www.arkanosoft.com)
  
-[BIOS](http://www.biosportal.com)
+- [BIOS](http://www.biosportal.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "19 September 2015"
 - 411 N. Sable Blvd.
 - Denver, Colorado
  
-<a href="/PDF/0441.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0441.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1017,39 +1019,39 @@ Justin Hudnall is a Senior Consultant with RevGen Partners specializing in desig
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quanta Intelligence](http://www.quantaintelligence.com)
+- [Quanta Intelligence](http://www.quantaintelligence.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DH2i](http://www.dh2i.com)
+- [DH2i](http://www.dh2i.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[X-IO Technologies](http://www.x-io.com)
+- [X-IO Technologies](http://www.x-io.com)
  
-[Teradata](http://teradata.com)
+- [Teradata](http://teradata.com)
  
-[University of Denver](http://universitycollege.du.edu/)
+- [University of Denver](http://universitycollege.du.edu/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[TEKsystems](http://www.teksystems.com/)
+- [TEKsystems](http://www.teksystems.com/)
  
-[DawaBI](http://www.DawaBI.com)
+- [DawaBI](http://www.DawaBI.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[McGraw Hill Professional](http://www.mhprofessional.com/)
+- [McGraw Hill Professional](http://www.mhprofessional.com/)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

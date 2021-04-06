@@ -12,7 +12,7 @@ prettydate: "12 September 2015"
 - Churchill College, Storey's Way
 - Cambridge, , United Kingdom
  
-<a href="/PDF/0411.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0411.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1438,47 +1440,47 @@ André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has d
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Ltd](http://www.microsoft.com/sql)
+- [Microsoft Ltd](http://www.microsoft.com/sql)
  
-[SQLCloud Limited](http://bit.ly/sqlcloudporto)
+- [SQLCloud Limited](http://bit.ly/sqlcloudporto)
  
-[Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
+- [Big Bang Data Ltd](http://www.facebook.com/bigbangdataco)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Application Performance Ltd](http://www.applicationperformance.com)
+- [Application Performance Ltd](http://www.applicationperformance.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Axioworks](http://www.axioworks.com/)
+- [Axioworks](http://www.axioworks.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Data Idols](http://www.dataidols.com)
+- [Data Idols](http://www.dataidols.com)
  
-[Effektor](http://www.effektor.bi)
+- [Effektor](http://www.effektor.bi)
  
-[Rencore](http://www.spcaf.com/)
+- [Rencore](http://www.spcaf.com/)
  
-[All Your Base](http://allyourbaseconf.com/)
+- [All Your Base](http://allyourbaseconf.com/)
  
-[VisualSP](http://www.visualsp.com/)
+- [VisualSP](http://www.visualsp.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Packt Publishing](http://www.PacktPub.com)
+- [Packt Publishing](http://www.PacktPub.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

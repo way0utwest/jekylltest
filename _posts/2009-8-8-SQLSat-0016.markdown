@@ -12,7 +12,7 @@ prettydate: "8 August 2009"
 - 2300 SW 145 Ave
 - South Florida, Florida
  
-<a href="/PDF/0016.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0016.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -796,29 +798,29 @@ Microsoft VB .Net MVP
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[End to End Training](http://www.endtoendtraining.com)
+- [End to End Training](http://www.endtoendtraining.com)
  
-[JumpstartTV.com](http://www.jumpstarttv.com)
+- [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[DevFish](http://www.devfish.net/)
+- [DevFish](http://www.devfish.net/)
  
-[Pyn Logic](http://www.enzoauditperformance.com)
+- [Pyn Logic](http://www.enzoauditperformance.com)
  
-[TEKPartners](http://www.tekpartners.com)
+- [TEKPartners](http://www.tekpartners.com)
  
-[Modis](http://www.modis.com/)
+- [Modis](http://www.modis.com/)
  
-[Sherlock Staffing](http://www.sherstaff.com)
+- [Sherlock Staffing](http://www.sherstaff.com)
  
-[Rezult Technology](http://www.rezultgroup.com/rezult-group-technology.html)
+- [Rezult Technology](http://www.rezultgroup.com/rezult-group-technology.html)
  
-[FlaDotNet](http://www.fladotnet.com)
+- [FlaDotNet](http://www.fladotnet.com)
  
-[ComputerWays](http://www.computerways.com)
+- [ComputerWays](http://www.computerways.com)
  
-[Campus Management Corp](http://campusmanagement.com)
+- [Campus Management Corp](http://campusmanagement.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

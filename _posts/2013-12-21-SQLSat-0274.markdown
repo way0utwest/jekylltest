@@ -12,7 +12,7 @@ prettydate: "21 December 2013"
 - Poslovna cona A 2
 - Sencur - Ljubljana, , Slovenia
  
-<a href="/PDF/0274.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0274.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -406,21 +408,21 @@ Matija Lah has more than a decade of experience working with Microsoft SQL Serve
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[pixi* labs d.o.o.](http://www.pixi.eu)
+- [pixi* labs d.o.o.](http://www.pixi.eu)
  
-[Microsoft d.o.o.](http://microsoft.com/slovenija)
+- [Microsoft d.o.o.](http://microsoft.com/slovenija)
  
-[IN516HT d.o.o.](http://www.in516ht.com)
+- [IN516HT d.o.o.](http://www.in516ht.com)
  
-[SolidQ](http://www.solidq.com/es)
+- [SolidQ](http://www.solidq.com/es)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Kompas Xnet](http://www.kompas-xnet.si/)
+- [Kompas Xnet](http://www.kompas-xnet.si/)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

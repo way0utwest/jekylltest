@@ -12,7 +12,7 @@ prettydate: "5 September 2020"
 - Forskningsgången 4
 - Göteborg, Västra Götalands län, Sweden
  
-<a href="/PDF/0988.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0988.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -444,19 +446,19 @@ I am a Microsoft MVP, and I currently hold the MCSE: Data Management and Analyti
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft](http://www.microsoft.com)
+- [Microsoft](http://www.microsoft.com)
  
-[Google Cloud](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
  
-[Red Hat](https://www.redhat.com/)
+- [Red Hat](https://www.redhat.com/)
  
-[SQL Service Nordic AB](http://www.sqlservice.se)
+- [SQL Service Nordic AB](http://www.sqlservice.se)
  
-[SolidQ Nordic](https://www.solidq.com/)
+- [SolidQ Nordic](https://www.solidq.com/)
  
-[dbWatch](http://dbwatch.com/)
+- [dbWatch](http://dbwatch.com/)
  
-[Structured Concepts AB](https://strd.co/)
+- [Structured Concepts AB](https://strd.co/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

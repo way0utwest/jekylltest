@@ -12,7 +12,7 @@ prettydate: "12 December 2015"
 - Avenida Libertador Bernardo O Higgins 390, Santiago, Región Metropolitana
 - Santiago, Región Metropolitana, Chile
  
-<a href="/PDF/0472.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0472.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -260,21 +262,21 @@ Felipe Zu#241;iga es consultor independiente en SQL Server e Inteligencia de Neg
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Punto Ticket](http://www.puntoticket.cl)
+- [Punto Ticket](http://www.puntoticket.cl)
  
-[Merchise Ltda](http://www.merchise.cl)
+- [Merchise Ltda](http://www.merchise.cl)
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
-[Metric Arts](http://www.metricarts.com)
+- [Metric Arts](http://www.metricarts.com)
  
-[SoftwareONE](http://www.softwareone.com)
+- [SoftwareONE](http://www.softwareone.com)
  
-[Onyxtech](http://www.onyxtech.cl/)
+- [Onyxtech](http://www.onyxtech.cl/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

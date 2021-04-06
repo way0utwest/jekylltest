@@ -12,7 +12,7 @@ prettydate: "3 March 2018"
 - 3100 Foul Bay Rd
 - Victoria, British Columbia, Canada
  
-<a href="/PDF/0725.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0725.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1055,29 +1057,29 @@ Richard Campbell wrote his first line of code in 1977. His career has spanned th
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Camosun College](http://camosun.ca/)
+- [Camosun College](http://camosun.ca/)
  
-[Sierra Systems](http://www.sierrasystems.com)
+- [Sierra Systems](http://www.sierrasystems.com)
  
-[Rubrik](http://www.rubrik.com)
+- [Rubrik](http://www.rubrik.com)
  
-[KingswaySoft](http://www.kingswaysoft.com)
+- [KingswaySoft](http://www.kingswaysoft.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Kind Snacks](https://www.kindsnacks.com/)
+- [Kind Snacks](https://www.kindsnacks.com/)
  
-[Delphix](http://www.delphix.com)
+- [Delphix](http://www.delphix.com)
  
-[SQL Server Best Practices](https://sqlbp.com)
+- [SQL Server Best Practices](https://sqlbp.com)
  
-[SolarWinds](http://www.solarwinds.com)
+- [SolarWinds](http://www.solarwinds.com)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

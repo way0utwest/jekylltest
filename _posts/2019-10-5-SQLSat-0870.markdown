@@ -12,7 +12,7 @@ prettydate: "5 October 2019"
 - 365 Innovation Drive
 - Memphis, Tennessee
  
-<a href="/PDF/0870.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0870.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -449,23 +451,23 @@ Louis Davidson has worked in the IT industry for over 25 years as a corporate da
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Zycron](https://www.bgstaffing.com/executive-recruitment/zycron/)
+- [Zycron](https://www.bgstaffing.com/executive-recruitment/zycron/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[University of Memphis](https://www.memphis.edu/fedex/)
+- [University of Memphis](https://www.memphis.edu/fedex/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[LBMC Data Insights](http://www.lbmc.com/datainsights)
+- [LBMC Data Insights](http://www.lbmc.com/datainsights)
  
-[Data Blue](https://www.data-blue.com/)
+- [Data Blue](https://www.data-blue.com/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

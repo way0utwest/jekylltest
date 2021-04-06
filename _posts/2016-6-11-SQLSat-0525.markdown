@@ -12,7 +12,7 @@ prettydate: "11 June 2016"
 - Grantham-Allee 20
 - Sankt Augustin, North Rhine-Westphalia, Germany
  
-<a href="/PDF/0525.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0525.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -728,25 +730,25 @@ Uwe Ricken is working with IT systems since the 90’s. The primary passion for 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Hochschule Bonn-Rhein-Sieg](http://www.hs-brs.de/)
+- [Hochschule Bonn-Rhein-Sieg](http://www.hs-brs.de/)
  
-[accantec consulting AG](http://www.accantec.de)
+- [accantec consulting AG](http://www.accantec.de)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Quest Software Company](https://www.quest.com/)
+- [Quest Software Company](https://www.quest.com/)
  
-[ORAYLIS GmbH](http://www.oraylis.de/home)
+- [ORAYLIS GmbH](http://www.oraylis.de/home)
  
-[GDS Business Intelligence GmbH](http://www.gdsbi.de)
+- [GDS Business Intelligence GmbH](http://www.gdsbi.de)
  
-[oh22](http://www.oh22.net)
+- [oh22](http://www.oh22.net)
  
-[inovex GmbH](http://www.inovex.de)
+- [inovex GmbH](http://www.inovex.de)
  
-[Sarpedon Quality Lab](http://www.sarpedonqualitylab.com/)
+- [Sarpedon Quality Lab](http://www.sarpedonqualitylab.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

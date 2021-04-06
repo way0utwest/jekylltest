@@ -12,7 +12,7 @@ prettydate: "2 August 2012"
 - 874 Dillingham Boulevard
 - Honolulu, Hawaii
  
-<a href="/PDF/0143.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0143.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -233,17 +235,17 @@ Matt Hollingsworth has spent over twenty years in various roles in the database 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Nimble Storage](http://www.nimblestorage.com/)
+- [Nimble Storage](http://www.nimblestorage.com/)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Craig Purnell](http://www.craigpurnell.com)
+- [Craig Purnell](http://www.craigpurnell.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

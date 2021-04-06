@@ -12,7 +12,7 @@ prettydate: "6 September 2014"
 - 6600 Louisburg Road, Building E
 - Raleigh, North Carolina
  
-<a href="/PDF/0320.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0320.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1047,37 +1049,37 @@ Doug Purnell is a DBA at Elon University and is a co-leader for the Triad SQL BI
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[PrecisionLender](http://precisionlender.com)
+- [PrecisionLender](http://precisionlender.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[B2B Solutions](http://www.b2bsol.com)
+- [B2B Solutions](http://www.b2bsol.com)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
+- [UpSearch](https://upsearch.com/microsoft-sql-server-dba-services/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[Vaco Raleigh](http://www.vaco.com)
+- [Vaco Raleigh](http://www.vaco.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Windstream Hosted Solutions](https://www.windstream.com)
+- [Windstream Hosted Solutions](https://www.windstream.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[MetLife](http://www.metlifegto.com/)
+- [MetLife](http://www.metlifegto.com/)
  
-[Intellinet](http://www.intellinet.com)
+- [Intellinet](http://www.intellinet.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

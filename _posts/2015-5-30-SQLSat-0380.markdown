@@ -12,7 +12,7 @@ prettydate: "30 May 2015"
 - 11 Times Square
 - New York City, New York
  
-<a href="/PDF/0380.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0380.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1716,49 +1718,49 @@ Lenni has also authored several MS Press books and Pluralsight courses on SQL Se
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Rehfeld](http://www.effektor.bi)
+- [Rehfeld](http://www.effektor.bi)
  
-[kCura](https://www.kcura.com/relativity/)
+- [kCura](https://www.kcura.com/relativity/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Violin Memory](http://www.violin-memory.com)
+- [Violin Memory](http://www.violin-memory.com)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[NH Learning Solutions](http://nhlearningsolutions.com)
+- [NH Learning Solutions](http://nhlearningsolutions.com)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[SanDisk](http://www.sandisk.com)
+- [SanDisk](http://www.sandisk.com)
  
-[Branegy Systems Inc](https://www.dbmaster.io)
+- [Branegy Systems Inc](https://www.dbmaster.io)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Garshan Associates, LLC.](http://www.garshanassociates.com)
+- [Garshan Associates, LLC.](http://www.garshanassociates.com)
  
-[Ntirety, A Division of HOSTING](http://ntirety.com/)
+- [Ntirety, A Division of HOSTING](http://ntirety.com/)
  
-[Pearl Knowledge Solutions](http://www.pearlknows.com)
+- [Pearl Knowledge Solutions](http://www.pearlknows.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Apress Media, LLC](http://www.apress.com)
+- [Apress Media, LLC](http://www.apress.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "4 May 2019"
 - 340 Dekalb Pike
 - Blue Bell, PA
  
-<a href="/PDF/0835.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0835.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1585,35 +1587,35 @@ Kathi Kellenberger is the editor of Simple Talk at Redgate and a Data Platform M
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Simple Fast Marketing](http://simplefastmarketing.com)
+- [Simple Fast Marketing](http://simplefastmarketing.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Montgomery County Community College](https://www.mc3.edu/)
+- [Montgomery County Community College](https://www.mc3.edu/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[Aspect Consulting](http://www.aspect-consulting.com/)
+- [Aspect Consulting](http://www.aspect-consulting.com/)
  
-[PSSUG](https://pssug.org?utm_source=sqlsaturday835)
+- [PSSUG](https://pssug.org?utm_source=sqlsaturday835)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[KingswaySoft](http://www.kingswaysoft.com)
+- [KingswaySoft](http://www.kingswaysoft.com)
  
-[Anexinet](http://www.anexinet.com)
+- [Anexinet](http://www.anexinet.com)
  
-[Varigence](http://www.varigence.com/)
+- [Varigence](http://www.varigence.com/)
  
-[RevGen Partners](http://www.revgenpartners.com/)
+- [RevGen Partners](http://www.revgenpartners.com/)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

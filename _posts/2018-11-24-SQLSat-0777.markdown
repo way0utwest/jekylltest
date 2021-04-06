@@ -12,7 +12,7 @@ prettydate: "24 November 2018"
 - Parco Area delle Scienze, 181/a
 - Parma, , Italy
  
-<a href="/PDF/0777.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0777.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -624,29 +626,29 @@ I met the Relational theory when there were no commercial RDBMS, and I was spell
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Avanade Italy](https://www.avanade.com/it-it)
+- [Avanade Italy](https://www.avanade.com/it-it)
  
-[Engage IT Services](http://www.engageitservices.it)
+- [Engage IT Services](http://www.engageitservices.it)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[YOOX NET-A-PORTER](http://www.ynap.com/)
+- [YOOX NET-A-PORTER](http://www.ynap.com/)
  
-[Méthode](http://www.methode.it/)
+- [Méthode](http://www.methode.it/)
  
-[Digibahn](http://www.digibahn.it)
+- [Digibahn](http://www.digibahn.it)
  
-[AD Consulting S.p.A.](http://www.adcgroupspa.com/)
+- [AD Consulting S.p.A.](http://www.adcgroupspa.com/)
  
-[Factory Software](http://www.bifactory.it/)
+- [Factory Software](http://www.bifactory.it/)
  
-[Microsys](https://www.msys.it/Pages/default.aspx)
+- [Microsys](https://www.msys.it/Pages/default.aspx)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "5 December 2015"
 - 5404 Wisconsin Ave, Suite 700
 - Chevy Chase, Maryland
  
-<a href="/PDF/0470.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0470.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -897,29 +899,29 @@ Her passion outside of SQL Server is volunteering with foster children as their 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[ICFI](http://www.icfi.com)
+- [ICFI](http://www.icfi.com)
  
-[Leidos](https://www.leidos.com/)
+- [Leidos](https://www.leidos.com/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[DBmaestro](http://www.dbmaestro.com/)
+- [DBmaestro](http://www.dbmaestro.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Pearl Knowledge Solutions](http://www.pearlknows.com)
+- [Pearl Knowledge Solutions](http://www.pearlknows.com)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

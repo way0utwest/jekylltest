@@ -12,7 +12,7 @@ prettydate: "7 October 2017"
 - 100 Weldon Blvd  Building UP
 - Sanford, Florida
  
-<a href="/PDF/0678.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0678.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -883,27 +885,27 @@ Amy Herold is currently a Premier Field Engineer with Microsoft, specializing in
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DELL EMC](https://www.dellemc.com/en-us/index.htm)
+- [DELL EMC](https://www.dellemc.com/en-us/index.htm)
  
-[SNI Technologies](http://www.snicompanies.com/)
+- [SNI Technologies](http://www.snicompanies.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Seminole State College](http://www.seminolestate.edu/)
+- [Seminole State College](http://www.seminolestate.edu/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Tews Company](http://www.tewscompany.com)
+- [Tews Company](http://www.tewscompany.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Vaco (Orlando)](http://www.vaco.com/home.cfm)
+- [Vaco (Orlando)](http://www.vaco.com/home.cfm)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

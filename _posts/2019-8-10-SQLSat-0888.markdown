@@ -12,7 +12,7 @@ prettydate: "10 August 2019"
 - 2001 S Summit Ave
 - Sioux Falls, South Dakota
  
-<a href="/PDF/0888.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0888.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -739,53 +741,53 @@ Preston VanderPlaats has worked in Industrial Automation for 35 years in the fol
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Blend Interactive](http://www.blendinteractive.com)
+- [Blend Interactive](http://www.blendinteractive.com)
  
-[First Premier Bank](https://www.firstpremier.com/)
+- [First Premier Bank](https://www.firstpremier.com/)
  
-[Carsforsale.com](https://www.carsforsale.com/)
+- [Carsforsale.com](https://www.carsforsale.com/)
  
-[Superior Consulting Services, LLC](http://www.teamscs.com)
+- [Superior Consulting Services, LLC](http://www.teamscs.com)
  
-[Interstates](https://www.interstates.com/)
+- [Interstates](https://www.interstates.com/)
  
-[MetaBank](https://www.metabank.com/)
+- [MetaBank](https://www.metabank.com/)
  
-[SDN Communications](https://sdncommunications.com)
+- [SDN Communications](https://sdncommunications.com)
  
-[House of Brick Technologies / Xigent Solutions](http://houseofbrick.com/)
+- [House of Brick Technologies / Xigent Solutions](http://houseofbrick.com/)
  
-[The Bancorp](https://thebancorp.mybankingservices.com/)
+- [The Bancorp](https://thebancorp.mybankingservices.com/)
  
-[First Bank  Trust](https://www.bankeasy.com/)
+- [First Bank  Trust](https://www.bankeasy.com/)
  
-[Wells Fargo](https://www.wellsfargo.com/)
+- [Wells Fargo](https://www.wellsfargo.com/)
  
-[Dakota State University](http://dsu.edu/)
+- [Dakota State University](http://dsu.edu/)
  
-[Unify Consulting](https://www.unifyconsulting.com/)
+- [Unify Consulting](https://www.unifyconsulting.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Tyler Technologies](https://www.tylertech.com)
+- [Tyler Technologies](https://www.tylertech.com)
  
-[Red Gate Software](http://www.red-gate.com)
+- [Red Gate Software](http://www.red-gate.com)
  
-[Raven Industries](http://www.ravenind.com)
+- [Raven Industries](http://www.ravenind.com)
  
-[Sanford Health](http://www.sanfordhealth.org)
+- [Sanford Health](http://www.sanfordhealth.org)
  
-[CHR Solutions](http://www.chrsolutions.com)
+- [CHR Solutions](http://www.chrsolutions.com)
  
-[RAS Companies](http://www.rascompanies.com)
+- [RAS Companies](http://www.rascompanies.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Midcontinent Communications](http://www.midco.com)
+- [Midcontinent Communications](http://www.midco.com)
  
-[Omnitech Inc](http://www.omnitech-inc.com/)
+- [Omnitech Inc](http://www.omnitech-inc.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "6 October 2012"
 - 9000 Babcock Boulevard
 - Pittsburgh , Pennsylvania
  
-<a href="/PDF/0171.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0171.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -701,37 +703,37 @@ Rick is a Former Data Platfrom MVP  and Sr. Consultant for Microsoft where he fo
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Community Care Behavioral Health Organization](http://www.ccbh.com)
+- [Community Care Behavioral Health Organization](http://www.ccbh.com)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[ProTech](http://www.protechtraining.com/)
+- [ProTech](http://www.protechtraining.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Oxford Solutions Inc.](http://www.oxfordsolutionsinc.com/index.html)
+- [Oxford Solutions Inc.](http://www.oxfordsolutionsinc.com/index.html)
  
-[NMBCondos](http://www.homeaway.com/vacation-rental/p162405)
+- [NMBCondos](http://www.homeaway.com/vacation-rental/p162405)
  
-[Friends Of Pittsburgh SQL Saturday](http://www.sqlsaturday.com/files/89e05da6-95b7-42ab-bd1b-566b5fabaa0c.pdf)
+- [Friends Of Pittsburgh SQL Saturday](http://www.sqlsaturday.com/files/89e05da6-95b7-42ab-bd1b-566b5fabaa0c.pdf)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SQL Server Pro Digital Magazine](http://www.sqlmag.com/subscribe)
+- [SQL Server Pro Digital Magazine](http://www.sqlmag.com/subscribe)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[SAPIEN Technologies](http://www.sapien.com)
+- [SAPIEN Technologies](http://www.sapien.com)
  
-[Wrox Press](http://www.wrox.xom/wileyCDA)
+- [Wrox Press](http://www.wrox.xom/wileyCDA)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "13 June 2015"
 - 3301 College Ave
 - Davie, Florida
  
-<a href="/PDF/0379.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0379.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1535,43 +1537,43 @@ Kendal is a database strategist, community advocate, public speaker, and blogger
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[DH2i](http://www.dh2i.com)
+- [DH2i](http://www.dh2i.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tegile Systems](http://www.tegile.com)
+- [Tegile Systems](http://www.tegile.com)
  
-[SherlockTalent, Inc.](http://www.SherlockTalent.com)
+- [SherlockTalent, Inc.](http://www.SherlockTalent.com)
  
-[Kroll Ontrack](http://www.krollontrack.com/)
+- [Kroll Ontrack](http://www.krollontrack.com/)
  
-[Micron](http://www.micron.com)
+- [Micron](http://www.micron.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Signature Consultants](http://www.sigconsult.com/)
+- [Signature Consultants](http://www.sigconsult.com/)
  
-[TEKPartners](http://www.tekpartners.com)
+- [TEKPartners](http://www.tekpartners.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Octagon Technology Staffing](http://www.octagonsearch.com/services.html)
+- [Octagon Technology Staffing](http://www.octagonsearch.com/services.html)
  
-[Pragmatic Works](http://www.pragmaticworks.com)
+- [Pragmatic Works](http://www.pragmaticworks.com)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Consultis](http://www.consultis.com)
+- [Consultis](http://www.consultis.com)
  
-[MSSQLTips](http://www.mssqltips.com/index.asp)
+- [MSSQLTips](http://www.mssqltips.com/index.asp)
  
-[Pearl Knowledge Solutions Inc.](http://www.pearlknows.com/)
+- [Pearl Knowledge Solutions Inc.](http://www.pearlknows.com/)
  
-[Plural Sight](http://www.pluralsight-training.net)
+- [Plural Sight](http://www.pluralsight-training.net)
  
-[SQL Cruise](http://sqlcruise.com/2013-cruises/)
+- [SQL Cruise](http://sqlcruise.com/2013-cruises/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

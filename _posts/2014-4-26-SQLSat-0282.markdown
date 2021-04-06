@@ -12,7 +12,7 @@ prettydate: "26 April 2014"
 - Calle 5
 - San Jose, , Costa Rica
  
-<a href="/PDF/0282.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0282.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -741,23 +743,23 @@ César Oviedo is a Data Platform MVP with more than 12 years of experience worki
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
-[IEEE Seccion Costa Rica](http://ewh.ieee.org/r9/costa_rica/)
+- [IEEE Seccion Costa Rica](http://ewh.ieee.org/r9/costa_rica/)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Experian Consumer Services](http://experian.com)
+- [Experian Consumer Services](http://experian.com)
  
-[Grupo Asesor en Informatica](http://www.grupoasesor.net)
+- [Grupo Asesor en Informatica](http://www.grupoasesor.net)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

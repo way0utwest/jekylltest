@@ -12,7 +12,7 @@ prettydate: "14 September 2019"
 - 5 Wayside Road
 - Burlington, Massachusetts
  
-<a href="/PDF/0877.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0877.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1097,35 +1099,35 @@ Surbhi Pokharna has been working with SQL Server since 6.5. She is currently wor
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Google](https://www.google.com)
+- [Google](https://www.google.com)
  
-[KingswaySoft](http://www.kingswaysoft.com)
+- [KingswaySoft](http://www.kingswaysoft.com)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[SIOS Technology](http://us.sios.com/company/)
+- [SIOS Technology](http://us.sios.com/company/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SQLGrease](https://www.sqlgrease.com)
+- [SQLGrease](https://www.sqlgrease.com)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[Boston College](http://bcmsae.online/SQLSaturday)
+- [Boston College](http://bcmsae.online/SQLSaturday)
  
-[Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
+- [Insight - Digital Innovation](https://www.insight.com/en_US/solve/digital-innovation.html)
  
-[Merrimack College](http://onlinedsa.merrimack.edu/)
+- [Merrimack College](http://onlinedsa.merrimack.edu/)
  
-[Consultant Corner](https://www.consultantcorner.net/)
+- [Consultant Corner](https://www.consultantcorner.net/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[New England SQL Server User Group](https://www.meetup.com/nesqlug/)
+- [New England SQL Server User Group](https://www.meetup.com/nesqlug/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

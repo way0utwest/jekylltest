@@ -12,7 +12,7 @@ prettydate: "25 June 2016"
 - Tour Montparnasse
 - Paris, Île-de-France, France
  
-<a href="/PDF/0510.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0510.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -558,23 +560,23 @@ Chrissy recently achieved her MS in Systems Engineering at Regis University ‍
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Data by Design](http://www.dataxdesign.com)
+- [Data by Design](http://www.dataxdesign.com)
  
-[JobLy](http://myjobly.fr)
+- [JobLy](http://myjobly.fr)
  
-[Azeo](http://www.azeo.com/)
+- [Azeo](http://www.azeo.com/)
  
-[DCube](http://www.dcube.fr/)
+- [DCube](http://www.dcube.fr/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[See-d](http://www.see-d.fr/)
+- [See-d](http://www.see-d.fr/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

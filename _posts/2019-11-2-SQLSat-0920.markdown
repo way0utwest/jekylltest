@@ -12,7 +12,7 @@ prettydate: "2 November 2019"
 - 5000 North Willamette Blvd
 - Portland, Oregon
  
-<a href="/PDF/0920.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0920.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1385,37 +1387,37 @@ Frank Geisler is owner and CEO of GDS Business Intelligence GmbH. He is SQL Serv
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Marquam Group](https://www.marquam.com/)
+- [Marquam Group](https://www.marquam.com/)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[Quest](https://www.quest.com/)
+- [Quest](https://www.quest.com/)
  
-[oh22](http://www.oh22.net)
+- [oh22](http://www.oh22.net)
  
-[Snowflake Computing](https://www.snowflake.com/)
+- [Snowflake Computing](https://www.snowflake.com/)
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Interject Data Systems](http://www.gointerject.com)
+- [Interject Data Systems](http://www.gointerject.com)
  
-[Edgelink](http://www.edgelink.com/)
+- [Edgelink](http://www.edgelink.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[KingswaySoft](http://www.kingswaysoft.com)
+- [KingswaySoft](http://www.kingswaysoft.com)
  
-[Talend.Inc.](https://www.talend.com/)
+- [Talend.Inc.](https://www.talend.com/)
  
-[Redgate Software](http://www.red-gate.com/)
+- [Redgate Software](http://www.red-gate.com/)
  
-[Ilani](https://ilaniresort.com)
+- [Ilani](https://ilaniresort.com)
  
-[Franz Bakery](https://franzbakery.com/index.html)
+- [Franz Bakery](https://franzbakery.com/index.html)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

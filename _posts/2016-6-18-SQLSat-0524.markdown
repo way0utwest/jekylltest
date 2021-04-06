@@ -12,7 +12,7 @@ prettydate: "18 June 2016"
 - 3301 College Ave
 - Davie, Florida
  
-<a href="/PDF/0524.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0524.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1164,59 +1166,59 @@ I have a very deep interest in BI and the financial sector. I acquire my financi
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Kaminario](http://www.kaminario.com)
+- [Kaminario](http://www.kaminario.com)
  
-[Panorama](http://www.panorama.com/)
+- [Panorama](http://www.panorama.com/)
  
-[Dobler Consulting Services LLC](http://doblerconsulting.com)
+- [Dobler Consulting Services LLC](http://doblerconsulting.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[SherlockTalent, Inc.](http://www.SherlockTalent.com)
+- [SherlockTalent, Inc.](http://www.SherlockTalent.com)
  
-[Signature Consultants](http://www.sigconsult.com/)
+- [Signature Consultants](http://www.sigconsult.com/)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Cisco](http://www.cisco.com/go/microsoft)
+- [Cisco](http://www.cisco.com/go/microsoft)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[ScaleArc](http://www.scalearc.com)
+- [ScaleArc](http://www.scalearc.com)
  
-[Soaring Eagle Consulting](http://www.soaringeagle.biz)
+- [Soaring Eagle Consulting](http://www.soaringeagle.biz)
  
-[Kforce](http://www.kforce.com)
+- [Kforce](http://www.kforce.com)
  
-[Nebbia Technology](http://www.nebbiatech.com/)
+- [Nebbia Technology](http://www.nebbiatech.com/)
  
-[Devart](http://www.devart.com/)
+- [Devart](http://www.devart.com/)
  
-[Octagon Technology Staffing](http://www.octagonsearch.com/services.html)
+- [Octagon Technology Staffing](http://www.octagonsearch.com/services.html)
  
-[Consultis](http://www.consultis.com)
+- [Consultis](http://www.consultis.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Brent Ozar Unlimited](http://www.brentozar.com)
+- [Brent Ozar Unlimited](http://www.brentozar.com)
  
-[Pluralsight  LLC](http://pluralsight.com)
+- [Pluralsight  LLC](http://pluralsight.com)
  
-[ApexSQL](http://www.apexsql.com/)
+- [ApexSQL](http://www.apexsql.com/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Nova Southeastern University#39;s College of Engineering and Computing](http://cec.nova.edu/)
+- [Nova Southeastern University#39;s College of Engineering and Computing](http://cec.nova.edu/)
  
-[JetBrains](http://www.jetbrains.com)
+- [JetBrains](http://www.jetbrains.com)
  
-[SQL Cruise](http://sqlcruise.com/2013-cruises/)
+- [SQL Cruise](http://sqlcruise.com/2013-cruises/)
  
-[Syncfusion](http://www.syncfusion.com/)
+- [Syncfusion](http://www.syncfusion.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

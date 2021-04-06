@@ -12,7 +12,7 @@ prettydate: "12 September 2015"
 - Av. Cra. 68 No 90-88 Bloque Administrativo Piso 1
 - Bogotá, Bogota D.C, Colombia
  
-<a href="/PDF/0448.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0448.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -739,35 +741,35 @@ You#39;re welcome to my site http://www.synergytpc.com and my blog http://msmvps
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Asesores en TICs y Software S.A.S](http://www.atis.com.co)
+- [Asesores en TICs y Software S.A.S](http://www.atis.com.co)
  
-[KEMP Technologies Inc](http://kemptechnologies.com/)
+- [KEMP Technologies Inc](http://kemptechnologies.com/)
  
-[IT Talent - Educaci#243;n y Tecnolog#237;as de Informaci#243;n S.A.](http://www.ittalent.com.co)
+- [IT Talent - Educaci#243;n y Tecnolog#237;as de Informaci#243;n S.A.](http://www.ittalent.com.co)
  
-[Linchpin People](http://www.linchpinpeople.com)
+- [Linchpin People](http://www.linchpinpeople.com)
  
-[IT Consultancy](http://www.itconsultancy.com.ec)
+- [IT Consultancy](http://www.itconsultancy.com.ec)
  
-[Fundación Universitaria CAFAM](http://www.unicafam.edu.co/)
+- [Fundación Universitaria CAFAM](http://www.unicafam.edu.co/)
  
-[Apex SQL](http://www.apexsql.com)
+- [Apex SQL](http://www.apexsql.com)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[iT Synergy](http://www.itsynergy.co)
+- [iT Synergy](http://www.itsynergy.co)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
-[Synergy TPC](http://www.synergytpc.com)
+- [Synergy TPC](http://www.synergytpc.com)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
+- [Comunidad Windows Costa Rica](http://tinyurl.com/comunidadwindows)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

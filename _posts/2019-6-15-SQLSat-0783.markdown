@@ -12,7 +12,7 @@ prettydate: "15 June 2019"
 - San Carlos, Alajuela
 - Quesada, Alajuela Province, Costa Rica
  
-<a href="/PDF/0783.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0783.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -736,27 +738,27 @@ Consultor en Desarrollo de Software, conocedor de tecnolog#237;as basadas en la 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[CTEC](http://www.ctec.tec.ac.cr/)
+- [CTEC](http://www.ctec.tec.ac.cr/)
  
-[GAN Costa Rica](https://www.gan-costarica.org/)
+- [GAN Costa Rica](https://www.gan-costarica.org/)
  
-[Cenfotec](https://www.ucenfotec.ac.cr/)
+- [Cenfotec](https://www.ucenfotec.ac.cr/)
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Tecnológico de Costa Rica](https://www.tec.ac.cr/)
+- [Tecnológico de Costa Rica](https://www.tec.ac.cr/)
  
-[Business Intelligence LATAM](http://bit.ly/SuscribirseBILATAM)
+- [Business Intelligence LATAM](http://bit.ly/SuscribirseBILATAM)
  
-[Growth Acceleration Partners](https://www.growthaccelerationpartners.com/)
+- [Growth Acceleration Partners](https://www.growthaccelerationpartners.com/)
  
-[MCK Periscope](https://www.periscope-solutions.com/)
+- [MCK Periscope](https://www.periscope-solutions.com/)
  
-[CPIC](https://www.cpic.or.cr)
+- [CPIC](https://www.cpic.or.cr)
  
-[Coocique](https://coocique.fi.cr/)
+- [Coocique](https://coocique.fi.cr/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

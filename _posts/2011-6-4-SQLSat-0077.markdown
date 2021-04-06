@@ -12,7 +12,7 @@ prettydate: "4 June 2011"
 - 1000 College Blvd, Pensacola
 - Pensacola, Florida
  
-<a href="/PDF/0077.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0077.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -887,73 +889,73 @@ Jorge Segarra is a senior consultant for Microsoft (Premier Support for Develope
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Embarcadero](http://www.embarcadero.com)
+- [Embarcadero](http://www.embarcadero.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[DevFish](http://www.devfish.net/)
+- [DevFish](http://www.devfish.net/)
  
-[TeleVox Software Inc](http://www.televox.com/company/about/)
+- [TeleVox Software Inc](http://www.televox.com/company/about/)
  
-[GrapeCity](http://www.gcpowertools.com)
+- [GrapeCity](http://www.gcpowertools.com)
  
-[CTS, Inc.](https://www.cgi.com/en)
+- [CTS, Inc.](https://www.cgi.com/en)
  
-[AppRiver](http://www.appriver.com)
+- [AppRiver](http://www.appriver.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Overgroup Consulting, LLC](http://www.overgroup.com)
+- [Overgroup Consulting, LLC](http://www.overgroup.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[SSWUG.org](https://www.sswug.org/)
+- [SSWUG.org](https://www.sswug.org/)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Perficient, Inc.](http://www.perficient.com)
+- [Perficient, Inc.](http://www.perficient.com)
  
-[HealthWare Corporation](http://www.healthware.com)
+- [HealthWare Corporation](http://www.healthware.com)
  
-[SQL People](http://www.sqlpeople.net)
+- [SQL People](http://www.sqlpeople.net)
  
-[Ted Krueger - LessThanDot](http://lessthandot.com)
+- [Ted Krueger - LessThanDot](http://lessthandot.com)
  
-[InfoAdvisors](http://blog.infoadvisors.com)
+- [InfoAdvisors](http://blog.infoadvisors.com)
  
-[Karla Landrum](http://www.karlalandrum.wordpress.com)
+- [Karla Landrum](http://www.karlalandrum.wordpress.com)
  
-[Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
+- [Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
  
-[Silverwing Technologies, Inc.](http://www.programmersedge.com)
+- [Silverwing Technologies, Inc.](http://www.programmersedge.com)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[Matt Velic](http://mattvelic.com)
+- [Matt Velic](http://mattvelic.com)
  
-[Noel McKinney](http://noelmckinney.com/)
+- [Noel McKinney](http://noelmckinney.com/)
  
-[Telerik](http://www.telerik.com/)
+- [Telerik](http://www.telerik.com/)
  
-[Bit-Wizards](https://bitwizards.com/)
+- [Bit-Wizards](https://bitwizards.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[O'Reilly Books](http://oreilly.com/)
+- [O'Reilly Books](http://oreilly.com/)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Wrox](http://www.wrox.com/WileyCDA/)
+- [Wrox](http://www.wrox.com/WileyCDA/)
  
-[McGraw-Hill Publishing](http://www.mcgraw-hill.com/)
+- [McGraw-Hill Publishing](http://www.mcgraw-hill.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

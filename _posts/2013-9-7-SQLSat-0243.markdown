@@ -12,7 +12,7 @@ prettydate: "7 September 2013"
 - 2 Strand Rd, Bellville
 - Cape Town, , South Africa
  
-<a href="/PDF/0243.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0243.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -375,15 +377,15 @@ Turgay Sahtiyan has been working in IT industry over a decade and he currently w
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[EOH Microsoft Coastal](http://www.eohmc.co.za)
+- [EOH Microsoft Coastal](http://www.eohmc.co.za)
  
-[Saratoga Software](http://www.saratoga.co.za)
+- [Saratoga Software](http://www.saratoga.co.za)
  
-[Aphelion Software](http://www.Aphelionbi.com)
+- [Aphelion Software](http://www.Aphelionbi.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Expert Exchange](http://www.experts-exchange.com/)
+- [Expert Exchange](http://www.experts-exchange.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

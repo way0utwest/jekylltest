@@ -12,7 +12,7 @@ prettydate: "25 June 2011"
 - 1400 E. Hanna Ave
 - Indianapolis, Indiana
  
-<a href="/PDF/0082.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0082.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -542,41 +544,41 @@ John Welch joined SentryOne in spring 2018 as VP of Engineering with the acquisi
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[Integrated Data Storage](http://www.idstorage.com/)
+- [Integrated Data Storage](http://www.idstorage.com/)
  
-[ExactTarget](http://www.exacttarget.com/)
+- [ExactTarget](http://www.exacttarget.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Karla Landrum](http://www.karlalandrum.wordpress.com)
+- [Karla Landrum](http://www.karlalandrum.wordpress.com)
  
-[Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
+- [Rodney Landrum](http://www.simple-talk.com/community/blogs/rodney/default.aspx)
  
-[Silverwing Technologies, Inc.](http://www.programmersedge.com)
+- [Silverwing Technologies, Inc.](http://www.programmersedge.com)
  
-[Noel McKinney](http://noelmckinney.com/)
+- [Noel McKinney](http://noelmckinney.com/)
  
-[SQLvariant](http://sqlvariant.com/)
+- [SQLvariant](http://sqlvariant.com/)
  
-[SQLJoe.com](http://www.sqljoe.com)
+- [SQLJoe.com](http://www.sqljoe.com)
  
-[InfoAdvisors](http://blog.infoadvisors.com)
+- [InfoAdvisors](http://blog.infoadvisors.com)
  
-[Aaron Stanley King](http://www.aaronstanleyking.com)
+- [Aaron Stanley King](http://www.aaronstanleyking.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
-[Apparatus](http://www.apparatus.net)
+- [Apparatus](http://www.apparatus.net)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

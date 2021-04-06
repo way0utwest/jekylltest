@@ -12,7 +12,7 @@ prettydate: "10 June 2017"
 - 13031 W. Jefferson Blvd Suite 200
 - Los Angeles, California
  
-<a href="/PDF/0640.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0640.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -1243,59 +1245,59 @@ Rick will work with all things relational, but most enjoys helping smaller compa
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[VMWare](http://www.vmware.com)
+- [VMWare](http://www.vmware.com)
  
-[Verizon Digital Media Services](https://www.verizondigitalmedia.com)
+- [Verizon Digital Media Services](https://www.verizondigitalmedia.com)
  
-[Tintri](http://www.tintri.com)
+- [Tintri](http://www.tintri.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[WARDY IT Solutions](http://www.wardyit.com)
+- [WARDY IT Solutions](http://www.wardyit.com)
  
-[Profisee](http://www.profisee.com)
+- [Profisee](http://www.profisee.com)
  
-[Amazon Web Services, LLC](http://aws.amazon.com)
+- [Amazon Web Services, LLC](http://aws.amazon.com)
  
-[DB Pro Oy](https://www.sqlgovernor.com)
+- [DB Pro Oy](https://www.sqlgovernor.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Vexata](https://www.vexata.com/)
+- [Vexata](https://www.vexata.com/)
  
-[DB Best Technologies](http://www.dbbest.com)
+- [DB Best Technologies](http://www.dbbest.com)
  
-[Pure Storage](http://www.purestorage.com)
+- [Pure Storage](http://www.purestorage.com)
  
-[NetLib Security](https://netlibsecurity.com/)
+- [NetLib Security](https://netlibsecurity.com/)
  
-[Principal Development Group](http://pdgc.com/)
+- [Principal Development Group](http://pdgc.com/)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[Robert Half Technology](http://www.roberthalf.com/technology/)
+- [Robert Half Technology](http://www.roberthalf.com/technology/)
  
-[SentryOne](https://www.sentryone.com/)
+- [SentryOne](https://www.sentryone.com/)
  
-[Denny Cherry and Associates Consulting](http://www.dcac.co)
+- [Denny Cherry and Associates Consulting](http://www.dcac.co)
  
-[COZYROC](http://bit.ly/cozyrocssis)
+- [COZYROC](http://bit.ly/cozyrocssis)
  
-[SQLDocKit by Acceleratio Ltd.](https://www.sqldockit.com/)
+- [SQLDocKit by Acceleratio Ltd.](https://www.sqldockit.com/)
  
-[Galpin Motors](http://www.galpin.com/)
+- [Galpin Motors](http://www.galpin.com/)
  
-[KingswaySoft](http://www.kingswaysoft.com)
+- [KingswaySoft](http://www.kingswaysoft.com)
  
-[Hush Hush](http://www.mask-me.net)
+- [Hush Hush](http://www.mask-me.net)
  
-[Cappuccino Insurance](http://www.cappuccinoinsurance.com/)
+- [Cappuccino Insurance](http://www.cappuccinoinsurance.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "26 October 2013"
 - 110 B, Simeonovsko Shosse Bul.
 - Sofia, , Bulgaria
  
-<a href="/PDF/0199.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0199.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -690,43 +692,43 @@ Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Men
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Infragistics Inc.](http://www.infragistics.com)
+- [Infragistics Inc.](http://www.infragistics.com)
  
-[ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
+- [ICB-InterConsult Bulgaria Ltd.](http://www.icb.bg)
  
-[ICN.bg](http://www.icn.bg/)
+- [ICN.bg](http://www.icn.bg/)
  
-[SuperHosting.BG](http://www.superhosting.bg/)
+- [SuperHosting.BG](http://www.superhosting.bg/)
  
-[Hewlett-Packard](http://www.hp.com)
+- [Hewlett-Packard](http://www.hp.com)
  
-[ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
+- [ApexSQL LLC](http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D)
  
-[Virtual Affairs](http://www.virtual-affairs.com/)
+- [Virtual Affairs](http://www.virtual-affairs.com/)
  
-[Inspirit EOOD](http://www.sqlmasteracademy.com)
+- [Inspirit EOOD](http://www.sqlmasteracademy.com)
  
-[Microsoft Bulgaria](http://www.microsoft.com)
+- [Microsoft Bulgaria](http://www.microsoft.com)
  
-[MentorMate](https://goo.gl/53d5Fn)
+- [MentorMate](https://goo.gl/53d5Fn)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[ISDC](http://www.isdc.eu)
+- [ISDC](http://www.isdc.eu)
  
-[MarkTab Inc](http://marktab.net/datamining/)
+- [MarkTab Inc](http://marktab.net/datamining/)
  
-[Enterprise Software Solutions](http://www.entsoftsol.com/)
+- [Enterprise Software Solutions](http://www.entsoftsol.com/)
  
-[xSQL Software](http://www.xsql.com)
+- [xSQL Software](http://www.xsql.com)
  
-[PluralSight](http://www.pluralsight.com)
+- [PluralSight](http://www.pluralsight.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Httpool Bulgaria](http://www.httpool.bg/)
+- [Httpool Bulgaria](http://www.httpool.bg/)
  
-[SQLExpert.pl](http://www.sqlexpert.pl/)
+- [SQLExpert.pl](http://www.sqlexpert.pl/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

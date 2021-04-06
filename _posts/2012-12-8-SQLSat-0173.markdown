@@ -12,7 +12,7 @@ prettydate: "8 December 2012"
 - 5404 Wisconsin Ave, Suite 700
 - Chevy Chase, Maryland
  
-<a href="/PDF/0173.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0173.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -778,35 +780,35 @@ John Sterrett is a MCSE: Data Platform, Principal Consultant, and the Founder of
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Aspect Consulting](http://www.aspect-consulting.com/)
+- [Aspect Consulting](http://www.aspect-consulting.com/)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[Knowlogy Corporation](http://www.knowlogy.com)
+- [Knowlogy Corporation](http://www.knowlogy.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[WaterOx Consulting, Inc.](https://www.WaterOxConsulting.com)
+- [WaterOx Consulting, Inc.](https://www.WaterOxConsulting.com)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[CapTech Consulting](http://captechconsulting.com/)
+- [CapTech Consulting](http://captechconsulting.com/)
  
-[Melissa Data Corp.](http://www.melissadata.com)
+- [Melissa Data Corp.](http://www.melissadata.com)
  
-[House of Brick Technologies](http://www.houseofbrick.com)
+- [House of Brick Technologies](http://www.houseofbrick.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[MSSQLTips.com](http://www.mssqltips.com/)
+- [MSSQLTips.com](http://www.mssqltips.com/)
  
-[Apex Systems, Inc](http://www.apexsystemsinc.com/)
+- [Apex Systems, Inc](http://www.apexsystemsinc.com/)
  
-[SQL Cruise](http://sqlcruise.com/2013-cruises/)
+- [SQL Cruise](http://sqlcruise.com/2013-cruises/)
  
-[Radney Consulting LLC](http://www.timradney.com)
+- [Radney Consulting LLC](http://www.timradney.com)
  
-[SQL Saturday #173 Pre-cons](http://www.eventbrite.com/org/2855142065)
+- [SQL Saturday #173 Pre-cons](http://www.eventbrite.com/org/2855142065)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

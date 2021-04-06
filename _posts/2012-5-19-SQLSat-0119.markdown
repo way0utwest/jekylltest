@@ -12,7 +12,7 @@ prettydate: "19 May 2012"
 - 1221 North Swift Road
 - Addison, Illinois
  
-<a href="/PDF/0119.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0119.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -902,43 +904,43 @@ Craig Purnell is a career database professional, trainer, and community activist
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[SoftChoice Upgrade](http://www.softchoice.com)
+- [SoftChoice Upgrade](http://www.softchoice.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[SQLHA](http://www.sqlha.com)
+- [SQLHA](http://www.sqlha.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[SQL Sentry, Inc.](http://www.sqlsentry.net)
+- [SQL Sentry, Inc.](http://www.sqlsentry.net)
  
-[MarkTab Consulting](http://www.marktab.net)
+- [MarkTab Consulting](http://www.marktab.net)
  
-[Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
+- [Steve Hughes - Data On Wheels](http://www.dataonwheels.com)
  
-[Noel McKinney](http://noelmckinney.com/)
+- [Noel McKinney](http://noelmckinney.com/)
  
-[joshuafennessy.com](http://joshuafennessy.com)
+- [joshuafennessy.com](http://joshuafennessy.com)
  
-[SQLFriends](http://sqlfriends.org)
+- [SQLFriends](http://sqlfriends.org)
  
-[StrateSQL](http://www.jasonstrate.com)
+- [StrateSQL](http://www.jasonstrate.com)
  
-[Shannon Lowder](http://shannonlowder.com)
+- [Shannon Lowder](http://shannonlowder.com)
  
-[Tek Systems](http://www.teksystems.com/)
+- [Tek Systems](http://www.teksystems.com/)
  
-[DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
+- [DeVry University](http://www.devryuniversitycampus.org/Chicago/Addison-Campus.html)
  
-[Magenic](http://www.magenic.com)
+- [Magenic](http://www.magenic.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "2 October 2010"
 - 6711 NE Birmingham Rd
 - Kansas City, Missouri
  
-<a href="/PDF/0053.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0053.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -831,47 +833,47 @@ I have been a Microsoft Premier Field Engineer for four years, assisting custome
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQL Server Magazine](http://www.sqlmag.com)
+- [SQL Server Magazine](http://www.sqlmag.com)
  
-[Stallard Technologies](http://www.stikc.com)
+- [Stallard Technologies](http://www.stikc.com)
  
-[FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
+- [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Cerner corporation](http://www.cerner.com/)
+- [Cerner corporation](http://www.cerner.com/)
  
-[RSA, The Security Division of EMC](http://www.rsa.com)
+- [RSA, The Security Division of EMC](http://www.rsa.com)
  
-[SQLTeam](http://www.sqlteam.com)
+- [SQLTeam](http://www.sqlteam.com)
  
-[O'Reilly Media, Inc](http://www.oreilly.com)
+- [O'Reilly Media, Inc](http://www.oreilly.com)
  
-[Telerik Inc](http://www.telerik.com)
+- [Telerik Inc](http://www.telerik.com)
  
-[e Tek Global Inc](http://www.etekglobalinc.com)
+- [e Tek Global Inc](http://www.etekglobalinc.com)
  
-[Apress](http://www.apress.com/)
+- [Apress](http://www.apress.com/)
  
-[Wiley](http://www.wiley.com)
+- [Wiley](http://www.wiley.com)
  
-[Perpetual Technologies, Inc.](http://www.perptech.com)
+- [Perpetual Technologies, Inc.](http://www.perptech.com)
  
-[Confio](http://www.confio.com)
+- [Confio](http://www.confio.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Pearson Education](http://www.informit.com/)
+- [Pearson Education](http://www.informit.com/)
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Kansas City IT Professionals](http://www.kcitp.com)
+- [Kansas City IT Professionals](http://www.kcitp.com)
  
-[1102 GRAND](http://www.1102Grand.com)
+- [1102 GRAND](http://www.1102Grand.com)
  
-[Cozy Roc](http://www.cozyroc.com)
+- [Cozy Roc](http://www.cozyroc.com)
  
-[Redgate Software (GAP)](http://rd.gt/2j7SNf9)
+- [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Gerasus Software](http://www.gerasus.com/)
+- [Gerasus Software](http://www.gerasus.com/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

@@ -12,7 +12,7 @@ prettydate: "10 September 2016"
 - Churchill College, Storey's Way, Cambridge
 - Cambridge, England, United Kingdom
  
-<a href="/PDF/0520.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0520.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -426,31 +428,31 @@ Frank Geisler is owner and CEO of GDS Business Intelligence GmbH. He is SQL Serv
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[SQLCloud Limited](http://bit.ly/sqlcloudporto)
+- [SQLCloud Limited](http://bit.ly/sqlcloudporto)
  
-[Microsoft UK](https://www.microsoft.com/en-gb/server-cloud/data-management/overview.aspx?WT.srch=1amp;WT.mc_ID=SEM_akXKoyd1)
+- [Microsoft UK](https://www.microsoft.com/en-gb/server-cloud/data-management/overview.aspx?WT.srch=1amp;WT.mc_ID=SEM_akXKoyd1)
  
-[COEO](http://www.coeo.com)
+- [COEO](http://www.coeo.com)
  
-[Application Performance Ltd](http://www.applicationperformance.com)
+- [Application Performance Ltd](http://www.applicationperformance.com)
  
-[Pyramid Analytics](http://www.PyramidAnalytics.com)
+- [Pyramid Analytics](http://www.PyramidAnalytics.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[Red Gate](http://rd.gt/2j7SNf9)
+- [Red Gate](http://rd.gt/2j7SNf9)
  
-[Idera](http://www.idera.com/Content/Home.aspx)
+- [Idera](http://www.idera.com/Content/Home.aspx)
  
-[EACS](http://www.eacs.com/)
+- [EACS](http://www.eacs.com/)
  
-[SQL Sentry](http://www.sqlsentry.com/)
+- [SQL Sentry](http://www.sqlsentry.com/)
  
-[OReilly](http://www.oreilly.com/)
+- [OReilly](http://www.oreilly.com/)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
-[Sirius Cybernetics Corporation](https://en.wikipedia.org/wiki/Technology_in_The_Hitchhiker%27s_Guide_to_the_Galaxy)
+- [Sirius Cybernetics Corporation](https://en.wikipedia.org/wiki/Technology_in_The_Hitchhiker%27s_Guide_to_the_Galaxy)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

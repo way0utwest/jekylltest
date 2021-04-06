@@ -12,7 +12,7 @@ prettydate: "27 April 2019"
 - 10210 Princess Elizabeth Ave NW
 - Edmonton, Alberta, Canada
  
-<a href="/PDF/0840.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0840.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -511,23 +513,23 @@ Product Director at Datateam Services, 10+ years of experience designing data wa
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[dbFront Works](https://dbFront.com)
+- [dbFront Works](https://dbFront.com)
  
-[Quest Software](https://www.quest.com/)
+- [Quest Software](https://www.quest.com/)
  
-[The Little Potato Company](https://www.littlepotatoes.com)
+- [The Little Potato Company](https://www.littlepotatoes.com)
  
-[Devfacto](https://www.devfacto.com/)
+- [Devfacto](https://www.devfacto.com/)
  
-[Groundswell Group](https://www.groundswellgroup.ca/)
+- [Groundswell Group](https://www.groundswellgroup.ca/)
  
-[RevDeBug](https://revdebug.com)
+- [RevDeBug](https://revdebug.com)
  
-[SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
+- [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[PASS](http://www.pass.org)
+- [PASS](http://www.pass.org)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;

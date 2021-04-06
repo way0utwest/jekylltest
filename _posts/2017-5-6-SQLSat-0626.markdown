@@ -12,7 +12,7 @@ prettydate: "6 May 2017"
 - Mérnök u. 39.
 - Budapest, Budapest, Hungary
  
-<a href="/PDF/0626.pdf">PDF of Schedule</a>
+<a href="/assets/pdf/0626.pdf">PDF of Schedule</a>
  
 This event has completed. All data shown below is from the historical XML public data available.
 <ul>
@@ -21,6 +21,8 @@ This event has completed. All data shown below is from the historical XML public
    <li><a href="#sponsors">Sponsors</a></li>
 </ul>
  
+ 
+If there are any data quality issues or corrections needed, please contact the webmaster for this site or submit a pull request for the appropriate file(s). 
  
 ----------------------------------------------------------------------------------- 
  
@@ -527,13 +529,13 @@ Bob works as a Database Architect at the Prodata SQL Centre of Excellence where 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[LogMeIn Kft](http://www.logmein.com)
+- [LogMeIn Kft](http://www.logmein.com)
  
-[Sun City Software Kft.](http://www.suncitysoftware.hu)
+- [Sun City Software Kft.](http://www.suncitysoftware.hu)
  
-[SZAMALK Education and Information Technology Limited Company](http://www.szamalk.hu/)
+- [SZAMALK Education and Information Technology Limited Company](http://www.szamalk.hu/)
  
 [Back to the SQL Saturday Event List](/past.html)
 &nbsp;
