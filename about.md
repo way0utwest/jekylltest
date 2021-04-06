@@ -45,7 +45,7 @@ PASS rebranded themselves and the site, changing logos, and adding a few require
 
 The new logo incorporated the PASS angle brackets look and a new color scheme.
 
-<img src="./assets/img/logos/sqlsaturday_logo_old.png">
+<img src="/assets/img/logos/sqlsaturday_logo_old.png">
 
 PASS also hired <A href="https://twitter.com/cathrinew">Cathrine Wilhelmsen</A> as the new community liaison to continue to support the franchise.
 
