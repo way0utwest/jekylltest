@@ -3,9 +3,6 @@ layout: page
 title: About SQL Saturday
 permalink: /about/
 ---
-![Under Construction](/assets/img/Page_Under_Construction.png)
-
-**Note: this site is under construction and will change over time.**
 
 SQL Saturday was the brainchild of Andy Warren, Brian Knight, and Steve Jones.
 
@@ -17,7 +14,9 @@ While these events were originally intended to support the SQL Server platform a
 
 All of these events are the result of many organizers, volunteers, and speakers that have donated time and resources to ensure their local events would be a success. SQL Saturday could not succeed without their efforts.
 
-Currently, SQL Saturday is managed by a [non profit foundation](foundation.html).
+![Under Construction](/assets/img/Page_Under_Construction.png)
+
+**Note: this site is under construction and will change over time.**
 
 Read more about the [history](#history) and [milestones](#milestone) of the franchise.
 
@@ -45,7 +44,7 @@ PASS rebranded themselves and the site, changing logos, and adding a few require
 
 The new logo incorporated the PASS angle brackets look and a new color scheme.
 
-<img src="/assets/img/logos/sqlsaturday_logo_old.png">
+<img src="./assets/img/logos/sqlsaturday_logo_old.png">
 
 PASS also hired <A href="https://twitter.com/cathrinew">Cathrine Wilhelmsen</A> as the new community liaison to continue to support the franchise.
 

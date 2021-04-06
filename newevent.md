@@ -4,9 +4,9 @@ title: New Event Resources
 permalink: /newevent/
 ---
 
-![Under Construction](assets/img/Page_Under_Construction.png)
-
 This page is designed to help you setup and request a new SQL Saturday event. As with the rest of the site, this is a work in progress and under construction.
+
+![Under Construction](assets/img/Page_Under_Construction.png)
 
 There are a few simple steps to get your event set up on the site:
 
