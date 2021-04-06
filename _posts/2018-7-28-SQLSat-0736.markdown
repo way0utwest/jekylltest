@@ -1122,6 +1122,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [SQLCoop.com, LLC](https://www.youtube.com/channel/UCc1u_C8ukXd1Lkd9uF-Tj4w/videos?view=0sort=pview_as=subscriberflow=grid)
  
-[Back to the SQL Saturday Event List](/past.html)
-&nbsp;
-[Back to the home page](/index.html)
+[Back to the SQL Saturday Event List](/past)
+ 
+[Back to the home page](/index)
+ 

@@ -1180,6 +1180,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [SQL Power Tools, Inc.](http://www.sqlpower.com)
  
-[Back to the SQL Saturday Event List](/past.html)
-&nbsp;
-[Back to the home page](/index.html)
+[Back to the SQL Saturday Event List](/past)
+ 
+[Back to the home page](/index)
+ 

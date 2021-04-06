@@ -265,6 +265,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [McGraw-Hill Education Australia  New Zealand](http://www.mcgraw-hill.com.au/)
  
-[Back to the SQL Saturday Event List](/past.html)
-&nbsp;
-[Back to the home page](/index.html)
+[Back to the SQL Saturday Event List](/past)
+ 
+[Back to the home page](/index)
+ 

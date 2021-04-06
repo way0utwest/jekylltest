@@ -1411,6 +1411,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [ByrdNest Consulting](http://www.tsqlmentoring.com/about.html)
  
-[Back to the SQL Saturday Event List](/past.html)
-&nbsp;
-[Back to the home page](/index.html)
+[Back to the SQL Saturday Event List](/past)
+ 
+[Back to the home page](/index)
+ 

@@ -998,6 +998,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [DevData DAY Birmingham](https://www.eventbrite.com/e/dev-data-day-birmingham-2016-tickets-23960482448)
  
-[Back to the SQL Saturday Event List](/past.html)
-&nbsp;
-[Back to the home page](/index.html)
+[Back to the SQL Saturday Event List](/past)
+ 
+[Back to the home page](/index)
+ 

@@ -1013,6 +1013,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [The University of Texas at Arlington](http://www.uta.edu/engineering/)
  
-[Back to the SQL Saturday Event List](/past.html)
-&nbsp;
-[Back to the home page](/index.html)
+[Back to the SQL Saturday Event List](/past)
+ 
+[Back to the home page](/index)
+ 

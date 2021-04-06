@@ -694,6 +694,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [Advania](https://www.advania.is/)
  
-[Back to the SQL Saturday Event List](/past.html)
-&nbsp;
-[Back to the home page](/index.html)
+[Back to the SQL Saturday Event List](/past)
+ 
+[Back to the home page](/index)
+ 
