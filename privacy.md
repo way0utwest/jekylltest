@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /coc/
+permalink: /privacy/
 ---
 ## SQL Saturday - Privacy notice
 
