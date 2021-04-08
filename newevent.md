@@ -12,7 +12,7 @@ There are a few simple steps to get your event set up on the site:
 
 - Gather information about the event (see our checklist below)
 - Submit this to this site
-- Sign the contract for using the SQL Saturdy name
+- Sign the contract for using the SQL Saturday name
 
 That's it. Once you have the signed agreement and the information submitted, we will update this site with your event.
 
