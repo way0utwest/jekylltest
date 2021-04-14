@@ -46,13 +46,19 @@ layout: base
       <p>Follow us on social media:</p>
       <ul>
         {% if pagedata.social.twitter %}
-          <li>Twitter: <a href="https://www.twitter.com/{{ pagedata.social.twitter }}">{{ pagedata.social.twitter }}</a></li>
+          <li>Twitter: <a href="https://www.twitter.com/{{ pagedata.social.twitter }}" target="_blank">{{ pagedata.social.twitter }}</a></li>
         {% endif %}
         {% if pagedata.social.linkedin %}
-          <li>LinkedIn: <a href="{{ pagedata.social.linkedin }}">{{ pagedata.social.linkedin }}</a></li>
+          <li>LinkedIn: <a href="{{ pagedata.social.linkedin }}" target="_blank">{{ pagedata.social.linkedin }}</a></li>
         {% endif %}
         {% if pagedata.social.instagram %}
-          <li>Instagram: <a href="https://www.instagram.com/{{ pagedata.social.instagram }}">{{ pagedata.social.instagram }}</a></li>
+          <li>Instagram: <a href="https://www.instagram.com/{{ pagedata.social.instagram }}" target="_blank">{{ pagedata.social.instagram }}</a></li>
+        {% endif %}
+        {% if pagedata.social.tiktok %}
+          <li>TikTok: <a href="https://www.tiktok.com/@{{ pagedata.social.tiktok }}" target="_blank">{{ pagedata.social.instagram }}</a></li>
+        {% endif %}
+        {% if pagedata.social.pinterest %}
+          <li>Pinterest: <a href="https://www.pinterest.com/{{ pagedata.social.instagram }}" target="_blank">{{ pagedata.social.pinterest }}</a></li>
         {% endif %}
       </ul>
       {% endif %}
@@ -120,9 +126,16 @@ layout: base
       <!-- Sponsors -->
       <div id="sponsors">
         <h2 class="section-heading">Sponsors</h2>
-           <p>
+        {% if pagedata.sponsors %}
+        {%- for sponsor in pagedate.sponsors -%}
+          <a href="{{sponsor.link}}" target="_blank">
+             <img src="{{sponsor.image}}" height="{{sponsor.height}}"/>
+          </a>
+        {%- endfor -%}
+        {% endif %}                         
+        <p>
            {% if pagedata.sponsors.contacturl %}
-             For sponsor information follow <a href="{{pagedata.sponsors.contacturl}}">this link</a>.
+             For sponsor information follow <a href="{{pagedata.sponsorscontacturl}}">this link</a>.
            {% else %}
              <p><a href="#contact">Contact the organizers</a> for information about sponsoring this event.</p>
            {% endif %}                         
