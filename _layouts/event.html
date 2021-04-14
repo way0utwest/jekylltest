@@ -42,6 +42,20 @@ layout: base
       <p>
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>
       </p>
+      {% if pagedata.social %}
+      <p>Follow us on social media:</p>
+      <ul>
+        {% if pagedata.social.twitter %}
+          <li>Twitter: <a href="https://www.twitter.com/{{ pagedata.social.twitter }}">{{ pagedata.social.twitter }}</a></li>
+        {% endif %}
+        {% if pagedata.social.linkedin %}
+          <li>LinkedIn: <a href="{{ pagedata.social.linkedin }}">{{ pagedata.social.linkedin }}</a></li>
+        {% endif %}
+        {% if pagedata.social.instagram %}
+          <li>Instagram: <a href="https://www.instagram.com/{{ pagedata.social.instagram }}">{{ pagedata.social.instagram }}</a></li>
+        {% endif %}
+      </ul>
+      {% endif %}
       {% if pagedata.eventlocation %}
       <h3>Location</h3>
       <p>
