@@ -127,11 +127,11 @@ layout: base
       <div id="sponsors">
         <h2 class="section-heading">Sponsors</h2>
         {% if pagedata.sponsors %}
-        {%- for sponsor in pagedate.sponsors -%}
+        {% for sponsor in pagedate.sponsors %}
           <a href="{{sponsor.link}}" target="_blank">
              <img src="{{sponsor.image}}" height="{{sponsor.height}}"/>
           </a>
-        {%- endfor -%}
+        {% endfor %}
         {% endif %}                         
         <p>
            {% if pagedata.sponsors.contacturl %}
