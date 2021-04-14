@@ -46,26 +46,71 @@ layout: base
       <p>
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.registrationurl}}">Register now</a>
       </p>
-      {% if pagedata.social %}
-      <p>Follow us on social media:</p>
-      <ul>
-        {% if pagedata.social.twitter %}
-          <li>Twitter: <a href="https://www.twitter.com/{{ pagedata.social.twitter }}" target="_blank">{{ pagedata.social.twitter }}</a></li>
-        {% endif %}
-        {% if pagedata.social.linkedin %}
-          <li>LinkedIn: <a href="{{ pagedata.social.linkedin }}" target="_blank">{{ pagedata.social.linkedin }}</a></li>
-        {% endif %}
-        {% if pagedata.social.instagram %}
-          <li>Instagram: <a href="https://www.instagram.com/{{ pagedata.social.instagram }}" target="_blank">{{ pagedata.social.instagram }}</a></li>
-        {% endif %}
-        {% if pagedata.social.tiktok %}
-          <li>TikTok: <a href="https://www.tiktok.com/@{{ pagedata.social.tiktok }}" target="_blank">{{ pagedata.social.instagram }}</a></li>
-        {% endif %}
-        {% if pagedata.social.pinterest %}
-          <li>Pinterest: <a href="https://www.pinterest.com/{{ pagedata.social.instagram }}" target="_blank">{{ pagedata.social.pinterest }}</a></li>
-        {% endif %}
-      </ul>
-      {% endif %}
+<!-- Social -->      
+<!-- Check if any share-links are active -->
+{% assign any-share-links = false %}
+{% for links in pagedata.social %}
+  {% if links[1] == true %}
+    {% assign any-share-links = true %}
+  {% endif %}
+{% endfor %}
+
+{% if any-share-links %}
+<section id = "event-share-section">
+  <span class="sr-only">Share: </span>
+
+  {% if pagedata.social.twitter %}
+    <a href="https://twitter.com/@{{ pagedata.social.twitter }}"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  {% endif %}
+
+  {% if pagedata.social.facebook %}
+    <a href="https://www.facebook.com/{{ pagedata.social.facebook }}"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  {% endif %}
+
+  {% if pagedata.social.linkedin %}
+    <a href="{{ pagedata.social.linkedin }}"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  {% endif %}
+
+  {% if pagedata.social.pinterest %}
+    <a href="https://pinterest.com/{{ pagedata.social.pinterest }}"
+      class="btn btn-social-icon btn-pintrest" title="Share on Pinterest">
+      <span class="fab fa-fw fa-pi" aria-hidden="true"></span>
+      <span class="sr-only">Pinterest</span>
+    </a>
+  {% endif %}
+
+  {% if pagedata.social.instagram %}
+    <a href="https://instagram.com/{{ pagedata.social.instagram }}"
+      class="btn btn-social-icon btn-instagram" title="Share on Instagram">
+      <span class="fab fa-fw fa-lg" aria-hidden="true"></span>
+      <span class="sr-only">instagram</span>
+    </a>
+  {% endif %}
+
+  {% if pagedata.social.tiktok %}
+    <a href="https://tiktok.com/@{{ pagedata.social.tiktok }}"
+      class="btn btn-social-icon btn-tiktok" title="Share on Tiktok">
+      <span class="fab fa-fw fa-tt" aria-hidden="true"></span>
+      <span class="sr-only">tiktok</span>
+    </a>
+  {% endif %}
+
+</section>
+
+{% endif %}
+
       {% if pagedata.eventlocation %}
       <h3>Location</h3>
       <p>
