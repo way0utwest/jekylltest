@@ -5,7 +5,7 @@ virtual: true
 physical: false
 hybrid: false
 description: |
- "SQLSaturday is a free training event for professionals who use the Microsoft data platform. These community events offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more."
+ SQLSaturday is a free training event for professionals who use the Microsoft data platform. These community events offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
 
 eventlocation: 
 registrationurl: "https://www.eventbrite.com/e/2021-sql-saturday-in-los-angeles-sqlsatla-tickets-136013374665"
