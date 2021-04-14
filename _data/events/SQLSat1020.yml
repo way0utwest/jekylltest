@@ -1,0 +1,35 @@
+name: "SQL Saturday Los Angeles June 2021"
+date: 2021-06-12 08:00:00 -0000
+virtual: true
+physical: false
+hybrid: false
+description: |
+ "SQLSaturday is a free training event for professionals who use the Microsoft data platform. These community events offer content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more."
+
+eventlocation: 
+registrationurl: "https://www.eventbrite.com/e/2021-sql-saturday-in-los-angeles-sqlsatla-tickets-136013374665"
+capacity:
+googlemapurl: 
+scheduleurl: 
+
+sponsors: 
+speakertext: 
+speakerlisturl: "https://sessionize.com/2021-sql-saturday-in-los-angeles"
+callforspeakers:  true
+
+organizers:
+  orgname: Data Driven Technologies
+  twitter: sqlsatla
+  email: "sqlsatla@datadriventechnologies.org"
+
+volunteers:
+  description: "This is text for the volunteer area."
+  volunteerurl: "https://datadriventechnologies.org/2021/02/22/2021-data-sql-saturday-call-to-volunteers/"
+
+social: true
+  twitter: sqlsatla
+  youtube: sqlsatla
+  linkedin: "https://www.linkedin.com/company/sqlsatla"
+  instagram: sqlsatla
+  tiktok: "sqlsatla"
+  pinterest: "sqlsatla"
