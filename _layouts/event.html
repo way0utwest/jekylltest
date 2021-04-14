@@ -21,6 +21,10 @@ layout: base
 
     <!-- Event -->
       {% assign eventdate = pagedata.date %}
+      {% if pagedata.logo %}
+      <img src="{{pagedata.logo}}"/>
+      <br/>
+      {% endif %}
       <p>Event Date: {{ eventdate | date_to_long_string }}
       </p>
       <p>{{pagedata.description}}</p>
