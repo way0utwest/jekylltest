@@ -26,7 +26,7 @@ volunteers:
   description: "This is text for the volunteer area."
   volunteerurl: "https://datadriventechnologies.org/2021/02/22/2021-data-sql-saturday-call-to-volunteers/"
 
-social: true
+social:
   twitter: sqlsatla
   youtube: sqlsatla
   linkedin: "https://www.linkedin.com/company/sqlsatla"
